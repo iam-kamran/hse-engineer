@@ -1,6 +1,7 @@
 import { Module } from "@/types/module";
 import { Quiz } from "@/types/quiz";
 import { InterviewQuestion } from "@/types/interview";
+import { WorkplaceScenario } from "@/types/scenario";
 import fs from "fs";
 import path from "path";
 
@@ -56,6 +57,31 @@ export function getQuiz(quizId: string): Quiz | null {
   } catch {
     return null;
   }
+}
+
+export function getIncidentCases(): Module[] {
+  return readJsonDir<Module>("incident-investigation").sort((a, b) => a.order - b.order);
+}
+
+export function getIncidentCase(caseId: string): Module | null {
+  try {
+    return readJson<Module>(`incident-investigation/${caseId}.json`);
+  } catch {
+    return null;
+  }
+}
+
+export function getWorkplaceScenarios(): WorkplaceScenario[] {
+  try {
+    return readJson<WorkplaceScenario[]>("workplace-scenarios/scenarios.json");
+  } catch {
+    return [];
+  }
+}
+
+export function getWorkplaceScenario(id: string): WorkplaceScenario | null {
+  const all = getWorkplaceScenarios();
+  return all.find((s) => s.id === id) ?? null;
 }
 
 export function getInterviewQuestions(region?: string): InterviewQuestion[] {

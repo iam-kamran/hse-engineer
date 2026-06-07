@@ -1,0 +1,166 @@
+{
+  "id": "fall-from-height",
+  "sectionId": "incident-investigation",
+  "title": "Case Study 1: Fatal Fall from Height — Construction Site",
+  "order": 1,
+  "estimatedReadTime": 15,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Apply the NEBOSH immediate–underlying–root cause framework to a real fall incident",
+    "Identify specific control failures that led to a fatal fall from height",
+    "Develop a prioritized corrective action plan with responsible parties and timelines",
+    "Understand how systemic failures compound to produce fatal injuries"
+  ],
+  "content": [
+    {
+      "type": "warning",
+      "text": "This case describes a fatal workplace incident. All names and company details are fictional. Investigation findings are based on common patterns found in Gulf region construction fatalities reported to labour authorities."
+    },
+    {
+      "type": "heading",
+      "text": "Incident Overview"
+    },
+    {
+      "type": "paragraph",
+      "text": "During the construction of a commercial tower in Dubai, a scaffolding worker (Ahmed, 34) was installing formwork on Level 7 when he fell approximately 8 metres to the concrete slab below. He suffered fatal head injuries and was pronounced dead at the scene. The incident occurred at 14:00 on a weekday during peak summer heat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Initial findings at the scene: the worker was not wearing a safety harness; a guardrail on the working platform edge had been removed by a previous crew and never reinstated; no supervisor was present at the work area at the time of the fall."
+    },
+    {
+      "type": "heading",
+      "text": "Step 1: Immediate Response"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Activate emergency services (call 998 / site first aider)",
+        "Preserve the scene — cordon off Level 7 and the area below, allow no access",
+        "Do NOT move any equipment or materials until HSE investigation team arrives",
+        "Notify site management, main contractor HSE manager, and project director immediately",
+        "Notify Dubai Municipality and Ministry of Human Resources within 24 hours (UAE legal requirement)",
+        "Provide colleagues with immediate psychological first aid support",
+        "Secure all PTW, toolbox talk records, training records, and CCTV footage from the day"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Step 2: Evidence Collection"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Photograph and video the scene in full detail before anything is disturbed",
+        "Document the exact position of the fall victim and any nearby equipment",
+        "Inspect and photograph the guardrail fixing points to determine when and how it was removed",
+        "Retrieve the worker's safety harness from the tool room — check its last inspection date",
+        "Collect: Permit to Work records for Level 7 work, toolbox talk attendance sheets for the past 7 days, safety induction records, training certificates for working at height",
+        "Interview at least 4 witnesses independently — do not allow group interviews",
+        "Obtain statements from the crew that removed the guardrail"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Step 3: Cause Analysis (NEBOSH Framework)"
+    },
+    {
+      "type": "definition",
+      "term": "Immediate Causes",
+      "text": "The unsafe acts and unsafe conditions that directly caused the injury. These are what you 'see' at the scene."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Type", "Immediate Cause"],
+        "rows": [
+          ["Unsafe Act", "Worker not wearing safety harness — violated site PPE rule"],
+          ["Unsafe Act", "Working at open edge without a safety anchor point"],
+          ["Unsafe Condition", "Guardrail removed from working platform and not reinstated"],
+          ["Unsafe Condition", "No temporary edge protection installed after guardrail removal"],
+          ["Unsafe Act", "No supervisor present at the work location"]
+        ]
+      }
+    },
+    {
+      "type": "definition",
+      "term": "Underlying Causes",
+      "text": "The failures in the management system that allowed the unsafe acts and conditions to exist. These are the 'why' behind immediate causes."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Underlying Cause", "Evidence Found"],
+        "rows": [
+          ["Inadequate supervision — supervisor managing 3 crews simultaneously", "Supervisor attendance records"],
+          ["No procedure for temporary removal and reinstatement of guardrails", "No such procedure in site safety plan"],
+          ["Worker not trained in working at height (Level 7 = >2m)", "Training record missing WAH certification"],
+          ["No Permit to Work issued for formwork installation at this level", "PTW register had no active permit for Level 7"],
+          ["PPE inspection system absent — harnesses not checked in 3 months", "No PPE inspection logbook maintained"],
+          ["No pre-task risk assessment (JSA) conducted before starting work", "JSA form not completed for that day's activity"]
+        ]
+      }
+    },
+    {
+      "type": "definition",
+      "term": "Root Causes",
+      "text": "The fundamental failures in the organisation's safety management system that created the conditions for underlying and immediate causes to exist."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Root Cause", "Analysis"],
+        "rows": [
+          ["Production pressure culture — deadline pressure caused supervisors to skip safety checks", "Project manager emails instructing 'no delays' sent 3 days prior"],
+          ["Safety policy not embedded — fall protection policy existed on paper but not enforced", "Policy document vs observed practice gap identified"],
+          ["Competency assessment absent — workers assigned to height work without verified competency", "HR records show no competency verification process"],
+          ["Absent HSE monitoring — HSE manager had not visited Level 7 in 14 days", "HSE inspection log reviewed"],
+          ["No near-miss reporting culture — 3 previous near-misses on the same level not reported", "Workers disclosed in interviews, no formal reports found"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Step 4: Corrective Action Plan"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Priority", "Action Item", "Responsible", "Timeline"],
+        "rows": [
+          ["IMMEDIATE", "Suspend ALL work at height across the entire site pending audit", "Site Manager", "Within 1 hour"],
+          ["IMMEDIATE", "Reinstate ALL guardrails before any height work resumes", "Safety Officer + Site Engineer", "Before resumption"],
+          ["IMMEDIATE", "100% harness-wear audit — any non-compliance = immediate stop-work", "HSE Team", "Within 2 hours"],
+          ["IMMEDIATE", "Notify regulatory authority and submit preliminary incident report", "HSE Manager", "Within 24 hours"],
+          ["SHORT-TERM", "Retrain all workers on working at height requirements and PTW", "Training Manager", "Within 7 days"],
+          ["SHORT-TERM", "Issue a mandatory guardrail removal/reinstatement procedure", "Safety Officer", "Within 5 days"],
+          ["SHORT-TERM", "Reduce supervisor span of control — 1 supervisor per crew maximum", "Project Manager", "Before restart"],
+          ["SHORT-TERM", "Conduct comprehensive WAH audit of all levels with documented sign-off", "HSE Manager", "Within 3 days"],
+          ["LONG-TERM", "Implement behavioural safety observation program with near-miss reporting", "HSE Director", "Within 60 days"],
+          ["LONG-TERM", "Install CCTV monitoring covering all elevated working platforms", "Project Director", "Within 90 days"],
+          ["LONG-TERM", "Add competency verification to worker deployment process", "HR + HSE", "Within 30 days"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lessons Learned"
+    },
+    {
+      "type": "keyPoint",
+      "text": "Falls from height are the single largest cause of construction fatalities in the Gulf region. This case demonstrates that even when fall protection policies exist in documents, without active supervision, enforcement, and a culture that empowers workers to refuse unsafe work, written policies alone cannot prevent tragedy."
+    },
+    {
+      "type": "keyPoint",
+      "text": "The removal of a guardrail by a previous crew without any procedure for authorisation, temporary replacement, or reinstatement was the most critical physical failure. Every site must have a documented guardrail removal procedure and that procedure must be known by all supervisors."
+    },
+    {
+      "type": "example",
+      "text": "NEBOSH IG1 Element 9 connection: This incident maps directly to the 'Work Equipment' element, specifically the requirements for edge protection, working at height hierarchy (eliminate > collective protection > individual protection), and the absolute requirement for a safe system of work including PTW for height activities above 2 metres."
+    },
+    {
+      "type": "gulfNote",
+      "text": "In the UAE, fatal construction incidents must be reported to Dubai Municipality or Abu Dhabi OHS within 24 hours. Saudi Arabia requires notification to MHRSD within 24 hours of a fatal incident. Qatar (under QCS 2014 Section 17) mandates scaffold inspection registers and a documented working at height plan for every project. Contractor companies found negligent in fatality investigations can face project suspension, financial penalties, and blacklisting from government contracts."
+    }
+  ]
+}

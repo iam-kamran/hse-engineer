@@ -1,3 +1,4 @@
+"use client";
 import { LearningSidebar } from "@/components/layout/LearningSidebar";
 import Link from "next/link";
 

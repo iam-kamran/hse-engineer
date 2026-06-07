@@ -1,0 +1,167 @@
+{
+  "id": "h2s-exposure",
+  "sectionId": "incident-investigation",
+  "title": "Case Study 2: H2S Exposure During Refinery Maintenance — Saudi Arabia",
+  "order": 2,
+  "estimatedReadTime": 14,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Understand the specific hazards of H2S and why it is called the 'silent killer'",
+    "Identify PTW and gas detection failures that led to a near-fatal exposure",
+    "Analyse the role of emergency response readiness in reducing harm severity",
+    "Develop corrective actions targeting both equipment and behavioural controls"
+  ],
+  "content": [
+    {
+      "type": "warning",
+      "text": "H2S (hydrogen sulfide) is detectable by smell at low concentrations but causes olfactory paralysis at higher concentrations — workers can no longer smell it and lose consciousness without warning. Even a brief exposure above 300 ppm can be fatal."
+    },
+    {
+      "type": "heading",
+      "text": "Incident Overview"
+    },
+    {
+      "type": "paragraph",
+      "text": "A maintenance technician (Carlos, 42) was assigned to inspect a heat exchanger at a sour gas refinery in Jubail Industrial City, Saudi Arabia. The exchanger had previously processed hydrocarbon streams containing H2S. Carlos was preparing the work area for mechanical isolation when he entered the exchanger bay without wearing his personal H2S gas monitor. He was found unconscious approximately 10 minutes later by a passing instrument technician."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emergency response was activated. Carlos was rescued with breathing apparatus and taken to the medical centre. He survived but required 3 days of hospital treatment for H2S inhalation and mild pulmonary oedema. The incident was classified as a High Potential Near Fatality."
+    },
+    {
+      "type": "heading",
+      "text": "Step 1: Immediate Response"
+    },
+    {
+      "type": "list",
+      "items": [
+        "NEVER attempt to rescue an H2S victim without a self-contained breathing apparatus (SCBA) — two additional workers were overcome attempting unprotected rescue in a similar 2019 incident",
+        "Activate plant emergency alarm and evacuation for the affected zone",
+        "Emergency response team to perform rescue with full SCBA",
+        "Provide 100% oxygen to the victim — this is the primary medical treatment for H2S exposure",
+        "Stop all work in the exchanger bay area and lock out the hazardous zone",
+        "Notify MHRSD (Saudi Ministry of Human Resources) and RCJY (Royal Commission Jubail) within 24 hours",
+        "Preserve the scene: do not move the monitor from the tool room, secure the fixed detector unit"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Step 2: Evidence Collection"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Retrieve Carlos's personal H2S monitor from the tool room — document its location and calibration status",
+        "Inspect and test the fixed H2S gas detection sensor in the bay — record its calibration history",
+        "Collect the issued Permit to Work for the heat exchanger inspection",
+        "Gather calibration records and maintenance work orders for the fixed gas detector",
+        "Interview the instrument technician who found Carlos, the permit issuer, and Carlos's supervisor",
+        "Review the last 6 months of H2S emergency drill records",
+        "Check the Job Safety Analysis (JSA) completed for the day's work"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Step 3: Cause Analysis (NEBOSH Framework)"
+    },
+    {
+      "type": "definition",
+      "term": "Immediate Causes",
+      "text": "The unsafe acts and conditions that directly caused the exposure."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Type", "Immediate Cause"],
+        "rows": [
+          ["Unsafe Act", "Personal H2S monitor not worn — left in tool room"],
+          ["Unsafe Condition", "Fixed area gas detector faulty for 4 days — silent failure, no alarm triggered"],
+          ["Unsafe Act", "Atmospheric testing not conducted before entering the bay"],
+          ["Unsafe Act", "Buddy system required by company procedure was not followed"],
+          ["Unsafe Condition", "Rescue SCBA units stored 150m from the work location — delayed rescue"]
+        ]
+      }
+    },
+    {
+      "type": "definition",
+      "term": "Underlying Causes",
+      "text": "The management system failures that allowed the immediate causes to develop."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Underlying Cause", "Evidence"],
+        "rows": [
+          ["PTW deficiency — H2S risk not included in the permit risk assessment section", "PTW reviewed: chemical hazard box not ticked"],
+          ["Permit issuer not trained to identify H2S risk in maintenance PTWs", "Issuer's PTW training certificate: basic level only"],
+          ["Fixed gas detector maintenance deferred — faulty for 4 days, no escalation", "Maintenance work order raised day 1, repair scheduled for day 7"],
+          ["No enforcement of buddy system — supervisor assumed workers followed the rule", "Buddy system checklist not used in the last 3 weeks"],
+          ["H2S emergency response drills last held 7 months ago", "Drill records reviewed — no drills since previous year"],
+          ["JSA completed for the task but did not address atmospheric hazards in the bay", "JSA form sighted: hazard column blank for chemical exposures"]
+        ]
+      }
+    },
+    {
+      "type": "definition",
+      "term": "Root Causes",
+      "text": "The fundamental management system failures that created fertile conditions for this incident."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Root Cause", "Analysis"],
+        "rows": [
+          ["Safety-critical equipment repairs deprioritised vs production equipment", "Maintenance backlog showed 12 safety-critical items overdue vs 2 production items"],
+          ["Culture of tolerance for PPE non-compliance — 'no one ever checks'", "Workers disclosed in interviews: personal monitors routinely not worn in the area"],
+          ["PTW quality assurance system absent — no second-check for H2S-rated areas", "No requirement in the PTW procedure for a second authorizer in H2S zones"],
+          ["Competency gap — workers not reassessed on H2S hazards after initial induction", "No annual H2S refresher training policy existed at the site"],
+          ["No leading indicator monitoring — PTW quality and PPE wear rate not tracked", "HSE KPI dashboard did not include any PTW quality metrics"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Step 4: Corrective Action Plan"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Priority", "Action Item", "Responsible", "Timeline"],
+        "rows": [
+          ["IMMEDIATE", "Suspend all work in H2S-rated areas pending audit of all fixed gas detectors", "HSE Manager", "Within 2 hours"],
+          ["IMMEDIATE", "100% personal H2S monitor audit — all worn, calibrated, and functioning", "Safety Officers", "Same shift"],
+          ["IMMEDIATE", "Repair or replace the faulty fixed gas detector", "Maintenance Manager", "Before work resumes"],
+          ["IMMEDIATE", "Position rescue SCBA units within 30m of all H2S-rated work areas", "Safety Officer", "Within 24 hours"],
+          ["SHORT-TERM", "Review and re-issue all active PTWs in H2S areas — ensure H2S risk assessed", "Area Authority", "Within 2 days"],
+          ["SHORT-TERM", "Train all PTW issuers on H2S hazard identification requirements", "Training Manager", "Within 7 days"],
+          ["SHORT-TERM", "Conduct H2S emergency response drill across all shifts", "HSE Manager", "Within 14 days"],
+          ["SHORT-TERM", "Implement mandatory buddy system log with supervisor sign-off", "Operations Manager", "Within 5 days"],
+          ["SHORT-TERM", "Add H2S atmospheric testing requirement as mandatory PTW checklist item", "HSE Manager", "Within 3 days"],
+          ["LONG-TERM", "Install automatic safety-critical maintenance escalation in CMMS system", "Maintenance + IT", "Within 90 days"],
+          ["LONG-TERM", "Implement annual H2S refresher training for all site personnel", "Training Department", "Within 30 days"],
+          ["LONG-TERM", "Add PTW quality audit score as monthly HSE KPI", "HSE Director", "Within 60 days"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Lessons Learned"
+    },
+    {
+      "type": "keyPoint",
+      "text": "A faulty gas detection system that is not repaired promptly is not just a maintenance issue — it is a safety-critical failure. Any gas detector fault in an H2S area must be treated as an emergency and escalated immediately. 'We've raised a work order' is not an acceptable response when lives are at risk."
+    },
+    {
+      "type": "keyPoint",
+      "text": "The buddy system exists precisely for situations where a worker becomes incapacitated silently (as H2S causes). When the buddy system is not enforced, the first responders in an H2S incident are often members of the public or passersby — untrained and without SCBA, creating secondary casualties."
+    },
+    {
+      "type": "example",
+      "text": "NEBOSH IG1 Element 7 connection: This incident relates directly to chemical and biological agents — specifically the recognition, evaluation, and control of atmospheric chemical hazards. NEBOSH exam answers must distinguish between immediate causes (the act/condition) and underlying causes (the system failure), and must recommend controls in hierarchy order: elimination > substitution > engineering controls > administrative controls > PPE."
+    },
+    {
+      "type": "gulfNote",
+      "text": "H2S is endemic to Gulf oil and gas operations — sour crude processing, water injection wells, and wastewater systems all produce H2S. Saudi Aramco's General Instruction GI-0002.102 mandates personal H2S monitors for all personnel entering H2S-rated areas, buddy system compliance, and a maximum response time for rescue teams of 5 minutes. Qatar Energy and ADNOC have equivalent requirements. HSE engineers working in Gulf O&G must be fully familiar with OSHA 1910.1000 (air contaminants), ANSI Z88.2 (respiratory protection), and the company-specific H2S contingency plan."
+    }
+  ]
+}

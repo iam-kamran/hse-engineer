@@ -8,6 +8,8 @@ const navLinks = [
   { href: "/roadmap", label: "Roadmap" },
   { href: "/fundamentals/what-is-hse", label: "Fundamentals" },
   { href: "/certifications", label: "Certifications" },
+  { href: "/incident-investigation", label: "Investigations" },
+  { href: "/workplace-scenarios", label: "Scenarios" },
   { href: "/gulf-interview-prep/saudi-arabia", label: "Gulf Interview" },
   { href: "/glossary", label: "Glossary" },
   { href: "/progress", label: "My Progress" },
@@ -66,7 +68,7 @@ export function Navbar() {
               href={l.href}
               onClick={() => setMenuOpen(false)}
               className={`block px-3 py-2 rounded-md text-sm font-medium transition-colors ${
-                pathname === l.href
+                pathname === l.href || pathname.startsWith(l.href + "/")
                   ? "bg-green-600 text-white"
                   : "text-slate-300 hover:text-white hover:bg-slate-700"
               }`}

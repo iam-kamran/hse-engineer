@@ -1,0 +1,373 @@
+[
+  {
+    "id": "contractor-no-induction",
+    "title": "Contractor Team Arrives Without Safety Induction",
+    "category": "Contractor Management",
+    "difficulty": "beginner",
+    "estimatedReadTime": 6,
+    "tags": ["contractor", "induction", "site-access", "gate-control"],
+    "context": "You are an HSE Officer at a petrochemical plant. A team of 8 workers arrives at the main gate claiming they were sent by the operations manager to begin a pipe replacement job. None of them carry evidence of completing the mandatory site safety induction. Their contractor supervisor is not present.",
+    "challenge": "The operations manager is in a meeting. The workers say they have been waiting for days for this job to start and they will lose pay if they are turned away. What do you do?",
+    "immediateActions": [
+      "Do NOT allow any worker into the work area — induction is a non-negotiable safety requirement, not a formality",
+      "Direct the workers to the gatehouse waiting area politely but firmly",
+      "Contact the operations manager immediately (interrupt the meeting if necessary) to confirm the work authorisation",
+      "Verify each worker's name against the induction database — if not inducted, they cannot enter",
+      "Check whether the contractor company submitted a Method Statement and Risk Assessment before mobilisation (should have been done beforehand)",
+      "If workers are uninducted: arrange same-day emergency induction if resources allow, or send them off-site and schedule induction for next day"
+    ],
+    "shortTermActions": [
+      "Issue a formal Non-Conformance Report to the contractor company for arriving without induction records",
+      "Brief the operations manager that no management instruction overrides safety induction requirements",
+      "Verify all workers' records: competency certificates, medical fitness, trade qualifications",
+      "Confirm the contractor supervisor has attended the site Contractor Management Briefing before work begins",
+      "Obtain and review the contractor's Method Statement, Risk Assessment, and Emergency Procedure for the job"
+    ],
+    "longTermActions": [
+      "Implement a contractor management system that prevents site mobilisation without confirmed induction status",
+      "Add induction compliance status to the electronic gate access control system (automated lock-out for uninducted workers)",
+      "Include contractor induction compliance rate as a monthly HSE KPI reviewed by management",
+      "Review the contractor approval process: induction must be completed BEFORE workers are mobilised to site, not on arrival"
+    ],
+    "whatNotToDo": [
+      "Do NOT allow workers on site under any management pressure — if an incident occurs, you and the company are directly liable",
+      "Do NOT sign off workers as inducted when they have not completed induction — this is a serious falsification",
+      "Do NOT assume that because the operations manager requested them, safety requirements are waived",
+      "Do NOT conduct a rushed, minimal induction just to get workers on site quickly — induction must be thorough"
+    ],
+    "keyPrinciple": "Safety requirements are non-negotiable entry conditions. No production schedule, management request, or financial pressure overrides the fundamental obligation to ensure workers are competent and aware of site hazards before they enter the workplace.",
+    "regulatoryRefs": [
+      "OSHA 29 CFR 1926.21 — Construction Safety Training Requirements",
+      "ISO 45001:2018 Clause 8.1.4.2 — Procurement: contractor safety requirements",
+      "Saudi Arabia MOL: Ministerial Decision 130 — Contractor HSE obligations",
+      "UAE Federal Law No. 8/1980 Article 91 — Employer responsibility for worker safety"
+    ],
+    "gulfContext": "In Saudi Aramco, ADNOC, and Qatar Energy contractor environments, induction is controlled through a physical badge system — no induction badge means no gate access. Many Gulf site operators require contractors to pre-register workers via an online portal at least 48 hours before mobilisation. HSE officers who allow uninducted workers on site can face personal disciplinary action and criminal liability under Gulf labour law.",
+    "neboshElement": "NEBOSH IG1 Element 2 — Health & Safety Management Systems: Roles and Responsibilities of Contractors"
+  },
+  {
+    "id": "unauthorized-ptw",
+    "title": "Permit to Work Signed by Unauthorised Person",
+    "category": "Permit to Work",
+    "difficulty": "intermediate",
+    "estimatedReadTime": 7,
+    "tags": ["PTW", "hot-work", "authorisation", "hazardous-area", "control-of-work"],
+    "context": "During a routine site audit, you discover an active Permit to Work (PTW) authorising hot work (welding) in a classified Zone 2 hazardous area. The permit has been signed by a line supervisor (James) who is NOT on the site's list of trained and approved PTW authorisers. The welding work is currently in progress.",
+    "challenge": "The supervisor insists he has been authorising permits for years and knows what he is doing. Production needs this weld completed before the shift ends to avoid an unplanned shutdown. What is your response?",
+    "immediateActions": [
+      "STOP the hot work immediately — an unauthorised PTW is an invalid PTW. This is a potential explosion risk in Zone 2",
+      "Ask the welders to shut down their equipment and safely secure the work area",
+      "Ensure the fire watch remains in place until all hot work equipment has cooled and is secured",
+      "Confiscate the invalid PTW and retain as evidence — note the time, date, and the permit number",
+      "Notify the site safety manager and the area authority immediately",
+      "Verify whether gas testing was completed and whether the area is currently safe",
+      "Do NOT issue a new PTW yourself — this requires the correct authoriser and a fresh risk assessment"
+    ],
+    "shortTermActions": [
+      "Conduct an emergency review of ALL active PTWs on site — verify every permit has been signed by an authorised person",
+      "Investigate how James obtained blank PTW forms — the PTW form issuance should be a controlled process",
+      "Verify that the list of authorised PTW issuers is current and distributed to all supervisors and gate control",
+      "Conduct an emergency toolbox talk for all supervisors and crew leaders on PTW authorisation requirements",
+      "Issue a disciplinary notice to James in accordance with company HR policy",
+      "Submit an incident report (Non-Conformance) to the client/main contractor"
+    ],
+    "longTermActions": [
+      "Implement a numbered, controlled PTW form system — blank permits kept in a locked cabinet, issued only by the PTW coordinator",
+      "Add PTW authoriser name verification to the digital permit system (where applicable)",
+      "Schedule annual refresher training for all PTW authorisers with re-assessment and updated authoriser list",
+      "Include PTW audit as a mandatory quarterly HSE activity — check 10% of all permits issued each month"
+    ],
+    "whatNotToDo": [
+      "Do NOT allow the work to continue even briefly to finish the weld — the risk in a Zone 2 area during an invalid hot work permit is catastrophic",
+      "Do NOT simply endorse or countersign the invalid permit to 'fix' it — a new permit with proper risk assessment is required",
+      "Do NOT dismiss this as a minor paperwork error — an unauthorised PTW in a classified area is a potential multiple-fatality event",
+      "Do NOT confront James in a way that discourages future safety reporting — record the facts, follow policy calmly"
+    ],
+    "keyPrinciple": "The PTW system is a safety-critical control barrier, not administrative bureaucracy. An unauthorised PTW means the safety controls were never properly assessed and approved. In classified hazardous areas, an invalid hot work permit can result in an explosion, fire, and multiple fatalities.",
+    "regulatoryRefs": [
+      "OSHA 29 CFR 1910.147 — Control of Hazardous Energy (Lockout/Tagout)",
+      "ATEX Directive 1999/92/EC — Explosive atmosphere classification and hot work controls",
+      "NEBOSH IG1 Element 3 — Safe Systems of Work and Permit to Work",
+      "Saudi Aramco SAEP-367 — Permit to Work requirements for classified areas"
+    ],
+    "gulfContext": "PTW violations are among the most serious safety infractions at Gulf Oil & Gas sites. At Saudi Aramco, Qatar Energy, and ADNOC projects, an invalid PTW in a classified area typically results in immediate contractor suspension and investigation. HSE engineers are personally responsible for auditing PTW quality. If you discover an invalid PTW and fail to act, you can be held co-responsible for any subsequent incident.",
+    "neboshElement": "NEBOSH IG1 Element 3 — Managing Risk: Safe Systems of Work, Permit to Work, and Isolation"
+  },
+  {
+    "id": "worker-refusing-ppe",
+    "title": "Worker Refuses PPE — Claims It's Uncomfortable",
+    "category": "Behavioural Safety",
+    "difficulty": "beginner",
+    "estimatedReadTime": 5,
+    "tags": ["PPE", "enforcement", "behaviour", "eye-protection", "stop-work"],
+    "context": "During a site inspection, you observe a worker grinding metal without safety glasses. When you approach him, he says: 'These safety glasses are always foggy and uncomfortable. I've done this job a thousand times. I know what I'm doing.'",
+    "challenge": "The worker's supervisor is not present. The worker is technically experienced and his colleagues are watching the interaction. How do you handle this?",
+    "immediateActions": [
+      "Stop the work immediately — risk of irreversible eye injury is present right now",
+      "Remain calm and respectful — do not embarrass the worker in front of peers",
+      "Listen to the worker's concern: if the glasses are genuinely fogging/uncomfortable, this is a real PPE suitability issue that must be resolved",
+      "Ask to inspect the glasses — check condition, fit, and whether anti-fog coating is still functional",
+      "If alternative eye protection is available on site (different style, anti-fog lens), offer it immediately",
+      "Document the non-compliance formally — name, time, location, type of non-compliance",
+      "Do not allow work to resume until appropriate eye protection is in place"
+    ],
+    "shortTermActions": [
+      "Report the non-compliance to the worker's supervisor with a written record",
+      "Issue a formal verbal warning, followed by written confirmation per company disciplinary procedure",
+      "Conduct a PPE suitability assessment for grinding tasks — involve workers in the process",
+      "Conduct a team toolbox talk on eye injury statistics (grinding operations cause thousands of permanent vision injuries annually)",
+      "Review the PPE supply for this task type: are anti-fog, lightweight options available?"
+    ],
+    "longTermActions": [
+      "Implement a worker-inclusive PPE selection process — workers who help choose PPE are more likely to wear it",
+      "Add PPE comfort and suitability feedback to the quarterly site safety committee agenda",
+      "Review PPE procurement specifications to include anti-fog coating as mandatory for grinding/cutting",
+      "Include PPE wear rate in monthly site observations and report trend to management"
+    ],
+    "whatNotToDo": [
+      "Do NOT ignore the non-compliance because the worker seems experienced or confident",
+      "Do NOT simply tell him to 'wear his PPE or else' without listening to the suitability concern — this creates resistance, not compliance",
+      "Do NOT allow work to resume with the same ill-fitting PPE that triggered the non-compliance",
+      "Do NOT assume the issue is purely motivational — unsuitable PPE is an employer responsibility issue, not just a worker attitude issue"
+    ],
+    "keyPrinciple": "PPE that workers refuse to wear is often genuinely unsuitable. The HSE hierarchy of controls places PPE last precisely because it depends entirely on correct, consistent use. An HSE engineer must investigate WHY PPE is not being worn, not just enforce wearing it. Worker consultation on PPE selection is a legal requirement in most jurisdictions.",
+    "regulatoryRefs": [
+      "OSHA 29 CFR 1910.133 — Eye and Face Protection Standards",
+      "EU PPE Directive 2016/425 — Suitability and employer provision obligations",
+      "NEBOSH IG1 Element 3 — Hierarchy of Controls: PPE as last resort",
+      "ISO 45001:2018 Clause 8.1.2 — Worker participation in hazard controls"
+    ],
+    "gulfContext": "PPE compliance is a major focus area in Gulf HSE programmes. Many Gulf sites operate a 'three strikes' system for PPE non-compliance, with the third strike resulting in removal from site. However, the most effective Gulf sites — such as major Aramco contractors — have moved away from pure enforcement to a combination of PPE suitability reviews and behavioural safety leadership programmes. HSE engineers should be advocates for better PPE, not just enforcers of existing (sometimes inadequate) PPE.",
+    "neboshElement": "NEBOSH IG1 Element 3 — Risk Control: Personal Protective Equipment Selection and Use"
+  },
+  {
+    "id": "trend-near-misses",
+    "title": "Five Near-Misses in the Same Department in One Month",
+    "category": "Incident Investigation",
+    "difficulty": "intermediate",
+    "estimatedReadTime": 7,
+    "tags": ["near-miss", "trend-analysis", "root-cause", "leading-indicator", "proactive-safety"],
+    "context": "The monthly safety statistics report shows that Department 4 (Mechanical Maintenance) has had 5 near-miss incidents in the past 30 days. All 5 were reported individually and investigated at supervisor level. No Lost Time Incidents occurred. The department manager says: 'At least workers are reporting near-misses — that means our safety culture is good.'",
+    "challenge": "The manager believes high near-miss reporting is a positive sign. Should you agree and close the matter, or take further action?",
+    "immediateActions": [
+      "Do NOT accept the manager's conclusion at face value — 5 near-misses in one department in one month is a serious warning signal, not a sign of good culture alone",
+      "Pull and review all 5 investigation reports immediately — look for common causes, locations, or task types",
+      "Conduct a trend analysis: are these linked by shift time, specific equipment, task type, or individual workers?",
+      "Schedule a meeting with the department manager and supervisor team to discuss the trend",
+      "Visit Department 4 personally to observe current work practices"
+    ],
+    "shortTermActions": [
+      "Conduct a formal 5-Why or Fishbone analysis treating the 5 incidents as one pattern, not 5 isolated events",
+      "Identify whether the same root cause is present across multiple incidents (the most common finding in near-miss clusters is a single underlying system failure)",
+      "Brief department management: near-miss reporting is valuable, but it must trigger corrective action — reporting without action trains workers to stop reporting",
+      "Issue a 30-day corrective action plan targeting the common root cause",
+      "Increase HSE inspection frequency in Department 4 for the next 60 days"
+    ],
+    "longTermActions": [
+      "Implement a Near-Miss Trend Review as a monthly agenda item at the management safety meeting",
+      "Define a trigger rule: 3 or more near-misses in the same area or task type in any 30-day window triggers an automatic management investigation",
+      "Train supervisors in basic trend analysis — they should be identifying patterns, not just closing individual investigations",
+      "Feed near-miss trend data into the annual Risk Assessment review process"
+    ],
+    "whatNotToDo": [
+      "Do NOT praise the high near-miss count without addressing the underlying hazards — this gives a false picture of safety performance",
+      "Do NOT allow 5 separate low-level investigations to replace a single systemic root cause analysis",
+      "Do NOT close this issue without a documented corrective action plan reviewed by management",
+      "Do NOT use near-miss numbers alone as a positive safety indicator — what matters is the corrective action rate and near-miss recurrence rate"
+    ],
+    "keyPrinciple": "Near-miss reporting is only valuable if it leads to action. Five near-misses in one department in one month is a leading indicator of an imminent serious incident — statistically, one serious injury follows every 29 near-misses (Heinrich's Triangle). Treating each near-miss as isolated and closing it at supervisor level misses the critical pattern.",
+    "regulatoryRefs": [
+      "NEBOSH IG1 Element 4 — Monitoring, Review, and Audit: Leading vs Lagging Indicators",
+      "ISO 45001:2018 Clause 9.1 — Monitoring, Measurement, Analysis, and Performance Evaluation",
+      "OSHA Recordkeeping 29 CFR 1904 — Incident recording and trend analysis requirements",
+      "Bird & Germain Loss Causation Model — Ratio of near-misses to serious incidents"
+    ],
+    "gulfContext": "Many Gulf Oil & Gas operators use near-miss reporting rate as a positive safety culture indicator. However, experienced HSE managers in Aramco, ADNOC, and Qatar Energy know that a rising near-miss count in a specific area is a red flag requiring management attention. The Gulf region's incident pyramid shows the same statistical relationship: for every fatality, there are approximately 30 serious injuries, 300 near-misses, and 3,000 unsafe conditions. Addressing near-miss clusters before they become incidents is the hallmark of a high-performing safety operation.",
+    "neboshElement": "NEBOSH IG1 Element 4 — Health & Safety Monitoring, Review, and Audit"
+  },
+  {
+    "id": "management-pressure-restart",
+    "title": "Management Pressuring to Restart Before Investigation Is Complete",
+    "category": "Incident Response",
+    "difficulty": "advanced",
+    "estimatedReadTime": 8,
+    "tags": ["incident-investigation", "management-pressure", "stop-work", "regulatory-compliance", "professional-ethics"],
+    "context": "A serious injury incident occurred at 06:00 — a worker suffered a fractured arm when struck by a moving crane hook. It is now 10:00, and the incident investigation is only partially complete. The crane has been secured and the injured worker transported to hospital. The operations manager approaches you and says: 'We've lost 4 hours of production. The area is clear. We need to restart the crane immediately.'",
+    "challenge": "The operations manager has authority over the site. The preliminary investigation has identified a potential defect in the crane's limit switch, but this has not been confirmed yet. Do you allow the restart?",
+    "immediateActions": [
+      "Do NOT authorise or agree to crane restart until the investigation is complete and the root cause has been identified",
+      "Explain clearly to the operations manager: restarting before identifying the cause could injure another worker with the same mechanism — this would be an entirely preventable second incident",
+      "Document your position formally in writing (email or written memo) — this protects you legally and creates a record",
+      "Inform the operations manager that regulatory requirements in most Gulf jurisdictions prohibit resumption of work at an accident scene before an investigation is complete",
+      "Offer a compromise: begin the investigation immediately with all available resources to complete it as fast as possible"
+    ],
+    "shortTermActions": [
+      "Escalate to the HSE Manager and/or Site Director if the operations manager persists — you need management above operations level to support the hold",
+      "Contact the regulatory authority (MHRSD, MOL, or OSHAD) proactively to report the incident and confirm investigation requirements",
+      "Complete the physical inspection of the crane limit switch as the priority investigation task",
+      "Once the crane is cleared by a competent engineer and the immediate cause is confirmed, restart can proceed — but only then",
+      "Ensure the operations manager understands that a second incident following premature restart would result in far greater legal, financial, and reputational consequences than the current production loss"
+    ],
+    "longTermActions": [
+      "Review the company's incident response procedure — add explicit wording that operations cannot resume at an incident scene without HSE sign-off",
+      "Include production pressure as a root cause category in the incident investigation template",
+      "Deliver management safety leadership training that addresses the financial cost of incidents vs production",
+      "Establish a written protocol: for any serious injury incident, a joint HSE-Operations restart authorisation is required"
+    ],
+    "whatNotToDo": [
+      "Do NOT yield to management pressure and authorise restart with the investigation incomplete — this is a professional and legal failure",
+      "Do NOT have the confrontation only verbally — document everything in writing",
+      "Do NOT escalate aggressively or make it personal — frame the discussion around risk to the company and to the next worker who operates the crane",
+      "Do NOT investigate superficially to enable a fast restart — a shallow investigation that misses the root cause will result in another incident"
+    ],
+    "keyPrinciple": "The purpose of stopping work after an incident is not punitive — it is to prevent the second incident. Every HSE professional must be prepared to professionally and firmly resist management pressure to restart operations when an unidentified hazard remains. This is one of the most important tests of an HSE engineer's integrity.",
+    "regulatoryRefs": [
+      "NEBOSH IG1 Element 4 — Incident Investigation: regulatory requirements and scene preservation",
+      "OSHA 29 CFR 1960.29 — Abatement of unsafe or unhealthy working conditions",
+      "Saudi Arabia MOL: Ministerial Decision 1553/1420H — Workplace incident reporting and investigation obligations",
+      "ILO Convention C155 — Occupational Safety and Health: prohibition of retaliation for safety stops"
+    ],
+    "gulfContext": "HSE engineers across the Gulf face this dilemma regularly. In high-production O&G environments, production pressure is the single most cited root cause in Gulf OSHA reports for serious incidents. Saudi Aramco's Management System specifically mandates that work shall not resume at an incident scene until the HSE department issues written clearance. ADNOC's OHSMS requires a senior HSE approval before restart following any OSHA recordable injury. Understanding your authority and escalation path is critical to acting correctly under management pressure.",
+    "neboshElement": "NEBOSH IG1 Element 4 — Investigating Incidents: Process, Legal Requirements, and Corrective Action"
+  },
+  {
+    "id": "incomplete-induction-sign-off",
+    "title": "Asked to Sign Off an Incomplete Safety Induction",
+    "category": "Audit & Compliance",
+    "difficulty": "beginner",
+    "estimatedReadTime": 5,
+    "tags": ["induction", "record-falsification", "integrity", "training-compliance"],
+    "context": "A new employee (Mohammed, recently joined) approaches you at the end of the day with his induction sign-off sheet. He explains that he had to leave the induction at lunchtime due to a family emergency and missed the afternoon sessions covering emergency procedures, chemical handling, and working at height. He asks you to sign off the full induction because 'it's just the afternoon sessions and I can read the notes later.'",
+    "challenge": "Mohammed seems like a good person in a difficult situation. His manager has already told him he needs the induction signed off today to start work tomorrow. What do you do?",
+    "immediateActions": [
+      "Do NOT sign off the full induction — Mohammed has not completed it, and signing would be falsifying a legal safety record",
+      "Acknowledge his situation with empathy — explain clearly that signing off an incomplete induction puts him at risk and exposes the company to liability",
+      "Check whether a second induction session can be scheduled for him in the morning before his shift begins",
+      "Issue him a partial induction sign-off for the sections he completed",
+      "Communicate to Mohammed's manager that full induction sign-off cannot be given until the session is completed"
+    ],
+    "shortTermActions": [
+      "Schedule the missed induction sessions (emergency procedures, chemicals, WAH) as the first activity tomorrow morning before Mohammed enters any work area",
+      "Ensure Mohammed does not enter any work areas requiring knowledge from the incomplete sessions until he completes them",
+      "Document the situation: that the induction was partially completed, the reason, and the plan for completion",
+      "Brief Mohammed's manager that this is a legal requirement, not a formality, and that assigning Mohammed to tasks before full induction could expose the company to prosecution"
+    ],
+    "longTermActions": [
+      "Review the induction process to allow split-session or modular completion for workers with genuine emergencies",
+      "Implement a digital induction tracking system that shows exactly which modules each worker has completed",
+      "Add induction record verification to the onboarding process — HR must confirm full completion before the worker is deployed to a work area",
+      "Brief managers at onboarding about their responsibility: they must not assign new workers to hazardous tasks without confirmed full induction"
+    ],
+    "whatNotToDo": [
+      "Do NOT sign off the induction, no matter how good the person seems or how much pressure you are under",
+      "Do NOT blame or shame Mohammed — he is in a difficult position and asked rather than forged the record himself",
+      "Do NOT tell Mohammed it is 'his responsibility' to read the notes and sign later — an induction sign-off certifies attendance and comprehension, not self-study",
+      "Do NOT allow this to pass without briefing the manager — if Mohammed is injured on a task covered by the incomplete induction, the company's legal defence is significantly weakened"
+    ],
+    "keyPrinciple": "Falsifying a safety record — even with good intentions — is a serious integrity breach. Safety induction sign-offs are legal documents that confirm a worker has received information required by law. An incomplete induction sign-off undermines the entire purpose of induction and exposes both the worker and the company.",
+    "regulatoryRefs": [
+      "OSHA 29 CFR 1926.21 — Safety Training and Education Requirements",
+      "ISO 45001:2018 Clause 7.2 — Competence: ensuring workers are trained before deployment",
+      "Saudi Arabia MOL Regulation — Employer obligation to provide safety training before deployment to hazardous tasks",
+      "NEBOSH IG1 Element 2 — Health and Safety Management: Information, Instruction, Training, and Supervision"
+    ],
+    "gulfContext": "In Gulf countries, safety induction records are routinely audited by OSHA inspectors and main contractor HSE teams. A falsified induction record — especially following an injury to that worker — can result in criminal prosecution of the HSE officer who signed it. Saudi Aramco, ADNOC, and QatarEnergy contractors have zero tolerance for record falsification. This is one of the fastest ways for an HSE engineer to lose their job and professional credentials in the Gulf.",
+    "neboshElement": "NEBOSH IG1 Element 2 — Health & Safety Management Systems: Competence, Training, and Information"
+  },
+  {
+    "id": "chemical-spill-no-sds",
+    "title": "Chemical Spill in Laboratory — No Safety Data Sheet Available",
+    "category": "Emergency Response",
+    "difficulty": "intermediate",
+    "estimatedReadTime": 7,
+    "tags": ["chemical-spill", "emergency-response", "SDS", "hazcom", "COSHH"],
+    "context": "You are notified of a chemical spill in the laboratory. Approximately 2 litres of an unknown liquid (unlabelled container, amber colour, strong sharp odour) has spilled across two workbenches. Two lab technicians are in the room. No Safety Data Sheet (SDS/MSDS) is available at the lab station for this chemical.",
+    "challenge": "You do not know what the substance is. You do not have immediate SDS access. The two technicians are still in the room. What do you do right now?",
+    "immediateActions": [
+      "Evacuate both technicians from the room immediately — do NOT wait to identify the chemical first",
+      "Close the lab door to prevent vapour spread into adjacent areas",
+      "Activate the site emergency alarm and notify the emergency response team",
+      "Do NOT attempt to clean up the spill yourself or instruct others to do so without identified SDS and proper PPE",
+      "If technicians report any eye, skin, or respiratory symptoms: send them to the medical centre immediately with information about the substance if any is available",
+      "Ventilate the room if it can be done safely from outside (open window remotely, activate fume hood exhaust)",
+      "Try to identify the chemical from any container label, batch number, purchase records, or nearby documentation — without re-entering the room"
+    ],
+    "shortTermActions": [
+      "Access the chemical inventory register to identify the substance by description, purchase records, or container coding",
+      "Contact the supplier or manufacturer emergency line — most chemical suppliers have 24-hour emergency SDS lines",
+      "Once identified: retrieve the SDS and follow its spill response instructions for decontamination and clean-up",
+      "Ensure correct PPE (as specified by SDS) is used by any clean-up team",
+      "Conduct medical surveillance for the two technicians as required by the SDS hazard profile",
+      "Conduct a root cause investigation: why was the container unlabelled and why was no SDS available at the workstation?"
+    ],
+    "longTermActions": [
+      "Conduct an immediate audit of ALL chemical containers in all labs and work areas — every container must be labelled in compliance with GHS/HazCom standards",
+      "Implement a mandatory SDS-at-point-of-use requirement — SDS must be accessible (physically or digitally) at every workstation where chemicals are used",
+      "Add chemical inventory compliance to the monthly HSE inspection checklist",
+      "Train all lab personnel on GHS labelling, SDS location, and first response to spills"
+    ],
+    "whatNotToDo": [
+      "Do NOT stay in the room trying to identify the chemical before evacuating people",
+      "Do NOT clean up an unknown chemical spill without SDS — you could be neutralising an acid with a base-reactive chemical, or exposing yourself to a highly toxic substance",
+      "Do NOT re-enter the room without appropriate respiratory protection until the substance is identified",
+      "Do NOT delay reporting the incident to management and the regulatory authority"
+    ],
+    "keyPrinciple": "When dealing with an unknown chemical, the default response is EVACUATE first, IDENTIFY second, RESPOND third. Without knowing the chemical's hazard profile, any clean-up action — however well-intentioned — could make the situation worse or cause serious injury to responders.",
+    "regulatoryRefs": [
+      "OSHA HazCom 2012 / 29 CFR 1910.1200 — GHS labelling and SDS requirements",
+      "EU CLP Regulation EC 1272/2008 — Chemical labelling and SDS obligations",
+      "NEBOSH IG1 Element 7 — Chemical and Biological Agents: COSHH, SDS, and Emergency Response",
+      "NFPA 472 — Competence of Responders to Hazardous Materials Incidents"
+    ],
+    "gulfContext": "Chemical management is strictly regulated across the Gulf. Saudi Arabia follows the GHS system aligned with the UN's Globally Harmonized System for chemical classification. UAE's SOP under OSHAD-SF Element 11 mandates that an SDS is available in the language of the workforce for every hazardous substance on site. Qatar's Chemical Management Regulation (QCS 2014, Section 4) requires chemicals to be stored, labelled, and registered. An unlabelled chemical container on site is a regulatory non-conformance that can result in a stop-work order.",
+    "neboshElement": "NEBOSH IG1 Element 7 — Chemical and Biological Agents: Assessment, Monitoring, and Control"
+  },
+  {
+    "id": "heat-stress-construction",
+    "title": "Worker Shows Signs of Heat Stroke During Peak Summer Shift",
+    "category": "Emergency Response",
+    "difficulty": "beginner",
+    "estimatedReadTime": 6,
+    "tags": ["heat-stress", "heat-stroke", "summer", "gulf-specific", "emergency-first-aid"],
+    "context": "It is 2 PM in July at a construction site in Riyadh (ambient temperature 46°C, heat index 54°C). A worker (Suresh, 38) has been doing manual excavation work. His colleague reports that Suresh stopped working, is confused, is not sweating despite the heat, has a flushed red face, and is breathing rapidly. Suresh says he 'just needs to sit down.'",
+    "challenge": "You recognise these as signs of heat stroke (not heat exhaustion). This is a medical emergency. What do you do in the next 5 minutes?",
+    "immediateActions": [
+      "Call for emergency medical assistance (site medic + ambulance) immediately — heat stroke is a life-threatening emergency",
+      "Move Suresh to shade or an air-conditioned space immediately — do not wait for the medic",
+      "Remove excess clothing (helmet, vest, outer layers) to allow body cooling",
+      "If conscious: give cool water to drink in small sips — do NOT give water if unconscious",
+      "Cool the body aggressively: apply cool wet cloths to neck, armpits, and groin; fan with air; if ice packs available, apply wrapped ice to neck, armpits, groin",
+      "Monitor consciousness and breathing every 30 seconds",
+      "Do NOT leave Suresh alone",
+      "Stop all outdoor manual work immediately for the shift and assess all other workers for heat stress symptoms"
+    ],
+    "shortTermActions": [
+      "Transport Suresh to hospital with air conditioning running — document all first aid provided and time of onset",
+      "Complete an incident report: time of last break, water intake during shift, duration of outdoor exposure, ambient temperature/heat index recorded at time of incident",
+      "Review the shift's heat protection measures: were mandatory rest breaks taken? Was cool water provided? Was there shade?",
+      "Brief all supervisors on heat stroke recognition and immediate response",
+      "Implement mandatory 30-minute shaded rest breaks for every 1.5 hours of outdoor work for the remainder of the hot season"
+    ],
+    "longTermActions": [
+      "Implement a Heat Stress Management Plan specific to summer months: work-rest schedules, wet bulb globe temperature (WBGT) monitoring, acclimatisation programme for new workers",
+      "Install shade structures and cool water stations at all outdoor work areas before the summer season begins",
+      "Train all supervisors and workers in the difference between heat exhaustion and heat stroke, and in immediate first aid",
+      "Review shift timing: avoid peak heat hours (11:00–15:00) for manual outdoor work during peak summer"
+    ],
+    "whatNotToDo": [
+      "Do NOT assume Suresh 'just needs water and rest' — the absence of sweating with confusion indicates heat stroke, not heat exhaustion",
+      "Do NOT wait for the medic to arrive before starting cooling — every minute of elevated core body temperature causes additional organ damage",
+      "Do NOT give water if the worker is confused or unconscious — aspiration risk",
+      "Do NOT resume outdoor heavy manual work in the same conditions without rest schedule changes"
+    ],
+    "keyPrinciple": "Heat stroke (core temperature >40°C, CNS dysfunction, absence of sweating) is a medical emergency with a high fatality rate if not treated immediately. The goal in the first 30 minutes is aggressive cooling. Do NOT wait for 'confirmation' — if you suspect heat stroke, treat it as heat stroke.",
+    "regulatoryRefs": [
+      "OSHA Technical Manual: Section III, Chapter 4 — Heat Stress",
+      "NIOSH Criteria for a Recommended Standard: Occupational Exposure to Heat and Hot Environments",
+      "Saudi Arabia MOL Ministerial Decision — Prohibition of outdoor work 12:00–15:00 June–September",
+      "NEBOSH IG1 Element 5 — Physical Health: Thermal Environment and Heat Stress"
+    ],
+    "gulfContext": "Heat stroke is the leading cause of non-traumatic occupational fatality in the Gulf during summer. Saudi Arabia bans outdoor heavy work between 12:00 and 15:00 from June 15 to September 15 by royal decree. Qatar enacted similar outdoor work restrictions for the FIFA World Cup construction period. UAE's OSHAD requires all outdoor employers to provide shade, cool water, and heat awareness training. Deaths from heat stroke in construction workers are classified as preventable workplace fatalities, and employers have faced significant legal and financial consequences.",
+    "neboshElement": "NEBOSH IG1 Element 5 — Physical and Psychological Health: Thermal Environment"
+  }
+]
