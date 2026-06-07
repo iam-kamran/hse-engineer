@@ -1,0 +1,133 @@
+{
+  "id": "certifications/first-aid/wound-management",
+  "sectionId": "first-aid",
+  "title": "Module 3: Wound Management and Bleeding Control",
+  "order": 3,
+  "estimatedReadTime": 16,
+  "difficulty": "beginner",
+  "learningObjectives": [
+    "Recognise and manage minor and severe external bleeding",
+    "Apply direct pressure, elevation, and wound packing techniques",
+    "Know when and how to apply a tourniquet for catastrophic limb bleeding",
+    "Understand the signs of shock and initial management",
+    "Apply infection control principles when managing wounds"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Bleeding — Why It Matters"
+    },
+    {
+      "type": "paragraph",
+      "text": "An adult has approximately 5 litres of blood. Losing 1.5–2 litres (30–40%) causes life-threatening shock. Severe external bleeding from a limb amputation or large laceration can reach fatal levels in 3–5 minutes. Controlling catastrophic bleeding is therefore a first-priority life-saving intervention — sometimes before even checking the airway in a traumatic injury scenario (the 'C for Catastrophic bleeding' in DR C ABC)."
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Gulf construction and O&G, traumatic lacerations and amputations occur from angle grinders, machinery, crane wire, and sheet metal. Penetrating injuries from scaffold components and rebar are also documented. First aiders on these sites must be competent in catastrophic bleeding control — direct pressure, packing, and tourniquet application — not just basic wound dressing."
+    },
+    {
+      "type": "heading",
+      "text": "Types of Bleeding"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Type", "Source", "Appearance", "Urgency"],
+        "rows": [
+          ["Arterial", "Artery", "Bright red, spurting in pulses with heartbeat", "Immediately life-threatening — arteries carry high-pressure oxygenated blood"],
+          ["Venous", "Vein", "Dark red, steady flow", "Serious — slower but can be severe from large veins"],
+          ["Capillary", "Capillaries", "Oozing, minor flow", "Minor — usually self-limiting"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Controlling Bleeding — The Priority Order"
+    },
+    {
+      "type": "list",
+      "items": [
+        "1. Direct pressure: apply firm, continuous pressure directly to the wound using a clean pad (or your gloved hand if no pad available); do not remove the pad if soaked — add more padding on top",
+        "2. Elevation: raise the injured limb above the level of the heart (if no fracture is suspected) — gravity reduces blood pressure at the wound site",
+        "3. Wound packing: for deep wounds where direct surface pressure is insufficient (stab wounds, gunshot wounds, axilla, groin), pack the wound tightly with hemostatic gauze or clean cloth and apply firm pressure into the packed wound",
+        "4. Tourniquet: for catastrophic limb bleeding that cannot be controlled by pressure alone, or where packing is not possible — apply tourniquet 5–8 cm above the wound, tighten until bleeding stops, note the time of application"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "Apply CONTINUOUS pressure for a minimum of 10 minutes without lifting the pad to check. The body needs uninterrupted pressure to form a clot. Repeatedly lifting the pad to look at the wound prevents clotting and worsens bleeding."
+    },
+    {
+      "type": "heading",
+      "text": "Tourniquets — When to Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tourniquets were historically avoided for fear of causing limb amputation. Modern evidence (from military trauma experience) shows that correctly applied tourniquets are life-saving and do not cause limb loss when applied correctly and removed by medical professionals within hours. Tourniquets are indicated for: arterial limb bleeding that cannot be controlled by direct pressure; traumatic amputation of a limb; blast injuries with multiple limb wounds where applying pressure to all wounds simultaneously is impossible."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Use a purpose-made tourniquet (CAT — Combat Application Tourniquet, or SOFT-T Wide) where available",
+        "Apply 5–8 cm above the wound (not over a joint)",
+        "Tighten until bleeding stops — not just until tight",
+        "Note the EXACT TIME of application on the casualty's skin or a label",
+        "Never remove the tourniquet in the field — this is a medical procedure",
+        "An improvised tourniquet (belt, tie, bandage) is acceptable as a last resort but is less effective"
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Never apply a tourniquet to the neck, chest, or abdomen — only to limbs. Never apply directly over a joint. Always note the time of application — the receiving medical team must know how long the tourniquet has been in place to assess tissue viability."
+    },
+    {
+      "type": "heading",
+      "text": "Signs and Management of Shock"
+    },
+    {
+      "type": "definition",
+      "term": "Hypovolaemic Shock",
+      "text": "Shock caused by significant blood or fluid loss. The body compensates by redirecting blood from the skin and extremities to vital organs. As shock progresses, the heart cannot maintain adequate blood pressure."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Early signs: pale, cold, clammy skin; rapid, weak pulse; increased breathing rate",
+        "Progressive signs: dizziness, confusion, thirst, restlessness, nausea",
+        "Late signs: unconsciousness; very faint or absent pulse; very slow or absent breathing",
+        "First aid management: control bleeding first; lay casualty flat; raise legs 30 cm (unless spinal or chest injury suspected); keep warm (blanket, insulating layer from the ground); do NOT give food or drink; monitor and reassure; urgent emergency services"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Gulf summer heat, a bleeding casualty faces a compounded risk: blood loss AND fluid loss from sweating simultaneously reduce blood volume faster than in cooler climates. The progression to shock can be significantly faster in 45°C heat. First aiders must move the casualty to shade and cool the environment while managing the bleeding — the heat stress compound effect is critical to understand."
+    },
+    {
+      "type": "heading",
+      "text": "Infection Control for First Aiders"
+    },
+    {
+      "type": "paragraph",
+      "text": "When managing wounds, first aiders must protect themselves from blood-borne pathogens (Hepatitis B, Hepatitis C, HIV) and protect the wound from infection. Standard precautions: wear disposable gloves before handling any wound; wash hands thoroughly before and after; use a face shield or pocket mask for mouth-to-mouth if possible; use single-use dressings; dispose of contaminated materials (gloves, dressings) in a clinical waste bag."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a first aider has a blood splash to the eyes, nose, or mouth, or a needlestick injury during first aid: wash the area thoroughly with water immediately; report to the site medic or emergency department as soon as possible for post-exposure assessment (potential prophylaxis for HIV, Hepatitis B booster check). Do not delay — post-exposure management is time-critical."
+    },
+    {
+      "type": "heading",
+      "text": "Minor Wound Management"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Rinse with clean running water for at least 5 minutes to remove dirt and debris",
+        "Apply a sterile dressing or adhesive bandage",
+        "Advise the casualty to keep the wound clean and watch for signs of infection (increasing redness, swelling, warmth, pus, red lines tracking from the wound)",
+        "Ensure tetanus vaccination is up to date — significant puncture wounds (e.g. rusty nail, animal bite) may require medical assessment for tetanus prophylaxis",
+        "Document the first aid provided on a first aid record"
+      ]
+    }
+  ],
+  "quizId": "first-aid/wound-management-quiz"
+}

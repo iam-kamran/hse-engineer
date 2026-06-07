@@ -1,0 +1,348 @@
+[
+  {
+    "id": "kw-001",
+    "text": "What do you know about Kuwait Oil Company (KOC) and its HSE management framework?",
+    "category": "legislation",
+    "region": "kuwait",
+    "difficulty": "mid",
+    "modelAnswer": "Kuwait Oil Company (KOC) is the national oil company responsible for exploration and production of Kuwait's crude oil and gas. KOC operates one of the world's largest oil fields (Burgan field, the second largest in the world) and has a well-established HSSE (Health, Safety, Security, Environment) management system. KOC's framework requires all contractors to: be pre-qualified through KOC's contractor qualification system; submit project-specific HSE plans before mobilisation; have HSE staff holding recognised qualifications (NEBOSH IGC minimum); comply with KOC's PTW system for all high-hazard work; provide monthly HSSE statistics; comply with KOC's 12 Life Saving Rules — similar to QatarEnergy's Golden Rules, covering the most critical behavioural commitments. KOC operations are onshore in Kuwait's desert environment and face significant challenges including extreme summer heat, H2S in sour crude handling, large-scale field production, and desert logistics.",
+    "keyPoints": [
+      "KOC = Kuwait Oil Company: national O&G company, operates Burgan field (2nd largest in world)",
+      "12 Life Saving Rules: mandatory behavioural commitments — similar to Golden Rules",
+      "Contractor pre-qualification: HSE performance and management system evaluated before award",
+      "NEBOSH IGC minimum for HSE Officers on KOC projects",
+      "PTW system: KOC's own permit system — contractors must operate within it",
+      "Monthly HSSE statistics: submitted through KOC's online reporting system",
+      "Burgan field operations: sour crude (H2S), extreme desert heat, large-scale production"
+    ],
+    "tip": "Kuwait has fewer Gulf candidates who specifically target it, meaning KOC knowledge is a strong differentiator. KOC's 12 Life Saving Rules are designed around the 12 most common fatal incident types in oil and gas operations globally. If you can name several of them (PTW, isolation, working at height, confined space, driving, line of fire, dropped objects, H2S), you demonstrate genuine O&G operational knowledge.",
+    "followUpQuestions": [
+      "What is the Burgan oil field and why is it significant?",
+      "Name three of KOC's 12 Life Saving Rules.",
+      "What are the main H&S challenges of operating an oilfield in Kuwait's desert environment?"
+    ]
+  },
+  {
+    "id": "kw-002",
+    "text": "How do you manage the risk of driving accidents in Kuwait's desert oilfield environment?",
+    "category": "risk-assessment",
+    "region": "kuwait",
+    "difficulty": "mid",
+    "modelAnswer": "Vehicle accidents are one of the leading causes of fatalities in Kuwait's oilfield operations, and across all Gulf O&G operations. Managing driving risk requires a multi-layer approach: vehicle fitness — all vehicles pass pre-use inspection and have valid maintenance records; driver competency — all drivers hold a site driving permit issued only after defensive driving training and site induction; journey management — all journeys logged with departure time, route, estimated arrival, and check-in procedure; speed limits enforced — 80 km/h maximum on desert roads, 30-40 km/h within well pads or facilities; no mobile phone use while driving (hands-free only if permitted); seatbelts mandatory for all occupants at all times; no driving between designated hours without management approval (fatigue management for overnight driving); sandstorm procedures — stop if visibility falls below safe driving threshold; medical fitness for drivers — periodic checks including vision and alertness; designated parking areas in facilities to prevent pedestrian conflicts. KOC specifically includes driving safety as one of its 12 Life Saving Rules.",
+    "keyPoints": [
+      "Driving is a top-3 fatal incident cause in Gulf O&G — treat as a major hazard",
+      "Site driving permit: defensive driving training + site induction + pass assessment",
+      "Journey management: log destination, route, ETA, check-in procedure",
+      "Speed limits: 80 km/h on desert roads; 30-40 km/h within well pads",
+      "Seatbelts: mandatory — this is enforced at KOC; violations are terminable",
+      "Sandstorm procedure: stop and park safely if visibility impaired",
+      "Mobile phone ban: no handheld use while driving; hands-free is a minimum in some systems",
+      "Night driving restrictions: additional management approval required"
+    ],
+    "tip": "Vehicle accidents, not process incidents, are the single largest cause of fatalities in the Gulf O&G supply chain. KOC specifically lists driving safety in its Life Saving Rules. Showing you take driving risk as seriously as confined space or working at height signals real oilfield experience — many candidates only focus on 'traditional' site hazards and overlook road safety.",
+    "followUpQuestions": [
+      "What is journey management and how does it work in practice?",
+      "What should a driver do if they encounter a severe sandstorm on a desert road?",
+      "What are the typical speed limits within a Kuwait oilfield well pad?"
+    ]
+  },
+  {
+    "id": "kw-003",
+    "text": "How would you manage fire and explosion risk in a Kuwait oilfield production facility?",
+    "category": "emergency-response",
+    "region": "kuwait",
+    "difficulty": "senior",
+    "modelAnswer": "Fire and explosion risk management in a Kuwait oilfield production facility combines process safety and operational controls. Process design and integrity: all pressure vessels, pipework, and safety systems are designed, inspected, and maintained to API and ASME standards; pressure safety valves (PSVs) protect against overpressure; flame and gas detection systems with automatic shutdown (ESD) and suppression; area classification (ATEX zones) with only certified equipment in hazardous areas. Operational controls: hot work PTW with gas testing; no-smoking and no open flame policy strictly enforced; vehicle exclusion from classified areas (or spark-arrested vehicles only); PTW for all non-routine maintenance in process areas. Emergency response: ESD (Emergency Shut Down) system — all personnel know their role; firefighting capability including foam for Class B fires; H2S response plan (evacuation upwind, SCBA for rescue); muster and evacuation drills. In Kuwait's environment specifically: high summer temperatures accelerate hydrocarbon evaporation — vapour cloud explosion risk increases in hot weather; sand and dust can compromise detection sensors — maintenance schedule must include sensor cleaning.",
+    "keyPoints": [
+      "ESD (Emergency Shutdown) system: automatic isolation of hydrocarbon inventory on detection",
+      "Flame and gas detection: fixed detectors with alarms and automatic suppression",
+      "ATEX zone compliance: only certified equipment in classified hazardous areas",
+      "PSVs: prevent overpressure — tested and inspected per API schedule",
+      "Hot work PTW: gas testing mandatory before and during; <10% LEL required",
+      "Kuwait summer: increased vapour pressure → higher release rates → larger vapour clouds",
+      "Sensor maintenance: dust and sand in Kuwait environment can blind gas detectors"
+    ],
+    "tip": "The Kuwait-specific point about sand and dust affecting detector performance is a detail that distinguishes genuine oilfield experience from generic process safety knowledge. Gas detectors require regular cleaning and calibration in desert environments — a detector covered in sand reads zero even in a hazardous atmosphere. Showing this awareness demonstrates operational depth.",
+    "followUpQuestions": [
+      "What is an ESD (Emergency Shutdown) system and how is it triggered?",
+      "How often should fixed gas detectors be tested and calibrated in a dusty Kuwait oilfield environment?",
+      "What is a vapour cloud explosion and what is required for one to occur?"
+    ]
+  },
+  {
+    "id": "kw-004",
+    "text": "Describe your understanding of Kuwait's occupational health and safety regulatory framework.",
+    "category": "legislation",
+    "region": "kuwait",
+    "difficulty": "mid",
+    "modelAnswer": "Kuwait's occupational health and safety framework is governed primarily by the Kuwait Labour Law (Law No. 6 of 2010 for the private sector) and supplementary ministerial decrees. Key provisions: employers must provide safe workplaces and appropriate PPE at no cost to workers; maximum working hours are 8 per day and 48 per week; overtime is permitted with enhanced pay; workers in hazardous industries are entitled to periodic medical examinations; injured workers receive compensation under Kuwait's social insurance system (PACI — Public Authority for Civil Information registers workers). The Ministry of Social Affairs and Labour (MSAL) enforces labour law and has inspection authority. In the oil sector, KOC applies its own HSSE standards which are more stringent than minimum legal requirements — the stricter standard always applies. Kuwait does not have a dedicated H&S authority equivalent to OSHAD in Abu Dhabi — enforcement is distributed between MSAL, KOC (for oil operations), and the Ministry of Electricity and Water for electrical safety. The summer heat restriction for outdoor work is 10am–3pm during July and August (compared to the more extended Saudi and Qatari bans).",
+    "keyPoints": [
+      "Kuwait Labour Law: Law No. 6 of 2010 (private sector); KOC HSSE standards for O&G",
+      "Ministry of Social Affairs and Labour (MSAL): labour law enforcement authority",
+      "No dedicated national H&S agency — enforcement distributed across ministries",
+      "KOC standards more stringent than law — KOC standard prevails on KOC projects",
+      "Summer outdoor work restriction: 10am–3pm, July–August (less extensive than Saudi/Qatar)",
+      "Occupational health: periodic medical exams for hazardous industries",
+      "No-objection for worker compensation: PACI social insurance system"
+    ],
+    "tip": "Kuwait's summer outdoor work ban (July–August, 10am–3pm) is more limited in scope than Saudi Arabia (June–September, 12–3pm) and Qatar (June–September, 10am–3:30pm). This country-specific difference is often tested to distinguish candidates with genuine Kuwait knowledge. Kuwait also lacks the dedicated H&S regulatory bodies found in Saudi Arabia and UAE — an important structural difference.",
+    "followUpQuestions": [
+      "Which ministry enforces Kuwait labour law on construction sites?",
+      "How does Kuwait's summer outdoor work restriction compare to Saudi Arabia's?",
+      "What compensation does an injured worker receive under Kuwait's social insurance system?"
+    ]
+  },
+  {
+    "id": "kw-005",
+    "text": "How would you conduct a JSA (Job Safety Analysis) for a wellhead maintenance activity in Kuwait?",
+    "category": "risk-assessment",
+    "region": "kuwait",
+    "difficulty": "mid",
+    "modelAnswer": "A JSA for wellhead maintenance is a high-stakes task given the presence of high-pressure hydrocarbons, potential H2S, and complex isolation requirements. The JSA process: first, select the specific maintenance task (e.g. valve replacement) and involve the workers who will perform it, plus the operations technician who manages the well. Break the task into sequential steps: (1) Review well production data, H2S content, and pressure; (2) Isolate the well (shut in, bleed pressure, verify pressure gauge reads zero, apply LOTO); (3) Gas test at access point — verify below LEL and H2S OEL; (4) Don task-specific PPE (H2S supplied air if required, chemical splash, face shield); (5) Remove valve and replace; (6) Reinstall, torque to specification; (7) Restore isolation — gradually re-introduce pressure, check for leaks; (8) Sign off and close permit. For each step: identify hazards (high-pressure release, H2S exposure, hot surfaces), assess risk level, and identify controls. Include emergency response for H2S release (evacuation crosswind, SCBA rescue). The JSA must be signed by the permit issuer, supervisor, and all workers before work starts.",
+    "keyPoints": [
+      "Involve the actual workers who will perform the task — they know the real hazards",
+      "Step 1 always: review well data — pressure, temperature, H2S content",
+      "Isolation (LOTO): shut in, depressure, verify zero pressure, lock out",
+      "Gas testing: before and during — H2S at wellhead is always possible",
+      "H2S PPE: supplied air if H2S content means SCBA is required for safe work",
+      "Re-energisation step: gradual — check for leaks before returning to full production",
+      "All workers sign JSA before work starts — not just the supervisor"
+    ],
+    "tip": "The step-by-step sequencing and the involvement of actual workers are the two most important features to emphasise. Generic H&S candidates produce JSAs with 3-4 steps; experienced oilfield candidates identify 8-12 steps with specific hazards at each. Mentioning the well data review as the first step shows process safety awareness — the H2S content of the well determines the entire RPE selection.",
+    "followUpQuestions": [
+      "At what H2S concentration would you require workers to use SCBA rather than just a half-face chemical filter?",
+      "How do you verify that a wellhead has been fully depressurised before starting maintenance?",
+      "Who should be present during wellhead maintenance in a sour gas field?"
+    ]
+  },
+  {
+    "id": "kw-006",
+    "text": "What are the main sources of H2S exposure in Kuwait oilfield operations and how are they controlled?",
+    "category": "general",
+    "region": "kuwait",
+    "difficulty": "mid",
+    "modelAnswer": "Kuwait's Burgan oil field and other reservoirs contain sour crude with varying H2S concentrations. Main exposure sources: wellhead operations and well intervention (H2S released when wells are opened for maintenance); crude oil tanks and open sumps (H2S off-gasses from stored sour crude); water injection and produced water systems (H2S dissolved in produced water); cleaning and pigging operations (H2S trapped in pipeline liquids); confined spaces adjacent to sour process streams. Control measures: area classification — all sour processing areas are classified with access restrictions; fixed H2S detection system with automatic alarms and emergency shutdown; personal H2S monitors mandatory for all personnel in sour areas (alarm at 10 ppm warning, 20 ppm action); access control — no unauthorised entry to sour areas; PTW with gas testing before work near H2S sources; H2S training for all site workers (awareness) and emergency responders (SCBA competency); wind socks at all wellheads and facilities to indicate wind direction for evacuation; SCBA pre-positioned at sour zone entries.",
+    "keyPoints": [
+      "Main sources: wellheads, crude oil tanks, water treatment, pigging operations, confined spaces",
+      "Burgan field: sour crude — H2S is a constant presence in production operations",
+      "Personal H2S monitor: mandatory in all sour zones; alarm at 10 ppm warning",
+      "Fixed detection: automatic H2S alarms with ESD in critical areas",
+      "Wind socks: indicate evacuation direction — critical when H2S gas cloud is present",
+      "SCBA: pre-positioned at sour zone entries for emergency response",
+      "Olfactory fatigue: cannot smell H2S above ~100 ppm — monitor is essential"
+    ],
+    "tip": "Wind socks at wellheads are a specific Kuwait oilfield detail — in case of H2S release, workers must immediately move crosswind or upwind to avoid the gas cloud. Having wind socks visible and knowing how to read them is tested in Kuwait O&G safety interviews. Most generic candidates miss this practical detail.",
+    "followUpQuestions": [
+      "What does a personal H2S monitor alarm action level of 20 ppm require a worker to do?",
+      "Why are wind socks important at wellhead locations in sour oil fields?",
+      "If a worker collapses in a H2S sour zone, what is the rescue procedure?"
+    ]
+  },
+  {
+    "id": "kw-007",
+    "text": "How do you maintain safety culture within a large, multicultural workforce in Kuwait?",
+    "category": "safety-culture",
+    "region": "kuwait",
+    "difficulty": "mid",
+    "modelAnswer": "Kuwait's oilfield and construction workforces are highly multicultural — Arab nationals (Kuwaiti, Egyptian, Jordanian, Syrian), South Asian (Indian, Pakistani, Bangladeshi), and Southeast Asian (Filipino, Sri Lankan) workers work side by side. Maintaining safety culture in this environment requires: consistent messaging across all languages (Arabic, English, Hindi, Urdu minimum) using multilingual toolbox talk delivery and visual safety materials; cultural respect — understanding that different nationalities have different relationships with authority and different approaches to raising concerns; building bilingual safety champions among workers who can influence their peers in their native language; fair and consistent enforcement — the same rule applies regardless of nationality or seniority; celebrating safe behaviour visibly and publicly; creating psychologically safe environments where workers can report near misses without fear of blame or dismissal. Specific to Kuwait: Kuwaiti national supervisors and managers set the tone — if they visibly follow safety rules, others will follow.",
+    "keyPoints": [
+      "Multilingual communication: Arabic, English, Hindi, Urdu minimum in Kuwait context",
+      "Cultural diversity: different relationships with authority across nationalities",
+      "Bilingual safety champions: peer influence works better than top-down enforcement",
+      "Consistent enforcement: same rules for all nationalities and all seniority levels",
+      "Visible senior management safety leadership: Kuwaiti managers are role models",
+      "Psychological safety: workers must feel safe to report without fear",
+      "Celebrate safe behaviour: public recognition motivates repetition"
+    ],
+    "tip": "In Kuwait, Kuwaiti nationals hold most senior management positions and their visible safety behaviour has enormous influence on the broader workforce. If Kuwaiti managers walk past H&S violations without acting, it signals that safety rules are for others, not for them. Mentioning this dynamic — tactfully — shows you understand the specific cultural leadership context in Kuwait.",
+    "followUpQuestions": [
+      "How do you communicate a safety rule to a worker who speaks only Bengali?",
+      "What do you do if a senior Kuwaiti national manager violates a safety rule on site?",
+      "How do you build trust with a workforce that has historically experienced blame culture?"
+    ]
+  },
+  {
+    "id": "kw-008",
+    "text": "What is Kuwait's summer outdoor work restriction and how would you implement a heat stress management programme?",
+    "category": "risk-assessment",
+    "region": "kuwait",
+    "difficulty": "junior",
+    "modelAnswer": "Kuwait's Ministry of Social Affairs and Labour mandates a ban on outdoor work in direct sunlight between 10:00am and 3:00pm during July and August (two months, compared to Saudi Arabia's four months). The maximum summer temperatures in Kuwait regularly exceed 50°C. Beyond the legal minimum, a comprehensive heat stress programme for Kuwait includes: WBGT monitoring throughout the summer months from May onwards (not just during the legal ban); acclimatisation programme for new workers (7-14 days of graduated exposure); work/rest schedules based on WBGT readings; unlimited cool potable water available throughout the shift (minimum 250ml every 20 minutes); shaded rest areas with seating, ventilation, and cooling near the work area; buddy system — workers monitor each other for symptoms; supervisor training in heat illness recognition and first response; on-site first aid with designated cool area for treatment; and medical screening for workers with conditions that increase heat risk (obesity, hypertension, diabetes, medications affecting thermoregulation).",
+    "keyPoints": [
+      "Kuwait outdoor work ban: 10am–3pm, July and August only (2 months)",
+      "Kuwait temperatures: regularly exceed 50°C — WBGT-based controls needed May–September",
+      "Acclimatisation: 7-14 days for new workers arriving in summer",
+      "WBGT: work/rest schedule changes with each threshold — not just 'go home in hot weather'",
+      "250ml water every 20 minutes: specific, measurable standard",
+      "Buddy system: workers monitor each other — supervisors cannot watch everyone",
+      "Medical screening: pre-employment and periodic — identify heat-vulnerable individuals"
+    ],
+    "tip": "Kuwait's two-month outdoor work ban is shorter than Saudi Arabia's four-month ban. This is frequently tested in regional comparison questions. However, Kuwait is actually hotter on average than parts of Saudi Arabia — meaning the two months of legal protection are insufficient and a broader programme covering May through September is necessary for worker health.",
+    "followUpQuestions": [
+      "Which months are covered by Kuwait's mandatory outdoor work restriction?",
+      "What is the difference between heat exhaustion and heat stroke and what do you do for each?",
+      "What does a WBGT-based work/rest schedule look like in practice?"
+    ]
+  },
+  {
+    "id": "kw-009",
+    "text": "Describe your approach to PTW (Permit to Work) system management when multiple contractors are working simultaneously.",
+    "category": "ptw",
+    "region": "kuwait",
+    "difficulty": "mid",
+    "modelAnswer": "Managing multiple concurrent PTWs across multiple contractors requires a centralised coordination system. The PTW authority (typically an operations engineer or production supervisor in an O&G facility) maintains a master permit register — a visual board or electronic system showing all active permits, their locations, the work being performed, and any exclusions or restrictions. Before issuing a new permit, the PTW authority reviews the master register for SIMOPS conflicts: can this hot work proceed if a confined space entry is active nearby? Are there any isolations on shared equipment? Each contractor's workers receive their own PTW from the issuing authority — sub-contractors do not issue their own permits. Permit close-out coordination: at shift change, all open permits must be reviewed — suspended if work is not complete, closed if it is. Daily coordination meetings involving all contractor supervisors review the next 24 hours' planned work and permits to identify conflicts in advance.",
+    "keyPoints": [
+      "Central PTW register: visual board or electronic system showing all active permits",
+      "SIMOPS check: every new permit reviewed against existing active permits",
+      "Issuing authority: one central authority per area — not each contractor issuing their own",
+      "Sub-contractors work under the main contractor's PTW — they don't issue independently",
+      "Shift handover: all permits reviewed — suspend or close before handover",
+      "Daily permit planning meeting: review next 24 hours, identify conflicts in advance",
+      "Permit register is auditable: every permit issued, suspended, and closed is recorded"
+    ],
+    "tip": "The most common PTW failure on multi-contractor sites is each contractor assuming someone else is coordinating. Emphasising that there must be ONE coordinating PTW authority per area, and that the PTW register is the single source of truth, shows you understand multi-contractor complexity. Daily planning meetings are the proactive tool — the register is the reactive tool.",
+    "followUpQuestions": [
+      "What is a SIMOPS matrix and how does it relate to the PTW system?",
+      "Who has the authority to suspend a permit to work issued by a different contractor?",
+      "How do you manage PTW handover between day shift and night shift supervisors?"
+    ]
+  },
+  {
+    "id": "kw-010",
+    "text": "What is your approach to conducting a safety audit of a KOC contractor's construction camp and welfare facilities?",
+    "category": "general",
+    "region": "kuwait",
+    "difficulty": "mid",
+    "modelAnswer": "Auditing a contractor's construction camp in Kuwait requires reviewing both physical standards and management systems. Physical audit checklist: accommodation — space per occupant (typically minimum 4.5m² personal sleeping space), ventilation (air conditioning in Kuwait is essential — it is a life safety issue, not comfort), cleanliness, fire safety (fire alarms, extinguishers, clear evacuation routes, no smoking in sleeping areas); sanitation — toilets and showers (ratio to occupants), hot and cold water, maintained and clean; food facilities — hygienic storage, cooking, serving, temperature controls; water — potable water supply tested and certified; first aid — facility with trained first aider, medication storage; recreation — rest areas, communication access (phone/internet); emergency exit routes clearly marked. Management system audit: occupancy records accurate; health checks on arrival and periodically; worker feedback mechanism; no withholding of passports; wages paid on time (WPS compliance); no excessive deductions from wages.",
+    "keyPoints": [
+      "Physical standards: space (4.5m² minimum), AC (essential in Kuwait), fire safety, sanitation",
+      "AC is life safety in Kuwait — not comfort; failure during summer is a health emergency",
+      "Sanitation: toilet/shower ratio to occupants; hot and cold water; cleanliness",
+      "Food safety: temperature control for hot and cold food; hygienic preparation areas",
+      "Passport retention: illegal — check that workers hold their own passports",
+      "WPS compliance: wages paid on time and in full",
+      "Worker feedback: mechanism exists and workers know how to use it"
+    ],
+    "tip": "In Kuwait, air conditioning in worker accommodation is not optional — it is a life safety requirement during summer temperatures exceeding 50°C. Auditing AC maintenance records and verifying backup cooling capacity shows you treat this as a safety issue. Passport confiscation is illegal and one of the most common labour rights violations — checking this in an audit demonstrates commitment to worker welfare beyond standard H&S.",
+    "followUpQuestions": [
+      "What is the minimum living space per worker in a construction camp according to international standards?",
+      "What should you do if you discover that the contractor is holding workers' passports?",
+      "How do you verify that workers' wages are being paid correctly during an accommodation audit?"
+    ]
+  },
+  {
+    "id": "kw-011",
+    "text": "What are the key H&S risks during a wellbore completion operation in Kuwait and how would you manage them?",
+    "category": "risk-assessment",
+    "region": "kuwait",
+    "difficulty": "senior",
+    "modelAnswer": "Wellbore completion operations involve high-hazard activities including high-pressure pumping (cementing, perforating, acidising), coiled tubing operations, and wireline work — often near the wellhead in a sour crude environment. Key risks: high-pressure line failure — sudden release of fluid at thousands of psi; H2S release during well perforation or acid job in sour zones; well control events (kicks/blowouts) if barriers fail; chemical exposure during acidising (HCl, HF acid); dropped objects from elevated wellhead equipment; and struck-by from high-pressure hydraulic lines under tension. Controls: line testing before any high-pressure pumping operation; T-bar or safety chains on all high-pressure connections; pressure relief valves rated for the maximum injection pressure; H2S monitoring in sour zones; well control SOPO (Simultaneous Operations) procedure; chemical handling PTW for acid jobs with specific PPE (face shield, acid-resistant gloves, chemical suit); all personnel at safe distance during pressure tests; dropped object prevention on elevated equipment; and well control drills rehearsed with the completion crew.",
+    "keyPoints": [
+      "High-pressure line failure: T-bars, safety chains, and tested connections are mandatory",
+      "H2S in sour zones: personal monitors and SCBA pre-positioned before perforating",
+      "Well control: blowout preventer (BOP) tested and in place; IWCF/IADC well control training",
+      "Acidising: HCl/HF acid — acid-resistant PPE, spill kit, emergency eyewash station",
+      "Line testing: pressure test before pumping — certified to exceed operational pressure",
+      "Dropped objects: all elevated equipment secured; exclusion zone on ground level during operations",
+      "Personnel exclusion: safe distance and shelter during pressure tests"
+    ],
+    "tip": "Wellbore completion safety is highly specialised. If you have completion experience, emphasise it — KOC specifically values experience in Kuwait's challenging reservoir conditions. The distinction between high-pressure hydraulic risk and process safety risk shows depth. Well control training (IWCF or IADC well control certificate) is often mandatory for people working near wellheads during completion operations.",
+    "followUpQuestions": [
+      "What is an IWCF well control certificate and when is it required?",
+      "What is the difference between a T-bar and a safety chain on a high-pressure connection?",
+      "What is an 'underbalanced' well and what additional H&S risks does it present?"
+    ]
+  },
+  {
+    "id": "kw-012",
+    "text": "How would you assess and reduce the risk of manual handling injuries in Kuwait oilfield operations?",
+    "category": "risk-assessment",
+    "region": "kuwait",
+    "difficulty": "junior",
+    "modelAnswer": "Manual handling in Kuwait oilfield operations involves pipe handling, valve changes, equipment moving, and supply loading/unloading — often in extreme heat conditions that increase fatigue. Risk assessment using TILE: Task — does the job require twisting, prolonged carrying, or asymmetric loads? Individual — is the worker physically fit and trained? Are they acclimatised to Kuwait heat? Load — what is the weight, size, and shape? Environment — is the floor stable? Is it hot and humid (exacerbating fatigue)? Controls: eliminate manual handling wherever possible by using mechanical aids (pipe handling machines, vacuum lifters, pallet jacks, forklifts, air tuggers for heavy valves); for unavoidable manual handling, reduce load weights, provide handles/grips, eliminate twisting postures; train workers in correct manual handling technique (not 'bend your knees' in isolation, but practical technique training); provide regular breaks in hot conditions — fatigue increases injury risk in heat; health surveillance for repetitive handling tasks. In Kuwait's heat, fatigue from heat stress amplifies manual handling injury risk — the two hazards must be managed together.",
+    "keyPoints": [
+      "TILE assessment: Task, Individual, Load, Environment",
+      "Heat amplifies manual handling risk: fatigue and muscle weakness in heat",
+      "Eliminate with mechanical aids: pipe handling machines, vacuum lifters, air tuggers common in oilfield",
+      "Team lifts: no load over 25 kg should be one-person in heat conditions",
+      "Technique training: practical demonstration, not just classroom",
+      "Regular breaks during heat: fatigue management overlaps with heat stress management",
+      "Health surveillance for repetitive handling: periodic musculoskeletal assessment"
+    ],
+    "tip": "The interaction between heat and manual handling is specific to Gulf operations and rarely acknowledged by candidates who lack field experience. In Kuwait's 50°C summers, the physiological load of heat adds to the physical load of handling — the effective effort is significantly higher than in a temperate climate. Demonstrating this understanding shows genuine Gulf field awareness.",
+    "followUpQuestions": [
+      "At what weight should a team lift be required rather than a single-person lift?",
+      "How does heat stress increase the risk of manual handling injuries?",
+      "What mechanical aids are commonly used for pipe handling in oilfield operations?"
+    ]
+  },
+  {
+    "id": "kw-013",
+    "text": "Describe the key elements of an effective site H&S induction for workers arriving at a Kuwait oilfield.",
+    "category": "safety-culture",
+    "region": "kuwait",
+    "difficulty": "junior",
+    "modelAnswer": "An oilfield site induction must cover the specific hazards and controls of that particular facility — not a generic presentation. For a Kuwait oilfield, the key elements are: welcome and facility orientation (maps of the site, muster points, medical facilities, welfare facilities, prayer areas — important in Kuwait); emergency procedures (evacuation route, muster points, H2S alarm response — move upwind immediately); H2S awareness — recognition, response, do not try to rescue without SCBA; PTW overview — no work without a permit in controlled areas; personal protective equipment requirements (minimum site PPE, additional requirements for classified areas); KOC Life Saving Rules — all workers must commit to them; site-specific rules (no smoking, speed limits, mobile phone restrictions in hazardous areas); safe driving (speed limits, journey management, defensive driving); heat stress — symptoms, buddy system, water requirements; and incident and near-miss reporting procedure. Induction must include a practical competency check and should be delivered in the worker's own language. Records must be kept.",
+    "keyPoints": [
+      "Site-specific, not generic: covers the actual hazards of THIS oilfield",
+      "H2S response: key safety message for Kuwait sour oilfield — move upwind, don't improvise rescue",
+      "KOC Life Saving Rules: all workers must understand and commit to them",
+      "Prayer areas and facilities: important for Kuwait Muslim workforce",
+      "PTW overview: no work in controlled areas without a permit",
+      "Practical competency check: not just attendance — test understanding",
+      "Language: induction delivered in worker's language; use interpreters or bilingual supervisors"
+    ],
+    "tip": "Including prayer area locations in the Kuwait induction shows cultural sensitivity that resonates strongly with Kuwaiti managers. Kuwait has a Muslim-majority workforce and prayer times are integrated into shift schedules — ignoring this in an induction signals cultural unawareness. Prayer times in Kuwait are an operational planning factor, not just a welfare consideration.",
+    "followUpQuestions": [
+      "How long should a site safety induction take for a new worker at a Kuwait oilfield?",
+      "How do you test that a worker has understood the induction content?",
+      "What do you do if a worker from a remote camp misses the site induction?"
+    ]
+  },
+  {
+    "id": "kw-014",
+    "text": "How do you manage subcontractor HSE performance when you have limited direct oversight?",
+    "category": "safety-culture",
+    "region": "kuwait",
+    "difficulty": "senior",
+    "modelAnswer": "Managing sub-contractor H&S performance at a distance requires a systems-based approach rather than relying on direct observation. Contractual controls: embed H&S requirements in the sub-contract — HSE plan, KPIs, reporting obligations, right to audit, and consequences for non-compliance (step-in rights, termination); require the sub-contractor to demonstrate H&S management capability before award. Verification: require submission of weekly inspection records and monthly KPI reports; conduct periodic unannounced audits; require notification of all incidents and near misses within 24 hours. Remote monitoring: require sub-contractors to maintain daily inspection records accessible to the main contractor; use digital platforms (WhatsApp, HSE management software) for real-time hazard reporting; appoint a competent sub-contractor HSE supervisor with daily reporting obligation. Relationship management: monthly HSE performance review meetings with sub-contractor management; involve sub-contractor H&S team in site H&S committee; share main contractor's H&S lessons learned with sub-contractors. Escalation: clear procedure for what happens if a sub-contractor persistently fails — starting with NCRs, escalating to work suspension, and ultimately contract termination.",
+    "keyPoints": [
+      "Contractual: H&S requirements written into sub-contract — not just verbal expectations",
+      "Verification: periodic unannounced audits; weekly/monthly report review",
+      "Incident notification: within 24 hours — sub-contractor cannot delay reporting",
+      "Digital reporting: HSE software or daily reports accessible in real time",
+      "Monthly performance review: face-to-face with sub-contractor management",
+      "Escalation: NCR → work suspension → contract termination for persistent non-compliance",
+      "Pre-qualification: assess H&S capability before awarding any sub-contract"
+    ],
+    "tip": "Emphasising contractual controls first is important — 'you can only manage what you can measure, and you can only measure what you have agreed to measure.' If H&S obligations are not in the contract, a sub-contractor has no formal obligation to comply. In Kuwait, KOC holds the principal contractor fully accountable for sub-contractor H&S performance — the cascading responsibility must be reflected in sub-contracting arrangements.",
+    "followUpQuestions": [
+      "Can you hold a sub-contractor responsible for H&S performance if the contract doesn't mention H&S?",
+      "How do you conduct an unannounced audit of a sub-contractor without causing confrontation?",
+      "What do you do if a sub-contractor conceals an incident to avoid reporting it?"
+    ]
+  },
+  {
+    "id": "kw-015",
+    "text": "What experience do you have with formal HSSE audits and what does an effective audit look like?",
+    "category": "general",
+    "region": "kuwait",
+    "difficulty": "mid",
+    "modelAnswer": "An effective HSSE audit is planned, independent, evidence-based, and leads to improvement — not just a compliance exercise. Structure: pre-audit preparation — review audit scope, criteria (KOC HSSE standards, company procedures, regulatory requirements), previous audit findings, and incident history; prepare an audit checklist but be prepared to follow evidence wherever it leads. Conduct: document review (risk assessments, PTW records, training registers, inspection reports, incident reports); worker and manager interviews (separately, open questions, not leading); physical site observation tour; verify that what is documented reflects what actually happens on site — document-to-reality gap is the most common finding. Findings: categorised by severity (non-conformance, observation, opportunity for improvement); root cause identified for each significant finding; draft report shared with auditee for factual accuracy before final issue. Corrective action plan: specific actions, named owners, completion dates — not vague commitments. Follow-up: verify corrective actions closed within agreed timeframe.",
+    "keyPoints": [
+      "Planned and structured: audit plan, scope, criteria defined before start",
+      "Independent: auditor has no direct management responsibility for the area being audited",
+      "Evidence-based: document review + interviews + physical observation — all three",
+      "Document-to-reality gap: most common finding — documents say one thing, site shows another",
+      "Findings: non-conformance vs observation vs OFI (opportunity for improvement)",
+      "Root cause identified for significant findings — not just symptoms",
+      "Corrective action plan: specific, owned, time-bound — followed up to closure"
+    ],
+    "tip": "The 'document-to-reality gap' concept is one of the most powerful phrases in auditing. Saying 'I look for the gap between what the procedure says and what workers actually do' immediately signals audit maturity. Many poor audits only check whether documents exist — experienced auditors verify whether the documents reflect reality, and whether the reality is safe.",
+    "followUpQuestions": [
+      "What is the difference between a non-conformance and an observation in audit terminology?",
+      "How do you remain objective as an auditor when you have a friendly relationship with the site team?",
+      "How many corrective actions is it reasonable to expect from a single day's audit?"
+    ]
+  }
+]

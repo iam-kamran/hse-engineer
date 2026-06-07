@@ -1,0 +1,124 @@
+{
+  "id": "certifications/nebosh-igc/element-12",
+  "sectionId": "nebosh-igc",
+  "title": "Element 12: Construction Activities",
+  "order": 12,
+  "estimatedReadTime": 20,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Identify the principal hazards specific to construction activities",
+    "Explain how CDM regulations assign duties across the project team",
+    "Describe safe practices for demolition, lifting, and groundwork",
+    "Apply knowledge of construction safety to Gulf project requirements"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "12.1 The Construction Hazard Profile"
+    },
+    {
+      "type": "paragraph",
+      "text": "Construction consistently has one of the highest fatality rates of any industry. The 'fatal four' — falls from height, struck by, electrocution, and caught in/between — account for the majority of construction deaths globally."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Hazard Category", "Specific Hazards"],
+        "rows": [
+          ["Height", "Falls from scaffolding, roofs, ladders, MEWP; falling objects striking workers below"],
+          ["Ground", "Excavation collapse, buried services, unstable ground"],
+          ["Plant & Equipment", "Lifting operations, crane collapse, vehicle-pedestrian conflict"],
+          ["Structural", "Premature concrete/structure collapse, demolition hazards"],
+          ["Services", "Underground electrical, gas, water; overhead power lines"],
+          ["Environmental", "Noise, dust (silica), vibration, extremes of weather, UV"],
+          ["Substances", "Cement (dermatitis, chemical burns), asbestos, solvents, diesel fumes"],
+          ["Physical", "Manual handling, repetitive work, working in confined spaces"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "12.2 Construction Design and Management (CDM)"
+    },
+    {
+      "type": "paragraph",
+      "text": "CDM Regulations (UK and internationally adopted) place legal duties on all parties in the construction supply chain, not just contractors. The principle is that hazards should be designed out during project planning, before construction starts."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Duty Holder", "Main Duties"],
+        "rows": [
+          ["Client", "Appoint CDM Coordinator/Principal Designer and Principal Contractor; allow adequate time and resources; notify regulator for notifiable projects"],
+          ["Designer", "Eliminate foreseeable hazards at design stage; provide information on remaining hazards; provide health and safety file"],
+          ["Principal Contractor", "Plan, manage and coordinate construction phase; produce Construction Phase Plan; ensure welfare facilities provided"],
+          ["Contractor", "Plan and manage own work safely; provide information to workers; cooperate with Principal Contractor"],
+          ["Worker", "Follow site rules; use equipment correctly; cooperate with managers; report hazards"]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "CDM's key principle: hazards eliminated at design stage cost nothing. Hazards controlled during construction cost time and money. Hazards that cause accidents cost lives and far more money. Design out the risk early."
+    },
+    {
+      "type": "heading",
+      "text": "12.3 Lifting Operations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lifting operations and lifting equipment (LOLER/equivalent standards) are among the most controlled activities in construction and O&G. Crane and lifting failures cause multiple fatalities."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Competency — Appointed persons, crane operators, and riggers must all be trained and certificated",
+        "Lift plan — Every non-routine or complex lift requires a written lift plan; includes ground-bearing capacity",
+        "Radius and capacity — Never exceed safe working load (SWL) for the radius; refer to crane load charts",
+        "Pre-use inspection — Every day before use; thorough examination by competent person every 6 months",
+        "Exclusion zone — Clear area under and around the load; banksman maintains communications",
+        "Slings and lifting gear — Colour-coded annual inspection tags; discard damaged slings; correct angle factor"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf mega-projects routinely involve extremely heavy lifts — modular construction in Qatar's LNG expansion required lifts over 2,000 tonnes. Aramco requires a Lifting Coordinator to be present on all lifts over 10 tonnes. Crane operators must hold Aramco-recognised certification. All lifting equipment must have valid Saudi Aramco or ADNOC-approved inspection certification."
+    },
+    {
+      "type": "heading",
+      "text": "12.4 Demolition"
+    },
+    {
+      "type": "paragraph",
+      "text": "Demolition is statistically the most dangerous construction activity. Planning must begin before work starts."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Pre-demolition survey — Structural survey; services identification; asbestos/hazardous material survey",
+        "Asbestos — Must be removed by licensed contractors before any demolition proceeds",
+        "Structural stability — Demolish in planned sequence; temporary propping; avoid creating unstable structures",
+        "Methods — Soft strip (internal fit-out), mechanical demolition (excavators), explosives (specialist only)",
+        "Exclusion zones — Adequate distance from falling structure; dust suppression"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "12.5 Asbestos"
+    },
+    {
+      "type": "definition",
+      "term": "Asbestos",
+      "text": "A naturally occurring fibrous mineral. Three main types: chrysotile (white), amosite (brown), crocidolite (blue — most dangerous). Inhaling asbestos fibres causes asbestosis, mesothelioma (always fatal), and lung cancer. There is no safe level of exposure. Banned in many countries but still present in buildings constructed before 1999."
+    },
+    {
+      "type": "warning",
+      "text": "Never cut, drill, or disturb suspected asbestos-containing material (ACM) without first having it tested and without appointing licensed removal contractors. Asbestos fibre release is invisible to the naked eye. Mesothelioma has a latency period of 20–50 years — workers may not know they were exposed until decades later."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Older industrial facilities in Gulf countries — particularly those built in the 1970s and 1980s during the first oil boom — may contain asbestos in insulation, ceiling tiles, gaskets, and pipe lagging. Renovation or demolition of these facilities requires asbestos surveys (HSG264 equivalent) before work starts. GCC countries have increasingly adopted strict asbestos regulations aligned with international standards."
+    }
+  ],
+  "quizId": "nebosh-igc/element-12-quiz"
+}

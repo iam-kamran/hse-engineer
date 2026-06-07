@@ -1,0 +1,112 @@
+{
+  "id": "certifications/nebosh-diploma/unit-d",
+  "sectionId": "nebosh-diploma",
+  "title": "Unit D: Specialist Workplace Hazards",
+  "order": 4,
+  "estimatedReadTime": 25,
+  "difficulty": "advanced",
+  "learningObjectives": [
+    "Apply process safety management principles to major hazard industries",
+    "Conduct a systematic fire and explosion risk assessment",
+    "Understand transport safety, contractor management, and construction hazards at Diploma level",
+    "Evaluate disaster potential and business continuity in the context of major accidents"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Unit D: The Major Hazards Module"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unit D is where the NEBOSH Diploma differentiates itself most clearly from the IGC. It covers specialist hazards that require deep technical knowledge: process safety, fire and explosion engineering, transport safety, construction safety at project management level, and contractor management. This is the module most directly aligned with Gulf oil, gas, and petrochemical work."
+    },
+    {
+      "type": "heading",
+      "text": "Process Safety Management"
+    },
+    {
+      "type": "paragraph",
+      "text": "Process safety is the prevention of unplanned releases of energy or hazardous materials that could result in fires, explosions, or toxic releases affecting workers and communities. It is distinguished from occupational safety by its focus on system-level failures rather than individual worker behaviour."
+    },
+    {
+      "type": "definition",
+      "term": "Swiss Cheese Model (Reason's Model)",
+      "text": "A model of accident causation where defences against accident are represented as slices of Swiss cheese. Each layer has holes (latent failures and active failures). An accident occurs only when all the holes align simultaneously. This model explains why major accidents often have multiple contributing factors, not a single cause."
+    },
+    {
+      "type": "list",
+      "items": [
+        "HAZOP (Hazard and Operability Study): systematic technique for identifying process deviations using guide words (more/less/no/reverse/other) applied to design intent",
+        "FMEA (Failure Modes and Effects Analysis): bottom-up analysis of equipment failures and their effects on system safety",
+        "Bow-Tie Analysis: visual representation linking hazard sources through the top event (release/loss of control) to consequences, with prevention and mitigation barriers shown",
+        "Layer of Protection Analysis (LOPA): semi-quantitative method to evaluate whether the layers of protection are adequate",
+        "Quantified Risk Assessment (QRA): full probabilistic analysis producing individual and societal risk estimates (F-N curves)"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Fire and Explosion Risk Assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Diploma level, fire risk assessment extends beyond the fire triangle to include: flash fires vs. fireballs vs. VCEs (vapour cloud explosions), fire load calculations, passive and active fire protection design, and regulatory requirements for fire safety cases in major hazard facilities."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Fire/Explosion Type", "Description", "Example"],
+        "rows": [
+          ["Pool fire", "Burning of a liquid hydrocarbon pool on the ground or water", "Petrol spill ignition"],
+          ["Jet fire", "Pressurised release ignites immediately — high-velocity burning jet", "Gas pipeline rupture with immediate ignition"],
+          ["Flash fire", "Vapour cloud ignites but does not generate significant overpressure", "Petrol vapour spread before ignition"],
+          ["VCE (Vapour Cloud Explosion)", "Large unconfined vapour cloud ignites and deflagrates or detonates; generates significant blast overpressure", "Piper Alpha, Texas City — catastrophic explosions"],
+          ["BLEVE", "Boiling Liquid Expanding Vapour Explosion — pressurised vessel fails releasing superheated liquid that instantly vaporises and ignites", "LPG tanker fire leading to explosion"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Contractor Management"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the Gulf, the majority of workers on major oil and gas projects are contractors. Unit D examines contractor management from a legal, ethical, and practical perspective — how to select, manage, and monitor contractors to ensure they meet the same H&S standards as direct employees."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Pre-qualification: assess contractor H&S performance (TRIR, LTIR, safety management system, relevant experience) before award",
+        "Contract specification: include H&S requirements in contract scope; specify mandatory standards",
+        "Induction and training: site-specific induction for all contractor workers; verify qualifications",
+        "Monitoring: regular audits and inspections of contractor activities; daily safety walks",
+        "Performance measurement: contractor-specific KPIs; escalation process for poor performance",
+        "Post-work review: lessons learned; update pre-qualification criteria"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Major Accident Hazard Regulation"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Seveso Directive (EU) and equivalent regulations (COMAH in UK) require operators of major hazard sites to produce Safety Reports demonstrating that major accident risks are controlled to ALARP. The Diploma requires understanding of safety case methodology, domino effects, emergency planning zones, and land use planning around major hazard sites."
+    },
+    {
+      "type": "heading",
+      "text": "Construction Safety at Diploma Level"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CDM Regulations (Construction Design and Management) assign specific duties to clients, designers, principal designers, principal contractors, and contractors. Unit D requires understanding of how to manage H&S through the design and construction lifecycle — not just on-site compliance, but designing out hazards before construction begins."
+    },
+    {
+      "type": "example",
+      "text": "A Unit D exam question: 'Following a major explosion at a chemical plant caused by a vapour cloud release, you have been appointed to lead the incident investigation. Describe the approach you would take.' Answer structure: immediate response (preserve scene, protect evidence, identify witnesses), investigation methodology (barrier analysis, fault tree, root cause), identification of immediate, underlying, and root causes, human factors analysis, report writing, and implementation of recommendations."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Unit D is the most relevant Diploma unit for Gulf oil and gas HSE professionals. Process safety is the dominant H&S discipline in Saudi Arabia, UAE, Qatar, and Kuwait — driven by the scale of hydrocarbon processing. HAZOP studies on Gulf projects are mandatory before any new process design is approved. Saudi Aramco requires an independent third-party review of HAZOP documentation for major capital projects. The bow-tie method is widely used at Aramco and ADNOC for risk visualisation in their Safety Cases. Knowledge of major accident prevention — including BLEVE potential in LPG storage, flash fire distances for open-area hydrocarbon releases, and toxic dispersion modelling for H2S releases — is expected at senior HSE manager level in the Gulf."
+    }
+  ],
+  "quizId": null
+}

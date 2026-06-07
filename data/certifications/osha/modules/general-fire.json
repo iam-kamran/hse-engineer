@@ -1,0 +1,104 @@
+{
+  "id": "certifications/osha/general-fire",
+  "sectionId": "osha",
+  "title": "Fire Safety and Emergency Action Plans (29 CFR 1910.38 / 1910.155–1910.165)",
+  "order": 17,
+  "estimatedReadTime": 18,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Describe what a written Emergency Action Plan must contain",
+    "Explain the components of a Fire Prevention Plan",
+    "Identify OSHA requirements for fire suppression systems, alarms, and exit routes",
+    "Apply emergency response and muster requirements used in Gulf industrial facilities"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Emergency Action Plans (EAP)"
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA 1910.38 requires employers with 10 or more employees to have a written Emergency Action Plan (EAP). Employers with fewer than 10 employees may communicate the plan orally. The EAP must cover the actions employees must take to ensure their safety during emergencies."
+    },
+    {
+      "type": "keyPoint",
+      "text": "The Emergency Action Plan is not a response plan for emergency responders — it is a plan for employees describing what to do when an emergency occurs: who to report to, which exit routes to use, where the assembly point is, and who to account for. It is a worker protection plan."
+    },
+    {
+      "type": "heading",
+      "text": "Required EAP Elements"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Emergency escape procedures and emergency escape route assignments (floor plan or evacuation map)",
+        "Procedures for employees who remain to operate critical operations before evacuating",
+        "Procedures to account for all employees after emergency evacuation is complete",
+        "Rescue and medical duties for designated employees",
+        "Preferred means for reporting fires and other emergencies",
+        "Names or job titles of persons to contact for information about duties under the plan"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Fire Prevention Plans (FPP)"
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA 1910.39 requires a Fire Prevention Plan where required by specific OSHA standards. The FPP must include: a list of major fire hazards, proper handling and storage procedures for hazardous materials, potential ignition sources and their control, type of fire protection equipment necessary to control each fire hazard, and the name or job title of employees responsible for maintaining equipment and fire prevention procedures."
+    },
+    {
+      "type": "heading",
+      "text": "Exit Routes: OSHA 1910.36"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Every workplace must have at least two exit routes to permit prompt evacuation — except very small workplaces where only one exit is physically possible",
+        "Exit routes must be permanent, adequate in size (28 inches wide minimum), and open directly to a street, walkway, refuge area, or public way",
+        "Exit doors must not be locked in a manner that prevents free escape from the inside during work hours",
+        "Exit routes must be kept free of obstructions at all times",
+        "Exit signs must be illuminated at all times — luminescent, self-luminous, or electrically powered with backup",
+        "Maximum distance to an exit: no specific OSHA number — governed by building codes (typically 200 ft common path, 300 ft total)"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Fire Detection and Alarm Systems"
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA 1910.164–1910.165 cover fire detection and alarm systems. When required, fire alarms must be capable of being heard above ambient noise levels throughout the facility. Manual pull stations must be available at each exit. Employees must be trained in the meaning of the different alarm signals and required actions."
+    },
+    {
+      "type": "definition",
+      "term": "Evacuation Warden",
+      "text": "A designated employee responsible for assisting with the orderly evacuation of personnel in their assigned area. Wardens verify all persons are evacuated (including visitors and contractors), assist mobility-impaired persons, and report headcounts to the assembly point coordinator."
+    },
+    {
+      "type": "heading",
+      "text": "Automatic Sprinkler Systems"
+    },
+    {
+      "type": "paragraph",
+      "text": "Automatic sprinkler systems are not universally required by OSHA — they are required by building codes and NFPA 13, which OSHA references in some standards. When sprinklers are installed, OSHA requires proper maintenance: monthly visual inspection, quarterly trip testing, annual inspection by a qualified person. Obstructions to sprinkler heads (stored materials closer than 18 inches) are a serious violation."
+    },
+    {
+      "type": "heading",
+      "text": "Muster and Headcount Procedures"
+    },
+    {
+      "type": "paragraph",
+      "text": "After any evacuation, the EAP must include procedures to account for all personnel. The muster point (assembly area) must be far enough from the facility to be safely outside the hazard zone, clearly marked, and known to all employees. Accounting for contractors and visitors is often the most challenging part."
+    },
+    {
+      "type": "example",
+      "text": "A fire alarm activates at a chemical processing plant. All employees follow the posted evacuation map to their designated muster point (150 metres north of the main building). Floor wardens do a sweep to confirm all employees have left before evacuating themselves. At the muster point, shift supervisors call roll against the shift attendance sheet. The HSE coordinator confirms the total count matches entries logged in the site access control system. Missing personnel are reported to the incident commander."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Emergency response on Gulf oil and gas sites is far more elaborate than a typical EAP. Aramco requires a Site Emergency Response Plan (SERP) for every major facility, with designated Emergency Response Teams (ERTs) that include fire brigades, medical teams, and hazmat responders. Mustering on Gulf sites uses electronic muster systems: workers scan ID cards at muster stations to confirm evacuation. QatarEnergy's LNG trains have tiered alert levels (Yellow/Amber/Red/Emergency) each with specific actions. In the UAE, ADNOC's Emergency Response Framework is modelled on the ICS (Incident Command System) used by US emergency services. Every Gulf site HSE officer must understand both the site's specific SERP and how it interfaces with the national civil defence authority."
+    }
+  ],
+  "quizId": null
+}

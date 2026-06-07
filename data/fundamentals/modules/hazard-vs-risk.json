@@ -1,0 +1,127 @@
+{
+  "id": "fundamentals/hazard-vs-risk",
+  "sectionId": "fundamentals",
+  "title": "Hazard vs Risk",
+  "order": 2,
+  "estimatedReadTime": 12,
+  "difficulty": "beginner",
+  "learningObjectives": [
+    "Clearly define hazard and risk and explain the difference",
+    "Calculate risk using the likelihood × consequence formula",
+    "Explain the ALARP principle and use a risk matrix",
+    "Identify controls using the hierarchy of controls"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "The Most Important Distinction in HSE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Every HSE interview in the Gulf will ask you this question: 'What is the difference between a hazard and a risk?' This is the foundation of everything in safety management. Get it right and you demonstrate competence immediately."
+    },
+    {
+      "type": "definition",
+      "term": "Hazard",
+      "text": "A hazard is anything with the POTENTIAL to cause harm. It is the source of danger. Hazards exist regardless of whether anyone is exposed to them. Examples: an open electrical panel, a wet floor, hydrogen sulfide (H2S) gas, extreme heat."
+    },
+    {
+      "type": "definition",
+      "term": "Risk",
+      "text": "Risk is the LIKELIHOOD that the hazard will actually cause harm to someone, combined with the SEVERITY of that harm. Risk only exists when people (or assets) are exposed to a hazard. Risk = Likelihood × Consequence."
+    },
+    {
+      "type": "example",
+      "text": "A knife in a locked storage cupboard is a hazard (it can cut). There is almost zero risk because no one interacts with it. The same knife in a chef's hand being used for food preparation is the same hazard, but the risk is now measurable and must be controlled."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Simple answer for interviews: 'A hazard is the potential to cause harm. Risk is the likelihood and severity of that harm occurring. We assess risk so we can control it.'"
+    },
+    {
+      "type": "heading",
+      "text": "The Risk Formula"
+    },
+    {
+      "type": "paragraph",
+      "text": "Risk is calculated using this formula, which you must memorise:"
+    },
+    {
+      "type": "keyPoint",
+      "text": "Risk = Likelihood (Probability) × Consequence (Severity)"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Factor", "Definition", "Scale Example"],
+        "rows": [
+          ["Likelihood", "How probable is it that the hazard causes harm?", "1 = Rare, 2 = Unlikely, 3 = Possible, 4 = Likely, 5 = Almost Certain"],
+          ["Consequence", "How severe would the harm be?", "1 = Negligible, 2 = Minor, 3 = Moderate, 4 = Major, 5 = Catastrophic/Fatal"]
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "The result — a number from 1 to 25 — is plotted on a risk matrix. This matrix then categorises the risk as Low (green), Medium (yellow), High (orange), or Critical (red) and tells you what action is required."
+    },
+    {
+      "type": "heading",
+      "text": "ALARP — As Low As Reasonably Practicable"
+    },
+    {
+      "type": "paragraph",
+      "text": "ALARP (pronounced 'al-arp') is the legal standard for risk control in most jurisdictions. It means that risk must be reduced until the cost of further reduction (in money, time, or effort) is grossly disproportionate to the benefit gained."
+    },
+    {
+      "type": "definition",
+      "term": "ALARP",
+      "text": "As Low As Reasonably Practicable. The principle that risk must be reduced to a level where further reduction would require effort or cost that is grossly disproportionate to the safety benefit achieved."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Intolerable Zone — Risk is unacceptable regardless of cost. Work must STOP until risk is reduced.",
+        "ALARP Zone — Risk must be reduced as far as reasonably practicable. Cost-benefit analysis applies.",
+        "Broadly Acceptable Zone — Risk is low enough that no further action is required."
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "Saudi Aramco's SEMP (Safety and Environment Management Plan) and ADNOC's HSE standards both require that risks be managed to ALARP. When working for Gulf O&G companies, you will see ALARP referenced in risk assessments and permit-to-work documents."
+    },
+    {
+      "type": "heading",
+      "text": "Hierarchy of Controls"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once risk is assessed, you must apply controls. The hierarchy of controls ranks control measures from most to least effective. Higher-level controls are always preferred:"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Level", "Control Type", "Example", "Effectiveness"],
+        "rows": [
+          ["1st", "Elimination", "Remove the hazard entirely", "Most Effective"],
+          ["2nd", "Substitution", "Replace the hazard with something less dangerous", "Very High"],
+          ["3rd", "Engineering Controls", "Isolate people from the hazard (guards, ventilation)", "High"],
+          ["4th", "Administrative Controls", "Safe work procedures, training, signs, permits", "Moderate"],
+          ["5th", "PPE", "Personal Protective Equipment (last resort)", "Least Effective"]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "PPE is the LAST resort in the hierarchy, not the first. A common mistake is to jump straight to PPE. Always try to eliminate or engineer out the hazard first."
+    },
+    {
+      "type": "example",
+      "text": "A chemical plant uses benzene (a carcinogen) as a solvent. Elimination: reformulate the product to not use benzene. Substitution: use a less toxic solvent. Engineering: enclosed system with local exhaust ventilation. Administrative: limit exposure time, training. PPE: respirators and chemical-resistant gloves as the final layer."
+    },
+    {
+      "type": "warning",
+      "text": "In Gulf region interviews, never say PPE is the best control. Interviewers at Aramco, ADNOC, and major EPC contractors will immediately flag this as a fundamental misunderstanding of safety management."
+    }
+  ],
+  "quizId": null
+}

@@ -1,0 +1,176 @@
+{
+  "id": "nebosh-igc/element-4-quiz",
+  "moduleId": "certifications/nebosh-igc/element-4",
+  "title": "Element 4 Quiz — Monitoring, Audits & Investigation",
+  "passMark": 70,
+  "questions": [
+    {
+      "id": "e4-q1",
+      "text": "What is the key difference between ACTIVE (proactive) monitoring and REACTIVE monitoring in health and safety?",
+      "options": [
+        { "id": "a", "text": "Active monitoring is done by managers; reactive monitoring is done by workers" },
+        { "id": "b", "text": "Active monitoring measures before harm occurs (e.g. inspections); reactive monitoring measures after harm has occurred (e.g. accident rates)" },
+        { "id": "c", "text": "Active monitoring uses statistical data; reactive monitoring uses direct observation" },
+        { "id": "d", "text": "Active monitoring is more expensive and is only used by large organisations" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Active (proactive) monitoring checks that controls are in place and working before harm occurs — examples include workplace inspections, tours, observations. Reactive monitoring records what has gone wrong after the event — injury rates, compensation costs, enforcement actions. Both are needed for a complete picture of H&S performance.",
+      "difficulty": "easy",
+      "tags": ["monitoring", "active monitoring", "reactive monitoring"]
+    },
+    {
+      "id": "e4-q2",
+      "text": "Following a serious workplace accident, a thorough investigation is carried out. What is the PRIMARY purpose of the investigation?",
+      "options": [
+        { "id": "a", "text": "To identify who is at fault so disciplinary action can be taken" },
+        { "id": "b", "text": "To satisfy the requirements of the insurance company" },
+        { "id": "c", "text": "To identify root causes and contributing factors so that similar incidents can be prevented" },
+        { "id": "d", "text": "To prepare evidence for a criminal prosecution" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The primary purpose of accident investigation is prevention — to understand what happened, why it happened (root causes and contributing factors), and what must change to prevent recurrence. Blame and legal considerations are secondary to learning. NEBOSH specifically tests this — always answer 'prevention' first.",
+      "difficulty": "easy",
+      "tags": ["incident investigation", "root cause"]
+    },
+    {
+      "id": "e4-q3",
+      "text": "In accident causation models, what is meant by an 'immediate cause' of an accident?",
+      "options": [
+        { "id": "a", "text": "The management failure that allowed the hazard to exist" },
+        { "id": "b", "text": "The unsafe act or unsafe condition that directly preceded the event" },
+        { "id": "c", "text": "The injury or damage that resulted from the event" },
+        { "id": "d", "text": "The human error made by the injured worker" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The immediate cause is the unsafe act (e.g., not wearing PPE) or unsafe condition (e.g., wet floor) that directly triggered the event. Root causes lie deeper — poor supervision, inadequate training, failed management systems. A good investigation goes beyond the immediate cause to identify root causes.",
+      "difficulty": "medium",
+      "tags": ["accident causation", "immediate cause", "root cause"]
+    },
+    {
+      "id": "e4-q4",
+      "text": "Heinrich's Triangle (accident triangle) suggests that for every major injury, there are many more minor injuries and near misses. The key lesson for H&S management is:",
+      "options": [
+        { "id": "a", "text": "Minor injuries should be ignored to focus resources on serious injuries only" },
+        { "id": "b", "text": "Near misses and minor incidents should be investigated because the same root causes, left unaddressed, could lead to a major event" },
+        { "id": "c", "text": "High near-miss reporting rates indicate a dangerous workplace" },
+        { "id": "d", "text": "Workers who report near misses should be disciplined to prevent over-reporting" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Heinrich's Triangle shows the ratio of near misses to minor injuries to major injuries (300:29:1 in the original). The implication is that near misses are early warning signals. Investigating and learning from near misses reduces the chance of a major event. High near-miss reporting is actually a sign of a healthy safety culture, not a dangerous one.",
+      "difficulty": "medium",
+      "tags": ["Heinrich's Triangle", "near miss", "accident causation"]
+    },
+    {
+      "id": "e4-q5",
+      "text": "Which of the following is a LAGGING (reactive) health and safety performance indicator?",
+      "options": [
+        { "id": "a", "text": "Percentage of safety observations completed per month" },
+        { "id": "b", "text": "Number of toolbox talk sessions held" },
+        { "id": "c", "text": "Lost Time Injury Frequency Rate (LTIFR)" },
+        { "id": "d", "text": "Proportion of risk assessments reviewed on schedule" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "LTIFR is a lagging indicator — it counts injuries that have already happened (per 1,000,000 or 200,000 man-hours worked). Options A, B, and D are all leading indicators measuring proactive safety activities. In Gulf O&G, both LTIFR and TRCR are core lagging KPIs tracked under Aramco SEMP and ADNOC contractor requirements.",
+      "difficulty": "easy",
+      "tags": ["lagging indicators", "LTIFR", "performance measurement"]
+    },
+    {
+      "id": "e4-q6",
+      "text": "What is the difference between an internal audit and an external (third-party) audit of an H&S management system?",
+      "options": [
+        { "id": "a", "text": "Internal audits only check physical conditions; external audits only review documents" },
+        { "id": "b", "text": "Internal audits are performed by the organisation's own staff; external audits are conducted by independent auditors outside the organisation" },
+        { "id": "c", "text": "External audits carry greater legal weight and can result in criminal prosecution" },
+        { "id": "d", "text": "Internal audits are always more objective because they have full site access" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Internal audits use the organisation's own staff to check systems and compliance. External (third-party) audits use independent auditors, providing greater objectivity. External audits are typically required for ISO 45001 certification. Both types examine documents, interviews, and physical observations — neither is limited to one type of evidence.",
+      "difficulty": "easy",
+      "tags": ["audit", "internal audit", "external audit"]
+    },
+    {
+      "id": "e4-q7",
+      "text": "After an accident investigation is complete, the MOST important next step is to:",
+      "options": [
+        { "id": "a", "text": "File the report in the incident log and close the case" },
+        { "id": "b", "text": "Share the report with the insurer for claims processing" },
+        { "id": "c", "text": "Implement the recommended corrective actions and verify their effectiveness" },
+        { "id": "d", "text": "Inform the injured worker of the findings" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The investigation report is only valuable if its recommendations are acted upon and verified as effective. Implementing and verifying corrective actions is the critical final step — without it, the same incident can recur. Informing the injured worker and filing records are also important but not the MOST critical step.",
+      "difficulty": "easy",
+      "tags": ["incident investigation", "corrective action"]
+    },
+    {
+      "id": "e4-q8",
+      "text": "Which of the following BEST describes the purpose of a workplace safety inspection?",
+      "options": [
+        { "id": "a", "text": "To verify that the H&S management system documentation is complete" },
+        { "id": "b", "text": "To systematically check physical conditions, work practices, and equipment against standards, and identify hazards before harm occurs" },
+        { "id": "c", "text": "To conduct interviews with workers about their perception of safety culture" },
+        { "id": "d", "text": "To review accident statistics and identify trends" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "A safety inspection is a structured examination of the physical workplace — conditions, equipment, housekeeping, work practices — against established standards. Its purpose is hazard identification before harm occurs. Audits examine management systems. Inspections examine the 'hardware' — what you can see.",
+      "difficulty": "easy",
+      "tags": ["inspection", "hazard identification"]
+    },
+    {
+      "id": "e4-q9",
+      "text": "In the '5 Whys' root cause analysis technique, what does asking 'why' repeatedly achieve?",
+      "options": [
+        { "id": "a", "text": "It helps assign individual blame by tracing back to a specific person's error" },
+        { "id": "b", "text": "It moves investigation from the immediate trigger to deeper underlying causes in the management system" },
+        { "id": "c", "text": "It counts the number of safety violations that contributed to the incident" },
+        { "id": "d", "text": "It establishes a legal chain of causation for prosecution purposes" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The '5 Whys' technique drills down from the immediate cause to deeper root causes by repeatedly asking 'Why did this happen?' It helps investigators discover system failures (poor training, inadequate procedures, management failures) rather than stopping at surface-level human error. Root cause analysis is about fixing systems, not blaming individuals.",
+      "difficulty": "medium",
+      "tags": ["root cause analysis", "5 Whys", "investigation techniques"]
+    },
+    {
+      "id": "e4-q10",
+      "text": "Under most national H&S legal frameworks (including Gulf countries following ILO standards), certain types of incidents MUST be reported to the regulatory authority. Which of the following would typically be a reportable incident?",
+      "options": [
+        { "id": "a", "text": "A minor cut requiring only first-aid treatment" },
+        { "id": "b", "text": "A worker slipping on a wet floor with no injury" },
+        { "id": "c", "text": "A fatality or specified serious injury occurring at work" },
+        { "id": "d", "text": "A near miss that did not result in any injury or damage" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Most H&S legal frameworks require mandatory reporting of fatalities, specified serious injuries (fractures, amputations, hospitalisation), dangerous occurrences, and certain occupational diseases. Minor injuries and near misses may have internal reporting requirements but are not typically reportable to the regulator. In the UK this is RIDDOR; Gulf countries have similar Ministry of Labour requirements.",
+      "difficulty": "medium",
+      "tags": ["reporting", "RIDDOR", "legal requirements"]
+    },
+    {
+      "id": "e4-q11",
+      "text": "An HSE Manager in a Qatar construction project notices that injury rates have remained low for 6 months but several near misses have gone unreported by workers who feared blame. This situation MOST likely indicates:",
+      "options": [
+        { "id": "a", "text": "Excellent safety performance — low injury rates prove the site is safe" },
+        { "id": "b", "text": "A blame culture is suppressing near-miss reporting, meaning hazards go unaddressed and a major incident is more likely" },
+        { "id": "c", "text": "Workers are self-sufficient and do not need to report minor issues" },
+        { "id": "d", "text": "Near misses are not important enough to require formal reporting" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Low reported injury rates combined with suppressed near-miss reporting is a dangerous combination. It creates a false sense of security while root causes remain unaddressed. A blame culture discourages honesty. In Gulf O&G (QP, ADNOC, Aramco environments), psychological safety — the freedom to report without fear — is a key indicator of safety culture maturity.",
+      "difficulty": "medium",
+      "tags": ["Gulf context", "safety culture", "near miss reporting"]
+    },
+    {
+      "id": "e4-q12",
+      "text": "Which of the following is the BEST definition of a 'near miss'?",
+      "options": [
+        { "id": "a", "text": "An accident that caused minor injury to a worker" },
+        { "id": "b", "text": "An unplanned event that did not result in injury or damage but had the potential to do so" },
+        { "id": "c", "text": "A situation where PPE prevented an injury from occurring" },
+        { "id": "d", "text": "An incident that was reported to the regulatory authority" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "A near miss is an unplanned event with no actual injury or damage but which had the potential to cause harm. Near misses are 'free lessons' — they reveal hazards without the human cost. PPE preventing an injury is a dangerous occurrence (harm was prevented by PPE, not by absence of the hazard). Near misses and dangerous occurrences are different categories.",
+      "difficulty": "easy",
+      "tags": ["near miss", "incident types"]
+    }
+  ]
+}

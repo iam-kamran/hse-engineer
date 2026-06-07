@@ -1,0 +1,108 @@
+{
+  "id": "certifications/nebosh-diploma/unit-e",
+  "sectionId": "nebosh-diploma",
+  "title": "Unit E: Environmental Management",
+  "order": 5,
+  "estimatedReadTime": 22,
+  "difficulty": "advanced",
+  "learningObjectives": [
+    "Understand the principles of environmental management systems (ISO 14001)",
+    "Identify key environmental hazards and their impact pathways",
+    "Apply environmental risk assessment techniques",
+    "Describe Gulf environmental regulatory frameworks and their relationship to ISO 14001"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Why Environmental Management Is Part of the HSE Role"
+    },
+    {
+      "type": "paragraph",
+      "text": "The E in HSE — Environment — has grown from a peripheral concern to a core professional responsibility. Climate commitments, net-zero targets, environmental regulations, and reputational risk mean that HSE professionals in the Gulf are increasingly expected to manage environmental risk alongside occupational health and safety. Unit E provides a systematic foundation."
+    },
+    {
+      "type": "heading",
+      "text": "ISO 14001:2015 — Environmental Management Systems"
+    },
+    {
+      "type": "definition",
+      "term": "ISO 14001:2015",
+      "text": "The international standard for environmental management systems (EMS). Uses the same High Level Structure as ISO 45001, enabling integrated management system implementation. Requires organisations to identify environmental aspects (activities that interact with the environment), evaluate their environmental impacts, set objectives to reduce significant impacts, and continually improve environmental performance."
+    },
+    {
+      "type": "paragraph",
+      "text": "ISO 14001 follows the PDCA cycle: Plan (context, policy, aspects, impacts, objectives), Do (operations, emergency preparedness), Check (monitoring, audit), Act (management review, continual improvement). The 2015 revision strengthened the 'lifecycle perspective' — considering environmental impacts from raw material extraction through to end-of-life disposal."
+    },
+    {
+      "type": "heading",
+      "text": "Environmental Aspects and Impacts"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Aspect", "Potential Impact", "Significance Criteria"],
+        "rows": [
+          ["Combustion emissions (NOx, SO2, CO2)", "Air pollution, acid rain, greenhouse effect", "Scale, severity, duration, regulatory threshold"],
+          ["Chemical spill to soil/water", "Soil contamination, groundwater pollution, aquatic toxicity", "Persistence, toxicity, proximity to water body"],
+          ["Wastewater discharge", "Aquatic ecosystem damage, eutrophication", "Volume, concentration of pollutants, receiving water quality"],
+          ["Noise from plant operations", "Community noise nuisance", "Proximity to receptors, time of day, frequency"],
+          ["Waste generation (hazardous)", "Landfill, contamination if improperly disposed", "Quantity, hazard classification, disposal options"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Environmental Risk Assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Environmental risk assessment evaluates the likelihood and severity of environmental harm from industrial activities. It uses similar risk matrices to occupational risk assessment but considers additional factors: persistence of the contaminant, bioaccumulation potential, pathway from source to receptor (soil-groundwater-surface water chain), and reversibility of environmental damage."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Source: the originating activity (e.g., fuel storage tank)",
+        "Pathway: the route by which the contaminant reaches a receptor (e.g., soil percolation to groundwater)",
+        "Receptor: the person, ecosystem, or resource at risk (e.g., domestic water supply, protected habitat)",
+        "Risk exists only when all three — source, pathway, and receptor — are present. Remove any one to eliminate the risk."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Key Environmental Regulations"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the international context, environmental regulation is governed by national law, international conventions, and industry standards. Unit E covers the principles applicable globally — integrated pollution prevention, waste hierarchy, contaminated land assessment, and environmental impact assessment (EIA)."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Principle", "Description"],
+        "rows": [
+          ["Precautionary Principle", "Where there is scientific uncertainty about harm, precautionary action should be taken to prevent it"],
+          ["Polluter Pays", "The cost of environmental damage should be borne by the party responsible for causing it"],
+          ["Waste Hierarchy", "Reduce > Reuse > Recycle > Recover energy > Dispose — prefer options higher in the hierarchy"],
+          ["BATNEEC", "Best Available Technology Not Entailing Excessive Cost — the basis for emission limit setting"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Environmental Emergency Response"
+    },
+    {
+      "type": "paragraph",
+      "text": "Facilities must prepare for environmental emergencies — oil spills, chemical releases, wastewater overflow, air emission incidents. Emergency response plans for environmental incidents include: containment (secondary bunding, spill kits), notification (regulatory authority, communities), clean-up (specialist contractors, media removal), and incident investigation (root cause, prevention of recurrence)."
+    },
+    {
+      "type": "example",
+      "text": "A petrochemical plant conducts its annual environmental review under ISO 14001. The environmental team identifies that a new process has added a solvent handling operation, creating a new significant environmental aspect: solvent vapour emissions to air exceeding the permit limit during summer. The plan-do-check-act cycle initiates: investigate emission characterisation, compare to permit limits, identify LEV and process modifications, implement controls, monitor emissions, and verify compliance with the permit. The aspect is reclassified from significant to minor after controls are implemented."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Environmental management is increasingly important in the Gulf as national Vision programmes (Saudi Vision 2030, UAE Net Zero 2050, Qatar National Vision 2030) embed sustainability commitments. Saudi Arabia has enacted the Saudi Environmental Law and established the National Centre for Environmental Compliance. The UAE's Federal Law No. 24 of 1999 and its executive regulations govern pollution prevention. All major Gulf operators — Aramco, ADNOC, QatarEnergy, KPC — are implementing ISO 14001 as part of integrated HSEMS (HSSE — Health, Safety, Security and Environment). Methane emissions reduction (flaring minimisation, leak detection and repair or LDAR programmes), produced water management, and desertification prevention from pipeline corridor development are the dominant environmental priorities for Gulf HSE professionals."
+    }
+  ],
+  "quizId": null
+}

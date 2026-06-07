@@ -1,0 +1,125 @@
+{
+  "id": "fundamentals/safety-culture",
+  "sectionId": "fundamentals",
+  "title": "Safety Culture",
+  "order": 5,
+  "estimatedReadTime": 12,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Define safety culture and distinguish it from safety climate",
+    "Describe the characteristics of a positive safety culture",
+    "Explain behavioural-based safety (BBS) and its application",
+    "Identify the role of leadership in shaping safety culture"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "What is Safety Culture?"
+    },
+    {
+      "type": "definition",
+      "term": "Safety Culture",
+      "text": "The shared values, beliefs, attitudes, and behaviours related to safety that are ingrained in an organisation. It is 'the way we do things around here' regarding safety. Culture is deep, enduring, and driven from the top."
+    },
+    {
+      "type": "definition",
+      "term": "Safety Climate",
+      "text": "A snapshot of the current attitudes and perceptions of workers about safety at a given point in time. Climate is measurable via surveys and can change more quickly than culture. A positive climate reflects a positive culture."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Safety culture is the CAUSE; safety climate is the EFFECT. A positive safety culture results in a positive safety climate, which leads to better safety performance."
+    },
+    {
+      "type": "heading",
+      "text": "Characteristics of a Positive Safety Culture"
+    },
+    {
+      "type": "paragraph",
+      "text": "Researchers from the UK Health and Safety Executive (HSE) and the International Nuclear Safety Advisory Group (INSAG) have identified the following as hallmarks of a positive safety culture:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Management commitment — Leaders visibly prioritise safety and allocate adequate resources",
+        "Just culture — Workers feel safe to report near misses and errors without fear of blame",
+        "Learning culture — The organisation learns from incidents and near misses",
+        "Informed culture — Those who manage and operate the system have current knowledge about human, technical, and organisational factors",
+        "Flexible culture — The ability to adapt to changing circumstances and risk levels",
+        "Communication — Open, two-way communication about safety at all levels"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Behavioural-Based Safety (BBS)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Behavioural-Based Safety (BBS) is an approach that focuses on identifying and changing at-risk behaviours before they lead to incidents. It is based on the observation that most incidents involve unsafe acts."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Step 1 — Identify critical safe and at-risk behaviours through analysis",
+        "Step 2 — Observe workers performing tasks and record behaviours",
+        "Step 3 — Provide immediate, positive feedback for safe behaviours",
+        "Step 4 — Discuss at-risk behaviours non-punitively and identify barriers",
+        "Step 5 — Analyse data to identify systemic issues",
+        "Step 6 — Set improvement targets and track progress"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "BBS works on positive reinforcement — reward safe behaviour rather than punish unsafe behaviour. The goal is to make safe behaviour the norm, not compliance driven by fear."
+    },
+    {
+      "type": "heading",
+      "text": "Leadership Styles and Safety"
+    },
+    {
+      "type": "paragraph",
+      "text": "Research consistently shows that leadership is the single most important driver of safety culture. Visible leadership commitment to safety — demonstrated through actions, not just words — has a direct impact on incident rates."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Leadership Style", "Safety Impact"],
+        "rows": [
+          ["Transformational", "Most effective — inspires workers to value safety intrinsically. Leaders set vision, mentor, and lead by example."],
+          ["Transactional", "Moderate — manages safety through rules, rewards, and consequences. Produces compliance but not commitment."],
+          ["Laissez-faire", "Negative — passive leadership that ignores safety issues creates a culture where risk-taking is normalised."]
+        ]
+      }
+    },
+    {
+      "type": "gulfNote",
+      "text": "Saudi Aramco's management openly participates in safety walks and 'Life-Saving Rules' campaigns. ADNOC's corporate HSE culture is driven by CEO-level visible commitment. Gulf employers expect HSE professionals to promote leadership engagement in safety — this is a common interview topic."
+    },
+    {
+      "type": "heading",
+      "text": "Hudson's Safety Culture Ladder"
+    },
+    {
+      "type": "paragraph",
+      "text": "Patrick Hudson developed a widely-used model that describes five levels of safety culture maturity:"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Level", "Name", "Characteristics"],
+        "rows": [
+          ["5", "Generative", "Safety is integrated into all business decisions. Proactive and continuously improving."],
+          ["4", "Proactive", "Safety issues are anticipated and addressed before incidents occur."],
+          ["3", "Calculative", "Systems-based management. Data collected but not always acted upon. 'Safety by the numbers.'"],
+          ["2", "Reactive", "Safety is only addressed after an incident occurs. 'We fix problems as they arise.'"],
+          ["1", "Pathological", "Safety is not a priority. 'We don't care as long as we don't get caught.'"]
+        ]
+      }
+    },
+    {
+      "type": "example",
+      "text": "A Gulf construction company at the 'Reactive' level has no formal HSE plan. After a fatal fall, they install guardrails on all open edges. They have moved to 'Calculative' when they then start tracking near-miss statistics. They reach 'Proactive' when they begin conducting pre-task risk assessments for every new activity before anyone starts work."
+    }
+  ],
+  "quizId": null
+}

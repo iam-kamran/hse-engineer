@@ -1,0 +1,120 @@
+{
+  "id": "certifications/osha/general-ergonomics",
+  "sectionId": "osha",
+  "title": "Ergonomics and Manual Handling in General Industry",
+  "order": 18,
+  "estimatedReadTime": 18,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Identify the risk factors that contribute to work-related musculoskeletal disorders",
+    "Apply the ergonomic risk assessment process to manual handling tasks",
+    "Describe engineering, administrative, and PPE controls for ergonomic hazards",
+    "Recognise early signs and reporting requirements for MSDs under OSHA recordkeeping"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Ergonomics: Fitting Work to the Worker"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ergonomics is the science of designing jobs, tasks, tools, and environments to fit the capabilities and limitations of the human body. Poor ergonomics leads to Work-Related Musculoskeletal Disorders (WMSDs or MSDs) — the largest category of workplace injury in both the US and Gulf regions, accounting for one-third of all lost-workday injuries."
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA does not have a specific ergonomics standard for general industry (the proposed standard was withdrawn in 2001). However, the General Duty Clause (Section 5(a)(1)) requires employers to address recognised ergonomic hazards that could cause MSDs. OSHA cites ergonomic hazards under the General Duty Clause."
+    },
+    {
+      "type": "heading",
+      "text": "Common MSD Types"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["MSD", "Affected Body Part", "Typical Job Task"],
+        "rows": [
+          ["Carpal Tunnel Syndrome", "Wrist/median nerve", "Repetitive wrist bending, vibrating tools"],
+          ["Tendinitis", "Tendons (shoulder, elbow, wrist)", "Repetitive overhead work, forceful gripping"],
+          ["Low Back Pain", "Lumbar spine and discs", "Heavy lifting, awkward postures, whole-body vibration"],
+          ["Trigger Finger", "Finger flexor tendon", "Repetitive gripping, forceful pinching"],
+          ["Rotator Cuff Injury", "Shoulder tendons", "Overhead lifting, pushing/pulling with shoulder"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "The MSD Risk Factors"
+    },
+    {
+      "type": "definition",
+      "term": "WMSD Risk Factors",
+      "text": "The conditions of work that increase the risk of developing an MSD. Often remembered by the acronym EFFORTS: Exertion (force), Force, Frequency, Overexertion, Repetition, Temperature (extremes), and Static postures."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Awkward postures: bending, twisting, reaching overhead or behind, working in stooped positions",
+        "Forceful exertions: heavy lifting, pushing, pulling, gripping power tools, using hammers",
+        "High repetition: same motion performed repeatedly with little recovery time",
+        "Contact stress: tools or surfaces pressing into soft tissue (wrist on desk edge, knee on hard floor)",
+        "Vibration: hand-arm vibration from power tools; whole-body vibration from driving heavy equipment",
+        "Static postures: holding a position for prolonged periods without movement"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Manual Handling and Lifting Techniques"
+    },
+    {
+      "type": "paragraph",
+      "text": "The NIOSH Lifting Equation provides a Recommended Weight Limit (RWL) for two-handed manual lifting tasks based on six task variables: horizontal distance of the load from the body, vertical height of the lift start, vertical distance of the lift, asymmetry of the lift, frequency and duration, and coupling (grip quality). A Lifting Index above 1.0 indicates increasing MSD risk."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Safe lifting technique (TILE mnemonic — also used in IOSH/NEBOSH): Task (what are you lifting, how far), Individual (training, physical capability), Load (weight, shape, stability), Environment (space, floor surface, lighting). Assess all four before lifting."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Plan the lift: clear the path, check the weight, get a grip",
+        "Position feet: shoulder-width apart, one foot forward for balance",
+        "Keep the load close to the body: extend arms increase the load on the lower back dramatically",
+        "Straight back, bend at the knees (or hip-hinge for light loads): use leg muscles, not back",
+        "Avoid twisting: turn the whole body, not just the torso",
+        "Team lift for loads over 25 kg (or 55 lbs) or large, awkward items"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Engineering and Administrative Controls"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Control Type", "Examples"],
+        "rows": [
+          ["Engineering", "Mechanical lift assists (hoists, vacuum lifts), adjustable-height workbenches, anti-vibration tool handles, turntables to eliminate twisting"],
+          ["Administrative", "Job rotation to distribute exposure, rest breaks, pacing to reduce repetition, buddy system for heavy loads"],
+          ["PPE", "Anti-vibration gloves (limited effectiveness), back support belts (controversial — most evidence shows no significant injury prevention)"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "OSHA Recordkeeping and MSDs"
+    },
+    {
+      "type": "paragraph",
+      "text": "MSDs are recordable on the OSHA 300 Log when they result in lost workdays, restricted duty, or medical treatment beyond first aid. OSHA removed the separate MSD column from the 300 Log in 2003, but MSDs must still be recorded. Early reporting by workers is critical — MSDs caught early often resolve with simple interventions; ignored, they become chronic and costly."
+    },
+    {
+      "type": "example",
+      "text": "A warehouse worker reports aching in both wrists after six months of packing operations. The HSE professional conducts an ergonomic assessment: the packing bench is 10 cm too low (causing wrist dorsiflexion), the tape gun handle causes pinching grip, and the task cycle is 5 seconds (very high repetition). Interventions: adjustable-height bench raised to elbow height, ergonomic tape dispenser with pistol grip, rotation with a less repetitive task every 45 minutes. The worker is referred to occupational health for assessment."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Manual handling MSDs are prevalent in Gulf construction and industrial maintenance — heavy pipe handling, scaffolding erection, and equipment installation create significant ergonomic risk. Additionally, heat stress and dehydration in Gulf climates impair muscle function and recovery, compounding MSD risk. Saudi Arabia's Occupational Safety and Health Guidelines reference ILO manual handling guidelines. In the UAE, OSHAD-SF includes ergonomic requirements under the Physical Hazards CoP. On Aramco construction sites, mechanical lifting aids (mini cranes, forklifts, vacuum lifters for heavy insulation panels) are increasingly mandated for loads above 25 kg. Ergonomics is a growing specialty in Gulf OSH as the region's HSE frameworks mature."
+    }
+  ],
+  "quizId": null
+}

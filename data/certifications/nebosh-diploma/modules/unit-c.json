@@ -1,0 +1,122 @@
+{
+  "id": "certifications/nebosh-diploma/unit-c",
+  "sectionId": "nebosh-diploma",
+  "title": "Unit C: Workplace and Work Equipment Safety",
+  "order": 3,
+  "estimatedReadTime": 25,
+  "difficulty": "advanced",
+  "learningObjectives": [
+    "Apply risk assessment principles to complex workplace safety scenarios",
+    "Analyse the safety requirements for work equipment across the lifecycle",
+    "Evaluate fall prevention and protection strategies for different working-at-height scenarios",
+    "Understand pressure systems, lifting equipment, and mechanical handling requirements"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Unit C: Scope and Approach"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unit C extends workplace safety knowledge from the IGC into the engineering and operational detail expected at senior practitioner level. It covers work equipment safety across the full lifecycle (procurement to decommissioning), working at height, mechanical handling, lifting operations, and pressure systems. In the Gulf context, these subjects are critical for refinery, construction, and offshore professionals."
+    },
+    {
+      "type": "heading",
+      "text": "Work Equipment Safety: Lifecycle Approach"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PUWER framework (Provision and Use of Work Equipment Regulations — UK, but internationally recognised) requires that work equipment be: suitable for intended use, maintained in safe condition, inspected at appropriate intervals, used by people with adequate training, and provided with specific safeguards for dangerous parts."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Lifecycle Stage", "Safety Considerations"],
+        "rows": [
+          ["Procurement/Design", "Selection for intended use, CE/UKCA marking, ergonomic design, inherent safety features"],
+          ["Installation", "Pre-startup safety review, commissioning checks, guarding verification, interlock testing"],
+          ["Operation", "Training, documented safe operating procedures, PPE requirements, supervision"],
+          ["Maintenance", "Planned preventive maintenance schedule, LOTO procedure, competent maintainers"],
+          ["Inspection", "Regular checks by competent person; thorough examination at prescribed intervals; records kept"],
+          ["Decommission", "Safe isolation, energy dissipation, disposal of hazardous fluids/materials"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Machinery Safety: EN ISO 12100 Risk Assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "EN ISO 12100 is the international standard for safety of machinery — machinery risk assessment methodology. It establishes: define machine limits (space, use, time), identify hazardous situations, estimate and evaluate risk, reduce risk through design (inherently safe design preferred), safeguarding, and information for use. Diploma candidates must be able to apply this framework."
+    },
+    {
+      "type": "heading",
+      "text": "Working at Height: Hierarchy and Collective vs. Individual Protection"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Work at Height Regulations (UK, internationally referenced) hierarchy: avoid working at height if possible; use collective fall prevention (guardrails, edge protection) in preference to individual protection (PFAS); use arrest equipment only if prevention is not practicable. Collective protection protects everyone automatically; individual protection depends on each worker's correct use."
+    },
+    {
+      "type": "definition",
+      "term": "Collective Fall Prevention",
+      "text": "Physical barriers that prevent falls for everyone in the area without requiring individual action — guardrails, edge protection, safety nets. Preferred over personal fall arrest systems (PFAS) because they do not depend on individual worker behaviour."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Permanent edge protection (fixed guardrails): best solution for permanent platforms and edges",
+        "Temporary edge protection: proprietary systems clamped to structures; must be designed to withstand 950 N (EU standard)",
+        "Safety nets: EN 1263; installed within 6 m below working level; tested to specified drop energy",
+        "Soft landing systems: airbags or pads — supplementary, not a standalone protection method",
+        "Personal fall arrest system: last resort; requires trained user, suitable anchor (EN 795), compatible harness and lanyard"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Lifting Operations and Lifting Equipment (LOLER)"
+    },
+    {
+      "type": "paragraph",
+      "text": "LOLER (Lifting Operations and Lifting Equipment Regulations — UK, internationally referenced) requires that lifting equipment be: strong and stable, marked with SWL (Safe Working Limit), installed safely, subject to thorough examination, and used in a planned and supervised manner. At Diploma level, candidates must understand the requirements for lift plans, competent persons, and examination intervals."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Equipment", "Thorough Examination Interval"],
+        "rows": [
+          ["Lifting equipment used to lift people (personnel baskets, MEWPs)", "6 months"],
+          ["Other lifting equipment (cranes, hoists, chain blocks)", "12 months, or as specified in examination scheme"],
+          ["Accessories (slings, shackles, hooks)", "6 months"],
+          ["Lifting equipment with no doubt about examination interval", "At installation and after exceptional circumstances"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Pressure Systems"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pressure vessels, boilers, pipelines, and associated protective devices are covered by the Pressure Systems Safety Regulations (PSSR). Key requirements: written scheme of examination prepared by a competent person, regular examination, records kept for the life of the system. Pressure system failures can cause catastrophic explosions — the Diploma requires understanding of failure mechanisms (fatigue, stress corrosion cracking, creep) and inspection methods (NDE techniques)."
+    },
+    {
+      "type": "heading",
+      "text": "Mechanical Handling: Forklifts, Conveyors, and ATEX"
+    },
+    {
+      "type": "paragraph",
+      "text": "Forklift truck accidents are a major cause of fatalities and serious injuries in workplaces. Key risks: pedestrian strike, tip-over on inclines or with unbalanced loads, falling load, and overloading. Control measures include segregation of pedestrians and forklifts, training and authorisation, site speed limits, stability testing, and traffic management plans."
+    },
+    {
+      "type": "example",
+      "text": "A Unit C exam question: 'A company is planning to use an overhead travelling crane to install process vessels in a new manufacturing plant. Outline the key factors you would consider in planning the lifting operations.' Answer structure: LOLER requirements, appointment of a competent person, lift plan preparation (weight, COG, crane capacity at radius, rigging plan, swing radius exclusion), pre-lift inspection of crane and accessories, test lift, communication plan, exclusion zone management, adverse weather limitations, and post-lift documentation."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Unit C subjects are directly applicable to Gulf EPC (Engineering, Procurement, Construction) projects and plant operations. On Aramco and ADNOC projects, lifting operations above 10 tonnes require a Critical Lift Plan prepared by a registered lifting engineer. Pressure vessels on Gulf sites are inspected to API 510 (pressure vessel inspection code) and API 570 (piping inspection code) — internationally accepted standards that supplement the LOLER/PSSR framework. Working at height on Gulf megaprojects involves tens of thousands of workers simultaneously, making collective fall prevention (edge protection systems, safety nets) the practical preference over individual PFAS. Gulf HSE professionals at Diploma level are expected to evaluate and authorise these control strategies, not just follow them."
+    }
+  ],
+  "quizId": null
+}

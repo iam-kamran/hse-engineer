@@ -1,0 +1,176 @@
+{
+  "id": "nebosh-igc/element-11-quiz",
+  "moduleId": "certifications/nebosh-igc/element-11",
+  "title": "Element 11 Quiz — Electrical Safety, Arc Flash & RCDs",
+  "passMark": 70,
+  "questions": [
+    {
+      "id": "e11-q1",
+      "text": "Which of the following is the MOST significant electrical hazard in the workplace?",
+      "options": [
+        { "id": "a", "text": "Electromagnetic interference affecting sensitive instruments" },
+        { "id": "b", "text": "Electric shock, arc flash, electrical fire, and explosion from electrical faults" },
+        { "id": "c", "text": "Static electricity causing discomfort when touching metal surfaces" },
+        { "id": "d", "text": "Power failure disrupting production" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The primary electrical hazards to life and health are: (1) electric shock — current passing through the body causing cardiac arrest, burns, or respiratory arrest; (2) arc flash — explosive release of energy from an electrical arc causing severe burns; (3) electrical fire — from overheating, short circuits, or arcing; (4) explosion — in environments with flammable atmospheres (critical in Gulf O&G). EMI and static discomfort are not life-threatening hazards.",
+      "difficulty": "easy",
+      "tags": ["electrical hazards", "electric shock", "arc flash"]
+    },
+    {
+      "id": "e11-q2",
+      "text": "What does an RCD (Residual Current Device) protect against?",
+      "options": [
+        { "id": "a", "text": "Overloading of electrical circuits — it trips when current exceeds the rated load" },
+        { "id": "b", "text": "Earth fault current — it detects small differences between current flowing out and returning, and disconnects the supply within milliseconds to prevent electrocution" },
+        { "id": "c", "text": "Voltage spikes from lightning strikes" },
+        { "id": "d", "text": "Electromagnetic radiation from electrical equipment" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "An RCD monitors the balance of current flowing in the live and neutral conductors. If current is leaking to earth (e.g., through a person touching a live conductor), the imbalance is detected and the circuit is disconnected in 25–40 milliseconds — typically fast enough to prevent a lethal cardiac arrest. RCDs protect against electric shock; fuses and MCBs protect against overloading. RCDs do not protect against all electric shock scenarios (e.g. shock between live and neutral).",
+      "difficulty": "medium",
+      "tags": ["RCD", "earth fault", "electrical protection"]
+    },
+    {
+      "id": "e11-q3",
+      "text": "What is arc flash, and in which environments is it a major hazard?",
+      "options": [
+        { "id": "a", "text": "A type of welding technique used to join metals — common in construction sites" },
+        { "id": "b", "text": "An explosive electrical discharge between conductors that releases intense heat (up to 20,000°C), pressure waves, molten metal, and UV radiation — a hazard during work on high-voltage switchgear and electrical panels" },
+        { "id": "c", "text": "A form of static electricity discharge that occurs when walking on synthetic carpets" },
+        { "id": "d", "text": "The thermal effect of overloaded wiring causing insulation to melt" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Arc flash is a sudden, explosive electrical discharge through the air between live conductors or between a conductor and earth. Temperatures can reach 20,000°C — four times the surface of the sun. It causes severe burns, blast injuries, and ignites clothing. Arc flash risk is highest when working on or near energised MV/HV electrical equipment — common in Gulf industrial facilities. This is why electrical isolation (LOTO) before any electrical work is non-negotiable.",
+      "difficulty": "medium",
+      "tags": ["arc flash", "electrical hazards", "high voltage"]
+    },
+    {
+      "id": "e11-q4",
+      "text": "The safe system of work for live electrical work requires which of the following as the FIRST step?",
+      "options": [
+        { "id": "a", "text": "Wear insulating gloves and begin work" },
+        { "id": "b", "text": "Consider whether work can be done dead (de-energised) — live working must only be done if de-energising creates a greater risk or is impractical" },
+        { "id": "c", "text": "Obtain verbal permission from the site manager" },
+        { "id": "d", "text": "Ensure a trained first-aider is present before starting" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The first principle for electrical safety is to always consider whether the work can be done dead (de-energised). Live electrical work should only proceed when de-energising would introduce greater risk (e.g. in safety-critical systems) or is genuinely impractical, AND only by a competent electrician with appropriate PPE, insulated tools, and a second person present. This principle is fundamental in Gulf O&G electrical PTW systems.",
+      "difficulty": "easy",
+      "tags": ["electrical safety", "live working", "safe system of work"]
+    },
+    {
+      "id": "e11-q5",
+      "text": "Which of the following is a safe practice when using portable electrical equipment on a construction site?",
+      "options": [
+        { "id": "a", "text": "Using 230V tools connected via a 30mA RCD protected socket" },
+        { "id": "b", "text": "Using 110V centre-tapped-to-earth (CTE) tools — which limit the maximum shock voltage to 55V" },
+        { "id": "c", "text": "Using battery-operated tools only if 230V tools feel warm after use" },
+        { "id": "d", "text": "Wrapping cable joints with PVC tape to waterproof the connection" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "On construction sites where cables can be damaged, 110V CTE (Centre Tapped to Earth) equipment is the preferred option. CTE means the transformer's secondary winding is earth-bonded at its midpoint, so the maximum voltage to earth is 55V — greatly reducing electric shock severity compared to 230V. RCDs provide additional protection but 110V CTE is the better primary control for site environments.",
+      "difficulty": "medium",
+      "tags": ["electrical safety", "portable equipment", "110V CTE"]
+    },
+    {
+      "id": "e11-q6",
+      "text": "Which of the following describes electrical insulation as a method of protecting against electric shock?",
+      "options": [
+        { "id": "a", "text": "A physical barrier such as a fence erected around high-voltage equipment" },
+        { "id": "b", "text": "A non-conducting material (PVC, rubber, XLPE) covering live conductors to prevent contact with current-carrying parts" },
+        { "id": "c", "text": "A circuit breaker that disconnects supply when current exceeds a set level" },
+        { "id": "d", "text": "Earthing of metallic enclosures to provide a safe path for fault current" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Insulation is a non-conductive material (PVC, rubber, cross-linked polyethylene) that covers live conductors to prevent direct contact. It is the primary protection on wiring, cables, and insulated tools. Barriers/fencing is 'protection by obstacle/location'. Circuit breakers provide overcurrent protection. Earthing provides a low-resistance fault path to trigger protective devices — a different protection method.",
+      "difficulty": "easy",
+      "tags": ["electrical protection", "insulation"]
+    },
+    {
+      "id": "e11-q7",
+      "text": "A Gulf oilfield construction worker connects a 230V angle grinder to a portable generator without RCD protection. The grinder cable develops a fault. What is the likely consequence?",
+      "options": [
+        { "id": "a", "text": "The generator automatically shuts down due to overload protection" },
+        { "id": "b", "text": "The worker may receive a potentially fatal electric shock — there is no RCD to disconnect the supply before cardiac arrest can occur" },
+        { "id": "c", "text": "The fuse will blow immediately, preventing any current from flowing" },
+        { "id": "d", "text": "The angle grinder will run at reduced speed to protect the motor" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Without an RCD, a fault in the cable allows current to flow through the worker to earth. A fuse or circuit breaker protects the circuit from overload but typically carries far too much current to protect a human — the fuse may not blow at all during the brief period needed to cause cardiac arrest. An RCD trips in 25–40 ms at leakage currents as low as 30 mA — specifically designed to prevent electrocution.",
+      "difficulty": "medium",
+      "tags": ["RCD", "electric shock", "Gulf context", "portable tools"]
+    },
+    {
+      "id": "e11-q8",
+      "text": "What PPE is required for an electrician working on high-voltage equipment where an arc flash risk has been assessed?",
+      "options": [
+        { "id": "a", "text": "Standard hard hat, safety boots, and high-visibility vest" },
+        { "id": "b", "text": "Arc-rated face shield, arc flash suit (with cal/cm² rating appropriate to the hazard level), insulating gloves rated for the voltage, and arc-rated footwear" },
+        { "id": "c", "text": "Rubber-soled boots and leather gloves" },
+        { "id": "d", "text": "A full-face respirator and chemical-resistant gloves" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Arc flash PPE must be specifically rated for the incident energy level (measured in cal/cm²) calculated during an arc flash risk assessment. This includes: arc-rated face shield (full face), arc flash suit or multi-layer flame-resistant clothing rated to the ATPV (Arc Thermal Performance Value), Class 00/0/1/2/3/4 insulating gloves rated to the system voltage, and arc-rated footwear. Standard PPE provides no meaningful protection against arc flash.",
+      "difficulty": "hard",
+      "tags": ["arc flash", "PPE", "arc flash suit"]
+    },
+    {
+      "id": "e11-q9",
+      "text": "Earthing of electrical equipment serves what purpose in electrical safety?",
+      "options": [
+        { "id": "a", "text": "It prevents electrical overloading by limiting current to safe levels" },
+        { "id": "b", "text": "It provides a low-resistance path for fault current to flow safely to earth, which causes the protective device (fuse/MCB) to operate and disconnect the supply" },
+        { "id": "c", "text": "It insulates the equipment from the ground to prevent moisture damage" },
+        { "id": "d", "text": "It eliminates the risk of arc flash in all circumstances" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Earthing connects the metal enclosure of electrical equipment to earth (ground). If a live conductor contacts the enclosure (fault condition), fault current flows via the earth path — this high current causes the fuse or MCB to blow, disconnecting the supply before anyone touching the enclosure receives a serious shock. Earthing does not prevent arc flash, which is a different hazard requiring different controls.",
+      "difficulty": "medium",
+      "tags": ["earthing", "electrical protection", "fault current"]
+    },
+    {
+      "id": "e11-q10",
+      "text": "In a Gulf petrochemical plant, electrical equipment in hazardous (classified) areas must be certified to which standard?",
+      "options": [
+        { "id": "a", "text": "ISO 9001 — Quality Management" },
+        { "id": "b", "text": "IECEx or ATEX — explosion-protected equipment standards, with the appropriate zone certification for the gas group and temperature class" },
+        { "id": "c", "text": "CE marking — general European product safety standard" },
+        { "id": "d", "text": "IP65 — Ingress Protection for dust and water" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Electrical equipment installed in classified zones (ATEX Zone 0/1/2 for gases) must be certified under IECEx (international) or ATEX (European) standards. The certification specifies the gas group (IIA, IIB, IIC) and temperature class (T1–T6) the equipment is safe to operate with. Using non-certified equipment in classified areas creates a direct ignition risk — this is controlled by area classification drawings maintained by Gulf facility operators.",
+      "difficulty": "hard",
+      "tags": ["ATEX", "IECEx", "hazardous area", "Gulf context"]
+    },
+    {
+      "id": "e11-q11",
+      "text": "What does the term 'double insulation' mean for portable electrical tools?",
+      "options": [
+        { "id": "a", "text": "The tool is wrapped in an extra layer of rubber for waterproofing" },
+        { "id": "b", "text": "The tool has two independent layers of insulation so that a fault in the outer insulation still does not make the casing live — eliminating the need for an earth wire" },
+        { "id": "c", "text": "The tool can operate safely at twice the rated voltage" },
+        { "id": "d", "text": "The cable has double the rated current capacity for outdoor use" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Double insulation (marked with the symbol of two concentric squares) means the tool has reinforced or supplementary insulation — a fault in one layer is not sufficient to make the casing live. Such tools do not require an earth wire because the risk of the casing becoming live is designed out. They are marked Class II. Standard tools with a single layer of insulation and an earth wire are Class I.",
+      "difficulty": "medium",
+      "tags": ["double insulation", "Class II", "portable tools"]
+    },
+    {
+      "id": "e11-q12",
+      "text": "On a Gulf construction project, the site safety officer finds that electrical cables are run across a roadway where vehicle traffic passes. What is the MOST appropriate corrective action?",
+      "options": [
+        { "id": "a", "text": "Place high-visibility tape over the cable to warn drivers" },
+        { "id": "b", "text": "Route cables overhead on proper cable runs or bury in ducts, or use cable ramps rated for vehicle traffic — and ensure cables are not damaged or have compromised insulation" },
+        { "id": "c", "text": "Reduce vehicle speed in the area to 5 km/h" },
+        { "id": "d", "text": "Add an extra cable so that if one is cut, power is maintained" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Cables across a vehicle roadway are at serious risk of mechanical damage that can compromise insulation, cause short circuits, fire, or electrocution. The correct control is engineering: route cables overhead (properly supported) or underground in ducts, or use heavy-duty cable protection rated for vehicle loading. Tape, speed limits, and redundant cables do not protect the cable from mechanical damage.",
+      "difficulty": "medium",
+      "tags": ["electrical safety", "cable management", "Gulf context"]
+    }
+  ]
+}

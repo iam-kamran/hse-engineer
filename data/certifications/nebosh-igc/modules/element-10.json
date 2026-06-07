@@ -1,0 +1,122 @@
+{
+  "id": "certifications/nebosh-igc/element-10",
+  "sectionId": "nebosh-igc",
+  "title": "Element 10: Fire",
+  "order": 10,
+  "estimatedReadTime": 18,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Describe the fire triangle and conditions required for fire",
+    "Classify fires and match them to the appropriate extinguishing agents",
+    "Outline fire risk assessment and means of escape requirements",
+    "Explain the causes and management of flammable substance hazards"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "10.1 The Fire Triangle and Tetrahedron"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fire requires three elements to start and continue. Remove any one and the fire is extinguished."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Element", "What It Means", "How to Remove It"],
+        "rows": [
+          ["Fuel", "Anything that will burn — solid, liquid, gas", "Remove fuel sources, store flammables safely, housekeeping"],
+          ["Oxygen", "Normally from air (21% O2)", "Smothering (CO2, foam, fire blanket)"],
+          ["Heat/Ignition", "Enough energy to start and sustain combustion", "Cool with water, remove ignition sources"]
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "The fire tetrahedron adds a fourth element — the chain reaction (free radicals that sustain combustion). Halon extinguishers (now banned) worked by interrupting this chain reaction. Dry powder also has some chain reaction interruption effect."
+    },
+    {
+      "type": "heading",
+      "text": "10.2 Fire Classification and Extinguishers"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Class", "Fuel Type", "Extinguishing Agent", "NOT to Use"],
+        "rows": [
+          ["Class A", "Ordinary combustibles: wood, paper, textiles, plastics", "Water, foam, dry powder, wet chemical", "CO2 alone (ineffective for deep-seated fires)"],
+          ["Class B", "Flammable liquids: petrol, diesel, oil, paint", "Foam, CO2, dry powder", "Water (spreads burning liquid)"],
+          ["Class C", "Flammable gases: LPG, natural gas, H2S", "Dry powder — stop gas supply first", "Water, CO2 (must isolate gas source)"],
+          ["Class D", "Combustible metals: magnesium, titanium, sodium", "Specialist dry powder only", "Water (explosive reaction with some metals)"],
+          ["Class F", "Cooking oils and fats (commercial kitchens)", "Wet chemical extinguisher", "Water (violent steam explosion)"],
+          ["Electrical", "Fires involving live electrical equipment", "CO2, dry powder (non-conductive)", "Water or foam (conductive; electrocution risk)"]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "In any fire — first alert others, call emergency services, then only attempt to fight the fire if it is small, you have a clear escape route, you have the right extinguisher, and you have been trained. Never place yourself at risk."
+    },
+    {
+      "type": "heading",
+      "text": "10.3 Fire Risk Assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "A fire risk assessment identifies fuel sources, ignition sources, and oxygen sources; evaluates who is at risk; and determines fire prevention and protection measures."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Fuel sources — Identify and control all combustible materials; no unnecessary storage; separate flammables",
+        "Ignition sources — Hot work controls (PTW); no-smoking enforcement; electrical equipment maintenance; static electricity controls",
+        "Oxygen sources — Avoid oxygen enrichment; safe storage of compressed oxygen",
+        "Detection — Automatic fire detection (smoke, heat, flame detectors); regular testing",
+        "Suppression — Sprinkler systems, gaseous suppression for IT rooms/archives",
+        "Means of escape — Adequate fire exits; unobstructed; emergency lighting; evacuation plans",
+        "Fire fighting — Correct extinguisher types; trained fire wardens"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "Hydrocarbon fires (Class B and C) are the primary fire risk in Gulf O&G. Facilities use dedicated fire suppression systems: deluge systems for tank farms, dry powder for transformer areas, foam systems for crude oil storage. Hot work permits are the primary prevention control for ignition in high-risk areas. All HSE officers must know the facility's fire emergency response plan and mustering procedures."
+    },
+    {
+      "type": "heading",
+      "text": "10.4 Flammable Atmosphere Hazards"
+    },
+    {
+      "type": "definition",
+      "term": "Lower Explosive Limit (LEL)",
+      "text": "The minimum concentration of a flammable gas or vapour in air that will ignite. Below the LEL the mixture is 'too lean' to burn. Atmospheric gas monitors alarm at 10% and 20% of LEL to give early warning."
+    },
+    {
+      "type": "definition",
+      "term": "Upper Explosive Limit (UEL)",
+      "text": "The maximum concentration at which a gas/vapour will ignite. Above the UEL the mixture is 'too rich' to burn. However, as gas disperses, it will pass through the explosive range — do not assume a very high reading means 'safe'."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Substance", "LEL (%)", "UEL (%)"],
+        "rows": [
+          ["Methane (natural gas)", "5", "15"],
+          ["H2S", "4", "44"],
+          ["Hydrogen", "4", "75"],
+          ["Petrol vapour", "1.4", "7.6"],
+          ["LPG (propane)", "2.1", "9.5"]
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "items": [
+        "ATEX/IECEx zones: Zone 0 (continuous risk), Zone 1 (likely), Zone 2 (unlikely) — only Ex-rated equipment allowed",
+        "Earthing and bonding — Prevent static electricity buildup during transfer of flammables",
+        "Hot work controls — PTW; gas testing before and during hot work; fire watcher",
+        "Ventilation — Prevent accumulation of flammable vapours in enclosed spaces"
+      ]
+    }
+  ],
+  "quizId": "nebosh-igc/element-10-quiz"
+}

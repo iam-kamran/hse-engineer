@@ -1,0 +1,139 @@
+{
+  "id": "certifications/first-aid/heat-cold",
+  "sectionId": "first-aid",
+  "title": "Module 5: Heat Stroke and Cold Injuries (Gulf Focus)",
+  "order": 5,
+  "estimatedReadTime": 20,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Distinguish between heat cramps, heat exhaustion, and heat stroke — and treat each correctly",
+    "Recognise that heat stroke is a life-threatening emergency requiring immediate cooling",
+    "Apply the Gulf construction heat stress management protocol for preventing heat illness",
+    "Understand the pathophysiology of why heat stroke kills",
+    "Know the first aid for hypothermia and frostbite in cold storage environments"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "The Gulf Heat Emergency — Why This Module Is Critical"
+    },
+    {
+      "type": "paragraph",
+      "text": "Heat illness kills workers every summer in the Gulf. Saudi Arabia, UAE, Qatar, Kuwait, and Oman regularly record ambient temperatures exceeding 48–50°C with radiant heat from the sun and hot surfaces pushing the effective heat load even higher. The Wet Bulb Globe Temperature (WBGT) index — which combines temperature, humidity, radiant heat, and wind — frequently reaches dangerous levels from May through September. For a first aider working on a Gulf construction or oil and gas site, heat illness response is the most likely life-threatening emergency you will face."
+    },
+    {
+      "type": "gulfNote",
+      "text": "All Gulf countries enforce summer outdoor work bans: Saudi Arabia (12:00–15:00, June 15–September 15), UAE (12:30–15:00, June 15–September 15), Qatar (10:00–15:30, June 1–September 15), Kuwait (10:00–15:00, July–August), Oman (12:30–15:30, June 15–September 15), Bahrain (12:30–15:00, June 15–September 15). Even outside these hours, WBGT-based work/rest schedules must be applied."
+    },
+    {
+      "type": "heading",
+      "text": "The Spectrum of Heat Illness"
+    },
+    {
+      "type": "heading",
+      "text": "Heat Cramps"
+    },
+    {
+      "type": "paragraph",
+      "text": "Painful muscle cramps (usually legs, abdomen) caused by salt and fluid loss during heavy sweating. The worker is conscious, alert, and sweating heavily. First aid: move to shade or cool area; rest; provide cool water with electrolytes (sports drink or oral rehydration salts); gentle stretching of the affected muscle. The worker should not return to heavy physical work in the heat that day."
+    },
+    {
+      "type": "heading",
+      "text": "Heat Exhaustion"
+    },
+    {
+      "type": "paragraph",
+      "text": "Heat exhaustion is caused by significant fluid and salt loss. The body's temperature regulation is struggling but not yet failing. The worker is conscious but feels unwell."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Signs: heavy sweating; pale, cool, clammy skin; rapid, weak pulse; normal or mildly elevated body temperature (up to 40°C); headache; dizziness, weakness, fatigue; nausea; muscle cramps"
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "First aid: move immediately to shade or air-conditioned environment; lay down and elevate legs; remove excess clothing; cool with cool water spray, wet towels to skin, or fan; give cool water or electrolyte drink if fully conscious and able to swallow; monitor closely — if condition does not improve within 30 minutes or deteriorates, treat as heat stroke and call emergency services"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Heat Stroke — A Medical Emergency"
+    },
+    {
+      "type": "paragraph",
+      "text": "Heat stroke occurs when the body's thermoregulatory system fails completely — core body temperature rises above 40°C (104°F) and the body can no longer cool itself. Without rapid treatment, heat stroke causes multi-organ failure and death. Heat stroke has a mortality rate of 10–50% even with treatment. It is a medical emergency equivalent to cardiac arrest."
+    },
+    {
+      "type": "warning",
+      "text": "Heat stroke is an immediately life-threatening emergency. Call 911/999 immediately AND begin aggressive cooling simultaneously. Every minute of delay increases brain damage, organ failure, and mortality. Do not wait for emergency services before starting cooling."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Signs: high body temperature (above 40°C / 104°F); HOT skin — may be DRY (classic heat stroke) or WET (exertional heat stroke in outdoor workers); confusion, altered mental state, agitation, bizarre behaviour, slurred speech; loss of consciousness; seizures; rapid, strong pulse initially; eventually cardiovascular collapse"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "The key difference between heat exhaustion and heat stroke: in heat exhaustion the person is still sweating and conscious (but unwell). In heat stroke, thermoregulation has FAILED — they may stop sweating, their core temperature is 40°C+, and they have altered mental state or unconsciousness. Heat stroke IS life-threatening; heat exhaustion is serious but not immediately fatal."
+    },
+    {
+      "type": "heading",
+      "text": "Heat Stroke First Aid — COOL FAST"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Call emergency services (911/999) immediately",
+        "Move to coolest available location immediately — shade, air-conditioned vehicle, cool room",
+        "Remove excess clothing",
+        "Ice immersion (most effective if available): immerse the casualty in ice water up to the neck — this is the fastest cooling method and saves lives; do not hesitate if ice is available",
+        "Ice packs to neck, armpits, and groin — where large blood vessels are close to the skin",
+        "Fan with cool air while spraying cool water on the skin",
+        "Wet towels or cool cloths over the body, changed frequently",
+        "Do NOT give fluids to a confused or unconscious casualty — aspiration risk",
+        "If conscious and improving: cool electrolyte fluids sipped slowly",
+        "Monitor temperature if a thermometer is available — target below 39°C before stopping aggressive cooling",
+        "Recovery position if unconscious but breathing; CPR if cardiac arrest"
+      ]
+    },
+    {
+      "type": "example",
+      "text": "A scaffold erector collapses on a Saudi construction site at 14:30 in August. He is hot to touch, confused, and not responding normally. His skin is flushed and still sweating but minimally. Temperature measured: 41.2°C. Action: one colleague calls 911 immediately; two colleagues carry him to the air-conditioned site office; remove his hard hat, vest, and outer clothing; apply ice packs from the site medic's bag to his neck, armpits, and groin; fan him while spraying cool water; monitor every 2 minutes. Ambulance arrives 12 minutes later — temperature has dropped to 40.0°C. He survives with prompt treatment. The same delay of even 15 minutes of active cooling could have resulted in fatal organ failure."
+    },
+    {
+      "type": "heading",
+      "text": "Prevention Is Better Than Treatment"
+    },
+    {
+      "type": "paragraph",
+      "text": "For Gulf construction first aiders and HSE officers, preventing heat illness is the priority. Key prevention measures: WBGT monitoring; work/rest schedules starting from WBGT 28°C; acclimatisation of new workers (7–14 days); 250ml cool water every 20 minutes (not just 'water available'); shaded rest areas with seating close to work area; buddy system so symptoms are spotted early; pre-employment medical screen for heat-vulnerable conditions (obesity, hypertension, diabetes, heart disease, certain medications)."
+    },
+    {
+      "type": "heading",
+      "text": "Cold Injuries in Gulf Industrial Settings"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cold injuries are less intuitive in a Gulf context but do occur. Cold storage facilities (food warehouses, LNG facilities, pharmaceutical cold chains), high-altitude work in Oman's Hajar Mountains in winter, and night shifts in desert areas where temperatures can fall below 10°C in winter are all contexts where cold injury can occur. LNG (Liquefied Natural Gas) facilities present a specific cryogenic burn hazard — LNG is stored at -162°C and contact causes immediate frostbite."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Cold Injury", "Signs", "First Aid"],
+        "rows": [
+          ["Hypothermia (core temp <35°C)", "Shivering (mild); confusion, no shivering, muscle stiffness (moderate–severe); unconsciousness (severe)", "Remove from cold; remove wet clothing; wrap in blankets; warm the core (not limbs first); warm sweet drinks if conscious; hospital urgently for moderate/severe"],
+          ["Frostbite (frozen tissue)", "Skin white/waxy, hard, numb initially; upon thawing — red, blistered, extremely painful", "Protect from further cold; rewarm ONLY if no risk of refreezing (refreezing causes worse damage); immerse in warm water (37-40°C); do not rub; hospital for assessment"],
+          ["Cryogenic burns (LNG contact)", "Immediate white, waxy freeze burn; can appear similar to heat burns once thawed", "Flood with warm (not hot) water immediately; treat as deep burn; hospital urgently — cryogenic burns are deeper than they appear"]
+        ]
+      }
+    },
+    {
+      "type": "gulfNote",
+      "text": "LNG cryogenic burns are a specific hazard at Oman LNG, ADNOC LNG (Abu Dhabi), and QatarEnergy North Field LNG facilities — some of the world's largest LNG producers. Workers handling LNG must wear cryogenic PPE (face shield, cryogenic gloves rated for -196°C, thermal coveralls) and must know the first aid response for cryogenic burns. The response (warm water irrigation) is counterintuitive — the instinct is to use hot water, which must be avoided as it worsens the injury."
+    }
+  ],
+  "quizId": "first-aid/heat-cold-quiz"
+}

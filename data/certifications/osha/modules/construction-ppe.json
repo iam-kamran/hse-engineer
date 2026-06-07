@@ -1,0 +1,153 @@
+{
+  "id": "certifications/osha/construction-ppe",
+  "sectionId": "osha",
+  "title": "PPE Selection and Use in Construction (29 CFR 1926 Subpart E)",
+  "order": 8,
+  "estimatedReadTime": 18,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Apply the hierarchy of controls to understand where PPE fits",
+    "Select appropriate PPE for head, eye, face, hearing, foot, and hand protection",
+    "Understand the OSHA employer obligation to provide PPE at no cost",
+    "Recognise respiratory protection requirements and limitations"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "PPE: The Last Line of Defence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Personal Protective Equipment (PPE) is the last control in the hierarchy — used when engineering controls and administrative controls cannot adequately reduce exposure. OSHA requires employers to assess hazards, select appropriate PPE, provide it at no cost to the employee, and train workers in its proper use, limitations, and maintenance."
+    },
+    {
+      "type": "keyPoint",
+      "text": "OSHA 1926.95 requires employers to provide PPE that is appropriate to protect against identified hazards. Since 2008, OSHA has required most PPE to be provided at no cost to workers. Exceptions: ordinary safety-toe boots, prescription eyewear, and logging boots."
+    },
+    {
+      "type": "heading",
+      "text": "Hierarchy of Controls Reminder"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Level", "Control Type", "Example"],
+        "rows": [
+          ["1 (Most Effective)", "Elimination", "Remove the hazard entirely — redesign the job"],
+          ["2", "Substitution", "Replace a toxic chemical with a less hazardous one"],
+          ["3", "Engineering Controls", "Guarding, ventilation, noise enclosures"],
+          ["4", "Administrative Controls", "Job rotation, written procedures, training"],
+          ["5 (Least Effective)", "PPE", "Hard hat, gloves, respirator, hearing protection"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Head Protection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hard hats (helmets) are required whenever there is a possible danger of head injury from impact, falling or flying objects, or electrical shock. ANSI/ISEA Z89.1 sets the standard for industrial head protection."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Class", "Protection", "Use"],
+        "rows": [
+          ["Type I", "Top of head only", "Most construction and industrial use"],
+          ["Type II", "Top and lateral impact", "Higher impact risk scenarios"],
+          ["Class E (Electrical)", "Up to 20,000 volts", "Electrical work"],
+          ["Class G (General)", "Up to 2,200 volts", "General construction"],
+          ["Class C (Conductive)", "No electrical protection", "Comfort-only, no electrical hazard"]
+        ]
+      }
+    },
+    {
+      "type": "warning",
+      "text": "Never modify a hard hat — no holes drilled, no painting (some paints degrade the shell), no stickers over cracks. Replace after any significant impact. Replace the suspension system every year; replace the shell every five years regardless of condition."
+    },
+    {
+      "type": "heading",
+      "text": "Eye and Face Protection"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Safety glasses (ANSI Z87.1): minimum protection for construction sites — provide side shield protection",
+        "Safety goggles: required for chemical splash, fine dust, and molten metal splash",
+        "Face shield: provides face protection against splash and flying debris — worn over safety glasses or goggles",
+        "Welding helmets: auto-darkening or fixed shade — shade selection depends on welding process (MIG/TIG/stick/plasma)",
+        "Laser safety eyewear: wavelength-specific — must match the laser in use"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Hearing Protection"
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA requires hearing protection when noise levels exceed 90 dBA over an 8-hour TWA (or if a worker's 8-hour exposure using the 5 dB exchange rate exceeds the permissible dose). Hearing protection is recommended above 85 dBA."
+    },
+    {
+      "type": "definition",
+      "term": "Noise Reduction Rating (NRR)",
+      "text": "A number (in dB) printed on the hearing protector package indicating its laboratory noise attenuation. In real-world conditions, actual protection is lower. OSHA requires dividing the NRR by 2 to estimate real-world protection: NRR 33 earplugs provide approximately 16.5 dB of real-world attenuation."
+    },
+    {
+      "type": "heading",
+      "text": "Hand Protection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gloves must be selected based on the specific hazard — there is no universal glove. Using the wrong glove can provide false security while offering no real protection."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Hazard", "Glove Type"],
+        "rows": [
+          ["Cuts, abrasions (construction)", "Cut-resistant ANSI A2–A9 leather or synthetic"],
+          ["Chemicals (solvents, acids)", "Nitrile (thin gauge for dexterity); neoprene or butyl for strong acids"],
+          ["Heat / welding", "Leather welding gloves; aluminised gloves for radiant heat"],
+          ["Electrical", "Insulated rubber gloves (Class 00–4); rated voltage must exceed maximum system voltage"],
+          ["Cryogenic hazards", "Insulated cryogenic gloves with wrist protection"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Foot Protection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Safety-toed footwear (ASTM F2412 and F2413) is required when workers are exposed to falling or rolling objects, objects that could pierce the sole, or electrical hazards. Steel, composite, and aluminium toecaps all meet the standard — composite is preferred in electrical environments."
+    },
+    {
+      "type": "heading",
+      "text": "Respiratory Protection Overview"
+    },
+    {
+      "type": "paragraph",
+      "text": "Respirators are selected based on the contaminant type (particulate, chemical, IDLH atmosphere), exposure level relative to OELs, and oxygen content of the atmosphere. OSHA 1910.134 (referenced in construction via 1926.103) sets the written respiratory protection program requirement."
+    },
+    {
+      "type": "list",
+      "items": [
+        "N95 filtering facepiece: 95% efficiency for non-oily particulates (construction dust, TB); NOT suitable for chemical vapours",
+        "Half-face APF: 10 — reduces exposure to 1/10 of ambient concentration",
+        "Full-face APF: 50 — protects eyes and face; required for some chemicals",
+        "Powered Air-Purifying Respirator (PAPR): APF 25 (half-face) or 1000 (hood/suit); suitable for workers who cannot seal half/full-face",
+        "SCBA or Supplied Air: required for IDLH (Immediately Dangerous to Life or Health) atmospheres, confined spaces with toxic atmosphere"
+      ]
+    },
+    {
+      "type": "example",
+      "text": "A construction crew cutting concrete blocks is exposed to respirable crystalline silica (a Group 1 carcinogen). The competent person reviews the SDS, calculates the daily silica exposure, and implements Table 1 controls: a wet-cutting saw with integrated water delivery. Workers still wear N95 respirators as supplemental protection during high-dust tasks. A written silica control plan is maintained on site (required under 29 CFR 1926.1153)."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: PPE requirements on Gulf construction sites are strict and consistently enforced by site HSE departments. Aramco SEMP requires Class E hard hats (for electrical hazard potential), safety glasses with side shields as minimum eye protection at all times on site, and high-visibility vests in all traffic areas. In extreme heat (common May–September in Saudi Arabia, UAE, and Qatar), cooling PPE such as neck cooling towels, cooling vests, and sun-protection long-sleeve shirts are increasingly mandatory under Gulf country heat-stress regulations. UAE Federal Law No. 33 of 2021 prohibits outdoor construction work 12:30 PM–3:00 PM during the summer months."
+    }
+  ],
+  "quizId": null
+}

@@ -1,0 +1,130 @@
+{
+  "id": "certifications/nebosh-igc/element-9",
+  "sectionId": "nebosh-igc",
+  "title": "Element 9: Work Equipment",
+  "order": 9,
+  "estimatedReadTime": 18,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Identify the hazards associated with powered and hand tools",
+    "Explain the requirements for machinery guarding",
+    "Describe the principles of Lockout/Tagout (LOTO) for energy isolation",
+    "Outline the key requirements for mobile plant and vehicles"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "9.1 Hazards from Work Equipment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work equipment includes any machinery, tool, appliance, or installation used at work. Hazards from equipment fall into two categories: mechanical and non-mechanical."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Hazard Type", "Examples", "Description"],
+        "rows": [
+          ["Mechanical — Contact", "Cutting, shearing, stabbing, crushing, entanglement", "Body contact with moving part"],
+          ["Mechanical — Ejection", "Workpiece ejected, fluid under pressure", "Objects or fluids thrown from machinery"],
+          ["Mechanical — Entrapment", "In-running nips, rotating parts", "Body or clothing drawn into machine"],
+          ["Non-mechanical — Electrical", "Electric shock, arc flash", "Contact with live conductors"],
+          ["Non-mechanical — Noise/Vibration", "Hearing loss, HAVS", "From machinery operation"],
+          ["Non-mechanical — Heat", "Burns from hot surfaces, sparks", "Contact with hot components or emissions"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "9.2 Machinery Guarding"
+    },
+    {
+      "type": "paragraph",
+      "text": "Guards physically prevent access to dangerous parts of machinery. The hierarchy of guarding:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Fixed guard — Permanently attached; provides best protection; removal requires tools. Preferred option.",
+        "Interlocked guard — Linked to machine control; machine stops when guard is opened",
+        "Adjustable guard — Allows adjustment for different material sizes; worker can still reach danger zone",
+        "Self-adjusting guard — Adjusts to workpiece as it passes through; common on woodworking machinery",
+        "Distance guard — Prevents reaching the danger zone without entering; photoelectric barriers, safety fences"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "A guard must be: strongly constructed, difficult to bypass or defeat, not introduce additional hazards itself, located at safe distance from danger zone, and not unduly restrict the view of the work process."
+    },
+    {
+      "type": "heading",
+      "text": "9.3 Lockout/Tagout (LOTO) — Energy Isolation"
+    },
+    {
+      "type": "definition",
+      "term": "Lockout/Tagout (LOTO)",
+      "text": "A safety procedure that ensures hazardous energy sources (electrical, pneumatic, hydraulic, thermal, gravitational, chemical) are isolated and cannot be re-energised while work is being performed on equipment. Also called Isolation or Energy Control."
+    },
+    {
+      "type": "list",
+      "items": [
+        "1. Notify — Tell affected employees that work is about to start",
+        "2. Identify energy sources — All sources: electrical, pneumatic, hydraulic, stored energy",
+        "3. Isolate — Switch off, close valves, block gravity energy",
+        "4. Apply lockout devices — Physical locks prevent re-energisation",
+        "5. Release stored energy — Bleed lines, discharge capacitors, block moving parts",
+        "6. Verify — Test to confirm equipment is de-energised before starting work",
+        "7. Perform work — Only authorised personnel in the isolation zone",
+        "8. Restore — Remove locks in reverse order; verify area is clear; re-energise"
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Only the person who applied a lock can remove it. If multiple people work on equipment simultaneously, each applies their own personal lock (multi-lock hasp). This prevents one worker removing the lock while another is still in the danger zone."
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Gulf O&G, LOTO is always used alongside the Permit to Work system. The 'Isolation Certificate' is a formal document specifying all energy sources that must be isolated before the PTW is issued. Aramco's GI-0002.100 (Electrical Safety) and GI-7.025 (Work Permits) both address isolation requirements in detail."
+    },
+    {
+      "type": "heading",
+      "text": "9.4 Inspection and Maintenance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work equipment must be regularly inspected and maintained to remain safe. There are three levels of inspection:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Pre-use check — By the operator before each use; check for obvious defects, damage, missing guards",
+        "Periodic inspection — At defined intervals; by a competent person; formal record",
+        "Thorough examination — For safety-critical equipment (lifting equipment, pressure vessels); by competent person as defined in legislation; certification issued"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "9.5 Mobile Plant and Vehicles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vehicle-related incidents (including pedestrian-vehicle collisions) are among the leading causes of fatalities on construction and industrial sites."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Segregate pedestrians and vehicles — Separate routes; barriers; clearly marked pedestrian crossings",
+        "Visibility — Mirrors, cameras, banksmen for reversing; high-visibility clothing for pedestrians",
+        "Speed limits — Enforce 10–15 km/h on sites; speed bumps; signage",
+        "Competence — Operators must hold appropriate licences and site-specific authorisation",
+        "Pre-use checks — Tyres, brakes, lights, horn, seatbelt, all-round visibility",
+        "Safe loading — Never exceed rated capacity; secure loads; no passengers unless seats provided"
+      ]
+    },
+    {
+      "type": "example",
+      "text": "A worker is struck by a reversing forklift at a warehouse in Dubai. Investigation reveals: no segregated pedestrian route; forklift had no reversing alarm; driver had no authorisation; area had poor lighting. Corrective actions: install pedestrian barriers and markings; fit reversing cameras and alarms to all forklifts; implement competency-based authorisation; upgrade lighting."
+    }
+  ],
+  "quizId": "nebosh-igc/element-9-quiz"
+}

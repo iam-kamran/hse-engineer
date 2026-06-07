@@ -1,0 +1,113 @@
+{
+  "id": "certifications/first-aid/scene-safety",
+  "sectionId": "first-aid",
+  "title": "Module 1: Scene Safety and Initial Assessment",
+  "order": 1,
+  "estimatedReadTime": 15,
+  "difficulty": "beginner",
+  "learningObjectives": [
+    "Apply the DR ABC approach to any emergency situation",
+    "Assess a scene for safety before approaching a casualty",
+    "Perform a primary survey to identify life-threatening conditions",
+    "Understand when to call for emergency services and what information to provide",
+    "Place an unconscious breathing casualty in the recovery position"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "The First Aider's First Rule: Safety First"
+    },
+    {
+      "type": "paragraph",
+      "text": "The single most important principle in first aid is: do not become a casualty yourself. An incapacitated first aider helps no one and creates an additional burden for the emergency services. Before rushing to help someone, take 5 seconds to assess the scene for dangers. This is especially critical in the Gulf, where scenes may involve H2S gas, electrical hazards, moving vehicles, or unstable structures."
+    },
+    {
+      "type": "warning",
+      "text": "In confined spaces with suspected H2S or oxygen deficiency: DO NOT enter without Self-Contained Breathing Apparatus (SCBA). Many fatalities involve would-be rescuers who enter without equipment and also collapse. The scene is safe only when you have confirmed the atmosphere or have proper breathing protection."
+    },
+    {
+      "type": "heading",
+      "text": "DR ABC — The Primary Survey"
+    },
+    {
+      "type": "paragraph",
+      "text": "DR ABC is the systematic approach used by first aiders to assess and manage any emergency situation. In the UK and most international frameworks it is: Danger → Response → Airway → Breathing → Circulation (including CPR if needed). Some frameworks add a 'C' for 'Catastrophic bleeding control' before Airway — giving DR C ABC, which is increasingly used in industrial and trauma settings."
+    },
+    {
+      "type": "definition",
+      "term": "D — Danger",
+      "text": "Is the scene safe for you, others, and the casualty? Look for: gas leaks, fire, electricity, traffic, unstable structures, H2S indicators (dead animals, gas alarms). If the scene is not safe, do not enter. Remove the danger if you can do so safely, or call for specialist help. Move the casualty only if there is immediate life-threatening danger and the move is safe."
+    },
+    {
+      "type": "definition",
+      "term": "R — Response",
+      "text": "Is the casualty conscious? Tap their shoulders firmly and shout 'Can you hear me?' or 'Are you okay?' A response — opening eyes, making a sound, moving — means they are conscious. No response means they are unconscious. If unconscious: send someone to call emergency services immediately (or call yourself while continuing assessment)."
+    },
+    {
+      "type": "definition",
+      "term": "A — Airway",
+      "text": "If unconscious, open the airway using the head-tilt/chin-lift technique: place one hand on the forehead, tilt the head back gently, and lift the chin with two fingers. This moves the tongue away from the back of the throat. If a neck injury is suspected (traumatic fall, vehicle accident), use the jaw-thrust technique instead — pull the jaw forward without tilting the head."
+    },
+    {
+      "type": "definition",
+      "term": "B — Breathing",
+      "text": "Look, Listen, and Feel for up to 10 seconds: Look for chest rise and fall; Listen for breath sounds; Feel for air on your cheek. If breathing normally: place in the recovery position and monitor. If not breathing normally (or absent): begin CPR immediately."
+    },
+    {
+      "type": "definition",
+      "term": "C — Circulation / CPR",
+      "text": "If the casualty is not breathing normally, begin CPR (Cardiopulmonary Resuscitation). CPR maintains blood flow to the brain and heart until defibrillation or advanced help arrives. Without CPR, brain damage begins within 4–6 minutes of cardiac arrest. Start CPR immediately — do not wait for emergency services to arrive."
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Gulf industrial settings, the DR ABC approach must account for environmental hazards specific to the region: (1) Heat stroke — a collapsed worker in extreme heat may be a medical emergency requiring cooling alongside standard ABC assessment; (2) H2S exposure — a collapsed worker in a suspected gas zone should be assessed using DR ABC but without entering the zone without SCBA; (3) Electrical shock — ensure power is isolated before approaching — do not touch the casualty if they are still in contact with a live electrical source."
+    },
+    {
+      "type": "heading",
+      "text": "Calling Emergency Services"
+    },
+    {
+      "type": "paragraph",
+      "text": "When calling emergency services, provide clearly and calmly: your name and contact number; the exact location (site address, grid reference, or GPS coordinates); the nature of the emergency (industrial accident, cardiac arrest, chemical exposure); number of casualties and their condition; hazards present (gas leak, electrical, confined space); and any first aid already being given. Do NOT hang up until told to do so."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Country", "Emergency Number", "Notes"],
+        "rows": [
+          ["Saudi Arabia", "911", "Police, Ambulance, Fire"],
+          ["UAE", "999", "Police, Ambulance, Fire"],
+          ["Qatar", "999", "Police, Ambulance, Fire"],
+          ["Kuwait", "112 / 777", "Emergency / Ambulance"],
+          ["Oman", "9999", "Emergency services"],
+          ["Bahrain", "999", "Police, Ambulance, Fire"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "The Recovery Position"
+    },
+    {
+      "type": "paragraph",
+      "text": "An unconscious casualty who is breathing normally should be placed in the recovery position to keep their airway open and prevent choking on vomit. Steps: (1) Kneel beside the casualty; (2) Place the arm nearest to you at a right angle, elbow bent, palm facing up; (3) Bring the far arm across the chest and hold the back of the hand against the cheek nearest to you; (4) With your other hand, pull up the far knee; (5) Keeping the hand against the cheek, pull the far knee to roll the casualty towards you onto their side; (6) Adjust the upper leg so the hip and knee are at right angles; (7) Tilt the head back slightly to ensure airway remains open; (8) Monitor breathing continuously."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Once in the recovery position, monitor the casualty continuously — check breathing every minute. If they stop breathing, begin CPR immediately. Never leave an unconscious casualty alone."
+    },
+    {
+      "type": "heading",
+      "text": "Levels of First Aid Response"
+    },
+    {
+      "type": "paragraph",
+      "text": "Workplaces typically have three levels of first aid capability: (1) First aider — trained in comprehensive first aid including CPR, AED, wound management; provides all first aid until emergency services arrive; (2) Appointed person — lower level training to summon help and provide basic first aid in small workplaces; (3) Emergency responder — in Gulf O&G, specially trained responders for H2S rescue, confined space rescue, and fire response. The ratio of first aiders to workers required varies by country and risk level — Gulf construction sites typically require at least one first aider per 25 workers on site."
+    },
+    {
+      "type": "gulfNote",
+      "text": "For Gulf O&G and construction sites, the site medical provision must match the site risk level and distance from the nearest hospital. Remote locations (desert oilfields in Kuwait and Oman, offshore platforms) require higher on-site medical capabilities — typically a site nurse and on-site ambulance — because hospital transport time may be 1–4 hours. Pre-planned air evacuation (helicopter) is required for offshore and very remote sites."
+    }
+  ],
+  "quizId": "first-aid/scene-safety-quiz"
+}

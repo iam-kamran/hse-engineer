@@ -1,0 +1,183 @@
+{
+  "id": "certifications/first-aid/h2s-response",
+  "sectionId": "first-aid",
+  "title": "Module 6: H2S Gas Exposure and Chemical Emergencies",
+  "order": 6,
+  "estimatedReadTime": 20,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Understand H2S properties, sources, and the mechanism by which it kills",
+    "Apply the correct emergency response to an H2S alarm or suspected exposure",
+    "Perform safe rescue of an H2S-exposed casualty using SCBA",
+    "Provide first aid to an H2S-exposed casualty including oxygen administration",
+    "Respond correctly to other chemical exposure emergencies including chemical burns and ingestion"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "H2S — The Gulf's Most Dangerous Gas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hydrogen sulphide (H2S) is the most significant chemical hazard in Gulf oil and gas operations. It occurs naturally in sour crude oil and gas reservoirs across Saudi Arabia, Kuwait, Oman, UAE, and Qatar. H2S is present throughout the O&G supply chain — at wellheads, in pipelines, at refineries, in produced water treatment, and at LNG facilities. Multiple workers die from H2S exposure in the Gulf every year, making it the highest-priority chemical emergency topic for Gulf HSE professionals and first aiders."
+    },
+    {
+      "type": "heading",
+      "text": "H2S Properties — Why It Is Deadly"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Property", "Value / Description", "Why It Matters"],
+        "rows": [
+          ["Colour", "Colourless", "Cannot see it — no visual warning"],
+          ["Odour at low levels", "Rotten eggs", "Detectable at 0.5–10 ppm — BUT unreliable warning"],
+          ["Olfactory fatigue", "Above ~50–100 ppm — smell disappears", "Workers think it's safe when it's actually lethal — gas monitors are essential"],
+          ["Density", "1.19 (heavier than air)", "Accumulates in low-lying areas — trenches, pits, vessel bottoms, drains"],
+          ["Occupational Exposure Limit (TWA)", "1 ppm (UK) / 1 ppm (most Gulf)", "Very low — even brief exposure above OEL is harmful"],
+          ["STEL (15-min short-term limit)", "5 ppm (UK)", "Limit for brief exposures"],
+          ["IDLH — Immediately Dangerous to Life", "100 ppm", "Emergency evacuation required immediately"],
+          ["Rapid incapacitation", "300–500 ppm", "Knock-down — rapid unconsciousness within seconds"],
+          ["Lethal concentration", ">500 ppm", "Rapid death from respiratory and cardiac arrest"],
+          ["Flammable range", "4.3% – 46% (LEL to UEL)", "Also a fire/explosion hazard — dual threat in O&G"]
+        ]
+      }
+    },
+    {
+      "type": "warning",
+      "text": "Olfactory fatigue is H2S's most dangerous property. Workers entering an area with 100–200 ppm H2S may initially smell the gas but within seconds the olfactory nerve is paralysed — the smell disappears. Workers may believe the gas has cleared when in fact the concentration is at a lethal level. This is why personal H2S monitors with audible alarms are NON-NEGOTIABLE in all Gulf sour service areas."
+    },
+    {
+      "type": "heading",
+      "text": "How H2S Kills"
+    },
+    {
+      "type": "paragraph",
+      "text": "H2S interferes with cellular respiration — it inhibits cytochrome c oxidase, the enzyme responsible for using oxygen in cells. This is the same mechanism as cyanide poisoning. At high concentrations, cells cannot use oxygen even though oxygenated blood continues to circulate. Additionally, H2S causes direct respiratory tract irritation, pulmonary oedema (fluid in the lungs), and at very high concentrations, causes immediate cardiac and respiratory arrest. The treatment emphasis is on pure oxygen administration — providing excess oxygen helps restore normal cellular function."
+    },
+    {
+      "type": "heading",
+      "text": "H2S Alarm Response — The 4 Immediate Actions"
+    },
+    {
+      "type": "list",
+      "items": [
+        "1. STOP WORK immediately — do not finish the weld, do not close the valve, do not retrieve your tools — STOP",
+        "2. MOVE upwind or crosswind immediately — H2S drifts downwind; never run downwind from a suspected release",
+        "3. ALERT others — shout the alarm, activate the facility alarm if available, radio to emergency control room",
+        "4. MUSTER at the designated assembly point — do NOT re-enter the area without confirmed air supply"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "All Gulf O&G facilities have wind socks at wellheads and in production areas — check the wind sock direction BEFORE moving. In an H2S emergency, moving crosswind (perpendicular to the wind direction) takes you out of the gas plume fastest. Moving upwind is also safe. Moving downwind is fatal — the gas cloud travels downwind."
+    },
+    {
+      "type": "heading",
+      "text": "H2S Rescue — The Rules That Save Rescuer Lives"
+    },
+    {
+      "type": "paragraph",
+      "text": "The majority of H2S fatalities in the Gulf involve multiple victims — the first victim collapses, and additional victims collapse while attempting improvised rescue without breathing apparatus. This is the most important point in all H2S training: NEVER ENTER an H2S-suspected area to rescue someone without Self-Contained Breathing Apparatus (SCBA)."
+    },
+    {
+      "type": "warning",
+      "text": "DO NOT enter an H2S zone to rescue a collapsed worker without SCBA — even for 5 seconds. At 300+ ppm, you will be incapacitated before you can drag the person out, and you will become an additional casualty. Wait for SCBA-equipped rescuers. Trained, SCBA-equipped emergency responders must handle the rescue."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Only SCBA-equipped, H2S-trained rescuers enter the zone",
+        "If the casualty can be reached by a lifeline from outside the zone — use the retrieval system",
+        "Minimum rescue team: 2 rescuers in SCBA; 1 standby at zone boundary with SCBA ready",
+        "Once casualty is out of the zone: remove to fresh air; begin first aid immediately",
+        "Call emergency services — all H2S exposures require medical evaluation"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "First Aid for H2S Exposure"
+    },
+    {
+      "type": "list",
+      "items": [
+        "1. Remove the casualty to fresh air — this is the single most important action; the gas must be removed from the breathing environment",
+        "2. Call emergency services and the site medical team immediately",
+        "3. Assess using DR ABC: check for response; open airway; check breathing",
+        "4. If NOT breathing: begin CPR immediately (compression-only if no barrier device available — H2S may be in expired air)",
+        "5. If breathing but unconscious: recovery position; monitor continuously",
+        "6. Administer 100% oxygen via face mask with reservoir (non-rebreather mask) as soon as available — high-flow oxygen is the most effective treatment for H2S poisoning",
+        "7. Keep the casualty warm and calm if conscious",
+        "8. Monitor for delayed pulmonary oedema (fluid in lungs) — even apparently recovered casualties may develop breathing difficulties hours later; all exposed persons must be assessed by a physician"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "100% oxygen (high-flow, non-rebreather mask) is the most effective treatment for H2S poisoning available to a first aider. Site medical facilities in Gulf O&G should have oxygen available. Even if the casualty appears to recover quickly, they must still be assessed by a physician — delayed pulmonary oedema can be fatal hours later."
+    },
+    {
+      "type": "heading",
+      "text": "Other Chemical Emergencies"
+    },
+    {
+      "type": "heading",
+      "text": "Inhalation of Chemical Vapours or Fumes"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Move casualty to fresh air immediately",
+        "Call emergency services",
+        "Assess ABC; perform CPR if needed",
+        "If conscious and breathing: sit upright; loosen tight clothing; monitor carefully",
+        "Identify the chemical (check Safety Data Sheet) and tell the emergency services",
+        "Do NOT induce vomiting for inhalation exposure"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Chemical Ingestion"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Do NOT induce vomiting (chemicals can cause additional burns on the way back up; risk of aspiration)",
+        "Call emergency services / Poison Control Centre immediately",
+        "If the casualty is conscious: give small amounts of water to dilute the substance (unless the SDS says not to)",
+        "Identify the substance and bring the container/SDS to the emergency room",
+        "Monitor for deterioration: burns around the mouth, drooling, difficulty swallowing suggest significant oral/oesophageal burns"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Chemical Eye Splash"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eye chemical burns are time-critical — permanent blindness can result from delayed irrigation. Immediate action: irrigate CONTINUOUSLY with clean water or sterile saline for 20+ minutes; hold the eye open if the casualty is reluctant; use an eyewash station if available. After 20 minutes of irrigation: cover with a non-fluffy pad; seek medical attention urgently; bring the name and SDS of the chemical. Do not attempt to neutralise an acid burn with alkali or vice versa — this generates heat and causes additional damage."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf refineries and petrochemical plants use hydrofluoric acid (HF) for alkylation — one of the most dangerous industrial chemicals. HF penetrates skin without initial pain, then causes deep tissue and bone destruction, and systemic fluoride toxicity causing fatal cardiac arrhythmias. Skin exposure to HF requires immediate irrigation AND application of calcium gluconate gel to the affected area (neutralises fluoride ions) AND urgent hospital assessment. Sites using HF must have calcium gluconate gel at the first aid station. This is a specific life-saving detail for Gulf refinery first aiders."
+    },
+    {
+      "type": "warning",
+      "text": "Hydrofluoric Acid (HF) is used in Gulf refinery alkylation units. HF burns may appear minor initially but can cause systemic fluoride poisoning and fatal heart arrhythmias even from small skin exposures. First aid MUST include calcium gluconate gel application (if available) AND immediate hospital transfer. Never treat HF exposure as a routine chemical burn."
+    },
+    {
+      "type": "heading",
+      "text": "Post-Incident Actions for Chemical Emergencies"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Decontaminate yourself — remove clothing and gloves that may have been contaminated during rescue",
+        "Secure the scene — prevent others from entering until the hazard is controlled",
+        "Report immediately — chemical emergencies must be reported to site management, the emergency control room, and (for H2S incidents) the PTW issuer to cancel active permits in the affected area",
+        "All persons who were potentially exposed must be medically assessed — even if they feel fine",
+        "Begin incident investigation — understand what happened and prevent recurrence"
+      ]
+    }
+  ],
+  "quizId": "first-aid/h2s-response-quiz"
+}

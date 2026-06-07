@@ -1,0 +1,126 @@
+{
+  "id": "certifications/osha/construction-fire",
+  "sectionId": "osha",
+  "title": "Fire Protection and Prevention in Construction (29 CFR 1926 Subpart F)",
+  "order": 9,
+  "estimatedReadTime": 18,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Identify the three elements of the fire triangle and the concept of Class A/B/C/D/K fires",
+    "Select the correct fire extinguisher for a given fire class",
+    "Describe the OSHA requirements for fire extinguisher access, inspection, and training",
+    "Apply hot work permit and fire watch requirements used in Gulf industry"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Fire Hazards on Construction Sites"
+    },
+    {
+      "type": "paragraph",
+      "text": "Construction sites are particularly fire-prone: they contain large quantities of combustible materials (lumber, insulation, packaging), use flammable liquids and gases (fuels, adhesives, welding gases), have temporary electrical wiring, and often lack permanent fire suppression systems. OSHA 1926 Subpart F sets minimum requirements for fire prevention and fire protection."
+    },
+    {
+      "type": "heading",
+      "text": "The Fire Triangle"
+    },
+    {
+      "type": "keyPoint",
+      "text": "Fire requires three elements simultaneously: Fuel (combustible material), Heat (ignition source), and Oxygen (oxidiser). Remove any one element to prevent or extinguish fire. The extended 'fire tetrahedron' adds a fourth element: the chemical chain reaction — which is how Halon and clean agent suppressants work."
+    },
+    {
+      "type": "heading",
+      "text": "Fire Classes and Extinguishers"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Class", "Fuel Type", "Extinguishing Agent"],
+        "rows": [
+          ["A", "Ordinary combustibles: wood, paper, fabric, rubber, plastics", "Water, foam, ABC dry chemical, wet chemical"],
+          ["B", "Flammable/combustible liquids and gases: petrol, diesel, oil, LPG", "CO2, dry chemical, foam — NOT water (spreads liquid)"],
+          ["C", "Energised electrical equipment", "CO2, dry chemical — NOT water or foam (conducts electricity)"],
+          ["D", "Combustible metals: magnesium, titanium, sodium", "Dry powder (specific to the metal) — NEVER water"],
+          ["K", "Cooking oils and fats at high temperature", "Wet chemical — commonly found in commercial kitchen"]
+        ]
+      }
+    },
+    {
+      "type": "definition",
+      "term": "ABC Dry Chemical Extinguisher",
+      "text": "The most common fire extinguisher on construction sites. Effective for Class A, B, and C fires. Monoammonium phosphate powder leaves corrosive residue. For electrical panels and sensitive equipment, CO2 is preferred because it leaves no residue."
+    },
+    {
+      "type": "heading",
+      "text": "OSHA Fire Extinguisher Requirements for Construction"
+    },
+    {
+      "type": "list",
+      "items": [
+        "One 2A extinguisher (or equivalent water supply) for every 3,000 sq ft of construction area, or not more than 100 ft travel distance",
+        "One extinguisher within 50 feet of where more than 5 gallons of flammable/combustible liquid is stored or used",
+        "Extinguishers must be mounted, identified, and accessible — not blocked or buried under materials",
+        "Monthly visual inspection required; annual maintenance by a trained person; hydrostatic testing every 5–12 years depending on type",
+        "Workers must be trained in the general principles of fire extinguisher use; training must be provided annually"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Using a Fire Extinguisher: PASS"
+    },
+    {
+      "type": "list",
+      "items": [
+        "P — Pull the pin (breaks the tamper seal)",
+        "A — Aim the nozzle at the BASE of the fire",
+        "S — Squeeze the handle to discharge",
+        "S — Sweep side-to-side at the base of the flames"
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Only attempt to fight a fire if: the fire is small and contained, you have a clear escape route behind you, you have been trained, and you have an appropriate extinguisher. If the fire is larger than a waste basket, evacuate and call 911 (or site emergency number)."
+    },
+    {
+      "type": "heading",
+      "text": "Hot Work Requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hot work includes welding, cutting, grinding, torch work, and any other work that produces sparks or open flame. Hot work is a leading cause of fires on construction and industrial sites. OSHA does not have a single 'hot work permit' standard, but fire prevention requirements under Subpart F and general duty clause obligations effectively require the same controls NFPA 51B describes."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Move all combustibles at least 35 feet from the work area, or protect them with non-combustible blankets/shields",
+        "Check for flammable atmospheres with a gas detector before starting hot work",
+        "Post a fire watch — a person whose sole duty is to watch for fires during and after hot work",
+        "Fire watch must continue for at least 30 minutes after hot work ends",
+        "Permit system: formally assess hot work hazards, authorise the work, document controls"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Flammable Liquids Storage and Handling"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Flammable liquids (flash point below 100°F / 37.8°C) must be stored in approved safety cans with self-closing lids and flame arrestors",
+        "Maximum 25 gallons per safety can; maximum 60 gallons in a storage cabinet; outside storage in a separate fire-rated area",
+        "Ground and bond metal containers when transferring flammable liquids to prevent static spark ignition",
+        "No smoking within 50 feet of flammable liquid storage areas",
+        "Dispensing areas must be ventilated to prevent vapour accumulation"
+      ]
+    },
+    {
+      "type": "example",
+      "text": "Welders are cutting old structural steel inside a warehouse being renovated. The area has cardboard packaging and old timber flooring. Before work starts: combustibles are moved or covered with fire-blankets, the atmosphere is tested (LEL < 10%), welding blankets are positioned under the cut, a fire watch is designated with an ABC extinguisher, and a hot work permit is issued. After welding ends, the fire watch remains for 30 minutes, then makes a final inspection."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Hot work permits are mandatory across all major Gulf oil and gas facilities. Aramco's GI 2.100 requires a hot work permit for any work producing sparks or open flame in or near a hydrocarbon-containing area. The permit must be signed by the area supervisor, HSE representative, and operations — typically valid for one shift only. Fire watch personnel must be trained and designated specifically for each hot work task. Qatar's QatarEnergy and UAE's ADNOC have nearly identical hot work permit systems. In Saudi Arabia, several major refinery fires have been attributed to hot work in areas where gas releases were not detected before ignition — making pre-work LEL testing with a calibrated gas detector a non-negotiable step."
+    }
+  ],
+  "quizId": null
+}

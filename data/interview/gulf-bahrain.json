@@ -1,0 +1,232 @@
+[
+  {
+    "id": "bh-001",
+    "text": "What do you know about BAPCO (Bahrain Petroleum Company) and its HSE standards?",
+    "category": "legislation",
+    "region": "bahrain",
+    "difficulty": "mid",
+    "modelAnswer": "BAPCO (Bahrain Petroleum Company) is Bahrain's national oil company, operating the country's only oil refinery at Sitra and managing upstream oil production from the Awali field. BAPCO has a comprehensive HSE management system aligned with international standards (ISO 45001, ISO 14001) and operates one of the oldest continuously running refineries in the Middle East. BAPCO's HSE standards require contractors to: submit project-specific HSE plans; comply with BAPCO's PTW system; have HSE staff with recognised qualifications (NEBOSH IGC minimum); report monthly HSSE statistics; comply with BAPCO's Life Saving Rules (non-negotiable safety behaviours). BAPCO also operates a Tanker Loading Terminal and has significant process safety management requirements for hydrocarbon and chemical handling. In 2019, BAPCO Modernisation Programme (BMP) was announced as a major refinery expansion — a multi-billion dollar project creating significant H&S management demands for EPC contractors.",
+    "keyPoints": [
+      "BAPCO = Bahrain national oil company: refinery (Sitra), upstream production (Awali field)",
+      "BAPCO Life Saving Rules: mandatory behavioural commitments for all contractors",
+      "ISO 45001 and ISO 14001 certified: international management system standards",
+      "BMP (BAPCO Modernisation Programme): major refinery expansion requiring HSE management",
+      "PTW system: BAPCO's own — contractors must operate within it",
+      "Monthly HSSE KPIs: reported through BAPCO contractor management system",
+      "Tanker Loading Terminal: marine H&S additional requirement for some roles"
+    ],
+    "tip": "BAPCO's BMP is one of the largest projects in Bahrain's history and is attracting major international EPC contractors. If you are targeting Bahrain O&G, knowledge of BMP and BAPCO's specific requirements is a strong differentiator. BAPCO is also historically significant — its Awali refinery was the first oil refinery in the Gulf, established in 1936.",
+    "followUpQuestions": [
+      "What is the BAPCO Modernisation Programme (BMP) and what H&S challenges does it present?",
+      "What are BAPCO's Life Saving Rules?",
+      "How does working at a refinery differ from working at an upstream production facility from an H&S perspective?"
+    ]
+  },
+  {
+    "id": "bh-002",
+    "text": "How does Bahrain's regulatory framework for H&S compare to other Gulf countries?",
+    "category": "legislation",
+    "region": "bahrain",
+    "difficulty": "mid",
+    "modelAnswer": "Bahrain's occupational health and safety is governed by the Labour Law (Legislative Decree No. 36 of 2012) and the General Rules for Safety and Occupational Health (Ministerial Order No. 9 of 2013). The Labour Market Regulatory Authority (LMRA) oversees worker registration, visa management, and some labour standards. The Ministry of Works and Urban Planning regulates construction H&S. For industrial and refinery operations, BAPCO's own HSSE standards and the National Oil and Gas Authority (NOGA) provide oversight. Key regulations: employers must provide safe workplaces, PPE, and H&S training; workers have the right to refuse dangerous work; outdoor work restrictions in summer (June 15–September 15, 12:30–3:00pm). Compared to other Gulf countries: Bahrain has a smaller industrial base than Saudi Arabia, UAE, or Qatar, and its H&S regulatory framework is less developed than Abu Dhabi's OSHAD-SF. However, Bahrain's refinery operations (BAPCO) operate at international standards. Bahrain was the first Gulf country to establish a social insurance system and has a longer history of labour relations frameworks.",
+    "keyPoints": [
+      "Labour Law: Legislative Decree No. 36 of 2012 — comprehensive employment framework",
+      "LMRA: Labour Market Regulatory Authority — manages worker visas and labour market",
+      "Summer outdoor work ban: June 15–September 15, 12:30–3:00pm",
+      "BAPCO and NOGA: industrial sector oversight",
+      "Ministry of Works: construction H&S regulation",
+      "Less formal regulatory structure than Abu Dhabi or Saudi Arabia",
+      "Bahrain has a longer history of labour relations — more developed union rights than elsewhere in Gulf"
+    ],
+    "tip": "Bahrain's summer outdoor work ban hours (12:30–15:00) differ slightly from Qatar and Oman (12:30–15:30) — a specific detail worth noting. Bahrain also has a more developed trade union environment than most Gulf countries, which affects how H&S consultation and worker representation work in practice.",
+    "followUpQuestions": [
+      "What is Bahrain's summer outdoor work ban period and hours?",
+      "Does Bahrain allow trade unions and how do they interact with H&S representation?",
+      "What is the role of NOGA (National Oil and Gas Authority) in Bahrain?"
+    ]
+  },
+  {
+    "id": "bh-003",
+    "text": "What are the key H&S challenges in refinery operations, as applicable to BAPCO's facility?",
+    "category": "risk-assessment",
+    "region": "bahrain",
+    "difficulty": "senior",
+    "modelAnswer": "Refinery H&S involves a combination of process safety and occupational safety challenges at a much greater scale and complexity than upstream production. Key process safety challenges: major accident hazard (MAH) management — fires, explosions, and toxic releases from large hydrocarbon inventories at high temperatures and pressures; catalyst handling — pyrophoric catalysts (ignite spontaneously in air) in hydrotreating and reforming units; hydrogen: highly flammable, wide explosive range, low ignition energy, embrittlement of steel; H2S: produced throughout refinery operations; overpressure events — process upsets can rapidly exceed design pressure; management of change for ageing plant. Occupational safety challenges: hot surfaces throughout the refinery — contact burns; noise from pumps, compressors, and reactors requires hearing protection zones; hazardous chemicals (acids, caustics, hydrocarbons); shift work and fatigue; confined space entry for vessel inspections (turnaround); and working at height on reactor structures, distillation columns, and storage tanks.",
+    "keyPoints": [
+      "Process safety: MAH management — fires, explosions, toxic releases at scale",
+      "Hydrogen: highly flammable, wide explosive range (4-75%), embrittles steel",
+      "Pyrophoric catalysts: spontaneous ignition in air — specialised handling procedures",
+      "H2S: throughout refinery process streams — all the standard H2S controls apply",
+      "Ageing plant: BAPCO refinery is old — integrity management is critical",
+      "Turnaround safety: confined space entry, hot work, multiple concurrent permits",
+      "Shift work: fatigue management — impaired judgment increases process safety risk"
+    ],
+    "tip": "Hydrogen is the most underappreciated refinery hazard among candidates who don't have refinery experience. Its explosive range (4-75% in air — ten times wider than methane) and very low ignition energy make it extraordinarily dangerous. Pyrophoric catalysts are another refinery-specific hazard rarely known outside the industry. Knowing these distinguishes a genuine refinery H&S candidate.",
+    "followUpQuestions": [
+      "What is a pyrophoric material and how do you safely handle spent catalyst in a refinery?",
+      "Why is hydrogen considered particularly hazardous in a refinery environment?",
+      "What is mechanical integrity management and why is it critical at an ageing refinery?"
+    ]
+  },
+  {
+    "id": "bh-004",
+    "text": "How would you manage the permit to work system during a refinery turnaround in Bahrain?",
+    "category": "ptw",
+    "region": "bahrain",
+    "difficulty": "senior",
+    "modelAnswer": "A refinery turnaround in Bahrain involves shutting down process units, purging and cleaning equipment, conducting inspections, repairs, and recommissioning — all in compressed timeframes with hundreds of concurrent workers. PTW management during a TAR requires: a PTW coordination centre with a dedicated team tracking all active permits using a visual management board and electronic system; area control rooms managing permits for their specific unit (crude unit, reformer, treating, etc.); an issuing authority roster — trained issuing authorities covering 24/7 operations; a SIMOPS matrix identifying which activities cannot run simultaneously (e.g. vessel entry + hot work in adjacent area); daily PTW planning meetings at 06:00 and 18:00 reviewing all planned work for the next 12 hours; gas testing programme — continuous monitoring in confined spaces, pre-job testing before hot work; blind log management — all blanks and blinds inserted to isolate vessels are tracked and removed before start-up; a shutdown boundary permit controlling access to the entire shutdown area. BAPCO's PTW system governs all permit activities — contractors cannot use their own systems.",
+    "keyPoints": [
+      "PTW coordination centre: tracks all active permits across the entire TAR",
+      "Area control rooms: unit-level permit management (crude, reformer, etc.)",
+      "24/7 issuing authority coverage: TAR never stops — permits needed around the clock",
+      "SIMOPS matrix: identifies incompatible concurrent activities",
+      "Daily PTW planning meeting: 06:00 and 18:00 minimum",
+      "Blind log: tracks every blind installed and removed — no blinds left in at restart",
+      "BAPCO's system governs: contractor's own PTW systems are not acceptable"
+    ],
+    "tip": "Blind log management is a specific TAR safety topic that separates candidates with real turnaround experience from those who only know routine PTW systems. A single blank blind left in process pipework after TAR recommissioning can cause a catastrophic overpressure event or blocked flow emergency. Mentioning blind log by name and explaining its purpose immediately signals TAR depth.",
+    "followUpQuestions": [
+      "What is a blind log and what happens if a blind is not removed before start-up?",
+      "How many issuing authorities would you need for a 500-person turnaround running 24 hours a day?",
+      "What is a pre-startup safety review (PSSR) and when does it occur in a turnaround?"
+    ]
+  },
+  {
+    "id": "bh-005",
+    "text": "What is Bahrain's approach to worker welfare and how has it evolved?",
+    "category": "legislation",
+    "region": "bahrain",
+    "difficulty": "mid",
+    "modelAnswer": "Bahrain has historically been more progressive on labour rights than other Gulf states — it was the first Gulf country to establish trade unions (permitted since 2002) and has a longer history of collective bargaining in some sectors. The LMRA (Labour Market Regulatory Authority) manages the Flexi Permit system, which allows workers to work for multiple employers — a step toward reducing exploitation. Worker welfare standards: employers must provide accommodation meeting LMRA standards (space, sanitation, safety); wages protected through the Wage Protection System (WPS) requiring electronic salary payments; no passport confiscation (illegal); workers can report labour violations to the Labour Court. Recent improvements: Bahrain abolished the exit visa for most workers in 2009 — earlier than most Gulf countries; the LMRA flex-permit allows foreign workers to seek employment without a specific employer sponsor. Challenges remain: informal sector workers often lack access to protections; accommodation standards for construction workers are variable; heat stress management for low-wage outdoor workers needs continued attention.",
+    "keyPoints": [
+      "Trade unions: legal in Bahrain since 2002 — more advanced labour rights than most Gulf states",
+      "LMRA Flexi Permit: reduces employer power, allows multiple employer work",
+      "Exit visa: abolished for most workers in 2009 — progressive vs Gulf peers",
+      "WPS (Wage Protection System): electronic salary payments tracked by LMRA",
+      "Passport confiscation: illegal — LMRA enforces prohibition",
+      "Accommodation: LMRA standards for employer-provided housing",
+      "Labour Court: accessible dispute resolution for workers"
+    ],
+    "tip": "Bahrain's labour rights development (trade unions, earlier exit visa abolition) is a distinguishing feature that shows a more employee-friendly environment than some Gulf neighbours. For an HSE professional, this matters because workers with more rights are more likely to report H&S concerns without fear — which improves safety culture. Mentioning this connection between labour rights and safety culture maturity shows advanced thinking.",
+    "followUpQuestions": [
+      "How does the existence of trade unions in Bahrain affect H&S consultation in the workplace?",
+      "What is the LMRA Flexi Permit and how does it benefit migrant workers?",
+      "What can a worker in Bahrain do if they are subjected to unsafe conditions?"
+    ]
+  },
+  {
+    "id": "bh-006",
+    "text": "Describe your approach to occupational hygiene monitoring in a Bahrain industrial facility.",
+    "category": "risk-assessment",
+    "region": "bahrain",
+    "difficulty": "mid",
+    "modelAnswer": "Occupational hygiene monitoring is the systematic measurement and evaluation of workplace exposures to physical, chemical, and biological hazards to protect worker health. In a Bahrain refinery or industrial facility, the programme would include: chemical exposure monitoring — sampling airborne concentrations of benzene, H2S, hydrocarbons, catalyst dust, and other process chemicals; comparing measurements against OELs (TWA and STEL); noise dosimetry — personal noise dosimeters for workers in areas with noise-emitting equipment (pumps, compressors, turbines); evaluating NIHL risk and selecting hearing protection; thermal stress monitoring — WBGT measurements throughout summer; biological monitoring — blood benzene levels for workers with significant benzene exposure (refinery workers are a high-risk group); radiation monitoring where radiographic inspection (RT) is performed; and skin exposure assessment for dermatitis risk from process chemicals and fuels. Results are used to: select and verify appropriate controls (engineering, PPE); report to workers their individual exposure results; trigger enhanced controls or health surveillance when OELs are approached or exceeded; and maintain exposure records for occupational disease surveillance.",
+    "keyPoints": [
+      "Chemical monitoring: benzene, H2S, catalyst dust, process chemicals vs OELs",
+      "Benzene: human carcinogen — refineries are high-exposure environments; blood benzene monitoring for workers",
+      "Noise dosimetry: personal monitoring for individuals in high-noise areas",
+      "WBGT: thermal stress monitoring throughout summer",
+      "Biological monitoring: blood testing for benzene metabolites — early health indicator",
+      "Radiographic inspection (RT): radiation monitoring and controlled access zones",
+      "Exposure records: minimum 40 years for carcinogen exposure records"
+    ],
+    "tip": "Benzene is a known human carcinogen and refineries are one of the highest exposure environments. Knowing that biological monitoring (blood benzene levels) is used in addition to air monitoring for refinery workers signals occupational hygiene depth. Exposure records for carcinogens must typically be kept for 40 years (or the worker's lifetime) — much longer than general H&S records.",
+    "followUpQuestions": [
+      "What is the OEL for benzene and why is it particularly important in refinery environments?",
+      "What is the difference between air monitoring and biological monitoring?",
+      "How long must occupational exposure records be kept for workers exposed to carcinogens?"
+    ]
+  },
+  {
+    "id": "bh-007",
+    "text": "How would you manage marine H&S for tanker loading operations at a Bahrain terminal?",
+    "category": "risk-assessment",
+    "region": "bahrain",
+    "difficulty": "senior",
+    "modelAnswer": "Marine H&S at a tanker loading terminal combines process safety, maritime safety, and personnel safety requirements. Key elements: ship-shore interface — before loading, the Ship-Shore Safety Checklist (ISGOTT — International Safety Guide for Oil Tankers and Terminals) must be completed and signed by ship and terminal representatives; this covers communication, PTW alignment, earthing/bonding, fire equipment, emergency shutdown links, and manifold connections. During loading: continuous gas monitoring on the jetty; hot work and smoking prohibited in the entire marine zone; marine fire watch; emergency shutdown (ESD) link between ship and shore — both parties can stop loading; weather monitoring — operations suspended in high winds (typically >25 knots) or lightning; jetty gangway: proper gangway, safety net and life ring in place. Personnel safety on jetty: life rings at specified intervals; proper marine PPE (buoyancy aid, helmet, non-sparking boots); buddy system on jetty; boat patrol. Environmental: spill containment for any hydrocarbon release into water; boom pre-positioned in case of marine spill; emergency spill response team on standby.",
+    "keyPoints": [
+      "ISGOTT: Ship-Shore Safety Checklist — mandatory before every loading operation",
+      "ESD link: emergency shutdown between ship and shore — either party can initiate",
+      "Hot work and smoking: absolutely prohibited in the entire marine zone",
+      "Marine fire watch: dedicated fire watcher on jetty during loading",
+      "Weather limits: loading suspended in high winds (>25 knots typical) or lightning",
+      "Life rings: at specified intervals on all jetty berths",
+      "Marine spill response: boom and response team pre-positioned before loading begins"
+    ],
+    "tip": "ISGOTT (International Safety Guide for Oil Tankers and Terminals) is the bible of ship-shore safety. Mentioning it by name signals genuine marine terminal experience. The ESD link between ship and shore is the critical safety feature — if the ship's crew sees an emergency, they can shut down loading even without contacting the terminal, and vice versa. This independent shutdown capability is what makes tanker operations relatively safe despite the enormous hydrocarbon volumes involved.",
+    "followUpQuestions": [
+      "What is ISGOTT and what does the Ship-Shore Safety Checklist cover?",
+      "At what wind speed should tanker loading operations be suspended?",
+      "Who has the authority to stop a tanker loading operation — the ship's captain, the terminal operator, or both?"
+    ]
+  },
+  {
+    "id": "bh-008",
+    "text": "What experience do you have with ISO 14001 (Environmental Management) and how does it integrate with H&S management?",
+    "category": "general",
+    "region": "bahrain",
+    "difficulty": "mid",
+    "modelAnswer": "ISO 14001 is the international standard for Environmental Management Systems (EMS), complementing ISO 45001 (H&S). At BAPCO and similar facilities in Bahrain, an Integrated Management System (IMS) combines both standards under a single management framework. The integration benefits include: shared resources for risk assessment (a COSHH assessment addresses both H&S and environmental impact of chemicals); aligned audit processes (one audit checks both systems); common leadership commitment and policy; shared emergency response planning; and consistent documentation and records management. Specific to environmental-H&S integration: chemical storage and handling has dual risks — worker health and soil/water contamination; waste management affects both worker health (handling hazardous waste) and environmental compliance; spill response must address both immediate worker safety and environmental containment; COSHH/SDS data sheets cover both human health effects and environmental fate. ISO 14001 and ISO 45001 share the same High Level Structure (HLS) — Plan-Do-Check-Act — making integration straightforward. ISO 14001 Lead Auditor certification is valuable in Bahrain given BAPCO's dual ISO certification.",
+    "keyPoints": [
+      "ISO 14001: Environmental Management System — shares HLS with ISO 45001 for easy integration",
+      "IMS: Integrated Management System combining H&S + environment (+ quality = ISO 9001)",
+      "Shared elements: risk assessment, audits, leadership, emergency response, documentation",
+      "Chemical management: dual risk — worker health (H&S) + environmental fate",
+      "Spill response: worker safety first, then environmental containment",
+      "ISO 14001 Lead Auditor: valuable in Bahrain given BAPCO ISO certification",
+      "Bahrain environmental regulations: Ministry of Works and Municipalities and NOGA"
+    ],
+    "tip": "Bahrain has environmental regulations under the Ministry of Works and Municipalities and sector-specific requirements under NOGA for O&G. Showing you understand that H&S and environment are usually managed together at the operational level (same incidents, same chemicals, same systems) while having separate regulatory frameworks demonstrates genuine integrated management experience.",
+    "followUpQuestions": [
+      "What is the High Level Structure (HLS) and why does it matter for integrated management systems?",
+      "How does an EMS (Environmental Management System) handle a chemical spill that also threatens worker health?",
+      "What environmental permits would a refinery in Bahrain typically need to hold?"
+    ]
+  },
+  {
+    "id": "bh-009",
+    "text": "How do you manage the H&S of a visiting contractor who comes to site for a one-day inspection?",
+    "category": "safety-culture",
+    "region": "bahrain",
+    "difficulty": "junior",
+    "modelAnswer": "Short-duration visitors — inspectors, vendor representatives, auditors, clients — present a specific H&S management challenge because they have limited site knowledge but are exposed to real hazards. Management approach: before arrival — send the visitor a site H&S briefing document covering the site hazards, PPE requirements, emergency procedures, and conduct expectations; confirm they will have an escort at all times. On arrival — conduct a visitor induction covering: site hazards specific to the area they will visit, emergency procedures (muster point, alarm, who to follow), PPE requirements and provision if they don't have their own, permit requirements (they may need to be named on a PTW if entering controlled areas), no photography unless specifically permitted, and no lone working. During the visit — the visitor must remain accompanied at all times; the escort is responsible for their safety; they must follow all site rules including PPE and no-phone zones. Record — document visitor induction: name, date, areas visited, induction topics. A visitor who witnesses a near miss or unsafe condition must be able to report it without hesitation — brief them on how to do so.",
+    "keyPoints": [
+      "Pre-visit briefing: send H&S information before arrival so they arrive prepared",
+      "Visitor induction: mandatory regardless of visit duration — even for 2-hour visits",
+      "Escort at all times: escort is responsible for visitor safety",
+      "PPE: provide site-standard PPE if visitor doesn't have appropriate equipment",
+      "No lone working: visitor never left alone in any work area",
+      "PTW: visitor may need to be named on permit if entering controlled area",
+      "Record: visitor induction log with name, date, areas, induction details"
+    ],
+    "tip": "The question of 'short visit' inductions trips up many candidates who think only long-term workers need safety inductions. The correct principle is: anyone on site is exposed to site hazards and must be briefed. The induction can be shorter for a visitor (15 minutes vs 2 hours for a new worker) but it must cover the specific hazards of where they will go. A visitor who is taken to a H2S zone without being briefed on H2S is in serious danger.",
+    "followUpQuestions": [
+      "Does a senior client visiting for one hour need a safety induction?",
+      "What do you do if a visitor refuses to wear required PPE?",
+      "Can a visitor be named on a Permit to Work? Under what circumstances?"
+    ]
+  },
+  {
+    "id": "bh-010",
+    "text": "How do you develop and maintain an effective emergency response plan (ERP) for a Bahrain industrial facility?",
+    "category": "emergency-response",
+    "region": "bahrain",
+    "difficulty": "mid",
+    "modelAnswer": "An effective ERP for a Bahrain industrial facility must be specific, tested, and regularly revised. Development: conduct a credible emergency scenario analysis — identify all foreseeable major emergencies (fire, explosion, toxic gas release, severe weather, marine spill, mass casualty incident, security threat); for each scenario, determine the response actions, equipment required, and personnel roles. The ERP document structure: notification and alerting procedures (alarm types, who notifies whom, external authorities); incident command structure (Emergency Controller, Area Wardens, Fire team lead); muster and evacuation procedures (muster points, headcount accountability); communication plan (internal radios, external — BAPCO emergency control, Civil Defence, hospital); resource list (firefighting equipment, first aid, medical, spill kits); interface with Bahrain Civil Defence and Bahrain Petroleum Company's emergency teams. Maintenance: quarterly drills for each major scenario type; annual full-scale exercise involving external agencies (Civil Defence, hospital); post-drill debrief to identify gaps; annual review of ERP following regulatory changes, facility modifications, or lessons learned from incidents globally. Bahrain's Civil Defence authority (under Ministry of Interior) regulates fire safety and emergency response for industrial facilities.",
+    "keyPoints": [
+      "Scenario-based: ERP built around specific credible emergency scenarios for THIS facility",
+      "Incident command structure: defined roles — Emergency Controller, Area Wardens, specialists",
+      "Notification: alarm types, internal notifications, external authorities (Civil Defence, hospital)",
+      "External coordination: Bahrain Civil Defence, BAPCO emergency teams, hospital",
+      "Quarterly drills: test each major scenario type — not just fire",
+      "Annual review: update ERP after regulatory changes, facility modifications, incidents",
+      "Post-drill debrief: identify and close gaps within 30 days"
+    ],
+    "tip": "Bahrain has a well-equipped Civil Defence (fire service), and coordination with them before an emergency — not just during one — is best practice. Pre-planning with the Civil Defence (site walk, pre-fire plan, access routes) is common at BAPCO and large industrial sites. Mentioning this proactive relationship distinguishes candidates who understand emergency preparedness from those who only know emergency response.",
+    "followUpQuestions": [
+      "How often should a full-scale emergency exercise involving external agencies be conducted?",
+      "What is the difference between an evacuation drill and a full emergency exercise?",
+      "How do you involve Bahrain Civil Defence in your emergency planning for an industrial facility?"
+    ]
+  }
+]

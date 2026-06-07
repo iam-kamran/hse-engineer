@@ -1,0 +1,176 @@
+{
+  "id": "nebosh-igc/element-8-quiz",
+  "moduleId": "certifications/nebosh-igc/element-8",
+  "title": "Element 8 Quiz — Confined Spaces, Working at Height & Welfare",
+  "passMark": 70,
+  "questions": [
+    {
+      "id": "e8-q1",
+      "text": "Which of the following is the BEST definition of a confined space?",
+      "options": [
+        { "id": "a", "text": "Any room smaller than 10 square metres" },
+        { "id": "b", "text": "A space that is substantially enclosed, where there is a reasonably foreseeable risk of serious injury from hazardous substances, lack of oxygen, or other specified dangers" },
+        { "id": "c", "text": "A space that can only be entered by a permit to work" },
+        { "id": "d", "text": "Any underground area or tunnel used for industrial purposes" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "A confined space is defined by its conditions, not its size: it is substantially enclosed (though not necessarily fully sealed) and has a reasonably foreseeable risk of serious injury from hazardous atmospheres (toxic gas, oxygen deficiency, flammable atmosphere), flooding, or engulfment. Examples include tanks, vessels, drains, trenches, boilers, and ship holds.",
+      "difficulty": "easy",
+      "tags": ["confined space", "definition"]
+    },
+    {
+      "id": "e8-q2",
+      "text": "Before entering a confined space, the atmosphere must be tested. What THREE atmospheric conditions must be checked as a minimum?",
+      "options": [
+        { "id": "a", "text": "Temperature, humidity, and air velocity" },
+        { "id": "b", "text": "Oxygen level, flammable gas/vapour concentration, and toxic gas concentration (e.g. H2S, CO)" },
+        { "id": "c", "text": "CO2 level, dust concentration, and noise level" },
+        { "id": "d", "text": "Light level, temperature, and air pressure" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Atmospheric testing for confined space entry must check: (1) Oxygen level — normal is 19.5–23.5%; below 16% is immediately dangerous; (2) Flammable gas/vapour — must be below 10% of LEL (Lower Explosive Limit); (3) Toxic gases — particularly H2S and CO in Gulf O&G environments. Testing must be done continuously during entry, not just before.",
+      "difficulty": "medium",
+      "tags": ["confined space", "atmospheric testing", "H2S"]
+    },
+    {
+      "id": "e8-q3",
+      "text": "In Gulf oil and gas, what is the PRIMARY reason rescue teams must be pre-positioned BEFORE confined space entry begins?",
+      "options": [
+        { "id": "a", "text": "To assist with atmospheric monitoring equipment" },
+        { "id": "b", "text": "Because would-be rescuers who enter without proper equipment become additional casualties — pre-positioned rescue capability ensures immediate response without improvisation" },
+        { "id": "c", "text": "Regulatory requirements specify that rescue teams must be present for legal compliance only" },
+        { "id": "d", "text": "Rescue teams carry spare tools in case equipment fails inside the space" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "A disproportionate number of confined space fatalities involve would-be rescuers who enter without equipment and also succumb to the same hazard. Pre-positioning rescue capability (trained rescuer with SCBA, retrieval line, attendant at entry point) prevents panic-driven improvised rescue attempts. Aramco and QP PTW systems require verified rescue arrangements before entry is authorised.",
+      "difficulty": "medium",
+      "tags": ["confined space", "rescue", "Gulf context"]
+    },
+    {
+      "id": "e8-q4",
+      "text": "Work at height regulations apply when there is a risk of a fall that could cause personal injury. Which of the following is the MOST PREFERRED control measure for work at height?",
+      "options": [
+        { "id": "a", "text": "Providing a safety harness and fall arrest lanyard" },
+        { "id": "b", "text": "Erecting warning notices and barriers below the work area" },
+        { "id": "c", "text": "Avoiding the need to work at height through redesign (e.g. assembling at ground level first)" },
+        { "id": "d", "text": "Completing a toolbox talk before the work begins" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The hierarchy for working at height always starts with avoiding the need to work at height. If work at height cannot be avoided, the next step is to prevent a fall using collective means (scaffolding, guardrails, platforms) before individual means (harnesses). Harnesses are at the bottom — they do not prevent a fall, only limit the consequences. A toolbox talk is important but is not a control measure.",
+      "difficulty": "easy",
+      "tags": ["working at height", "hierarchy of controls"]
+    },
+    {
+      "id": "e8-q5",
+      "text": "What is the function of an 'attendant' (hole watch) during confined space entry operations?",
+      "options": [
+        { "id": "a", "text": "To enter the space periodically to check on the entrant" },
+        { "id": "b", "text": "To remain outside the space, maintain continuous communication with entrants, monitor conditions, and initiate rescue if needed — without entering" },
+        { "id": "c", "text": "To operate the mechanical ventilation equipment inside the space" },
+        { "id": "d", "text": "To complete the permit to work documentation after entry" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The attendant (hole watch) must remain at the entry point at all times during entry. Their duties: maintain communication with entrants, monitor atmospheric readings, track how many persons are inside, and initiate the emergency rescue plan if needed — without entering the space themselves. If they must leave the post, all entrants must exit first. This is non-negotiable in Aramco and QP confined space procedures.",
+      "difficulty": "medium",
+      "tags": ["confined space", "attendant", "hole watch"]
+    },
+    {
+      "id": "e8-q6",
+      "text": "A scaffold inspected and signed off as safe must be re-inspected in which of the following circumstances?",
+      "options": [
+        { "id": "a", "text": "Only when a worker reports a concern" },
+        { "id": "b", "text": "After any event that could have affected its stability — including adverse weather (high winds, heavy rain), significant loading, or suspected damage" },
+        { "id": "c", "text": "Every 6 months regardless of conditions" },
+        { "id": "d", "text": "Only when the scaffold is moved to a new location" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "While scaffold inspections are required at set intervals (typically every 7 days and after modifications), they must also be conducted after any event that may have affected integrity — high winds, heavy rain, vehicular impact, or excessive loading. Re-inspection is also required before use after a period when the scaffold has not been used. This is consistent with UK Working at Height Regulations and Gulf best practice.",
+      "difficulty": "medium",
+      "tags": ["working at height", "scaffold inspection"]
+    },
+    {
+      "id": "e8-q7",
+      "text": "Which of the following is an example of a COLLECTIVE protection measure for work at height?",
+      "options": [
+        { "id": "a", "text": "A full-body harness and fall arrest lanyard" },
+        { "id": "b", "text": "A hard hat worn by the worker below" },
+        { "id": "c", "text": "A scaffold platform with guardrails and toe boards protecting all workers on the platform" },
+        { "id": "d", "text": "A spotter positioned below the work area" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Collective protection measures protect multiple workers automatically, without requiring individual action or wearing equipment. A scaffold platform with guardrails and toe boards is the classic example. Individual protection (harnesses) requires each worker to correctly fit and use their harness every time — less reliable. Collective measures are always preferred over individual ones.",
+      "difficulty": "easy",
+      "tags": ["working at height", "collective protection", "scaffold"]
+    },
+    {
+      "id": "e8-q8",
+      "text": "Welfare facilities at a Gulf construction site must include which of the following as a minimum?",
+      "options": [
+        { "id": "a", "text": "A gymnasium and recreational facilities" },
+        { "id": "b", "text": "Toilets, washing facilities (with hot and cold water), changing rooms, rest areas with seating, and drinking water" },
+        { "id": "c", "text": "Only drinking water and portable toilets" },
+        { "id": "d", "text": "A canteen serving hot meals three times per day" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Minimum welfare requirements in most H&S frameworks (and Gulf labour laws) include: sufficient sanitary facilities (toilets and washing facilities with soap and water), changing/drying facilities, rest areas where workers can eat and rest, and accessible drinking water. The minimum is about basic dignity and hygiene, not recreational amenities.",
+      "difficulty": "easy",
+      "tags": ["welfare facilities", "welfare requirements"]
+    },
+    {
+      "id": "e8-q9",
+      "text": "When using a ladder for work at height, the safe angle for a leaning ladder is approximately:",
+      "options": [
+        { "id": "a", "text": "45° to the vertical (1 unit out for every 1 unit up)" },
+        { "id": "b", "text": "75° to the horizontal — 1 unit out for every 4 units up (the '1 in 4' rule)" },
+        { "id": "c", "text": "60° to the horizontal — 1 unit out for every 2 units up" },
+        { "id": "d", "text": "Any angle as long as the ladder is tied at the top" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The safe angle for a leaning ladder is 75° to the horizontal — achieved by following the '1 in 4' rule: for every 4 metres of height, the base is 1 metre away from the wall. This provides the optimal balance between stability and the ability to climb. Too steep (nearly vertical) risks the base slipping out; too shallow increases the risk of the top sliding.",
+      "difficulty": "medium",
+      "tags": ["working at height", "ladder safety", "1 in 4 rule"]
+    },
+    {
+      "id": "e8-q10",
+      "text": "Which of the following statements about oxygen deficiency in confined spaces is CORRECT?",
+      "options": [
+        { "id": "a", "text": "Workers can detect oxygen deficiency by the smell of the air" },
+        { "id": "b", "text": "Oxygen deficiency (below 19.5%) has no visible warning signs — workers may become impaired rapidly without realising it, making detection equipment essential" },
+        { "id": "c", "text": "Oxygen below 16% causes mild headaches that give adequate warning to escape" },
+        { "id": "d", "text": "Nitrogen purging of a vessel eliminates all confined space hazards" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Oxygen deficiency is invisible and odourless. Workers entering oxygen-deficient atmospheres may feel no initial warning — cognitive impairment precedes obvious symptoms, so they may be unable to self-rescue. At 16% O2 the impairment can be severe; at 6% unconsciousness is near-instant. Gas detectors are the only reliable warning. Nitrogen purging creates a completely oxygen-free atmosphere (IDLH) — it does not make the space safer.",
+      "difficulty": "hard",
+      "tags": ["confined space", "oxygen deficiency", "atmospheric hazards"]
+    },
+    {
+      "id": "e8-q11",
+      "text": "A fall arrest system (harness and lanyard) is being used by a worker at 3 metres above the ground. Why must the free-fall distance be calculated before use?",
+      "options": [
+        { "id": "a", "text": "To ensure the worker can still reach the work area" },
+        { "id": "b", "text": "To ensure the worker does not strike the ground or an obstruction below before the arrest system fully deploys and stops the fall" },
+        { "id": "c", "text": "To calculate the force needed to pull the worker back up after a fall" },
+        { "id": "d", "text": "Because harnesses are only certified to specific heights" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Fall arrest systems require clearance distance to function. A 2-metre lanyard plus a 1.75-metre energy absorber deployment plus the worker's height means a total clearance of ~6 metres may be required. At 3 metres height, there is insufficient clearance — a fall arrest system would not arrest the fall before ground impact. In such cases, fall restraint (preventing the fall entirely) or working platforms are required instead.",
+      "difficulty": "hard",
+      "tags": ["working at height", "fall arrest", "clearance distance"]
+    },
+    {
+      "id": "e8-q12",
+      "text": "In Gulf O&G construction, what is the MOST critical welfare requirement for outdoor workers during summer months?",
+      "options": [
+        { "id": "a", "text": "Access to a mobile phone during working hours" },
+        { "id": "b", "text": "Access to cool potable drinking water (at least 250ml every 20 minutes), shaded rest areas, and a buddy system to monitor for heat illness symptoms" },
+        { "id": "c", "text": "Provision of sunscreen in the welfare facility" },
+        { "id": "d", "text": "Air-conditioned accommodation on-site at all times" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "In Gulf summer conditions (temperatures exceeding 45°C), the most critical welfare requirements are: cool potable water (at least 250ml every 20 minutes, not just 'available'), shaded rest areas for work/rest cycles, and a buddy system so heat illness symptoms are spotted early. This aligns with Aramco SEMP heat stress guidelines, Saudi Ministry of Labour outdoor work regulations, and ADNOC's occupational health standards.",
+      "difficulty": "medium",
+      "tags": ["welfare", "heat stress", "Gulf context"]
+    }
+  ]
+}

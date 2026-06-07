@@ -1,0 +1,107 @@
+{
+  "id": "certifications/nebosh-diploma/unit-a",
+  "sectionId": "nebosh-diploma",
+  "title": "Unit A: Managing Health and Safety",
+  "order": 1,
+  "estimatedReadTime": 25,
+  "difficulty": "advanced",
+  "learningObjectives": [
+    "Understand how Unit A builds on the NEBOSH IGC foundation",
+    "Explain the moral, legal, and financial arguments for health and safety management",
+    "Describe how to develop, implement, and review an effective health and safety management system",
+    "Understand the role of organisational culture, leadership, and competence in H&S performance"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "What Is the NEBOSH National / International Diploma?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The NEBOSH Diploma (National or International) is the gold-standard qualification for professional HSE practitioners — roughly equivalent to a degree-level competency in occupational health and safety. While the NEBOSH IGC introduces health and safety management, the Diploma dives deep into the 'why' and 'how' at a strategic level. Many senior HSE roles in the Gulf specifically require the Diploma or its equivalent (Grad IOSH towards CMIOSH)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The International Diploma consists of four units: Unit A (Managing H&S), Unit B (Hazardous Agents), Unit C (Work Equipment Safety), and Unit D (Specialist Workplace Hazards) plus Unit E (Environmental Management) for the full qualification. Each unit requires written examinations at a postgraduate level of analysis — not just recall."
+    },
+    {
+      "type": "keyPoint",
+      "text": "The Diploma is assessed differently from the IGC. Unit A in particular requires candidates to analyse, evaluate, and synthesise — not just describe. Exam answers require justified recommendations, not lists of bullet points. Expect to write 400–800 word essay-style answers with structure, evidence, and conclusions."
+    },
+    {
+      "type": "heading",
+      "text": "The Case for H&S Management: Beyond Compliance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unit A begins by establishing why organisations should invest in H&S management — not because regulators require it, but because the moral, legal, and financial business cases are compelling."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Argument", "Key Points"],
+        "rows": [
+          ["Moral", "Workers have a fundamental right to return home without injury or illness. Employers owe a duty of care. Psychological harm to colleagues and family after accidents. The principle of non-maleficence."],
+          ["Legal", "Civil law: negligence claims, damages, vicarious liability. Criminal law: HSE prosecution, fines, imprisonment of directors. Regulatory: prohibition notices, improvement notices, licence revocation."],
+          ["Financial (Direct)", "Compensation payments, legal fees, medical costs, damaged equipment, fines, lost product, investigation costs."],
+          ["Financial (Indirect/Hidden)", "Reduced morale, recruitment difficulties, loss of reputation, business interruption, increased insurance premiums, management time. Indirect costs are typically 8–36x direct costs (Heinrich, Bird)."]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Health and Safety Management Systems"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Health and Safety Management System (HSMS) provides a structured, systematic approach to managing H&S risks. The internationally accepted model follows the PDCA cycle (Plan-Do-Check-Act) and is codified in ISO 45001:2018, which replaced OHSAS 18001. The older HSG65 (UK HSE) model — Policy, Organising, Planning, Measuring, Reviewing — predates ISO 45001 but remains influential."
+    },
+    {
+      "type": "definition",
+      "term": "ISO 45001:2018",
+      "text": "The international standard for occupational health and safety management systems. Uses the High Level Structure (HLS) common to all ISO management standards (ISO 9001, ISO 14001), making integration straightforward. Requires top management leadership, worker participation, risk-based thinking, and continual improvement. Superseded OHSAS 18001 in 2021."
+    },
+    {
+      "type": "heading",
+      "text": "Organisational Culture and Leadership"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unit A dedicates significant attention to the role of safety culture in organisational performance. Reason's Swiss Cheese Model, Westrum's organisational typologies (pathological, bureaucratic, generative), and Turner's Man-Made Disasters theory are foundational concepts at Diploma level."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Generative culture: safety is done because 'we care' — high information flow, rewards for reporting, learning from near-misses",
+        "Bureaucratic culture: safety done because 'we have to' — rules are followed but innovation is limited",
+        "Pathological culture: safety is a nuisance — information is hidden, messengers are shot, blame is the response to incidents",
+        "Leadership behaviours that create a generative culture: visible felt leadership, walking the talk, consistent messaging, removing barriers to reporting"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Competence Framework"
+    },
+    {
+      "type": "paragraph",
+      "text": "Competence in H&S comprises knowledge, skills, and experience relevant to the task. The Diploma introduces a formal competence framework: identifying competence requirements for roles, assessing current competence gaps, planning training and development, verifying competence through observation and testing, and maintaining competence records."
+    },
+    {
+      "type": "heading",
+      "text": "Audit and Review"
+    },
+    {
+      "type": "paragraph",
+      "text": "Effective HSMS includes both monitoring (ongoing measurement) and audit (systematic, independent assessment against planned arrangements). The Diploma distinguishes between active (proactive) and reactive monitoring, between internal and external audits, and between verification audits and improvement audits."
+    },
+    {
+      "type": "example",
+      "text": "A Gulf petrochemical company wants to achieve ISO 45001 certification. Unit A knowledge is applied: the HSE Manager leads a gap analysis of current practices against ISO 45001 requirements, identifies significant gaps in worker participation and documented risk assessments, develops a 12-month implementation plan, assigns ownership to site supervisors, trains line managers in their H&S obligations, implements an incident reporting app to improve near-miss data quality, and schedules a pre-certification internal audit six months before the certification audit."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: The NEBOSH Diploma is highly valued in the Gulf — particularly in Saudi Arabia (Aramco and SABIC), UAE (ADNOC), and Qatar (QatarEnergy), where senior HSE roles frequently list it as a requirement. Gulf organisations are increasingly seeking ISO 45001 certification to demonstrate HSMS maturity to international partners and investors. The NEBOSH International Diploma is identical in content to the National Diploma but uses international legislative examples — making it directly applicable to the Gulf context. Many Gulf HSE professionals combine the NEBOSH Diploma with IOSH membership (working towards CMIOSH or FIIRSM) to achieve full professional recognition."
+    }
+  ],
+  "quizId": null
+}

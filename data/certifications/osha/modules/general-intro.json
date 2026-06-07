@@ -1,0 +1,113 @@
+{
+  "id": "certifications/osha/general-intro",
+  "sectionId": "osha",
+  "title": "Introduction to OSHA General Industry (29 CFR Part 1910)",
+  "order": 11,
+  "estimatedReadTime": 18,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Distinguish general industry standards (1910) from construction standards (1926)",
+    "Identify the key subparts of 29 CFR Part 1910 most applicable to manufacturing and process industries",
+    "Describe the VPP programme and its significance for Gulf employment",
+    "Explain OSHA's process safety management requirements for highly hazardous chemicals"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "What Is OSHA General Industry?"
+    },
+    {
+      "type": "paragraph",
+      "text": "While 29 CFR Part 1926 covers construction, 29 CFR Part 1910 covers general industry — manufacturing, warehousing, processing, utilities, and services. General industry is where most HSE professionals working in petrochemicals, refineries, and manufacturing will spend the majority of their careers."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Industry Sector", "Applicable Standard"],
+        "rows": [
+          ["Construction", "29 CFR Part 1926"],
+          ["General Industry (manufacturing, processing, utilities)", "29 CFR Part 1910"],
+          ["Maritime / Shipyards", "29 CFR Part 1915"],
+          ["Longshoring", "29 CFR Part 1918"],
+          ["Agriculture", "29 CFR Part 1928"]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "A key general industry rule: the General Duty Clause (Section 5(a)(1) of the OSH Act) applies when no specific standard exists. If a recognised hazard exists and causes or could cause death or serious harm, and a feasible means of abatement is available, the employer is obligated to address it."
+    },
+    {
+      "type": "heading",
+      "text": "Key Subparts of 29 CFR Part 1910"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Subpart", "Topic", "Most Important Standard"],
+        "rows": [
+          ["D", "Walking and Working Surfaces", "1910.23 – Ladders; 1910.28 – Fall Protection (4 ft threshold)"],
+          ["E", "Exit Routes and Emergency Action Plans", "1910.36 – Exit design; 1910.38 – Emergency plans"],
+          ["G", "Occupational Health and Environmental Control", "1910.95 – Noise; 1910.94 – Ventilation"],
+          ["H", "Hazardous Materials", "1910.119 – PSM; 1910.101 – Compressed gas"],
+          ["I", "PPE", "1910.132–1910.140"],
+          ["J", "General Environmental Controls", "1910.146 – Permit-required confined spaces; 1910.147 – LOTO"],
+          ["N", "Materials Handling", "1910.178 – Forklifts; 1910.184 – Slings"],
+          ["O", "Machinery and Machine Guarding", "1910.212 – General machine guarding"],
+          ["Q", "Welding, Cutting, and Brazing", "1910.252–1910.255"],
+          ["S", "Electrical", "1910.301–1910.399"],
+          ["Z", "Toxic and Hazardous Substances", "1910.1000 – Air contaminants; 1910.1200 – HazCom"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Process Safety Management (PSM) — 1910.119"
+    },
+    {
+      "type": "paragraph",
+      "text": "PSM is one of the most important OSHA standards for anyone working in oil, gas, petrochemical, or chemical manufacturing. It applies whenever a facility has highly hazardous chemicals (HHCs) above specified threshold quantities — including propane, chlorine, ammonia, hydrogen, hydrogen sulphide, and many others."
+    },
+    {
+      "type": "definition",
+      "term": "PSM (Process Safety Management)",
+      "text": "A systematic approach to preventing releases of highly hazardous chemicals. OSHA's 1910.119 standard requires 14 elements: Process Safety Information, Process Hazard Analysis, Operating Procedures, Training, Contractors, Pre-Startup Safety Review, Mechanical Integrity, Hot Work, Management of Change, Incident Investigation, Emergency Planning, Compliance Audits, Trade Secrets, and Employee Participation."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Process Safety Information (PSI): chemical hazards, technology of the process, equipment details",
+        "Process Hazard Analysis (PHA): HAZOP, what-if, FMEA — identifies and evaluates hazards",
+        "Management of Change (MOC): formal review required before any change to process, equipment, or chemicals",
+        "Mechanical Integrity: documented inspection, testing, and maintenance of pressure vessels, piping, relief devices",
+        "Pre-Startup Safety Review (PSSR): safety check before introducing chemicals to new or modified equipment",
+        "Incident Investigation: root cause analysis of incidents and near-misses involving HHCs"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "OSHA's Voluntary Protection Programs (VPP)"
+    },
+    {
+      "type": "paragraph",
+      "text": "VPP is OSHA's recognition programme for employers and workers who have implemented effective safety and health management systems and maintained injury/illness rates below national averages. VPP sites receive a Star designation (highest level) and are exempt from OSHA programmed inspections."
+    },
+    {
+      "type": "example",
+      "text": "A refinery has processed more than 5,000 lb of hydrogen sulphide (H2S) on site — well above OSHA's 1,500 lb PSM threshold. It must: compile full process safety information, conduct a HAZOP on every process unit every 5 years, have written operating procedures for normal and emergency operations, train operators on them, track all mechanical integrity tests on pressure vessels and relief valves, and investigate any H2S release or near-miss."
+    },
+    {
+      "type": "heading",
+      "text": "Walking/Working Surface Fall Protection — 4-Foot Threshold"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike construction (6 ft), general industry requires fall protection for unguarded surfaces 4 feet or more above a lower level. Guardrails, safety nets, or personal fall arrest systems are acceptable. Walking/working surfaces must be kept clean, dry, and free of hazards. Fixed ladders must have a cage or ladder safety system if they are taller than 24 feet."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Gulf petrochemical and oil and gas facilities are squarely in 'general industry' territory. Saudi Aramco's SEMP is the closest Gulf equivalent to OSHA's PSM programme — both require PHAs (called HAZOP studies in Gulf parlance), MOC procedures, and mechanical integrity programmes. ADNOC's Corporate HSE Standards mirror 1910.119 elements. The International Labour Organization (ILO) Convention 174 on Major Industrial Accidents — which Gulf countries reference — also aligns closely with PSM. An HSE professional who understands PSM will be highly valued at any Gulf refinery, LNG plant, or petrochemical complex."
+    }
+  ],
+  "quizId": null
+}

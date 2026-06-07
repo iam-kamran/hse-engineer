@@ -1,0 +1,130 @@
+{
+  "id": "certifications/osha/construction-electrical",
+  "sectionId": "osha",
+  "title": "Electrical Safety in Construction (29 CFR 1926 Subpart K)",
+  "order": 3,
+  "estimatedReadTime": 20,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Identify the four main electrical hazards on construction sites",
+    "Explain GFCI protection requirements for construction",
+    "Describe lockout/tagout requirements for construction electrical work",
+    "Recognise safe work distances from overhead power lines"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "The Four Electrical Hazards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Electricity is involved in roughly 8–10% of all construction fatalities. The four main electrical hazards are electrocution (death from electric shock), electric shock (injury), arc flash/blast (radiant heat, molten metal, pressure wave), and fires caused by electrical faults."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Hazard", "Cause", "Prevention"],
+        "rows": [
+          ["Electrocution", "Contact with energised conductors — tools, wiring, overhead lines", "GFCI, insulation, guarding, lockout"],
+          ["Electric Shock", "Same as above but non-fatal; can still cause falls from ladders/scaffolds", "Same as above plus fall protection"],
+          ["Arc Flash", "Short circuit or phase-to-ground fault releases massive energy burst", "Approach limits, PPE (arc-rated), energised electrical work permits"],
+          ["Fire", "Overloaded circuits, damaged insulation, improper extension cord use", "Proper wire gauges, no daisy-chaining, regular inspection"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Ground Fault Circuit Interrupter (GFCI)"
+    },
+    {
+      "type": "definition",
+      "term": "GFCI (Ground Fault Circuit Interrupter)",
+      "text": "A device that monitors current flow through a circuit. If even a small imbalance (5 milliamps) is detected — indicating current is flowing somewhere it shouldn't (through a person to ground) — the GFCI trips in 1/40th of a second, before the shock becomes lethal."
+    },
+    {
+      "type": "keyPoint",
+      "text": "OSHA 1926.404(b)(1) requires GFCI protection for all 120-volt, 15- and 20-ampere receptacles used by personnel at construction sites. This applies to temporary power (spider boxes, extension cords, power tools). GFCI protection OR an Assured Equipment Grounding Conductor Program (AEGCP) is required."
+    },
+    {
+      "type": "paragraph",
+      "text": "The AEGCP is an alternative to GFCI. It requires a written program, colour-coded inspection of all cord sets and equipment before first use each day, and a three-prong testing procedure. In practice, GFCI is simpler and more commonly used."
+    },
+    {
+      "type": "heading",
+      "text": "Extension Cords and Temporary Wiring"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Extension cords must be listed/approved (UL), rated for outdoor use where exposed to weather",
+        "Never remove the ground prong from a three-pronged plug",
+        "Extension cords are for temporary use only — not permanent wiring",
+        "No daisy-chaining (connecting multiple extension cords together to reach farther)",
+        "Inspect cords daily; remove from service if insulation is damaged, connectors cracked, or grounding prong missing",
+        "Keep cords out of doorways, windows, and areas where they can be damaged by vehicles or tools",
+        "Overhead cords must be at least 10 ft above pedestrian areas, 14 ft above vehicle areas"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Overhead Power Line Safety"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contact with overhead power lines is the most common cause of electrocution on construction sites. OSHA 1926.1408 sets minimum approach distances based on line voltage. Always assume overhead lines are energised."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Line Voltage", "Minimum Approach Distance"],
+        "rows": [
+          ["Up to 50 kV", "10 feet (3 m)"],
+          ["50 kV to 200 kV", "15 feet (4.6 m)"],
+          ["200 kV to 350 kV", "20 feet (6.1 m)"],
+          ["350 kV to 500 kV", "25 feet (7.6 m)"],
+          ["Over 500 kV", "Established by qualified engineer"]
+        ]
+      }
+    },
+    {
+      "type": "warning",
+      "text": "Before operating any equipment (cranes, excavators, aerial lifts, dump trucks) near overhead power lines, determine the voltage and establish the minimum approach distance. If you cannot maintain the distance, contact the utility to de-energise and ground the lines, or install insulating sleeves (only by the utility company)."
+    },
+    {
+      "type": "heading",
+      "text": "Lockout / Tagout (LOTO) in Construction"
+    },
+    {
+      "type": "paragraph",
+      "text": "When construction workers must work on electrical panels, switchgear, motors, or machinery, OSHA 1926.417 requires de-energising before work begins and using lockout/tagout procedures to prevent re-energisation. Only qualified persons may work on or near live parts."
+    },
+    {
+      "type": "definition",
+      "term": "Qualified Person (Electrical)",
+      "text": "A person who has received training in and demonstrated proficiency in the construction and operation of electrical equipment and installations, and the hazards involved. (1926.32(m))"
+    },
+    {
+      "type": "example",
+      "text": "A construction crew needs to install conduit inside an existing building with live panelboards. The electrical foreman identifies the circuit breakers, shuts them off, applies a personal lock, tests with a non-contact voltage tester, and posts a 'Do Not Re-energise' tag. Only after confirming no voltage does the crew begin conduit installation adjacent to the panel."
+    },
+    {
+      "type": "heading",
+      "text": "Wiring Methods and Grounding"
+    },
+    {
+      "type": "list",
+      "items": [
+        "All 240-volt receptacles in temporary power distribution require GFCI or AEGCP",
+        "Metal frames and enclosures of electrical equipment must be grounded",
+        "Junction boxes must be covered; open knock-outs must be closed",
+        "Flexible cords must be continuous — no splicing or taping to repair insulation",
+        "Wet or damp locations require weatherproof boxes and listed wet-location equipment"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Electrical fatalities are a top concern on Gulf megaprojects. Aramco SEMP Life-Saving Rule requires an approved isolation certificate (equivalent to OSHA LOTO) before any electrical work. In the UAE, Abu Dhabi's OSHAD-SF requires all electrical tasks on energised systems above 50V AC to have an energised electrical work permit. ADNOC projects require IEC 60900-rated insulated tools. In Qatar, hot work and electrical isolation are managed under QatarEnergy's Permit to Work system — which includes a separate Electrical Isolation Certificate."
+    }
+  ],
+  "quizId": null
+}

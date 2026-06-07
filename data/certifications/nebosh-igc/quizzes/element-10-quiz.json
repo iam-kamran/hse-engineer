@@ -1,0 +1,176 @@
+{
+  "id": "nebosh-igc/element-10-quiz",
+  "moduleId": "certifications/nebosh-igc/element-10",
+  "title": "Element 10 Quiz — Fire Classification & Flammable Atmospheres",
+  "passMark": 70,
+  "questions": [
+    {
+      "id": "e10-q1",
+      "text": "The fire triangle identifies three elements necessary for combustion. Which of the following correctly lists all three?",
+      "options": [
+        { "id": "a", "text": "Fuel, Oxygen, Carbon Dioxide" },
+        { "id": "b", "text": "Fuel, Oxygen (or oxidant), and Heat (ignition source)" },
+        { "id": "c", "text": "Fuel, Nitrogen, and Heat" },
+        { "id": "d", "text": "Combustible material, Water, and Heat" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The fire triangle requires three elements simultaneously: Fuel (any combustible material — solid, liquid, or gas), Oxygen (typically from air — at least 16%), and Heat (an ignition source above the fuel's ignition temperature). Removing any one element extinguishes the fire. The fire tetrahedron adds a fourth element: the self-sustaining chain reaction — targeted by halon and similar chemical extinguishants.",
+      "difficulty": "easy",
+      "tags": ["fire triangle", "combustion", "fire fundamentals"]
+    },
+    {
+      "id": "e10-q2",
+      "text": "A fire breaks out in a server room where electrical equipment is involved. Which type of fire extinguisher is MOST appropriate?",
+      "options": [
+        { "id": "a", "text": "Water extinguisher" },
+        { "id": "b", "text": "Foam extinguisher" },
+        { "id": "c", "text": "CO2 (carbon dioxide) extinguisher" },
+        { "id": "d", "text": "Wet chemical extinguisher" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "CO2 extinguishers are the preferred choice for electrical fires — they displace oxygen without leaving a residue that damages equipment, and CO2 is non-conductive. Water and foam must never be used on live electrical equipment (electrocution risk). Wet chemical extinguishers are designed for Class F (cooking oil/fat) fires, not electrical equipment.",
+      "difficulty": "easy",
+      "tags": ["fire extinguishers", "electrical fires", "CO2"]
+    },
+    {
+      "id": "e10-q3",
+      "text": "Class B fires involve:",
+      "options": [
+        { "id": "a", "text": "Ordinary combustibles — wood, paper, and textiles" },
+        { "id": "b", "text": "Flammable liquids — petrol, diesel, solvents, and oils" },
+        { "id": "c", "text": "Flammable gases — LPG, natural gas, and hydrogen" },
+        { "id": "d", "text": "Metal fires — magnesium, sodium, and aluminium" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Fire classification: Class A — ordinary combustibles (wood, paper, cloth); Class B — flammable liquids (petrol, diesel, solvents); Class C — flammable gases (LPG, methane); Class D — metals (magnesium, lithium); Class F — cooking oils/fats (UK/European). Class B fires are highly relevant in Gulf O&G where large volumes of liquid hydrocarbons are handled.",
+      "difficulty": "easy",
+      "tags": ["fire classification", "Class B", "flammable liquids"]
+    },
+    {
+      "id": "e10-q4",
+      "text": "What does 'Lower Explosive Limit' (LEL) mean in the context of flammable gases and vapours?",
+      "options": [
+        { "id": "a", "text": "The minimum ignition energy required to ignite the gas mixture" },
+        { "id": "b", "text": "The minimum concentration of a flammable gas in air below which the mixture is too lean to ignite" },
+        { "id": "c", "text": "The pressure at which a gas vessel will explode if overfilled" },
+        { "id": "d", "text": "The lowest temperature at which a liquid fuel will produce flammable vapours" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The LEL is the minimum concentration of a flammable gas or vapour in air that will propagate a flame if ignited. Below the LEL, the mixture is too lean to burn. Above the UEL (Upper Explosive Limit), the mixture is too rich. Between LEL and UEL is the flammable range. In confined space entry and hot work procedures in Gulf O&G, the atmosphere must be below 10% of the LEL to be considered safe to enter.",
+      "difficulty": "medium",
+      "tags": ["LEL", "UEL", "flammable atmosphere", "explosion"]
+    },
+    {
+      "id": "e10-q5",
+      "text": "Flash point is an important property of flammable liquids. What does it indicate?",
+      "options": [
+        { "id": "a", "text": "The temperature at which the liquid will spontaneously ignite without an external ignition source" },
+        { "id": "b", "text": "The lowest temperature at which a liquid produces sufficient vapour to form an ignitable mixture in air above its surface" },
+        { "id": "c", "text": "The temperature at which the liquid fully converts to gas" },
+        { "id": "d", "text": "The maximum safe storage temperature for the liquid" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Flash point is the lowest temperature at which a liquid produces enough vapour to ignite momentarily if a flame or spark is applied. Petrol has a very low flash point (around -43°C), making it hazardous even in cold climates. Diesel has a higher flash point (55–80°C). Liquids with flash points below ambient temperature (e.g., Gulf summers reaching 50°C) require strict controls on ignition sources.",
+      "difficulty": "medium",
+      "tags": ["flash point", "flammable liquids", "fire properties"]
+    },
+    {
+      "id": "e10-q6",
+      "text": "In a Gulf LNG facility, a leak of natural gas forms a flammable atmosphere. The FIRST priority before any other action is:",
+      "options": [
+        { "id": "a", "text": "Identify and isolate the gas source to stop the release" },
+        { "id": "b", "text": "Eliminate all ignition sources in the area immediately" },
+        { "id": "c", "text": "Evacuate the area and raise the alarm, then call the emergency response team" },
+        { "id": "d", "text": "Apply foam blanket to absorb the gas cloud" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "In any major gas release, life safety comes first: evacuate and raise the alarm. Only trained emergency responders with appropriate equipment should then approach to isolate the source and eliminate ignition sources. The general workforce should evacuate — not attempt to isolate or enter the hazard area. This is consistent with QP, ADNOC, and Aramco emergency response protocols.",
+      "difficulty": "medium",
+      "tags": ["gas release", "emergency response", "Gulf context"]
+    },
+    {
+      "id": "e10-q7",
+      "text": "Which fire extinguisher agent is specifically designed for Class D (metal) fires?",
+      "options": [
+        { "id": "a", "text": "CO2 (carbon dioxide)" },
+        { "id": "b", "text": "Dry powder — but only specific powders formulated for metal fires (e.g. graphite, dry sand, sodium chloride)" },
+        { "id": "c", "text": "Foam" },
+        { "id": "d", "text": "Water mist" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Class D (metal) fires — magnesium, lithium, titanium, sodium — require specialist dry powder extinguishants specifically formulated for the burning metal. Standard dry powder (ABC powder) does not work on metal fires and can worsen them. Water on burning metals such as sodium or lithium can cause explosive reactions. Metal fires are rare but occur in aerospace, battery manufacturing, and some chemical processes.",
+      "difficulty": "hard",
+      "tags": ["fire extinguishers", "Class D", "metal fires"]
+    },
+    {
+      "id": "e10-q8",
+      "text": "The PASS technique is used when operating a portable fire extinguisher. What does PASS stand for?",
+      "options": [
+        { "id": "a", "text": "Pull, Aim, Squeeze, Sweep" },
+        { "id": "b", "text": "Position, Alert, Stop, Start" },
+        { "id": "c", "text": "Prepare, Activate, Spray, Secure" },
+        { "id": "d", "text": "Point, Assess, Signal, Spray" }
+      ],
+      "correctOptionId": "a",
+      "explanation": "PASS: Pull the pin (breaks the tamper seal), Aim the nozzle at the BASE of the fire (not the flames — the fuel source must be reached), Squeeze the handle to discharge, Sweep from side to side across the base of the fire. Aiming at the flames rather than the base is a common mistake — it cools the flames without smothering the fuel source.",
+      "difficulty": "easy",
+      "tags": ["fire extinguisher use", "PASS technique"]
+    },
+    {
+      "id": "e10-q9",
+      "text": "ATEX zones classify areas according to the likelihood of explosive atmospheres being present. Which zone classification indicates a place where a flammable gas atmosphere is continuously or frequently present?",
+      "options": [
+        { "id": "a", "text": "Zone 2" },
+        { "id": "b", "text": "Zone 1" },
+        { "id": "c", "text": "Zone 0" },
+        { "id": "d", "text": "Zone 20" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "ATEX gas zone classifications: Zone 0 — flammable gas continuously present (e.g. inside a tank); Zone 1 — likely to be present during normal operations (e.g. near a vent); Zone 2 — not normally present, only in abnormal conditions (e.g. around a flanged joint). Zone 20/21/22 are equivalent classifications for dust atmospheres. Only ATEX-certified equipment is permitted in classified zones.",
+      "difficulty": "hard",
+      "tags": ["ATEX", "explosive atmosphere", "zone classification"]
+    },
+    {
+      "id": "e10-q10",
+      "text": "A fire damper in an HVAC duct system performs which function in fire safety?",
+      "options": [
+        { "id": "a", "text": "It detects smoke and triggers the sprinkler system" },
+        { "id": "b", "text": "It closes automatically in a fire to prevent flame and hot gases from spreading through ductwork to other parts of the building" },
+        { "id": "c", "text": "It increases air supply to suppress the fire through dilution" },
+        { "id": "d", "text": "It recirculates smoke to concentrations below the LEL" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Fire dampers are fitted in HVAC ductwork at fire compartment boundaries. They are held open during normal operation by a fusible link or actuator. When fire temperatures are reached, they close automatically, preventing fire and hot gases from using the ductwork as a pathway to spread between compartments. They are part of the passive fire protection strategy alongside fire doors and compartmentation.",
+      "difficulty": "medium",
+      "tags": ["fire prevention", "passive fire protection", "fire spread"]
+    },
+    {
+      "id": "e10-q11",
+      "text": "What is the primary fire hazard of hydrogen sulphide (H2S) that is ADDITIONAL to its acute toxicity?",
+      "options": [
+        { "id": "a", "text": "H2S is a strong oxidiser that reacts violently with flammable materials" },
+        { "id": "b", "text": "H2S is itself a highly flammable gas (LEL 4.3%, UEL 46%) that can ignite and burn with a blue flame if an ignition source is present" },
+        { "id": "c", "text": "H2S reacts with water to form sulphuric acid, which corrodes fire suppression systems" },
+        { "id": "d", "text": "H2S has a self-ignition temperature of 70°C, making it a spontaneous ignition risk in Gulf summer heat" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "H2S presents a dual hazard in Gulf O&G: (1) Highly toxic — IDLH at 100 ppm; and (2) Highly flammable — LEL of 4.3%, UEL of 46%, with a wide flammable range. If a H2S release reaches an ignition source, it burns as a blue flame. This dual hazard makes sour gas environments among the most dangerous in the oil and gas industry. Both fire and gas detection systems are required in sour service areas.",
+      "difficulty": "hard",
+      "tags": ["H2S", "flammable gas", "Gulf context"]
+    },
+    {
+      "id": "e10-q12",
+      "text": "A hot work permit in a Gulf petrochemical facility controls activities such as welding and grinding. What is the PRIMARY purpose of the required 'gas test' before hot work begins?",
+      "options": [
+        { "id": "a", "text": "To measure noise levels generated by the hot work" },
+        { "id": "b", "text": "To confirm the atmosphere in the work area is below 10% LEL so hot work will not ignite a flammable atmosphere" },
+        { "id": "c", "text": "To check oxygen levels to ensure there is enough air for the welder to breathe" },
+        { "id": "d", "text": "To verify that the fire suppression system is active before sparks are generated" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Before any hot work (welding, grinding, spark-producing activities) in industrial facilities, the atmosphere must be tested and confirmed to be below 10% of the LEL — the safe threshold set by most PTW systems including Aramco, QP, and ADNOC. At or above 10% LEL, hot work is prohibited. The gas test must be repeated at regular intervals during the work (typically every 30 minutes). This is a critical PTW control in Gulf O&G facilities.",
+      "difficulty": "medium",
+      "tags": ["hot work permit", "gas test", "LEL", "Gulf context"]
+    }
+  ]
+}

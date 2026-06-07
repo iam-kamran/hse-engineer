@@ -1,0 +1,107 @@
+{
+  "id": "certifications/iso-auditor/iso-14001-overview",
+  "sectionId": "iso-auditor",
+  "title": "ISO 14001:2015 — Environmental Management System Overview",
+  "order": 3,
+  "estimatedReadTime": 20,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Explain the purpose and scope of ISO 14001:2015",
+    "Define environmental aspects and impacts and describe how to identify significant ones",
+    "Understand the lifecycle perspective requirement introduced in the 2015 revision",
+    "Compare ISO 14001 with ISO 45001 and describe integration opportunities"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "What Is ISO 14001?"
+    },
+    {
+      "type": "paragraph",
+      "text": "ISO 14001:2015 — Environmental Management Systems — Requirements with guidance for use — is the international standard for environmental management systems (EMS). It provides a framework for organisations to protect the environment, respond to changing environmental conditions, and fulfil compliance obligations. Over 300,000 organisations globally hold ISO 14001 certification."
+    },
+    {
+      "type": "paragraph",
+      "text": "ISO 14001 was revised in 2015 to align with the High Level Structure (HLS) and to strengthen requirements around strategic context, leadership, lifecycle perspective, and risk-based thinking. The core PDCA approach was retained."
+    },
+    {
+      "type": "keyPoint",
+      "text": "ISO 14001 focuses on environmental performance improvement — not just regulatory compliance. It requires organisations to set objectives, measure performance against them, and demonstrate continual improvement. Certification does not mean zero environmental impact; it means the organisation is systematically managing and improving its environmental performance."
+    },
+    {
+      "type": "heading",
+      "text": "Environmental Aspects and Impacts"
+    },
+    {
+      "type": "definition",
+      "term": "Environmental Aspect",
+      "text": "An element of an organisation's activities, products, or services that interacts or can interact with the environment. Example: discharging cooling water to a river, consuming electricity, generating solid waste."
+    },
+    {
+      "type": "definition",
+      "term": "Environmental Impact",
+      "text": "Any change to the environment, whether adverse or beneficial, that results wholly or partly from an organisation's environmental aspects. Example: thermal pollution of the river from warm cooling water discharge, carbon emissions from electricity consumption."
+    },
+    {
+      "type": "paragraph",
+      "text": "The organisation must identify its environmental aspects and determine which are 'significant' — based on criteria such as scale of impact, severity, probability of occurrence, regulatory significance, concerns of interested parties, and reversibility."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Activity", "Environmental Aspect", "Environmental Impact"],
+        "rows": [
+          ["Running diesel generators", "Air emissions (NOx, PM, CO2)", "Air quality degradation, greenhouse effect"],
+          ["Chemical storage in drums", "Potential spill to ground", "Soil and groundwater contamination"],
+          ["Maintenance waste (used oil)", "Generation of hazardous waste", "Pollution if improperly disposed"],
+          ["Air conditioning operation", "Refrigerant leaks (HFCs)", "Contribution to ozone depletion and greenhouse effect"],
+          ["Water treatment", "Discharge of treated wastewater", "Aquatic ecosystem effects depending on quality"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "The Lifecycle Perspective"
+    },
+    {
+      "type": "paragraph",
+      "text": "ISO 14001:2015 introduced a lifecycle perspective requirement — organisations must consider environmental impacts from the acquisition of raw materials, through design, production, use, end-of-life treatment, and final disposal. This does not mean conducting full lifecycle assessments (LCAs) for everything — it means considering the upstream and downstream environmental consequences of decisions."
+    },
+    {
+      "type": "example",
+      "text": "A Gulf oil and gas company considering a new pipe coating system must consider: upstream impacts (manufacturing the coating material, transport), operational impacts (application emissions, worker exposure), and end-of-life impacts (how will coated pipe sections be disposed of?). If an alternative coating has lower VOC emissions during application but is more difficult to dispose of safely, the lifecycle comparison should inform the selection."
+    },
+    {
+      "type": "heading",
+      "text": "ISO 14001 Clause Structure Summary"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Clause", "Key Requirement"],
+        "rows": [
+          ["4 Context", "Identify external/internal issues, interested parties, scope of EMS"],
+          ["5 Leadership", "Top management commitment to EMS, environmental policy, roles and responsibilities"],
+          ["6 Planning", "Aspects and impacts, significant aspects, legal requirements, risks and opportunities, objectives"],
+          ["7 Support", "Resources, competence, awareness, communication, documented information"],
+          ["8 Operation", "Operational controls for significant aspects, emergency preparedness"],
+          ["9 Performance Evaluation", "Monitoring and measurement, compliance evaluation, internal audit, management review"],
+          ["10 Improvement", "Nonconformity and corrective action, continual improvement"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Integrating ISO 14001 with ISO 45001"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because ISO 14001 and ISO 45001 share the HLS, integration is straightforward. Many organisations implement an Integrated Management System (IMS) combining quality (ISO 9001), environment (ISO 14001), and OHS (ISO 45001) into a single framework. Shared processes include: context analysis, interested party management, internal audit, management review, and corrective action."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: ISO 14001 certification is increasingly required on Gulf projects. Aramco's contractor pre-qualification system scores ISO 14001-certified contractors higher. UAE's Abu Dhabi Environmental Agency (EAD) and Saudi Arabia's National Centre for Environmental Compliance require ISO 14001 as part of their facility licensing framework for major industrial installations. In Qatar, QatarEnergy's environmental management is aligned with ISO 14001. The key environmental focus areas in the Gulf are: flaring reduction, produced water management, carbon emissions (tied to national net-zero commitments), and biodiversity protection around sensitive coastal and desert habitats. An HSE professional with ISO 14001 audit training is well positioned for the rapidly expanding environmental compliance roles in Gulf organisations."
+    }
+  ],
+  "quizId": null
+}

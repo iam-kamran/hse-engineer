@@ -1,0 +1,140 @@
+{
+  "id": "certifications/nebosh-igc/element-4",
+  "sectionId": "nebosh-igc",
+  "title": "Element 4: Health & Safety Monitoring and Measuring",
+  "order": 4,
+  "estimatedReadTime": 18,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Distinguish between active (proactive) and reactive monitoring",
+    "Describe the purpose and process of a health and safety audit",
+    "Explain how to investigate incidents to identify root causes",
+    "Calculate key health and safety performance indicators"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "4.1 Why Monitor Health & Safety Performance?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Monitoring measures whether the H&S management system is working and whether controls remain effective. Without monitoring, an organisation cannot know whether its investment in safety is delivering results or whether new risks have emerged. Monitoring provides the data needed to drive continual improvement."
+    },
+    {
+      "type": "heading",
+      "text": "4.2 Active (Proactive) Monitoring"
+    },
+    {
+      "type": "paragraph",
+      "text": "Active monitoring checks compliance and system effectiveness BEFORE incidents occur. It tells you whether your controls are in place and working as intended."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Workplace inspections — Planned or unannounced checks of physical conditions and safe behaviours",
+        "Safety tours — Senior manager walk-throughs; visible leadership commitment",
+        "Safety sampling — Systematic random sampling of specific activities or conditions",
+        "Near miss reporting and analysis — Learning from events before they become accidents",
+        "Environmental monitoring — Measuring noise levels, dust, chemical exposure against limits",
+        "Health surveillance — Medical monitoring for workers exposed to specific occupational health risks",
+        "Behavioural safety observations — BBS programmes; recording safe and at-risk behaviours"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "4.3 Reactive Monitoring"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reactive monitoring collects and analyses data after events — accidents, incidents, near misses, ill health cases. It is an essential complement to active monitoring but should never be the only tool."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Accident investigation — Identifying causes to prevent recurrence",
+        "Incident reporting and statistics — TRCR, LTIFR, near-miss rates",
+        "Sickness absence data — Identifying occupational health trends",
+        "Insurance claims analysis — Patterns in claims indicate systemic problems",
+        "Enforcement notices — Regulator inspections that find problems are a lagging indicator"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "Reactive monitoring alone is insufficient — you only know something failed AFTER someone is harmed. A good system uses BOTH active and reactive monitoring. Leading indicators (active) predict future performance; lagging indicators (reactive) measure past outcomes."
+    },
+    {
+      "type": "heading",
+      "text": "4.4 Key Performance Indicators (KPIs)"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["KPI", "Formula", "What it Measures"],
+        "rows": [
+          ["LTIFR", "(LTIs × 1,000,000) ÷ Hours worked", "Lost Time Injury rate per million hours"],
+          ["TRCR", "(Recordable cases × 200,000) ÷ Hours worked", "Total injuries and illnesses per 200,000 hours"],
+          ["Severity Rate", "(Days lost × 1,000,000) ÷ Hours worked", "Severity of injuries"],
+          ["Near-Miss Rate", "(Near misses reported × 1,000,000) ÷ Hours worked", "Reporting culture and hazard awareness"],
+          ["Inspection Completion Rate", "(Completed inspections ÷ Planned inspections) × 100", "Proactive monitoring activity"]
+        ]
+      }
+    },
+    {
+      "type": "example",
+      "text": "A company has 500 workers who work 2,000 hours each in a year. Total hours = 1,000,000. They have 3 LTIs. LTIFR = (3 × 1,000,000) ÷ 1,000,000 = 3.0. This means they have 3 LTIs per million hours worked. The Gulf O&G industry benchmark is typically below 0.5 LTIFR."
+    },
+    {
+      "type": "heading",
+      "text": "4.5 Health & Safety Audits"
+    },
+    {
+      "type": "definition",
+      "term": "Audit",
+      "text": "A systematic, independent, and documented examination of an organisation's H&S management system to determine whether it meets specified requirements and whether it is being effectively implemented. Audits examine the system — not just physical conditions."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Audit Type", "Who Conducts It", "Purpose"],
+        "rows": [
+          ["First-party (internal)", "Organisation's own staff", "Self-assessment; continuous improvement"],
+          ["Second-party", "Customer or business partner", "Contractor/supplier assessment"],
+          ["Third-party", "Independent certification body", "ISO 45001 certification; regulatory compliance"]
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "items": [
+        "Audits examine DOCUMENTATION (policies, procedures, records, permits)",
+        "Audits examine IMPLEMENTATION (are procedures actually being followed?)",
+        "Audits examine EFFECTIVENESS (are controls achieving their intended outcome?)",
+        "Audit findings are graded: Major Non-conformance, Minor Non-conformance, Observation/Opportunity for Improvement"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "4.6 Incident Investigation"
+    },
+    {
+      "type": "paragraph",
+      "text": "The goal of incident investigation is to prevent recurrence by finding root causes — not to assign blame. A thorough investigation follows these steps:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "1. Secure the scene — Preserve evidence; ensure area is safe",
+        "2. Collect information — Interview witnesses; take photographs; review documents; collect physical evidence",
+        "3. Analyse causes — Identify immediate, underlying, and root causes using techniques like 5 Whys or fishbone diagrams",
+        "4. Develop recommendations — Corrective and preventive actions (CAPA) to address root causes",
+        "5. Report — Document findings in a formal report",
+        "6. Follow up — Verify that corrective actions have been implemented and are effective"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "All reportable incidents in Gulf O&G must be reported to the relevant authority within defined timeframes. In Saudi Arabia, fatal accidents must be reported to GOSI (General Organisation for Social Insurance) and the Ministry of Human Resources. Aramco contractors must report all LTIs to Aramco within 24 hours. Failure to report is itself a serious violation."
+    }
+  ],
+  "quizId": "nebosh-igc/element-4-quiz"
+}

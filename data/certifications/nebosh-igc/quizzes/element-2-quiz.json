@@ -1,0 +1,176 @@
+{
+  "id": "nebosh-igc/element-2-quiz",
+  "moduleId": "certifications/nebosh-igc/element-2",
+  "title": "Element 2 Quiz — Management Systems & PDCA",
+  "passMark": 70,
+  "questions": [
+    {
+      "id": "e2-q1",
+      "text": "The Plan-Do-Check-Act (PDCA) cycle is a model for continual improvement. Which phase involves measuring and evaluating H&S performance against established standards?",
+      "options": [
+        { "id": "a", "text": "Plan — setting objectives and targets" },
+        { "id": "b", "text": "Do — implementing controls and procedures" },
+        { "id": "c", "text": "Check — monitoring performance and auditing" },
+        { "id": "d", "text": "Act — taking corrective action after incidents" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The 'Check' phase involves monitoring, measuring, and auditing performance against what was planned. This includes active monitoring (inspections, observations) and reactive monitoring (incident investigation). Without the Check phase, the organisation cannot know whether its planned controls are working.",
+      "difficulty": "easy",
+      "tags": ["PDCA", "management systems"]
+    },
+    {
+      "id": "e2-q2",
+      "text": "ISO 45001:2018 replaced OHSAS 18001 as the international standard for occupational H&S management systems. Which of the following is a key addition in ISO 45001 that was NOT in OHSAS 18001?",
+      "options": [
+        { "id": "a", "text": "The requirement to conduct risk assessments" },
+        { "id": "b", "text": "Strong emphasis on context of the organisation and needs/expectations of interested parties" },
+        { "id": "c", "text": "The requirement to have a documented H&S policy" },
+        { "id": "d", "text": "The requirement to conduct internal audits" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "ISO 45001 introduced a significantly greater emphasis on 'context of the organisation' — understanding internal and external issues, and identifying interested parties (workers, contractors, regulators, community). This systems-thinking approach goes beyond OHSAS 18001's more procedural focus.",
+      "difficulty": "medium",
+      "tags": ["ISO 45001", "OHSAS 18001", "management systems"]
+    },
+    {
+      "id": "e2-q3",
+      "text": "A H&S management system is MOST effective when it is:",
+      "options": [
+        { "id": "a", "text": "Designed solely by H&S professionals without operational input" },
+        { "id": "b", "text": "Integrated into normal business operations and has visible senior leadership commitment" },
+        { "id": "c", "text": "Kept separate from production and business processes to maintain independence" },
+        { "id": "d", "text": "Based entirely on reactive data from incident records" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "An H&S management system is most effective when it is embedded into business operations (not bolted on) and visibly supported by senior leaders. Leadership commitment signals to the entire workforce that safety is a genuine priority, not just a compliance exercise.",
+      "difficulty": "easy",
+      "tags": ["management systems", "leadership"]
+    },
+    {
+      "id": "e2-q4",
+      "text": "Which component of an H&S management system is described as the overall intention and direction of an organisation with respect to H&S, formally expressed by top management?",
+      "options": [
+        { "id": "a", "text": "The H&S management plan" },
+        { "id": "b", "text": "The H&S objectives" },
+        { "id": "c", "text": "The H&S policy" },
+        { "id": "d", "text": "The H&S risk register" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The H&S policy is the formal, signed statement of an organisation's commitment and overall direction on health and safety. It should be signed by the most senior person, communicated to all workers, and reviewed regularly. Objectives are more specific measurable targets that flow from the policy.",
+      "difficulty": "easy",
+      "tags": ["H&S policy", "management systems"]
+    },
+    {
+      "id": "e2-q5",
+      "text": "In the context of H&S management, what is meant by 'competence'?",
+      "options": [
+        { "id": "a", "text": "Holding a university degree in health and safety" },
+        { "id": "b", "text": "Having the combination of training, skills, experience and knowledge to perform a task safely" },
+        { "id": "c", "text": "Completing an online health and safety induction course" },
+        { "id": "d", "text": "Being a member of a professional H&S body such as IOSH" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Competence in H&S management means having the combination of training, skills, experience, and knowledge required to perform duties safely and effectively. A certificate or qualification is evidence of training, but competence also requires practical experience and sound judgment.",
+      "difficulty": "easy",
+      "tags": ["competence", "training"]
+    },
+    {
+      "id": "e2-q6",
+      "text": "The 'organisation' element of an H&S management system typically covers which of the following?",
+      "options": [
+        { "id": "a", "text": "Setting measurable H&S targets and timescales" },
+        { "id": "b", "text": "Roles, responsibilities, accountability, and arrangements for worker consultation" },
+        { "id": "c", "text": "Reactive monitoring of injury and illness statistics" },
+        { "id": "d", "text": "Emergency response and business continuity planning" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The 'organisation' element (equivalent to 'Do' in PDCA) deals with structure: who is responsible for what, how accountability is enforced, and how workers are consulted and involved. Without clear accountability, even the best plan will fail in practice.",
+      "difficulty": "medium",
+      "tags": ["organisation", "accountability", "consultation"]
+    },
+    {
+      "id": "e2-q7",
+      "text": "Which of the following is an example of a LEADING (proactive / active) H&S performance indicator?",
+      "options": [
+        { "id": "a", "text": "The Lost Time Injury Frequency Rate (LTIFR)" },
+        { "id": "b", "text": "Number of fatalities in the past 12 months" },
+        { "id": "c", "text": "Percentage of planned safety inspections completed on schedule" },
+        { "id": "d", "text": "Total Recordable Case Rate (TRCR)" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Leading indicators measure proactive safety activities — things done to prevent incidents. Percentage of inspections completed is a leading indicator because it measures prevention activity. LTIFR, fatality counts, and TRCR are lagging indicators because they only record harm after it has occurred.",
+      "difficulty": "medium",
+      "tags": ["performance indicators", "leading indicators", "lagging indicators"]
+    },
+    {
+      "id": "e2-q8",
+      "text": "What is the PRIMARY purpose of a health and safety audit?",
+      "options": [
+        { "id": "a", "text": "To identify who is to blame for recent accidents" },
+        { "id": "b", "text": "To systematically verify that the H&S management system is in place, functioning, and meeting its objectives" },
+        { "id": "c", "text": "To inspect physical conditions in the workplace for hazards" },
+        { "id": "d", "text": "To update risk assessments annually" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "An audit is a systematic, independent examination of the H&S management system — covering policy, procedures, people, and performance — to verify it is in place and working. An inspection focuses on physical workplace conditions. Audits look at systems; inspections look at hardware.",
+      "difficulty": "medium",
+      "tags": ["audit", "inspection"]
+    },
+    {
+      "id": "e2-q9",
+      "text": "Effective worker consultation on H&S matters is important because:",
+      "options": [
+        { "id": "a", "text": "It transfers legal responsibility for safety from the employer to the workers" },
+        { "id": "b", "text": "Workers have practical knowledge of hazards that managers may overlook, and involvement increases ownership of controls" },
+        { "id": "c", "text": "It is only required in workplaces with trade unions" },
+        { "id": "d", "text": "It replaces the need for formal risk assessments" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Workers doing the job have firsthand knowledge of real hazards, workarounds, and practical barriers. Consulting them leads to better hazard identification and more realistic controls. It also builds ownership — workers who have shaped safety rules are more likely to follow them. Legal responsibility remains with the employer.",
+      "difficulty": "easy",
+      "tags": ["worker consultation", "participation"]
+    },
+    {
+      "id": "e2-q10",
+      "text": "A construction company in Saudi Arabia operating under Aramco's SEMP is required to submit monthly HSE statistics. Which metric would be classified as a lagging indicator?",
+      "options": [
+        { "id": "a", "text": "Number of toolbox talks delivered per month" },
+        { "id": "b", "text": "Percentage of near misses reported vs. target" },
+        { "id": "c", "text": "Total Recordable Case Rate (TRCR) per 200,000 man-hours" },
+        { "id": "d", "text": "Number of safety walk-arounds completed by managers" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "TRCR (Total Recordable Case Rate) is a lagging indicator — it counts actual injuries that have already occurred. Aramco SEMP requires both lagging metrics (TRCR, DAFWR, fatalities) and leading metrics (near-miss reporting rate, audit completion). HSE professionals in the Gulf must understand both to manage SEMP reporting effectively.",
+      "difficulty": "medium",
+      "tags": ["Gulf context", "Aramco SEMP", "lagging indicators"]
+    },
+    {
+      "id": "e2-q11",
+      "text": "In the 'Plan' phase of the PDCA cycle for H&S management, which activity would be MOST appropriate?",
+      "options": [
+        { "id": "a", "text": "Investigating a recent serious injury" },
+        { "id": "b", "text": "Conducting workplace inspections" },
+        { "id": "c", "text": "Identifying significant hazards, assessing risks, and setting H&S objectives" },
+        { "id": "d", "text": "Reviewing audit findings and identifying corrective actions" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The Plan phase involves establishing what needs to be done: identifying hazards, assessing risks, establishing legal requirements, and setting measurable H&S objectives. Investigations and corrective actions relate to Check and Act phases respectively. Inspections are part of the Do/Check phases.",
+      "difficulty": "easy",
+      "tags": ["PDCA", "planning"]
+    },
+    {
+      "id": "e2-q12",
+      "text": "Which statement about a H&S management system review is CORRECT?",
+      "options": [
+        { "id": "a", "text": "Management reviews should only be triggered by a fatal accident" },
+        { "id": "b", "text": "The review should be conducted by H&S specialists only, to maintain objectivity" },
+        { "id": "c", "text": "Top management should review the H&S management system at planned intervals to ensure its continued suitability, adequacy, and effectiveness" },
+        { "id": "d", "text": "Reviews are only required when the organisation is seeking certification to ISO 45001" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "ISO 45001 and good practice require that top management reviews the H&S management system at planned intervals. The review inputs include audit results, incident statistics, legal changes, and performance data. The output is decisions on improvements — completing the PDCA cycle.",
+      "difficulty": "medium",
+      "tags": ["management review", "ISO 45001"]
+    }
+  ]
+}

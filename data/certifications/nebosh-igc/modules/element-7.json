@@ -1,0 +1,142 @@
+{
+  "id": "certifications/nebosh-igc/element-7",
+  "sectionId": "nebosh-igc",
+  "title": "Element 7: Chemical and Biological Agents",
+  "order": 7,
+  "estimatedReadTime": 24,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Classify hazardous substances by their health effects and routes of entry",
+    "Explain the principles of occupational exposure limits (OELs)",
+    "Describe the COSHH assessment process and hierarchy of controls",
+    "Identify key biological hazards and appropriate control measures"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "7.1 Routes of Entry"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hazardous substances can enter the body through four routes. Understanding the route of entry determines which controls are most effective."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Route", "How It Occurs", "Examples", "Key Control"],
+        "rows": [
+          ["Inhalation", "Breathing in gases, vapours, dusts, fumes, mists", "H2S, silica dust, welding fume, spray paint vapour", "Ventilation, respiratory protective equipment (RPE)"],
+          ["Absorption", "Substance passes through the skin or eyes", "Organic solvents, pesticides, caustic soda", "Gloves, protective clothing, eye protection"],
+          ["Ingestion", "Swallowing contaminated food, drink, or hand-to-mouth transfer", "Lead dust, pesticides (from contaminated hands)", "No eating/drinking in work areas, handwashing"],
+          ["Injection", "Substance injected through a puncture wound", "High-pressure hydraulic fluid injection, needle-stick injuries", "Safe needle handling, pressure system maintenance"]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "Inhalation is the most common and most dangerous route of entry in industrial workplaces. Always prioritise controls that prevent substances from becoming airborne before relying on RPE."
+    },
+    {
+      "type": "heading",
+      "text": "7.2 Health Effects of Hazardous Substances"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Effect Type", "Definition", "Examples"],
+        "rows": [
+          ["Acute", "Immediate effects from short-term high-dose exposure", "H2S poisoning, acid burns, solvent narcosis"],
+          ["Chronic", "Long-term effects from repeated low-dose exposure over years", "Silicosis, occupational asthma, dermatitis, cancer"],
+          ["Local", "Effect at point of contact", "Skin corrosion, eye damage"],
+          ["Systemic", "Effect at site distant from entry point", "Lead affecting the nervous system after inhalation/ingestion"],
+          ["Carcinogenic", "Causes cancer", "Benzene (leukaemia), asbestos (mesothelioma), silica (lung cancer)"],
+          ["Sensitising", "Causes allergic reaction (worsens with each exposure)", "Isocyanates (spray painting), latex, flour dust — occupational asthma"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "7.3 Occupational Exposure Limits (OELs)"
+    },
+    {
+      "type": "definition",
+      "term": "Workplace Exposure Limit (WEL) / Occupational Exposure Limit (OEL)",
+      "text": "The maximum concentration of a substance in workplace air to which workers may be exposed. Set to protect workers' health. Two types: Time-Weighted Average (TWA — 8-hour average) and Short-Term Exposure Limit (STEL — 15-minute average)."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Substance", "TWA OEL", "STEL", "Key Risk"],
+        "rows": [
+          ["H2S", "1 ppm (8hr)", "5 ppm (15min)", "Fatal at 300+ ppm; olfactory fatigue at 100+ ppm"],
+          ["Carbon Monoxide", "20 ppm", "100 ppm", "Blocks oxygen transport in blood"],
+          ["Benzene", "1 ppm", "—", "Leukaemia risk; no safe level"],
+          ["Silica (Respirable)", "0.1 mg/m³", "—", "Silicosis, lung cancer"],
+          ["Welding Fume", "1 mg/m³", "—", "Lung cancer, manganism"]
+        ]
+      }
+    },
+    {
+      "type": "gulfNote",
+      "text": "H2S is present in sour crude oil, sour gas, and wastewater in Gulf O&G operations. Workers must wear personal H2S gas detectors set to alarm at 5 ppm (low alarm) and 10 ppm (high alarm). Areas where H2S concentrations could exceed the IDLH (Immediately Dangerous to Life or Health — 100 ppm) require SCBA. Understanding H2S response procedures is MANDATORY knowledge for any Gulf HSE professional."
+    },
+    {
+      "type": "heading",
+      "text": "7.4 COSHH Assessment — Control of Substances Hazardous to Health"
+    },
+    {
+      "type": "paragraph",
+      "text": "COSHH (UK framework) or equivalent hazardous substance assessment requires eight steps. The principles are internationally applicable:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "1. Assess the risk — Identify substances, routes of exposure, who is at risk, how often and for how long",
+        "2. Decide what controls are needed — Apply the hierarchy of controls",
+        "3. Prevent or adequately control exposure — Implement controls",
+        "4. Ensure controls are used and maintained — Inspect, test, and maintain controls",
+        "5. Monitor exposure — Measure workplace air concentrations against OELs",
+        "6. Carry out health surveillance — Medical monitoring for workers at significant risk",
+        "7. Prepare emergency plans — Spill response, first aid for chemical exposure",
+        "8. Ensure workers are properly informed and trained"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "7.5 Hierarchy of Controls for Chemical Hazards"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Elimination — Remove the substance entirely (reformulate product, change process)",
+        "Substitution — Replace with a less hazardous substance (e.g., water-based instead of solvent-based paint)",
+        "Enclosure — Fully enclose the process so substance cannot escape",
+        "Local Exhaust Ventilation (LEV) — Extract substance at source before it spreads into room air",
+        "General Ventilation — Dilute contaminant with clean air (less effective; used for low-toxicity substances)",
+        "Reduction of exposure time — Limit how long any individual is exposed",
+        "RPE — Respiratory protective equipment as last resort (must be correctly selected, fitted, and worn)"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "7.6 Biological Hazards"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Hazard Group", "Biological Agent", "Occupations at Risk", "Controls"],
+        "rows": [
+          ["Bacteria", "Legionella (cooling towers), Leptospira (sewers, farming)", "Maintenance workers, agricultural workers", "Water temperature control (>60°C), closed systems, vaccination"],
+          ["Viruses", "Hepatitis B/C, HIV (blood-borne)", "Healthcare, emergency services", "Universal precautions, needle-safe devices, vaccination"],
+          ["Parasites", "Weil's disease (Leptospirosis) from rat urine", "Sewer workers, outdoor workers near water", "Protective clothing, vaccinations, rodent control"],
+          ["MERS-CoV", "Middle East Respiratory Syndrome coronavirus", "Healthcare workers, camel farm workers in Arabian Peninsula", "Standard precautions, PPE, isolation protocols"]
+        ]
+      }
+    },
+    {
+      "type": "gulfNote",
+      "text": "MERS-CoV (Middle East Respiratory Syndrome) has been found in camels and can be transmitted to humans. In Gulf countries, this is a specific biological hazard that HSE professionals should be aware of, particularly in agricultural and veterinary settings. Additionally, wastewater treatment in the Gulf presents Legionella risk in cooling towers — regular water quality testing and disinfection are required."
+    }
+  ],
+  "quizId": "nebosh-igc/element-7-quiz"
+}

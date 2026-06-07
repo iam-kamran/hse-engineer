@@ -1,0 +1,142 @@
+{
+  "id": "certifications/first-aid/fractures-burns",
+  "sectionId": "first-aid",
+  "title": "Module 4: Fractures, Burns, and Crush Injuries",
+  "order": 4,
+  "estimatedReadTime": 18,
+  "difficulty": "beginner",
+  "learningObjectives": [
+    "Identify signs and symptoms of fractures and apply appropriate first aid",
+    "Classify burns by depth and size and apply correct first aid treatment",
+    "Recognise crush syndrome and apply appropriate first aid",
+    "Know when NOT to move a casualty with a suspected spinal injury",
+    "Apply correct first aid for eye injuries and chemical splashes"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Fractures — Broken Bones"
+    },
+    {
+      "type": "paragraph",
+      "text": "A fracture is a break or crack in a bone. In Gulf construction and O&G, fractures commonly result from falls from height, vehicle accidents, being struck by plant or materials, and collapse of structures. Most fractures are not immediately life-threatening, but some are — open fractures (bone through skin) carry infection risk and significant blood loss; fractures of the femur (thigh) can cause 1–2 litres of internal blood loss; spinal fractures with cord damage can cause paralysis or death."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Signs and symptoms: pain at injury site (often sharp, worse on movement); tenderness to gentle touch; deformity (visible angulation or shortening of a limb); swelling and bruising; inability to use the injured part normally; a crack or snap heard at the time of injury"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "First Aid for Fractures"
+    },
+    {
+      "type": "list",
+      "items": [
+        "1. Immobilise: do not attempt to straighten a fractured limb; support it in the position found using your hands, padding, or improvised splints",
+        "2. Immobilise the joints above and below the fracture site",
+        "3. Open fractures: cover the wound with a clean non-fluffy dressing — do not attempt to push the bone back; control bleeding with gentle pressure around (not on) the protruding bone",
+        "4. Elevate if possible (for limb fractures without circulation concerns)",
+        "5. Monitor circulation: check colour, warmth, and sensation below the fracture — pallor, numbness, or coldness suggests compromised blood supply (neurovascular compromise) — emergency",
+        "6. Get emergency help — fractures should be assessed by medical personnel"
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "NEVER move a casualty with a suspected spinal injury unless there is immediate life-threatening danger (fire, water rising, H2S in the zone). Moving a casualty with an unstable spinal fracture without proper equipment and technique can convert a fracture into paralysis or death. If a spinal injury is suspected (fall from height, head injury, high-speed impact), keep the casualty still and call emergency services."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Falls from height on Gulf construction sites are the leading cause of spinal fractures. If a worker falls more than 1 metre, especially onto their head or back, assume a spinal injury until proven otherwise by medical personnel. Do not ask the casualty to 'sit up and see if they're okay.' Maintain spinal alignment and wait for emergency services with appropriate equipment."
+    },
+    {
+      "type": "heading",
+      "text": "Burns — Classification by Depth"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Burn Depth", "Also Called", "Appearance", "Sensation", "Example Cause"],
+        "rows": [
+          ["Superficial", "First degree", "Red, dry, no blisters", "Painful", "Brief contact with hot surface, sunburn"],
+          ["Partial thickness", "Second degree", "Red, moist, blisters form", "Very painful", "Scalding hot liquids, prolonged flame"],
+          ["Full thickness", "Third degree", "White/brown/black, dry or leathery, may appear charred", "Little pain (nerve endings destroyed)", "Prolonged flame, high-voltage electricity, chemical burns"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "First Aid for Burns"
+    },
+    {
+      "type": "list",
+      "items": [
+        "1. Cool immediately: run cool (not cold/icy) water over the burn for 20 minutes; cooling is only effective within 3 hours of the burn; do not use ice, butter, toothpaste, or any household remedies",
+        "2. Remove jewellery and tight clothing near the burn — before swelling begins; do not remove anything stuck to the burn",
+        "3. Cover: after cooling, cover with cling film (loosely) or a clean non-fluffy dressing; do not burst blisters",
+        "4. Get medical help: burns affecting hands, face, genitals, airway, or joints; burns larger than a postage stamp (in children, smaller); all full-thickness burns; all electrical burns; all chemical burns"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "20 minutes of cool running water is the single most important first aid for burns. Even if done 30-60 minutes after the burn, it reduces depth and pain. This is the intervention with the best evidence — prioritise it over everything except life threats."
+    },
+    {
+      "type": "heading",
+      "text": "Electrical Burns"
+    },
+    {
+      "type": "paragraph",
+      "text": "Electrical burns are deceptive — the entry and exit wounds (where current entered and left the body) may appear small, but internal tissue damage along the current path can be massive. Always treat electrical burns as severe and arrange urgent medical assessment. The current path passes through the body and can damage internal organs, cause cardiac arrhythmias, and destroy deep muscle tissue along the way. Additionally, the extreme heat of arc flash (up to 20,000°C) causes severe flash burns to any exposed skin."
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Gulf industrial settings, arc flash burns are a significant hazard when working near energised electrical panels. Arc flash PPE (arc-rated face shield and suit) is mandatory for work on energised high-voltage equipment. A first aider treating arc flash burn casualties must still treat the burn with 20 minutes of cool running water — but must also arrange medical assessment for potential cardiac effects of the electrical current."
+    },
+    {
+      "type": "heading",
+      "text": "Chemical Burns"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chemical burns continue to damage tissue as long as the chemical remains in contact. Immediate action: remove the casualty from the chemical source; brush off any dry chemical before irrigation; irrigate with large amounts of water for at least 20 minutes; remove contaminated clothing (protect yourself — wear gloves); check the Safety Data Sheet for the specific chemical to identify if water is safe (some chemicals react with water, e.g. sodium, potassium — these require dry decontamination); get emergency medical help. Chemical burns to the eye are particularly serious and must be irrigated immediately for 20+ minutes."
+    },
+    {
+      "type": "heading",
+      "text": "Eye Injuries"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Dust or grit: do not rub; rinse with clean water; if not cleared, cover with a pad and seek medical help",
+        "Chemical splash: irrigate continuously with clean water for at least 20 minutes — hold the eye open if necessary; cover and get urgent medical help; bring SDS/chemical name to the hospital",
+        "Penetrating eye injury (glass, metal fragment): do NOT irrigate; cover both eyes with padding (covering both prevents movement of the injured eye); keep the casualty calm and still; urgent medical help",
+        "Arc eye (UV burn from welding flash): do NOT irrigate; cool pads over CLOSED eyes; seek medical attention; arc eye usually causes severe pain several hours after exposure"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Crush Injuries and Crush Syndrome"
+    },
+    {
+      "type": "paragraph",
+      "text": "When a part of the body is subjected to prolonged crushing pressure (e.g. trapped under fallen structure, heavy machinery, vehicle), the compressed tissue undergoes injury and metabolic changes. When the pressure is suddenly released, the products of tissue breakdown (including myoglobin and potassium) are released into the bloodstream, which can cause acute kidney failure and cardiac arrest — this is called crush syndrome (rhabdomyolysis)."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Do NOT rapidly remove the crushing object without medical supervision if the casualty has been trapped for more than 15 minutes",
+        "Call emergency services and specialist rescue (Urban Search and Rescue) for prolonged entrapment",
+        "Provide reassurance and monitor; provide small amounts of water to drink if the casualty is conscious (hydration helps kidney protection)",
+        "Once freed, expect the casualty to deteriorate rapidly — move to hospital urgently",
+        "Document the duration of entrapment and the affected body part for the receiving medical team"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "Crush injuries in Gulf construction are associated with: trench and excavation collapse (burial); scaffold and formwork collapse; being trapped by heavy plant or vehicles; and structural failures. Trench collapse is among the most dangerous — a cubic metre of soil weighs approximately 1.5 tonnes, which is sufficient to fatally compress a person's chest immediately. Speed of extraction is life-critical but must balance the crush syndrome risk if entrapment has been prolonged."
+    }
+  ],
+  "quizId": "first-aid/fractures-burns-quiz"
+}

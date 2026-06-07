@@ -1,0 +1,135 @@
+{
+  "id": "fundamentals/what-is-hse",
+  "sectionId": "fundamentals",
+  "title": "What is HSE?",
+  "order": 1,
+  "estimatedReadTime": 10,
+  "difficulty": "beginner",
+  "learningObjectives": [
+    "Define HSE and explain what each letter stands for",
+    "Describe the moral, legal, and financial reasons for managing safety",
+    "Explain the difference between occupational health and occupational safety",
+    "Identify who HSE applies to in the workplace"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "What Does HSE Stand For?"
+    },
+    {
+      "type": "paragraph",
+      "text": "HSE stands for Health, Safety, and Environment. It is the discipline concerned with protecting people from harm in the workplace, safeguarding their long-term health, and minimising the negative impact of industrial activities on the natural environment."
+    },
+    {
+      "type": "definition",
+      "term": "Health",
+      "text": "The protection of workers from illness caused by exposure to workplace hazards — chemicals, noise, heat, dust, or psychosocial stressors. Health effects are often gradual and may take years or decades to manifest."
+    },
+    {
+      "type": "definition",
+      "term": "Safety",
+      "text": "The prevention of acute injuries and sudden harm — falls, machinery accidents, electrical shocks, fires, and explosions. Safety events typically have immediate, visible consequences."
+    },
+    {
+      "type": "definition",
+      "term": "Environment",
+      "text": "The management of an organisation's impact on air, water, land, and biodiversity. This includes controlling emissions, waste disposal, spill prevention, and resource consumption."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Think of it this way: Safety stops you getting hurt TODAY. Health stops you getting sick over YEARS. Environment protects what exists OUTSIDE the fence."
+    },
+    {
+      "type": "heading",
+      "text": "Why Does HSE Exist? The Three Pillars"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are three fundamental reasons why organisations must manage HSE. These are known as the Moral, Legal, and Financial arguments — sometimes called the HSE triangle."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Pillar", "The Argument", "Example"],
+        "rows": [
+          ["Moral", "People have a right not to be harmed by their work. Employers have a duty of care.", "A worker's family depends on them. An accident destroys not just the worker but their household."],
+          ["Legal", "Laws and regulations require employers to protect workers. Failure leads to prosecution, fines, and imprisonment.", "In Saudi Arabia, OSHA-equivalent laws under the Labour Law and SASO standards hold employers criminally liable."],
+          ["Financial", "Accidents cost money — medical bills, lost production, legal fees, higher insurance premiums, damaged reputation.", "A single fatal accident can cost a company millions in direct and indirect costs."]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "In interviews, always mention all three pillars — moral, legal, and financial. Interviewers in the Gulf region expect you to know this framework."
+    },
+    {
+      "type": "heading",
+      "text": "Who Does HSE Apply To?"
+    },
+    {
+      "type": "paragraph",
+      "text": "HSE is not just for factory workers or oil rig operators. It applies to every workplace, from a small office to a massive petrochemical plant. HSE responsibilities exist at every level of an organisation:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Senior Management — Set HSE policy, allocate resources, lead by example",
+        "Line Managers and Supervisors — Implement HSE procedures, supervise work, conduct toolbox talks",
+        "Workers — Follow safe work procedures, use PPE, report hazards",
+        "HSE Officers / Engineers — Advise, audit, investigate incidents, and monitor compliance",
+        "Contractors and Visitors — Must follow the host organisation's HSE rules"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Gulf countries, especially Saudi Arabia and UAE, HSE Officers are required on most construction and oil & gas projects. Saudi Aramco, ADNOC, and Qatar Petroleum all have dedicated HSE departments and require contractors to provide HSE plans before work commences."
+    },
+    {
+      "type": "heading",
+      "text": "Common HSE Job Titles in the Gulf"
+    },
+    {
+      "type": "list",
+      "items": [
+        "HSE Officer — Entry to mid-level; supervises day-to-day safety compliance",
+        "HSE Engineer — Technical role; designs and implements safety systems",
+        "HSE Inspector — Conducts inspections and audits",
+        "HSE Manager — Senior role; manages the entire HSE function",
+        "Loss Prevention Officer — Focused on preventing accidents that cause property loss (common in O&G)"
+      ]
+    },
+    {
+      "type": "example",
+      "text": "Ahmed works as an HSE Officer on a construction site in Riyadh. His daily tasks include conducting morning toolbox talks, inspecting PPE usage, reviewing the Permit to Work (PTW) log, and reporting near misses to the HSE Manager. He holds an IOSH Managing Safely certificate and is studying for his NEBOSH IGC."
+    },
+    {
+      "type": "heading",
+      "text": "HSE vs EHS vs QHSE — What's the Difference?"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will see different acronyms used in job postings. They all refer to the same field with slightly different emphasis:"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Acronym", "Stands For", "Common In"],
+        "rows": [
+          ["HSE", "Health, Safety, Environment", "Oil & Gas, construction, Gulf region"],
+          ["EHS", "Environment, Health, Safety", "Manufacturing, US companies"],
+          ["QHSE", "Quality, Health, Safety, Environment", "Oil & gas majors (Shell, BP, Aramco)"],
+          ["SHE", "Safety, Health, Environment", "Chemicals industry"]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "For Gulf job applications, HSE and QHSE are the most common acronyms. When you see QHSE, it means the role also involves quality management (ISO 9001)."
+    },
+    {
+      "type": "warning",
+      "text": "Do not confuse occupational health with public health. Occupational health deals only with health risks arising from work. Public health covers the general population. HSE practitioners focus on occupational health."
+    }
+  ],
+  "quizId": null
+}

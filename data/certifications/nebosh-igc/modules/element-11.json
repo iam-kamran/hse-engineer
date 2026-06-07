@@ -1,0 +1,114 @@
+{
+  "id": "certifications/nebosh-igc/element-11",
+  "sectionId": "nebosh-igc",
+  "title": "Element 11: Electricity",
+  "order": 11,
+  "estimatedReadTime": 16,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Describe the factors that affect the severity of electric shock",
+    "Explain the main hazards from electrical systems in industrial workplaces",
+    "Outline safe practices for working on or near electrical equipment",
+    "Describe protection devices and their function"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "11.1 Why Electricity is Dangerous"
+    },
+    {
+      "type": "paragraph",
+      "text": "Electricity kills and injures in ways that are invisible and immediate. Even low voltages can be fatal depending on the circumstances. The factors that determine severity of injury are:"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Factor", "Effect"],
+        "rows": [
+          ["Current (amps)", "Most critical factor — 10 mA causes pain; 100 mA can be fatal; 1000 mA (1A) certain death"],
+          ["Voltage", "Higher voltage → higher current through body. 50V AC or 120V DC are typically thresholds"],
+          ["Path through body", "Through the heart or brain is most dangerous"],
+          ["Duration of contact", "Longer contact = more energy delivered = greater harm"],
+          ["Body resistance", "Wet skin has far lower resistance than dry skin — more current flows"],
+          ["Type of current", "AC (alternating current) more dangerous than DC at equivalent voltages — causes tetanic muscle contraction"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "11.2 Electrical Hazards"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Electric shock — Current passing through the body; can cause cardiac arrest, respiratory failure, muscle damage",
+        "Burns — Electrical burns at contact points; arc flash burns (radiant heat)",
+        "Arc flash / arc blast — Electrical explosion at fault point; extreme temperatures (up to 20,000°C); UV/IR radiation; blast wave; molten metal droplets",
+        "Fire — Overheating cables, short circuits, sparks igniting flammables",
+        "Secondary hazards — Falls from height caused by shock-induced muscle contraction"
+      ]
+    },
+    {
+      "type": "definition",
+      "term": "Arc Flash",
+      "text": "A sudden, explosive release of energy caused by an electrical fault. Temperatures can reach 20,000°C — hotter than the surface of the sun. Arc flash can cause severe burns, blindness, hearing damage, and death. Workers working on live equipment must wear arc-rated (cal/cm²) PPE."
+    },
+    {
+      "type": "heading",
+      "text": "11.3 Protection Devices"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Device", "What It Does", "What It Protects Against"],
+        "rows": [
+          ["Fuse", "Melts and breaks circuit when current exceeds rated value", "Overcurrent, short circuit — protects cables and equipment"],
+          ["Circuit Breaker (MCB/MCCB)", "Trips automatically on overcurrent; can be reset", "Overcurrent, short circuit"],
+          ["Residual Current Device (RCD)", "Detects imbalance in current flow (indicates current going to earth/person); trips within 30 ms", "Earth faults, electric shock — does NOT protect against direct contact between live conductors"],
+          ["Earth bonding", "Connects metalwork to earth; fault current flows to earth not through person", "Indirect contact shocks"],
+          ["Isolation transformer", "Provides electrical separation; fault current has no return path through earth", "Electric shock in high-risk wet areas"]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "RCDs save lives. A 30mA RCD trips in less than 30ms — fast enough to prevent a fatal shock. All portable electrical equipment and work in wet/outdoor environments should be protected by RCDs. Test RCDs monthly using the test button."
+    },
+    {
+      "type": "heading",
+      "text": "11.4 Safe Working on Electrical Equipment"
+    },
+    {
+      "type": "paragraph",
+      "text": "The cardinal rule: always work dead (de-energised) where possible. Working live is only justified where it is unreasonable to de-energise, or where de-energisation itself introduces greater risk."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Dead working — Isolate, lock out (LOTO), prove dead with approved voltage tester before touching",
+        "Voltage tester — Use a two-pole voltage tester; test the tester works before and after proving dead",
+        "Isolation — Suitable means of isolation (not just switch); locked; danger tagged; posted",
+        "Competency — Only trained, authorised, competent persons work on electrical systems",
+        "Working live — Special permission required; insulated tools; rubber matting; arc flash PPE; no distractions",
+        "Temporary electrical installations — Must be inspected and tested; proper earthing; no overloading"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "11.5 Overhead Power Lines and Underground Cables"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Overhead lines — Main risk is equipment (cranes, excavators, tipper trucks) contacting lines. Controls: exclusion zones ('goal posts'), voltage confirmation, banksmen, permit to dig",
+        "Underground cables — Risk during excavation. Controls: plans from utility companies, CAT scanner/Genny, hand-dig near services, no mechanical breaking within 500mm of cable",
+        "Portable equipment — Regular visual checks; PAT testing; avoid coiling cables tightly (heat build-up)"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "High-voltage switchgear, substations, and electrical hazards are critical in Gulf petrochemical plants and power infrastructure. Aramco GI-0002.100 (Electrical Safety) mandates that all electrical work above 50V requires authorisation and an electrical isolation certificate. Arc flash studies must be conducted for all systems where live work may occur, and appropriate arc-flash PPE must be provided based on incident energy analysis."
+    }
+  ],
+  "quizId": "nebosh-igc/element-11-quiz"
+}

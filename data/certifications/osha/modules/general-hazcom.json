@@ -1,0 +1,114 @@
+{
+  "id": "certifications/osha/general-hazcom",
+  "sectionId": "osha",
+  "title": "HazCom 2012 / GHS in General Industry (29 CFR 1910.1200)",
+  "order": 12,
+  "estimatedReadTime": 18,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Understand HazCom 2012's three core requirements: written program, SDSs, and labels",
+    "Classify chemicals using the GHS hazard classification system",
+    "Apply HazCom training requirements in a general industry setting",
+    "Describe how multi-employer site hazard communication obligations work"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "HazCom in General Industry: Overview"
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA's Hazard Communication Standard (29 CFR 1910.1200), known as HazCom 2012 after its major revision, requires chemical manufacturers and importers to classify chemicals and provide hazard information via Safety Data Sheets and labels. Employers must have a written program, maintain accessible SDSs for all workplace chemicals, and train workers."
+    },
+    {
+      "type": "keyPoint",
+      "text": "The 'Right to Know' principle: every worker has the right to know about the hazardous chemicals they work with or may be exposed to. HazCom implements this right through written programs, SDSs, labels, and training. It is applicable in construction (1926.59) and general industry (1910.1200) — the underlying standard is identical."
+    },
+    {
+      "type": "heading",
+      "text": "GHS Hazard Classification"
+    },
+    {
+      "type": "paragraph",
+      "text": "GHS classifies hazards into physical, health, and environmental categories, each with defined categories (Category 1 = most severe). Manufacturers must classify each chemical before it can be sold."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Hazard Class", "Examples"],
+        "rows": [
+          ["Physical Hazards", "Flammable liquids (Cat 1–4), explosive, self-reactive, oxidiser, pyrophoric, compressed gas"],
+          ["Health Hazards", "Acute toxicity (Cat 1–5), carcinogen, reproductive toxin, specific target organ toxin, sensitiser"],
+          ["Environmental Hazards", "Aquatic toxicity (acute and chronic)"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "The Written HazCom Program"
+    },
+    {
+      "type": "paragraph",
+      "text": "Every employer with hazardous chemicals must have a written HazCom program available to all employees and their representatives. The program must describe how the employer will: list all hazardous chemicals, maintain and access SDSs, ensure proper labelling, provide training, and inform contractors of site-specific hazards."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Maintain a current chemical inventory list for each work area",
+        "Ensure SDSs are readily accessible to all employees in all work shifts — physical or electronic",
+        "Ensure all containers are labelled with product identifier, pictograms, signal word, hazard and precautionary statements",
+        "Train employees before initial assignment and when new chemicals are introduced",
+        "Inform contractors of on-site hazardous chemicals and required precautions"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Container Labelling Requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Primary containers (shipped from manufacturer) must have full GHS labels with all six elements. Workplace containers (secondary/transferred containers) must be labelled — either with a full GHS label or a product identifier plus words, pictures, or symbols providing hazard information."
+    },
+    {
+      "type": "warning",
+      "text": "Never use an unlabelled container for a hazardous chemical. Never transfer a hazardous chemical into a container that previously held food or beverage (even if labelled). Immediately label any container you fill with a chemical."
+    },
+    {
+      "type": "heading",
+      "text": "HazCom Training Requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Training must be provided to employees before initial assignment to work areas where hazardous chemicals are present. It must cover: the HazCom standard itself, components of the written program, operations where chemicals are present, location and availability of SDSs, how to read and understand an SDS and label, and how to detect releases."
+    },
+    {
+      "type": "example",
+      "text": "A new maintenance technician joins a petrochemical plant. Before working in the maintenance bay, they receive HazCom training: they learn to use the electronic SDS system, review the SDSs for the top 10 chemicals they will encounter (lubricants, degreasers, solvents, hydraulic fluid), practice reading a label to identify pictograms and emergency first aid, and learn where eyewash stations and emergency showers are located."
+    },
+    {
+      "type": "heading",
+      "text": "Multi-Employer Sites"
+    },
+    {
+      "type": "paragraph",
+      "text": "When contractors are working on a site, the host employer must provide hazard information for chemicals the host uses or stores that contractors may encounter. Contractors must share SDS information for chemicals they bring onto the site with the host employer and other contractors."
+    },
+    {
+      "type": "heading",
+      "text": "Exemptions"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Consumer products used in the same manner and quantity as normal consumer use are exempt",
+        "Tobacco and tobacco products, wood and wood products (except preserved wood with added chemicals), food, drugs, cosmetics, and alcoholic beverages used in the workplace are exempt if used in the manner of normal consumer use",
+        "Articles (formed items that do not release hazardous chemicals under normal conditions) are exempt"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: All six GCC countries have implemented GHS. Saudi Arabia's SASO GSO 1791 and the UAE's Federal Chemical Law require GHS-compliant labelling and SDSs for all chemicals. Aramco's Chemical Control Procedure requires that all chemicals brought on site have an approved chemical safety data sheet reviewed by the site HSE department. Aramco maintains a prohibited chemicals list (mercury thermometers, PCB-containing equipment, carbon tetrachloride, and others). On Gulf oil and gas sites, the SDS must also include information on Gulf-specific emergency contacts and the nearest equipped medical facility capable of handling chemical exposures."
+    }
+  ],
+  "quizId": null
+}

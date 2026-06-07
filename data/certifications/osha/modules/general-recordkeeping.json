@@ -1,0 +1,126 @@
+{
+  "id": "certifications/osha/general-recordkeeping",
+  "sectionId": "osha",
+  "title": "OSHA Recordkeeping (29 CFR Part 1904)",
+  "order": 20,
+  "estimatedReadTime": 18,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Determine whether a work-related injury or illness is recordable",
+    "Complete OSHA 300 Log and 301 Incident Report correctly",
+    "Calculate total recordable incidence rate (TRIR) and DART rate",
+    "Apply Gulf incident reporting and KPI standards used by major operators"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Why Recordkeeping Matters"
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA injury and illness recordkeeping (29 CFR Part 1904) serves three purposes: identifying workplace hazards through trend analysis, tracking the effectiveness of safety programmes, and providing the data that drives OSHA inspection targeting. For HSE professionals, mastering recordkeeping is foundational — incorrect records lead to misleading KPIs and regulatory citations."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Recordkeeping is required for employers with 11 or more employees in industries not on the partially exempt list. Exempt industries include retail, finance, insurance, and real estate (low-hazard industries). ALL employers must report to OSHA: fatalities within 8 hours; inpatient hospitalisation, amputation, or eye loss within 24 hours."
+    },
+    {
+      "type": "heading",
+      "text": "The Three Recordkeeping Forms"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Form", "Name", "Purpose"],
+        "rows": [
+          ["OSHA 300", "Log of Work-Related Injuries and Illnesses", "Running log for the calendar year — every recordable case entered within 7 days"],
+          ["OSHA 301", "Injury and Illness Incident Report", "Detailed report for each recorded case — how, where, what happened; retain for 5 years"],
+          ["OSHA 300A", "Summary of Work-Related Injuries and Illnesses", "Annual summary posted February 1 – April 30 each year; signed by senior management"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Is the Case Recordable? The Decision Tree"
+    },
+    {
+      "type": "paragraph",
+      "text": "A case is recordable if it is work-related, involves a new case (not a continuation of a pre-existing condition), and meets at least one of the general recording criteria."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Death (fatality)",
+        "Days away from work (any lost workdays)",
+        "Restricted work or job transfer",
+        "Medical treatment beyond first aid (prescription medication, sutures, physical therapy)",
+        "Loss of consciousness",
+        "Diagnosis by a healthcare professional as a significant injury or illness (e.g., cancer, chronic irreversible disease, fractured or cracked bone, punctured eardrum)"
+      ]
+    },
+    {
+      "type": "definition",
+      "term": "First Aid",
+      "text": "Treatment of a minor injury or illness by a layperson or healthcare professional, not requiring ongoing medical treatment. Includes: bandages, antiseptic application, non-prescription medication at non-prescription strength, eye irrigation, removing a splinter, massage. First aid cases are NOT recordable."
+    },
+    {
+      "type": "heading",
+      "text": "Work-Relatedness"
+    },
+    {
+      "type": "paragraph",
+      "text": "A case is work-related if an event or exposure in the work environment either caused or contributed to the injury or illness, or significantly aggravated a pre-existing condition. The work environment includes any location where work activities take place."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Scenario", "Recordable?"],
+        "rows": [
+          ["Worker trips on wet floor and fractures wrist", "YES — work environment, new injury"],
+          ["Worker strains back moving boxes at home after work", "NO — not in the work environment"],
+          ["Worker's pre-existing knee pain is aggravated by repetitive kneeling task at work", "YES — work activity significantly aggravated the pre-existing condition"],
+          ["Worker has a heart attack at the workplace — no work cause", "NO — personal medical event not caused or contributed to by work"],
+          ["Worker cuts finger — washed, bandaged, no further treatment", "NO — first aid only"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Key Safety KPIs and Rates"
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA rates are calculated per 200,000 hours worked (equivalent to 100 full-time workers for one year at 2,000 hours each). This normalises data to allow comparison across different workforce sizes."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["KPI", "Formula", "Meaning"],
+        "rows": [
+          ["TRIR (Total Recordable Incidence Rate)", "(Number of recordable cases x 200,000) / Hours worked", "All recordable injuries and illnesses per 200,000 hours"],
+          ["DART Rate (Days Away/Restricted/Transfer)", "(DART cases x 200,000) / Hours worked", "Only cases involving lost time, restricted duty, or job transfer"],
+          ["LTIR (Lost Time Injury Rate)", "(Lost time cases x 200,000) / Hours worked", "Only cases with days away from work"],
+          ["Severity Rate", "(Days lost x 200,000) / Hours worked", "Measures severity, not just frequency"],
+          ["FIFR (Fatal Injury Frequency Rate)", "(Fatalities x 1,000,000) / Hours worked", "Fatalities per million hours — used in Gulf and international reporting"]
+        ]
+      }
+    },
+    {
+      "type": "example",
+      "text": "A manufacturing plant with 250 employees works 500,000 total hours in a year. They record 8 cases: 3 involving lost workdays, 2 restricted duty, 1 job transfer, 2 medical treatment only. TRIR = (8 x 200,000) / 500,000 = 3.2. DART rate = (3+2+1) x 200,000 / 500,000 = 2.4. The company benchmarks against the BLS industry average to assess performance."
+    },
+    {
+      "type": "heading",
+      "text": "Electronic Reporting Requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA requires electronic submission of the 300A summary for establishments with 250 or more employees, and establishments with 20–249 employees in high-hazard industries. Submission is through OSHA's Injury Tracking Application (ITA). This public data transparency creates accountability — OSHA publishes establishment-level data."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Gulf operators use both OSHA-style rates and additional international KPIs. Total Recordable Case Frequency Rate (TRCFR) = TRIR in Gulf terminology. Fatal Injury Frequency Rate (FIFR) = fatalities per million hours — Aramco and ADNOC report FIFR in annual sustainability reports. Near-miss reporting is strongly emphasised in Gulf systems: QatarEnergy targets a near-miss-to-incident ratio of at least 300:1, reflecting a strong near-miss culture. Saudi Arabia's MHRSD (Ministry of Human Resources) requires quarterly injury reporting for all registered businesses. First-aid cases are NOT reported externally but are tracked internally. The International Association of Oil & Gas Producers (IOGP) Report 2019 safety statistics provide the Gulf industry benchmark — HSE professionals should be familiar with the IOGP metrics."
+    }
+  ],
+  "quizId": null
+}

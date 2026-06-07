@@ -1,0 +1,137 @@
+{
+  "id": "certifications/iosh/module-4",
+  "sectionId": "iosh",
+  "title": "Module 4: Understanding Your Responsibilities",
+  "order": 4,
+  "estimatedReadTime": 18,
+  "difficulty": "beginner",
+  "learningObjectives": [
+    "Understand the legal duties of employers, managers, and employees",
+    "Explain criminal and civil liability in H&S law",
+    "Describe the roles of H&S regulatory authorities and their enforcement powers",
+    "Understand the duty of care concept in common law",
+    "Know the main contents and purpose of a Health and Safety Policy"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "The Legal Framework for Health and Safety"
+    },
+    {
+      "type": "paragraph",
+      "text": "Health and safety law creates duties — legal obligations that must be met. Failing to meet these duties can result in enforcement action, prosecution, fines, and even imprisonment. The legal framework operates at two levels: criminal law (the state prosecutes breaches of H&S legislation) and civil law (injured parties claim compensation from the employer). Both are relevant and both can apply to the same incident."
+    },
+    {
+      "type": "definition",
+      "term": "Criminal Liability",
+      "text": "The state (government regulator) prosecutes an employer, company, or individual for breaching H&S law. Penalties include unlimited fines and imprisonment for individuals. Examples: prosecution for failing to provide a safe system of work; corporate manslaughter charges after a work fatality."
+    },
+    {
+      "type": "definition",
+      "term": "Civil Liability",
+      "text": "The injured worker (or their family) sues the employer for compensation. The standard is 'negligence' — failing to take reasonable care. Compensation can cover medical costs, lost earnings, and pain and suffering. Civil cases are separate from and additional to any criminal prosecution."
+    },
+    {
+      "type": "heading",
+      "text": "Employer Duties"
+    },
+    {
+      "type": "paragraph",
+      "text": "In virtually all jurisdictions, employers have a general duty to ensure, 'so far as is reasonably practicable,' the health, safety, and welfare of all employees. Specific duties typically include: providing and maintaining safe plant and equipment; ensuring safe systems of work; ensuring safe use, handling, storage, and transport of articles and substances; providing information, instruction, training, and supervision; providing a safe working environment with adequate welfare facilities; and preparing and maintaining a written H&S policy (for larger organisations)."
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Saudi Arabia, the Labour Law (Royal Decree M/51) places these duties on employers. In the UAE, Federal Decree Law No. 33 of 2021 and OSHAD-SF in Abu Dhabi set equivalent requirements. For Aramco and ADNOC contractors, the contractual SEMP/HSSE plan obligations go beyond national law minimum requirements — always the more stringent standard applies."
+    },
+    {
+      "type": "heading",
+      "text": "Manager Duties"
+    },
+    {
+      "type": "paragraph",
+      "text": "Managers are not just employees following instructions — they are agents of the employer and carry personal responsibility for safety within their area. Manager duties include: implementing the employer's H&S policy within their team; conducting or ensuring risk assessments are done for significant hazards; providing safe working conditions, equipment, and procedures; supervising workers and monitoring that safety rules are followed; investigating accidents and near misses in their area; and providing a good personal example."
+    },
+    {
+      "type": "warning",
+      "text": "A manager who directs or permits unsafe work — even under commercial pressure — can be personally prosecuted in most jurisdictions. The instruction 'my boss told me to' does not eliminate personal liability. Managers have the right and responsibility to refuse or stop unsafe work."
+    },
+    {
+      "type": "heading",
+      "text": "Employee Duties"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Take reasonable care of their own health and safety and that of others who may be affected by their actions",
+        "Cooperate with their employer on H&S matters",
+        "Follow safety rules and procedures",
+        "Use PPE correctly and report defects",
+        "Report hazards, unsafe conditions, and near misses",
+        "Not intentionally interfere with or misuse anything provided for H&S purposes",
+        "Refuse to do work they genuinely believe creates imminent danger"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "Employees cannot be dismissed for refusing work they genuinely believe poses imminent serious danger to themselves or others. This is a protected right in most Gulf countries' labour laws and in all major international H&S frameworks."
+    },
+    {
+      "type": "heading",
+      "text": "Duty of Care — The Common Law Foundation"
+    },
+    {
+      "type": "definition",
+      "term": "Duty of Care",
+      "text": "An employer's legal obligation under common law to take reasonable care to protect employees from foreseeable harm. The 'reasonable employer' test asks: what would a reasonably competent employer in this industry have done to prevent this harm? Failing to meet this standard is negligence, which can result in civil compensation claims."
+    },
+    {
+      "type": "heading",
+      "text": "H&S Regulatory Authorities and Enforcement"
+    },
+    {
+      "type": "paragraph",
+      "text": "H&S regulators enforce the law by: providing guidance and information; investigating accidents and complaints; inspecting workplaces; and taking enforcement action. Enforcement powers include: Improvement Notice (requires a specific improvement within a set time period — work continues); Prohibition Notice (stops a specific activity immediately where there is risk of serious injury — the most urgent enforcement action); and Prosecution (for serious breaches, resulting in fines or imprisonment)."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Enforcement Action", "Trigger Condition", "Effect"],
+        "rows": [
+          ["Improvement Notice", "Breach of law that does not require immediate action", "Must comply within set time period; work may continue"],
+          ["Prohibition Notice", "Risk of serious personal injury from current activity", "Activity stops immediately — cannot continue until resolved"],
+          ["Prosecution", "Serious or repeated breach; or following a fatality", "Court-imposed fine or imprisonment; company record affected"],
+          ["Fee for Intervention (UK)", "Material breach of H&S law identified during inspection", "Employer pays regulator's investigation costs"]
+        ]
+      }
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Saudi Arabia, Ministry of Human Resources inspectors can issue improvement orders and impose fines. In Qatar, Ministry of Labour inspectors may shut down sites for serious violations. In UAE, OSHAD or Trakhees inspectors have similar powers. Aramco, ADNOC, and QP have their own internal audit and enforcement systems — a poor contractor H&S audit finding can trigger immediate site shutdown, which has the same practical effect as a regulator's prohibition notice."
+    },
+    {
+      "type": "heading",
+      "text": "The Health and Safety Policy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most H&S laws require employers above a minimum size (typically 5 employees) to have a written H&S policy. The policy consists of three parts: (1) Statement of Intent — signed by the most senior person, setting out the organisation's overall commitment to H&S; (2) Organisation — who is responsible for what at each level, and how accountability is structured; (3) Arrangements — the specific procedures, systems, and measures in place to implement the policy (training, risk assessment, accident investigation, emergency response, etc.). The policy must be communicated to all employees and reviewed regularly."
+    },
+    {
+      "type": "keyPoint",
+      "text": "The H&S policy should be a live, working document — not a wall poster that was last updated five years ago. It must be reviewed when the organisation changes, after significant incidents, and at least annually."
+    },
+    {
+      "type": "heading",
+      "text": "Consulting Workers"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most H&S frameworks require employers to consult employees on matters affecting their H&S. Consultation means providing information and allowing workers to express views before decisions are made — not just informing them after the fact. Workers and their representatives (safety representatives, safety committees) have the right to: be consulted on changes that could affect H&S; access relevant H&S information; participate in H&S inspections and investigations; and request H&S training."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Worker consultation in Gulf O&G is formalised through site H&S committees, toolbox talk programmes, and safety observation programmes. QatarEnergy Golden Rules require that workers are consulted on risk assessments for their specific tasks. Aramco SEMP requires worker participation in HSE planning. Genuine consultation — listening to workers, not just informing them — is a leading indicator of safety culture maturity."
+    }
+  ],
+  "quizId": "iosh/module-4-quiz"
+}

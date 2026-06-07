@@ -1,0 +1,130 @@
+{
+  "id": "certifications/nebosh-igc/element-8",
+  "sectionId": "nebosh-igc",
+  "title": "Element 8: General Workplace Issues",
+  "order": 8,
+  "estimatedReadTime": 20,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Identify common workplace hazards related to environment, access, and welfare",
+    "Explain safe working at height procedures and legal requirements",
+    "Describe the hazards and controls for excavation and confined space work",
+    "Outline workplace welfare requirements and their importance"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "8.1 Workplace Environment"
+    },
+    {
+      "type": "paragraph",
+      "text": "The physical work environment itself creates hazards independent of specific tasks. These must be assessed and controlled as part of overall H&S management."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Environmental Factor", "Hazard", "Control Measures"],
+        "rows": [
+          ["Lighting", "Poor visibility → trips, falls, eye strain; glare → errors", "Adequate lux levels for task; emergency lighting; glare control"],
+          ["Temperature", "Heat stress, cold stress", "HVAC systems, breaks, hydration, appropriate clothing"],
+          ["Ventilation", "Build-up of fumes, dust, CO2, oxygen depletion", "LEV, general ventilation, CO2 monitors"],
+          ["Space", "Crowded workspace → collision, ergonomic strain", "Minimum 11 m³ per person; adequate circulation space"],
+          ["Floors and surfaces", "Slips (wet, oily), trips (uneven, cables)", "Non-slip surfaces, drainage, good housekeeping, cable management"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "8.2 Working at Height"
+    },
+    {
+      "type": "paragraph",
+      "text": "Falls from height are the leading cause of fatalities in construction worldwide. Working at height means any work where a person could fall a distance liable to cause personal injury — this includes working at ground level near an excavation or working on a flat roof."
+    },
+    {
+      "type": "keyPoint",
+      "text": "The hierarchy for working at height: 1) Avoid working at height if possible. 2) Where work at height cannot be avoided, prevent the fall. 3) Where a fall cannot be prevented, minimise the distance and consequences."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Equipment Type", "When Used", "Key Safety Points"],
+        "rows": [
+          ["Scaffolding (tube and fitting, system)", "Multi-level or complex access; longer-duration work", "Must be designed, erected, and inspected by competent persons; tag system"],
+          ["Mobile Elevated Work Platform (MEWP/Cherry Picker)", "Short-duration work; mobility needed", "Operators must be trained and certified; ground must be stable; exclusion zones"],
+          ["Ladders", "Short-duration light work ONLY; 3-point contact always", "Not for sustained or heavy work; secured at top; angle 75° (1 out for every 4 up)"],
+          ["Fall Arrest System (harness and lanyard)", "When fall prevention not possible", "Anchor point must take 15 kN; shock-absorbing lanyard; regular inspection"],
+          ["Safety Nets / Soft Landing", "Below work areas; catch falling workers or materials", "Must meet EN 1263 or equivalent; install as close to work level as possible"]
+        ]
+      }
+    },
+    {
+      "type": "gulfNote",
+      "text": "Falls from height account for a significant proportion of construction fatalities in the Gulf. Scaffolding on major Gulf projects (NEOM, Riyadh mega-projects, LNG plants in Qatar) must meet BS EN 12811 or equivalent. Aramco requires that all scaffolding be tagged green (clear for use) after inspection. Red-tagged scaffolding must not be used. HSE officers are responsible for daily scaffold inspections."
+    },
+    {
+      "type": "heading",
+      "text": "8.3 Confined Spaces"
+    },
+    {
+      "type": "definition",
+      "term": "Confined Space",
+      "text": "An enclosed or partially enclosed space, not designed for continuous human occupation, which has limited means of entry and exit and may present foreseeable risk of serious injury from hazardous substances, lack of oxygen, or engulfment."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Examples: storage tanks, vessels, manholes, sewers, underground vaults, ship holds, silos, boilers",
+        "Atmospheric hazards: oxygen deficiency (<19.5%), oxygen enrichment (>23.5%), toxic gases (H2S, CO), flammable atmospheres",
+        "Physical hazards: engulfment, entrapment, falls, moving machinery inside",
+        "Entry requires: PTW, atmospheric testing (O2, LEL, toxics), continuous monitoring, isolation (LOTO), trained attendant outside, rescue plan"
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Do NOT attempt to rescue someone who has collapsed in a confined space without full rescue equipment and SCBA. Multiple fatalities occur every year when rescuers enter to help a collapsed colleague and are overcome by the same atmosphere. Always follow the rescue plan."
+    },
+    {
+      "type": "heading",
+      "text": "8.4 Excavations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Excavation collapse is a leading cause of construction fatalities. Even a small amount of soil weighs hundreds of kilograms and can cause fatal crush injuries within seconds."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Before excavating: identify underground services (electrical, gas, water, telecoms) using CAT scanner and service drawings",
+        "Support the excavation: sloping/battering (safe angle for soil type), stepping, or shoring/trench boxes",
+        "Inspect daily and after rain or frost — conditions can change rapidly",
+        "Exclusion zone — prevent vehicles within 2m of excavation edge",
+        "Barriers — guard rails or fencing to prevent falls into the excavation"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "8.5 Welfare Facilities"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adequate welfare facilities are a legal requirement and a basic human right. In the Gulf, where many workers live on-site or in labour camps, welfare standards are increasingly scrutinised by international clients and human rights organisations."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Sanitary facilities — Adequate number of toilets and hand washing facilities; clean and hygienic",
+        "Rest areas — Sheltered areas away from work; cool in hot climates",
+        "Drinking water — Clean, cool, potable water accessible at all times",
+        "Changing facilities — Separate for men and women; secure storage for personal belongings",
+        "First aid — Adequate first aid facilities and trained first aiders",
+        "Eating facilities — Clean area to eat; food hygiene standards in canteens"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "The Qatar World Cup 2022 construction projects and Saudi Vision 2030 giga-projects have dramatically raised welfare standards for construction workers in the Gulf. International contractors are now required to comply with ILO standards and client welfare requirements including cooling rest areas, adequate water provision, and quality accommodation. The Supreme Committee for Delivery & Legacy's Worker Welfare Standards became a benchmark for the region."
+    }
+  ],
+  "quizId": "nebosh-igc/element-8-quiz"
+}

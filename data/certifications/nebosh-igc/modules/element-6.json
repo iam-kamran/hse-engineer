@@ -1,0 +1,118 @@
+{
+  "id": "certifications/nebosh-igc/element-6",
+  "sectionId": "nebosh-igc",
+  "title": "Element 6: Musculoskeletal Health",
+  "order": 6,
+  "estimatedReadTime": 16,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Identify work activities that cause musculoskeletal disorders (MSDs)",
+    "Apply the TILE framework to assess manual handling risk",
+    "Describe suitable controls for manual handling and repetitive work",
+    "Explain how to recognise early signs of MSDs and respond appropriately"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "6.1 What Are Musculoskeletal Disorders?"
+    },
+    {
+      "type": "definition",
+      "term": "Musculoskeletal Disorders (MSDs)",
+      "text": "Injuries or disorders affecting muscles, tendons, nerves, joints, cartilage, and spinal discs. They are the most common cause of work-related ill health and lost working time in most industries. Also called Work-Related Upper Limb Disorders (WRULDs) when affecting the upper body."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Back injuries — Most common; caused by heavy lifting, awkward postures, prolonged sitting",
+        "Tendinitis — Inflammation of tendons; caused by repetitive tasks",
+        "Carpal Tunnel Syndrome — Nerve compression in the wrist; caused by repetitive hand/wrist movements",
+        "Epicondylitis (Tennis/Golfer's Elbow) — Elbow tendon inflammation; tools and manual work",
+        "Bursitis — Joint bursa inflammation; prolonged kneeling, repetitive shoulder movements"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "6.2 Risk Factors for MSDs"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Risk Factor Category", "Examples"],
+        "rows": [
+          ["Force", "Heavy lifting, pushing/pulling heavy loads, gripping tightly, exerting high force"],
+          ["Repetition", "Performing the same movement hundreds of times per shift"],
+          ["Awkward Posture", "Bending, twisting, working overhead, reaching across the body"],
+          ["Static Posture", "Maintaining the same position for extended periods"],
+          ["Vibration", "Hand-arm vibration from power tools; whole-body vibration from vehicles"],
+          ["Environmental", "Working in cold temperatures (reduces blood flow, increases injury risk)"],
+          ["Psychosocial", "High job demands, low control, poor support — increase perception of pain and reduce recovery"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "6.3 Manual Handling — The TILE Framework"
+    },
+    {
+      "type": "paragraph",
+      "text": "Manual handling means any transporting or supporting of a load using bodily force — lifting, carrying, pushing, pulling, holding, or restraining. It is one of the most common causes of workplace injury. Risk assessment uses the TILE framework:"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["TILE Factor", "What to Assess"],
+        "rows": [
+          ["T — Task", "Does it involve twisting, reaching, repetition, prolonged effort, sudden movement?"],
+          ["I — Individual", "Is the person physically capable? Pregnant? Experienced? Trained? Fatigued?"],
+          ["L — Load", "How heavy, bulky, or awkward is it? Sharp edges? Unstable contents? Hot or cold?"],
+          ["E — Environment", "Space constraints? Floor condition? Temperature? Adequate lighting? Stairs?"]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "There is no single 'safe' weight limit for lifting. Risk depends on TILE factors combined. The HSE's MAC Tool (Manual Handling Assessment Charts) provides a systematic approach. For single lifts, a rough guideline is 25kg for men and 16kg for women in ideal conditions — but these are not absolute limits."
+    },
+    {
+      "type": "heading",
+      "text": "6.4 Hierarchy of Controls for Manual Handling"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Eliminate — Can the manual handling task be removed entirely? (e.g., deliver materials direct to point of use)",
+        "Mechanise/Automate — Forklifts, conveyors, hoists, pump trucks — remove human force entirely",
+        "Reduce the risk — Reduce load weight/size, improve packaging, change working height (e.g., height-adjustable workbenches), rotate workers",
+        "PPE — Gloves for grip and protection, safety boots for dropped loads, back support belts (limited evidence for belts alone)"
+      ]
+    },
+    {
+      "type": "example",
+      "text": "A construction site in Qatar requires workers to carry 50kg bags of cement up flights of stairs. Elimination: redesign delivery so cement is pumped directly. Mechanise: use a material hoist to lift bags to upper floors. Reduce: repackage cement in 25kg bags. Only after all these are exhausted should manual handling technique and training be relied upon."
+    },
+    {
+      "type": "heading",
+      "text": "6.5 Display Screen Equipment (DSE) and Office Ergonomics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Office workers spending long periods at computers face MSD risk from poor workstation setup. DSE assessment covers:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Screen — Top of screen at eye level, arm's length away, no glare",
+        "Chair — Fully adjustable; feet flat on floor or footrest; lumbar support",
+        "Keyboard and mouse — Close to the user; wrists straight; minimal reach",
+        "Work breaks — Regular micro-breaks (5 min per hour) to vary posture",
+        "Lighting — Adequate ambient light; no reflections on screen"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Gulf O&G, MSDs are among the top causes of medical treatment cases and restricted work cases. Heavy equipment operation (craneage, forklift, plant operation) involves whole-body vibration, and many process plant tasks involve reaching and awkward postures. HSE professionals should be able to conduct manual handling risk assessments and ergonomic reviews for both field and office environments."
+    }
+  ],
+  "quizId": "nebosh-igc/element-6-quiz"
+}

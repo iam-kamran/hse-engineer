@@ -1,0 +1,176 @@
+{
+  "id": "nebosh-igc/element-7-quiz",
+  "moduleId": "certifications/nebosh-igc/element-7",
+  "title": "Element 7 Quiz — Chemical & Biological Agents, H2S, OELs",
+  "passMark": 70,
+  "questions": [
+    {
+      "id": "e7-q1",
+      "text": "What does OEL stand for, and what does it represent?",
+      "options": [
+        { "id": "a", "text": "Occupational Exposure Limit — the maximum concentration of a hazardous substance in workplace air, averaged over a reference period" },
+        { "id": "b", "text": "Operational Equipment Limit — the rated capacity of work equipment" },
+        { "id": "c", "text": "Occupational Emergency Level — the concentration at which emergency evacuation must occur" },
+        { "id": "d", "text": "Output Emission Limit — the maximum pollutant released by industrial processes" }
+      ],
+      "correctOptionId": "a",
+      "explanation": "An Occupational Exposure Limit (OEL) is the maximum airborne concentration of a hazardous substance that workers can be exposed to, typically expressed as a time-weighted average (TWA) over an 8-hour day or a short-term exposure limit (STEL) over 15 minutes. OELs protect against health effects from breathing workplace air contaminants.",
+      "difficulty": "easy",
+      "tags": ["OEL", "chemical agents", "exposure limits"]
+    },
+    {
+      "id": "e7-q2",
+      "text": "Hydrogen sulphide (H2S) is a major hazard in Gulf oil and gas operations. What makes H2S particularly dangerous at high concentrations?",
+      "options": [
+        { "id": "a", "text": "It is extremely cold and causes frostbite on contact" },
+        { "id": "b", "text": "At high concentrations (above ~100 ppm), it paralyses the sense of smell so workers cannot detect it; above 500 ppm it can cause immediate unconsciousness and death" },
+        { "id": "c", "text": "It is heavier than air and always accumulates at high elevations" },
+        { "id": "d", "text": "It corrodes skin and causes burns similar to hydrofluoric acid" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "H2S is treacherous because at high concentrations it causes olfactory fatigue (paralysis of smell) — workers can no longer smell it despite dangerous levels being present. Above 500 ppm, it causes rapid incapacitation and death. H2S is also heavier than air, accumulating in low-lying areas (confined spaces, pits). Gulf O&G workers must be trained in H2S awareness, self-contained breathing apparatus (SCBA), and rescue procedures.",
+      "difficulty": "medium",
+      "tags": ["H2S", "chemical hazards", "Gulf context"]
+    },
+    {
+      "id": "e7-q3",
+      "text": "In the hierarchy of controls for chemical hazards, which measure is MOST preferred?",
+      "options": [
+        { "id": "a", "text": "Issuing suitable respiratory protective equipment (RPE) to all workers" },
+        { "id": "b", "text": "Ensuring good general ventilation in the area" },
+        { "id": "c", "text": "Eliminating the hazardous substance or substituting with a less hazardous alternative" },
+        { "id": "d", "text": "Requiring workers to undergo regular health monitoring" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Elimination (removing the hazardous substance entirely) or substitution (replacing with a less harmful chemical) is always the most preferred control in the hierarchy. RPE is at the bottom — it relies on correct fit, use, and maintenance every time. Good ventilation is an engineering control (middle of hierarchy). Health monitoring is a supplementary measure, not a primary control.",
+      "difficulty": "easy",
+      "tags": ["chemical hazards", "hierarchy of controls"]
+    },
+    {
+      "id": "e7-q4",
+      "text": "A Safety Data Sheet (SDS) for a hazardous chemical contains information on health hazards, first aid, fire precautions, storage, and disposal. Which SDS section specifically provides the Occupational Exposure Limits for the substance?",
+      "options": [
+        { "id": "a", "text": "Section 2 — Hazard Identification" },
+        { "id": "b", "text": "Section 7 — Handling and Storage" },
+        { "id": "c", "text": "Section 8 — Exposure Controls and Personal Protection" },
+        { "id": "d", "text": "Section 11 — Toxicological Information" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Section 8 of the Safety Data Sheet (SDS) — 'Exposure Controls and Personal Protection' — provides OELs (TWA and STEL), engineering controls needed, and required PPE. This section is critical for risk assessment under COSHH or equivalent frameworks. Understanding SDS structure is an important practical skill for Gulf HSE Engineers.",
+      "difficulty": "medium",
+      "tags": ["SDS", "MSDS", "OEL", "chemical hazards"]
+    },
+    {
+      "id": "e7-q5",
+      "text": "What is the difference between a TWA (Time-Weighted Average) and a STEL (Short-Term Exposure Limit) OEL?",
+      "options": [
+        { "id": "a", "text": "TWA applies to carcinogens only; STEL applies to all other chemicals" },
+        { "id": "b", "text": "TWA is the average concentration allowed over an 8-hour workday; STEL is the maximum concentration allowed for a short period (typically 15 minutes), never to be exceeded" },
+        { "id": "c", "text": "STEL is always a lower number than TWA for the same substance" },
+        { "id": "d", "text": "TWA is measured by a doctor; STEL is self-measured by the worker" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The TWA is the average airborne concentration of a substance over an 8-hour shift — it allows variation during the day but controls cumulative dose. The STEL is a ceiling for short-duration exposures (15 minutes), protecting against acute effects from brief high-concentration exposures. A substance can have both limits — meeting the TWA doesn't excuse exceeding the STEL.",
+      "difficulty": "medium",
+      "tags": ["OEL", "TWA", "STEL"]
+    },
+    {
+      "id": "e7-q6",
+      "text": "Which of the following routes of chemical entry into the body is MOST commonly associated with contact dermatitis in the workplace?",
+      "options": [
+        { "id": "a", "text": "Inhalation of vapours" },
+        { "id": "b", "text": "Skin absorption through direct contact" },
+        { "id": "c", "text": "Ingestion via contaminated food or drink" },
+        { "id": "d", "text": "Injection through needle-stick injuries" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Contact dermatitis is primarily caused by skin absorption/contact with irritant or sensitising chemicals (cutting fluids, cleaning agents, cement, resins). Skin absorption is also a route for systemic poisoning with some substances (e.g. organophosphate pesticides, phenol). Inhalation is the main route for respiratory conditions; ingestion is less common in workplaces with good hygiene.",
+      "difficulty": "easy",
+      "tags": ["routes of entry", "dermatitis", "skin absorption"]
+    },
+    {
+      "id": "e7-q7",
+      "text": "Local Exhaust Ventilation (LEV) is an engineering control for airborne chemical hazards. Which of the following is an example of LEV?",
+      "options": [
+        { "id": "a", "text": "Opening windows to increase general air circulation in a room" },
+        { "id": "b", "text": "A dust extraction hood positioned close to a grinding or welding operation to capture contaminants at source" },
+        { "id": "c", "text": "Wearing a half-face respirator while handling chemicals" },
+        { "id": "d", "text": "Diluting the hazardous substance with water before use" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "LEV captures airborne contaminants at or near the point of generation — before they can spread into the worker's breathing zone. A grinding dust hood, welding fume extractor, or lab fume cupboard are all examples. General ventilation dilutes contaminants after release — less effective. RPE (respirators) and dilution are lower in the hierarchy than LEV.",
+      "difficulty": "easy",
+      "tags": ["LEV", "ventilation", "engineering controls"]
+    },
+    {
+      "id": "e7-q8",
+      "text": "Which type of biological hazard would be of GREATEST concern to healthcare workers and first responders in Gulf countries?",
+      "options": [
+        { "id": "a", "text": "Legionella bacteria in cooling towers" },
+        { "id": "b", "text": "Blood-borne pathogens (e.g. Hepatitis B, Hepatitis C, HIV) transmitted through sharps injuries" },
+        { "id": "c", "text": "Mould spores in air conditioning systems" },
+        { "id": "d", "text": "Agricultural bacteria such as leptospirosis" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Blood-borne pathogens (BBPs) — Hepatitis B, Hepatitis C, and HIV — are the primary biological hazard for healthcare workers, first responders, and laboratory staff. They are transmitted via needlestick injuries, sharps, or contact with infected blood. Controls include safe sharps disposal, PPE (gloves, face shield), vaccination (Hep B), and post-exposure protocols.",
+      "difficulty": "medium",
+      "tags": ["biological hazards", "blood-borne pathogens", "healthcare"]
+    },
+    {
+      "id": "e7-q9",
+      "text": "The 'COSHH assessment' (or equivalent chemical risk assessment) process requires which of the following as its FIRST step?",
+      "options": [
+        { "id": "a", "text": "Selecting the appropriate PPE for the task" },
+        { "id": "b", "text": "Identifying hazardous substances used or generated in the work process" },
+        { "id": "c", "text": "Measuring airborne concentrations and comparing to OELs" },
+        { "id": "d", "text": "Providing health surveillance to all exposed workers" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The chemical risk assessment (COSHH in the UK; equivalent in Gulf countries) starts with identifying which hazardous substances are present, used, or generated. You cannot assess or control a risk you haven't identified. Identification (inventory, SDS review, process review) must precede evaluation (exposure measurements, OEL comparison) and control selection.",
+      "difficulty": "easy",
+      "tags": ["COSHH", "chemical risk assessment", "process steps"]
+    },
+    {
+      "id": "e7-q10",
+      "text": "In Gulf oilfield operations, workers entering a sour gas area must carry personal H2S monitors. What should a worker do if their monitor sounds an alarm?",
+      "options": [
+        { "id": "a", "text": "Continue working and note the alarm time in the shift log" },
+        { "id": "b", "text": "Move upwind, evacuate to a muster point, and don SCBA if trained — do NOT re-enter without air" },
+        { "id": "c", "text": "Remove the monitor in case it is faulty and carry on" },
+        { "id": "d", "text": "Run downwind away from the source to avoid the gas cloud" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "When an H2S monitor alarms, workers must: move crosswind or upwind immediately; evacuate to the designated muster point; don SCBA if trained and required for rescue. Running downwind is dangerous — H2S gas clouds travel downwind. Never re-enter a sour gas area without confirmed air supply. Aramco and QP PTW procedures mandate these actions.",
+      "difficulty": "medium",
+      "tags": ["H2S", "emergency response", "Gulf context"]
+    },
+    {
+      "id": "e7-q11",
+      "text": "Legionella bacteria pose a risk in which type of workplace system?",
+      "options": [
+        { "id": "a", "text": "High-pressure steam boilers" },
+        { "id": "b", "text": "Water systems where water is stored or recirculated at temperatures between 20°C and 45°C — e.g. cooling towers, hot water tanks, showers" },
+        { "id": "c", "text": "Chemical solvent storage tanks" },
+        { "id": "d", "text": "Natural gas distribution pipelines" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Legionella thrives in water systems where temperature is between 20–45°C, water is stagnant, and there is a nutrient source (scale, rust, algae). Cooling towers, air conditioning evaporators, hot water storage tanks, and showers are primary risk sites. It is transmitted by inhaling contaminated water droplets (aerosols). In Gulf countries, large air conditioning and cooling systems in industrial facilities are key risk areas.",
+      "difficulty": "medium",
+      "tags": ["biological hazards", "Legionella", "water systems"]
+    },
+    {
+      "id": "e7-q12",
+      "text": "Which type of respiratory protection provides the HIGHEST level of protection against highly toxic chemical vapours and gases?",
+      "options": [
+        { "id": "a", "text": "A disposable FFP2 dust mask" },
+        { "id": "b", "text": "A half-face respirator with chemical filter cartridges" },
+        { "id": "c", "text": "A self-contained breathing apparatus (SCBA) with a full-face mask" },
+        { "id": "d", "text": "A powered air-purifying respirator (PAPR)" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "SCBA (Self-Contained Breathing Apparatus) provides the highest protection — it supplies clean air from a cylinder independent of the ambient atmosphere, making it suitable for IDLH (Immediately Dangerous to Life or Health) environments such as H2S-rich spaces. Dust masks only filter particles; half-face respirators require oxygen levels to be adequate. SCBA is mandatory for H2S emergency response and confined space rescue in Gulf O&G.",
+      "difficulty": "medium",
+      "tags": ["RPE", "SCBA", "H2S", "Gulf context"]
+    }
+  ]
+}

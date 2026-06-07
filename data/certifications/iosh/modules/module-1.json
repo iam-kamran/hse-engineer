@@ -1,0 +1,131 @@
+{
+  "id": "certifications/iosh/module-1",
+  "sectionId": "iosh",
+  "title": "Module 1: Introducing Managing Safely",
+  "order": 1,
+  "estimatedReadTime": 15,
+  "difficulty": "beginner",
+  "learningObjectives": [
+    "Understand what IOSH Managing Safely is and who it is designed for",
+    "Explain why managing safety is a core management responsibility",
+    "Describe the consequences of poor safety management for individuals and organisations",
+    "Define key terms: hazard, risk, near miss, accident, and incident"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "What Is IOSH Managing Safely?"
+    },
+    {
+      "type": "paragraph",
+      "text": "IOSH (Institution of Occupational Safety and Health) Managing Safely is one of the world's most widely recognised health and safety certificates for managers and supervisors. It is designed not for dedicated H&S professionals, but for the people who actually manage teams — line managers, project supervisors, team leaders, and site foremen. The core message of the course is that managers are responsible for the safety of their team, and that safety is an inseparable part of good management."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Safety is a management responsibility — not something that can be fully delegated to an H&S department. The manager who leads the team manages the risk to that team."
+    },
+    {
+      "type": "heading",
+      "text": "Why Managing Safely Matters"
+    },
+    {
+      "type": "paragraph",
+      "text": "The reasons for managing health and safety fall into three categories — the same framework used in NEBOSH: Moral, Legal, and Financial."
+    },
+    {
+      "type": "definition",
+      "term": "Moral Reason",
+      "text": "Every person has the right not to be harmed by their work. Managers have a duty of care to the people in their team. Failing in this duty causes human suffering — injury, illness, and death — that is unacceptable regardless of any other consideration."
+    },
+    {
+      "type": "definition",
+      "term": "Legal Reason",
+      "text": "In virtually every country, employers and managers have legal obligations to protect workers. Failure can result in prosecution, fines, imprisonment, and improvement or prohibition notices. In the Gulf, national labour laws, Aramco SEMP, ADNOC standards, and QatarEnergy requirements all carry legal or contractual force."
+    },
+    {
+      "type": "definition",
+      "term": "Financial Reason",
+      "text": "Accidents cost far more than prevention. Direct costs include medical treatment and compensation. Indirect (uninsured) costs include lost productivity, management time investigating, recruiting and training a replacement, reputational damage, and increased insurance premiums. Research suggests indirect costs are 8–36 times greater than direct costs."
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Gulf O&G and construction, failing to manage safety can result in contract suspension, removal from approved contractor lists, and permanent exclusion from Aramco, ADNOC, or QP projects. The financial consequences extend far beyond a single incident — loss of future work is the real financial risk for contractors."
+    },
+    {
+      "type": "heading",
+      "text": "Key Definitions"
+    },
+    {
+      "type": "definition",
+      "term": "Hazard",
+      "text": "Anything that has the potential to cause harm. Examples: a wet floor (slip hazard), H2S gas (toxic hazard), an unguarded rotating shaft (entanglement hazard)."
+    },
+    {
+      "type": "definition",
+      "term": "Risk",
+      "text": "The likelihood that harm will actually occur from a hazard, combined with the severity of that harm. Risk = Likelihood × Severity. A wet floor in an empty room is a hazard but a low risk. A wet floor at the bottom of a busy staircase is a hazard with high risk."
+    },
+    {
+      "type": "definition",
+      "term": "Near Miss",
+      "text": "An unplanned event that did not result in injury or damage but had the potential to do so. Near misses are early warnings — they share the same root causes as major incidents and should be investigated with the same seriousness."
+    },
+    {
+      "type": "definition",
+      "term": "Accident",
+      "text": "An unplanned event that causes injury, illness, or damage. In modern H&S terminology, 'incident' is often preferred because it is broader (covering near misses and dangerous occurrences as well as accidents)."
+    },
+    {
+      "type": "example",
+      "text": "A scaffold board is left unsecured at 4 metres above ground. A worker trips over it and it falls to ground level where another worker is working. The falling board just misses the worker below. This is a near miss — no injury occurred, but it had the potential for a fatality. The same root cause (unsecured scaffold board, poor housekeeping, no inspection) could next time result in a fatality."
+    },
+    {
+      "type": "heading",
+      "text": "The Manager's Role in Safety"
+    },
+    {
+      "type": "paragraph",
+      "text": "Managers are responsible for safety in the same way they are responsible for quality, delivery, and cost. This means: identifying hazards in their work area; making sure risk assessments are done for significant hazards; implementing controls and checking they work; providing appropriate training and information to their team; investigating accidents and near misses; and setting the example — their behaviour communicates what is truly valued."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Managers set the safety culture by their visible behaviour. If a manager walks past a safety violation without acting, every worker who sees it learns that the rule doesn't really matter."
+    },
+    {
+      "type": "warning",
+      "text": "Delegating safety to an H&S officer does not transfer the manager's legal or moral responsibility. The H&S officer advises and monitors — but the manager is accountable for their team's safety."
+    },
+    {
+      "type": "heading",
+      "text": "The Cost of Getting It Wrong"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Cost Type", "Examples", "Typically Insured?"],
+        "rows": [
+          ["Direct costs", "Medical treatment, compensation payment, legal fees", "Usually yes"],
+          ["Indirect costs", "Lost production, management investigation time, replacing injured worker, reputational damage, increased insurance premiums", "Rarely"],
+          ["Hidden costs", "Worker morale impact, reduced productivity, ongoing litigation stress", "No"]
+        ]
+      }
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Gulf construction and O&G, indirect costs often include project delay penalties, loss of milestone bonuses, and the cost of regulatory shutdown orders. A single serious injury can halt a project worth millions. Saudi Aramco's SEMP tracks contractor TRCR — a high rate can disqualify a contractor from future work, representing losses that dwarf any short-term cost-cutting."
+    },
+    {
+      "type": "heading",
+      "text": "Who Is Responsible for Safety?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Safety is a shared responsibility. Employers have primary responsibility to provide a safe workplace, safe equipment, safe systems of work, training, supervision, and welfare facilities. Managers are responsible for implementing safety within their area of authority. Workers are responsible for taking reasonable care of themselves and others, following safety rules, using PPE, and reporting hazards. No party can transfer their safety responsibility entirely to another — the law recognises duties at every level of the organisation."
+    },
+    {
+      "type": "keyPoint",
+      "text": "The three-way responsibility model: Employer (provides safe systems) → Manager (implements and monitors) → Worker (follows rules and reports hazards). All three must function for safety to be effective."
+    }
+  ],
+  "quizId": "iosh/module-1-quiz"
+}

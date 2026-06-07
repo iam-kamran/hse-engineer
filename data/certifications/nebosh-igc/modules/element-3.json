@@ -1,0 +1,159 @@
+{
+  "id": "certifications/nebosh-igc/element-3",
+  "sectionId": "nebosh-igc",
+  "title": "Element 3: Managing Risk — Understanding People and Processes",
+  "order": 3,
+  "estimatedReadTime": 25,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Outline a systematic approach to conducting a risk assessment",
+    "Explain human factors that influence safe behaviour in the workplace",
+    "Describe common methods for identifying hazards",
+    "Explain how to select and implement appropriate risk controls"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "3.1 The Risk Assessment Process"
+    },
+    {
+      "type": "paragraph",
+      "text": "Risk assessment is the cornerstone of any effective H&S management system. It is a systematic process of identifying hazards, evaluating the risks they present, and deciding on appropriate control measures. A suitable and sufficient risk assessment has five steps."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Step", "Action", "Key Questions"],
+        "rows": [
+          ["1", "Identify the hazards", "What could cause harm? Who might be harmed?"],
+          ["2", "Decide who might be harmed and how", "Workers, visitors, contractors, members of public?"],
+          ["3", "Evaluate the risks and decide on controls", "How likely is harm? How severe? What controls are needed?"],
+          ["4", "Record the findings", "Document hazards, risks, and controls; signed and dated"],
+          ["5", "Review and update", "When has something changed? After an incident? At least annually"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Methods for Hazard Identification"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Workplace inspections — Systematic walk-through observations of the work environment",
+        "Task analysis — Breaking work into individual steps and examining each for hazards",
+        "Job Hazard Analysis (JHA) / Task Risk Assessment (TRA) — Step-by-step hazard assessment for specific tasks",
+        "HAZOP (Hazard and Operability Study) — Formal technique for process plants; examines deviations from design intent",
+        "FMEA (Failure Mode and Effects Analysis) — Examines how equipment could fail and the consequences",
+        "Accident and near miss investigation — Learning from past events",
+        "Consultation with workers — Those doing the job know the hazards best",
+        "Examination of data — Industry incident statistics, manufacturer's data sheets, research"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "NEBOSH exams frequently ask about suitable hazard identification methods. Know at least 4–5 with examples. JHA/TRA is the most common in Gulf industrial workplaces."
+    },
+    {
+      "type": "heading",
+      "text": "3.2 Types of Risk Assessment"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Type", "When Used", "Example"],
+        "rows": [
+          ["Generic", "For common, routine activities across multiple similar workplaces", "Manual handling assessment for all warehouse workers"],
+          ["Site-Specific", "Adapted from a generic assessment for a specific location or task", "Generic manual handling RA modified for a specific confined storage area"],
+          ["Dynamic", "Conducted in real time as conditions change during work", "Fire fighter assessing a developing fire; soldier in combat situation"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "3.3 Risk Rating and Risk Matrices"
+    },
+    {
+      "type": "paragraph",
+      "text": "After identifying hazards, risk must be evaluated. The most common tool is the risk matrix, which plots Likelihood (probability) against Severity (consequence) to produce a risk rating."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Risk Rating", "Score", "Action Required"],
+        "rows": [
+          ["Critical / Intolerable", "15–25", "Stop work immediately. Do not proceed until risk is reduced."],
+          ["High", "10–14", "Significant improvement required. Urgent action needed."],
+          ["Medium", "5–9", "Controls must be improved. Set a deadline for action."],
+          ["Low", "1–4", "Acceptable. Monitor and maintain existing controls."]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "3.4 Human Factors in Safety"
+    },
+    {
+      "type": "paragraph",
+      "text": "Human factors (ergonomics in the broadest sense) are the environmental, organisational, job, and individual characteristics that influence behaviour in ways that can affect health and safety. Understanding human factors is essential for designing safe systems of work."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Factor Category", "Sub-factors", "H&S Implications"],
+        "rows": [
+          ["Individual", "Attitude, perception, knowledge, skill, risk tolerance, physical capability, fatigue, stress", "Training gaps, fitness for work, mental health"],
+          ["Job", "Task demands, workload, environment, tools, procedures, communication", "Job design, ergonomics, shift work"],
+          ["Organisational", "Culture, leadership, resources, communication, supervision, peer pressure", "Safety culture, management systems, reporting culture"]
+        ]
+      }
+    },
+    {
+      "type": "definition",
+      "term": "Human Error",
+      "text": "An action or omission by a person that fails to achieve the intended outcome. Types include: slips (attention failures), lapses (memory failures), mistakes (rule-based or knowledge-based failures), and violations (deliberate deviations from safe procedures)."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Slips — Correct intention, wrong execution (e.g., pressing wrong button through habit)",
+        "Lapses — Correct intention, memory failure (e.g., forgetting a step in a procedure)",
+        "Mistakes — Wrong intention for the situation (e.g., misdiagnosing a problem and applying wrong fix)",
+        "Violations — Deliberate deviation from rules (routine shortcuts, situational exceptions, or sabotage)"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "Most accidents involve multiple contributing factors, not a single human error. The Swiss Cheese Model (Reason, 1990) illustrates how defences have holes (latent failures) that line up to allow an accident. Fixing one layer of Swiss cheese is not enough."
+    },
+    {
+      "type": "heading",
+      "text": "3.5 Safe Systems of Work"
+    },
+    {
+      "type": "definition",
+      "term": "Safe System of Work (SSoW)",
+      "text": "A formal procedure that defines a safe way to carry out a task. It results from a risk assessment and specifies: who does the work, what equipment is used, what controls are in place, what PPE is required, and the step-by-step sequence of operations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Permit to Work (PTW) systems are a formalised type of SSoW used for high-risk activities where multiple controls must be verified before work starts. PTW is mandatory for:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Hot work (welding, cutting, grinding near flammables)",
+        "Confined space entry",
+        "Electrical isolation work",
+        "Working at height (in many organisations)",
+        "Excavation work",
+        "Work near pipelines carrying hazardous substances"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "The Permit to Work system is perhaps the most critical safety procedure in Gulf O&G operations. Aramco GI-0002.102 defines their PTW requirements in detail. Every HSE professional working on Aramco projects must understand PTW: the issuing authority's responsibilities, the concurrent works conflict check, the isolation certificate, and the closeout procedure. PTW failures have caused some of the Gulf region's worst industrial disasters."
+    }
+  ],
+  "quizId": "nebosh-igc/element-3-quiz"
+}

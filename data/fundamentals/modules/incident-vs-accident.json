@@ -1,0 +1,128 @@
+{
+  "id": "fundamentals/incident-vs-accident",
+  "sectionId": "fundamentals",
+  "title": "Incident vs Accident",
+  "order": 4,
+  "estimatedReadTime": 11,
+  "difficulty": "beginner",
+  "learningObjectives": [
+    "Distinguish between incident, accident, and near miss",
+    "Classify injuries using standard HSE terminology",
+    "Explain Heinrich's Triangle and its significance",
+    "Describe the purpose and process of incident investigation"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Key Definitions"
+    },
+    {
+      "type": "definition",
+      "term": "Incident",
+      "text": "Any unplanned event that resulted in — or could have resulted in — injury, illness, or damage. Incidents include both accidents and near misses. Incident is the broader term."
+    },
+    {
+      "type": "definition",
+      "term": "Accident",
+      "text": "An incident that results in actual harm — injury to a person or damage to property. Every accident is an incident, but not every incident is an accident."
+    },
+    {
+      "type": "definition",
+      "term": "Near Miss",
+      "text": "An incident that had the potential to cause harm but did not — by chance or by quick action. Also called a 'close call' or 'dangerous occurrence'. Near misses are golden opportunities to prevent future accidents."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Incident is the umbrella term. Accident = incident WITH harm. Near miss = incident WITHOUT harm (this time). In modern HSE, 'accident' is being replaced by 'incident' because 'accident' implies the event was unavoidable — it was not."
+    },
+    {
+      "type": "heading",
+      "text": "Injury Classification"
+    },
+    {
+      "type": "paragraph",
+      "text": "Injuries are classified by their severity. Knowing this classification is essential for incident reporting and calculating safety statistics."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Classification", "Definition", "Examples"],
+        "rows": [
+          ["Fatality", "Death resulting from a work-related incident", "Worker crushed by falling object"],
+          ["Lost Time Injury (LTI)", "Injury causing the worker to miss at least one full shift after the day of injury", "Fractured arm — off work for 3 weeks"],
+          ["Restricted Work Case (RWC)", "Worker can work but is assigned lighter duties", "Back strain — on desk duty"],
+          ["Medical Treatment Case (MTC)", "Injury requiring treatment beyond first aid but no lost time", "Laceration requiring stitches"],
+          ["First Aid Case (FAC)", "Minor injury treated with first aid only", "Small cut treated with a plaster"],
+          ["Near Miss", "No injury occurred, but could have", "Object fell past a worker who moved in time"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Heinrich's Triangle"
+    },
+    {
+      "type": "paragraph",
+      "text": "H.W. Heinrich studied industrial accidents in the 1930s and found a consistent ratio between accident severity levels. This became known as Heinrich's Triangle (or the Safety Triangle)."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Heinrich's original ratio: For every 1 fatality, there are 29 serious injuries, 300 minor injuries, and thousands of near misses. Modern research has updated the ratios, but the principle holds: near misses are the warning signs of future accidents."
+    },
+    {
+      "type": "paragraph",
+      "text": "The practical lesson from Heinrich's Triangle is: if you reduce near misses, you reduce accidents. Reporting and investigating near misses is therefore one of the most powerful tools in safety management."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Saudi Aramco, ADNOC, and major EPC contractors operating in the Gulf have formal near-miss reporting systems and set KPIs for near-miss reporting rates. A high near-miss reporting rate is actually a POSITIVE indicator — it shows workers feel safe enough to report and management takes it seriously."
+    },
+    {
+      "type": "heading",
+      "text": "Unsafe Acts vs Unsafe Conditions"
+    },
+    {
+      "type": "definition",
+      "term": "Unsafe Act",
+      "text": "A behaviour or action by a person that deviates from an accepted safe practice and that created or contributed to an incident. Examples: not wearing PPE, speeding, bypassing safety guards, working under the influence."
+    },
+    {
+      "type": "definition",
+      "term": "Unsafe Condition",
+      "text": "A physical state or circumstance in the workplace that deviates from accepted standards and that could contribute to an incident. Examples: unguarded machinery, wet floor with no sign, inadequate lighting, faulty equipment."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Heinrich estimated 88% of accidents are caused by unsafe acts, 10% by unsafe conditions, and 2% are unavoidable. Modern HSE takes a systems view — unsafe acts are often the result of poor management systems, training, or culture, not individual carelessness."
+    },
+    {
+      "type": "heading",
+      "text": "Incident Investigation"
+    },
+    {
+      "type": "paragraph",
+      "text": "The purpose of incident investigation is NOT to blame individuals — it is to identify root causes and prevent recurrence. A thorough investigation examines immediate causes, underlying causes, and root causes."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Immediate Cause — The direct cause of the incident (e.g., worker slipped on wet floor)",
+        "Underlying Cause — Why the immediate cause occurred (e.g., floor was wet because a pipe was leaking)",
+        "Root Cause — The fundamental management system failure (e.g., no preventive maintenance schedule)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Common investigation tools include the '5 Whys' technique (repeatedly asking 'why' to trace back to root cause) and fishbone diagrams (Ishikawa diagrams) that categorise causes into people, process, equipment, environment, and management."
+    },
+    {
+      "type": "example",
+      "text": "A rigger fractured his wrist when a sling snapped during a lift. 5 Whys investigation: Why did the sling snap? It was worn and frayed. Why was it worn? It was overloaded. Why was it overloaded? The rigger didn't know the load weight. Why didn't he know? No pre-lift risk assessment was done. Why was no assessment done? There is no mandatory lift plan requirement in the site procedure. Root cause: inadequate lifting procedure."
+    },
+    {
+      "type": "warning",
+      "text": "Never stop the investigation at the immediate cause or blame the individual. Investigations that conclude 'worker error' without asking why the error occurred miss the root cause and lead to repeat incidents."
+    }
+  ],
+  "quizId": null
+}

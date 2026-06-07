@@ -1,0 +1,119 @@
+{
+  "id": "certifications/osha/general-electrical",
+  "sectionId": "osha",
+  "title": "Electrical Safety in General Industry (29 CFR 1910 Subpart S)",
+  "order": 15,
+  "estimatedReadTime": 20,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Describe OSHA's approach to electrical safety for both qualified and unqualified persons",
+    "Explain arc flash hazard assessment and approach boundary concepts",
+    "State the requirements for working on or near energised electrical equipment",
+    "Apply electrical safety procedures used in Gulf industrial facilities"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Electrical Safety in General Industry"
+    },
+    {
+      "type": "paragraph",
+      "text": "29 CFR 1910 Subpart S (1910.301–1910.399) establishes electrical safety requirements for general industry — covering the design and installation of electrical systems (1910.303–1910.308) and safety-related work practices for those working on or near electrical equipment (1910.331–1910.335). The work practices section is critical for maintenance workers, electricians, and HSE professionals."
+    },
+    {
+      "type": "keyPoint",
+      "text": "OSHA's fundamental electrical principle: work on or near electrical equipment must be performed in a de-energised, locked-out state whenever possible. Energised electrical work is only permitted when de-energising creates additional hazards (e.g., continuous process shutdown risk) or when infeasibility is demonstrated."
+    },
+    {
+      "type": "heading",
+      "text": "Qualified vs. Unqualified Persons"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Person Type", "Definition", "What They May Do"],
+        "rows": [
+          ["Unqualified person", "Has not received training in electrical hazards or safe practices", "Must stay outside the limited approach boundary; must not approach exposed energised conductors"],
+          ["Qualified person", "Trained and experienced in electrical construction, operation, and hazards; familiar with specific equipment", "May work on energised equipment under proper conditions (permit, PPE, approach boundaries)"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Arc Flash Hazards"
+    },
+    {
+      "type": "definition",
+      "term": "Arc Flash",
+      "text": "A sudden release of energy caused by an electrical arc between energised conductors or between an energised conductor and ground. An arc flash produces intense heat (up to 35,000°F / 19,000°C — hotter than the surface of the sun), blinding ultraviolet/infrared light, a pressure blast, and molten metal projectiles. Arc flash can cause severe burns, blindness, and death."
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA requires arc flash hazard assessment as part of energised electrical work. The assessment determines the incident energy (in cal/cm²) at the worker's face and hands, which drives PPE selection. NFPA 70E (the industry standard referenced by OSHA) defines arc flash boundaries and PPE categories."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Boundary", "Description", "Who May Cross"],
+        "rows": [
+          ["Arc Flash Boundary", "Distance where incident energy equals 1.2 cal/cm² (threshold for 2nd-degree burn)", "Only qualified persons with appropriate arc-rated PPE"],
+          ["Limited Approach Boundary", "Distance from exposed live parts where unqualified persons cannot go without escort", "Qualified persons or escorted unqualified persons with awareness training"],
+          ["Restricted Approach Boundary", "Close to live parts — accidental contact possible", "Qualified persons only, with appropriate PPE and permits"],
+          ["Prohibited Approach Boundary", "Within this distance, contact is essentially certain", "Qualified persons only — treat as direct contact with live part"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Energised Electrical Work Permit"
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA 1910.333 and NFPA 70E require an energised electrical work permit when work must be performed on or near exposed energised electrical conductors or circuit parts. The permit documents: justification for energised work, description of the work, hazards, boundaries, PPE required, and approval signatures."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Justify why work cannot be de-energised",
+        "Identify the incident energy level and required arc-rated PPE (cal/cm² rating)",
+        "Specify all approach boundaries",
+        "List all PPE required: arc-rated face shield, arc-rated clothing (shirt, pants/coveralls), leather gloves over insulated rubber gloves, leather footwear",
+        "Identify the second person (observer) required for energised work above certain voltages",
+        "Obtain approval from a qualified supervisor before beginning"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Electrical PPE Selection"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Hazard/Risk Category (HRC)", "Min. Arc Rating (cal/cm²)", "PPE"],
+        "rows": [
+          ["HRC 1", "4 cal/cm²", "Arc-rated long-sleeve shirt + pants, face shield, safety glasses, leather gloves"],
+          ["HRC 2", "8 cal/cm²", "Arc-rated shirt + pants (or coverall), arc-rated face shield, leather gloves over rubber insulating gloves"],
+          ["HRC 3", "25 cal/cm²", "Arc-rated coverall + jacket/coat, arc flash hood, rubber insulating gloves"],
+          ["HRC 4", "40 cal/cm²", "Arc flash suit (full body), arc flash hood, rubber insulating gloves with leather protectors"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Grounding and Bonding"
+    },
+    {
+      "type": "paragraph",
+      "text": "Grounding provides a safe path for fault current, causing the breaker to trip before the fault becomes lethal. Bonding ensures all metallic parts are at the same potential, preventing sparks between objects. Both are critical in areas with flammable atmospheres — a static discharge can ignite fuel vapour."
+    },
+    {
+      "type": "example",
+      "text": "An industrial electrician needs to replace a breaker in a live 480V panel at a chemical plant where de-energising would stop continuous production. The energised electrical work permit is completed: incident energy calculated at 8 cal/cm², HRC 2 PPE required. The electrician wears an arc-rated coverall (8 cal/cm²), arc-rated face shield, safety glasses, leather gloves over Class 00 rubber insulating gloves, leather footwear. A second qualified electrician acts as observer. Work proceeds following NFPA 70E procedures."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Electrical safety is strictly regulated on Gulf petrochemical and oil and gas sites. Aramco requires arc flash analysis for all equipment above 240V, documented in their electrical one-line diagrams. All energised electrical work above 50V AC must have an Electrical Isolation Certificate and an Energised Work Permit. ADNOC and QatarEnergy follow identical principles. IEC 60900 (international standard for insulated tools) is specified rather than ANSI standards in Gulf contracts. The hazardous area classification (Ex zones) is critical in Gulf plants — electrical equipment in Ex zones must be explosion-proof or intrinsically safe, and any non-certified equipment is a hot-work source requiring a PTW."
+    }
+  ],
+  "quizId": null
+}

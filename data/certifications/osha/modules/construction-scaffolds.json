@@ -1,0 +1,132 @@
+{
+  "id": "certifications/osha/construction-scaffolds",
+  "sectionId": "osha",
+  "title": "Scaffolding Safety (29 CFR 1926 Subpart L)",
+  "order": 4,
+  "estimatedReadTime": 22,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Identify the most common scaffold types and their load ratings",
+    "State who can erect, alter, and dismantle scaffolding",
+    "List the guardrail and planking requirements for supported scaffolds",
+    "Apply scaffold safety principles to Gulf industrial maintenance worksites"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Scaffolding: Overview"
+    },
+    {
+      "type": "paragraph",
+      "text": "Scaffolding injuries account for roughly 4,500 injuries and 60 fatalities annually in the US construction industry. OSHA's Scaffolding Standard (29 CFR 1926 Subpart L) applies to all supported scaffolds, suspended scaffolds, and aerial lifts used in construction. It is one of the most comprehensive — and most frequently cited — construction standards."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Three main scaffold hazards: falls from the scaffold (worker), being struck by a falling object from the scaffold (worker below), and scaffold collapse (inadequate construction or overloading). The standard addresses all three."
+    },
+    {
+      "type": "heading",
+      "text": "Types of Scaffolding"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Type", "Description", "Common Use"],
+        "rows": [
+          ["Tube and Coupler", "Metal tubes joined by couplers; very flexible geometry", "Irregular structures, facades"],
+          ["Frame / System Scaffold", "Prefabricated frames stacked and pinned; fastest to erect", "Residential, commercial construction"],
+          ["Suspended Scaffold (Two-Point)", "Platform suspended by ropes/cables from overhead structure", "High-rise window washing, facade work"],
+          ["Mast Climbing", "Motorised platform that climbs a mast; high capacity", "Masonry, cladding on tall buildings"],
+          ["Aerial Work Platform (AWP)", "Scissor lift, boom lift — mobile and self-propelled", "Maintenance, interior work, utilities"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Load Ratings: The Foundation of Safe Scaffolding"
+    },
+    {
+      "type": "paragraph",
+      "text": "Every scaffold must be designed to carry its own weight plus at least four times the maximum intended load. OSHA defines three scaffold capacity tiers:"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Duty Rating", "Capacity per Scaffold Leg Bay", "Typical Use"],
+        "rows": [
+          ["Light Duty", "25 lbs/sq ft", "Painting, light inspection"],
+          ["Medium Duty", "50 lbs/sq ft", "Plastering, bricklaying"],
+          ["Heavy Duty", "75 lbs/sq ft", "Stone setting, heavy maintenance"]
+        ]
+      }
+    },
+    {
+      "type": "warning",
+      "text": "Never overload a scaffold — calculate total load including workers, tools, and materials. Adding materials mid-work often pushes the load past the rated capacity. Scaffold components must be inspected before use; never use bent, cracked, or corroded components."
+    },
+    {
+      "type": "heading",
+      "text": "Erection, Alteration, and Dismantling"
+    },
+    {
+      "type": "definition",
+      "term": "Competent Person (Scaffold)",
+      "text": "A person who can identify existing and predictable hazards in the scaffolding surroundings or working conditions which are unsanitary, hazardous, or dangerous to employees. Must have authority to take prompt corrective action. Required to inspect scaffolding before each work shift and after any event that could affect its structural integrity (e.g., high winds, vehicle strike)."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Only qualified persons may erect, alter, or dismantle scaffolding",
+        "A competent person must supervise erection, alteration, and dismantling",
+        "Workers must be trained by a qualified person before they use any scaffold",
+        "Scaffold must be inspected by a competent person before each work shift",
+        "Training must cover hazards specific to the scaffold type the worker will use"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Guardrail and Planking Requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Guardrails are required on all open sides and ends of scaffolds 10 feet or higher. (Note: this threshold is different from the general 6-foot fall protection threshold.) Toeboards are required when there is a risk of tools or materials falling onto people below."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Top rail: 38–45 inches above the platform surface (42 inches preferred)",
+        "Mid-rail: midway between the toeboard and top rail",
+        "Top rail must withstand 200 lbs downward and 150 lbs outward force",
+        "Scaffold planks must be scaffold-grade lumber or equivalent; never use construction-grade lumber",
+        "Planks must overhang the support by at least 6 inches but no more than 12 inches (18 inches for tube-and-coupler)",
+        "Platforms must be fully planked — no gaps more than 1 inch",
+        "Mud-sill or solid footing required; never set scaffold on unstable objects (bricks, blocks, barrels)"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Access to Scaffold Platforms"
+    },
+    {
+      "type": "paragraph",
+      "text": "Workers must be able to access scaffold platforms safely. Acceptable means include: stair towers, ladders (straight or hook-on), direct access from a structure, or scaffold frames with built-in ladder sections. Climbing cross-braces is prohibited unless they are designed as a climbing device."
+    },
+    {
+      "type": "heading",
+      "text": "Falling Object Protection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hard hat areas must be designated below scaffolding. Toeboards, screens, debris nets, or catch platforms protect people below from tools and materials. Barricades and warning tape establish exclusion zones at ground level."
+    },
+    {
+      "type": "example",
+      "text": "A maintenance crew erects a tube-and-coupler scaffold 18 ft high on the side of a petrochemical vessel to conduct a visual inspection and bolt tightening. The competent person verifies the footing (4-inch mud sills, base plates), checks that planks are scaffold-grade with 6-inch minimum overhang, confirms top rails are installed at 42 inches with mid-rails, verifies full planking, and ensures toeboards are in place on the side facing the access walkway below."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Scaffold management on Gulf petrochemical sites is highly formalised. Aramco and ADNOC require scaffold tags (Green = safe to use / Yellow = for authorised access only / Red = do not use). Only ARAMCO-approved scaffolding contractors may erect on Aramco sites. Qatar's LNG trains use a scaffold permit system tied to the PTW — every erected scaffold is tagged by the scaffold supervisor before any work platform is used. In the UAE, COSHAD (Construction Site Safety) requires scaffold inspection logs signed by the scaffold supervisor."
+    }
+  ],
+  "quizId": null
+}

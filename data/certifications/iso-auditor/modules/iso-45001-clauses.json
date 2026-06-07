@@ -1,0 +1,130 @@
+{
+  "id": "certifications/iso-auditor/iso-45001-clauses",
+  "sectionId": "iso-auditor",
+  "title": "ISO 45001 Clauses 4–10: Requirements in Detail",
+  "order": 2,
+  "estimatedReadTime": 25,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Interpret each clause of ISO 45001 and its audit implications",
+    "Identify typical conforming and nonconforming evidence for each clause",
+    "Design audit questions that test genuine clause compliance, not just documentation",
+    "Recognise common gaps found during ISO 45001 certification audits"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Clause 4: Context of the Organization"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clause 4 requires the organisation to understand its context — internal and external issues that affect its ability to achieve the intended outcomes of its OHSMS. It also requires identification of interested parties (workers, regulators, contractors, customers, communities) and their relevant needs and expectations."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Clause 4.3 defines the scope of the OHSMS. The scope must be available as documented information. An auditor checks: is the scope appropriate to the organisation? Does it exclude significant activities? Is it consistent with what is actually managed in the OHSMS?"
+    },
+    {
+      "type": "heading",
+      "text": "Clause 5: Leadership and Worker Participation"
+    },
+    {
+      "type": "paragraph",
+      "text": "ISO 45001 places much stronger emphasis on top management leadership than OHSAS 18001. Top management must personally demonstrate commitment — not just delegate to an HSE manager. Evidence auditors look for: top management visible on the shop floor, safety discussed at board level, resources allocated based on OHS need."
+    },
+    {
+      "type": "list",
+      "items": [
+        "5.1 Leadership and commitment: top management accountability, integration of OHSMS into business processes, eliminating barriers to worker participation",
+        "5.2 OHS Policy: appropriate to purpose, includes commitments to prevent injury/ill health and eliminate hazards, commitment to continual improvement, available to workers",
+        "5.3 Organisational roles: documented roles and responsibilities for OHSMS; top management retains overall accountability",
+        "5.4 Worker consultation and participation: workers must be consulted on hazard identification, risk assessment, incident investigation, control measures, and management review inputs"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Clause 6: Planning"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clause 6 is where the OHSMS does its core analytical work. It requires hazard identification, risk and opportunity assessment, determination of applicable legal requirements, and planning to address risks and opportunities."
+    },
+    {
+      "type": "definition",
+      "term": "Hierarchy of Controls (ISO 45001)",
+      "text": "ISO 45001 Clause 8.1.2 requires applying the hierarchy in this order: (1) eliminate the hazard, (2) substitute less hazardous process/material, (3) use engineering controls, (4) use administrative controls/work organisation, (5) use adequate PPE. The standard requires that higher-level controls be preferred."
+    },
+    {
+      "type": "list",
+      "items": [
+        "6.1.2 Hazard identification: systematic, ongoing. Must consider routine and non-routine activities, emergencies, human factors, past incidents.",
+        "6.1.3 Legal requirements: identify and keep up to date with applicable legal and other requirements; determine how they apply.",
+        "6.1.4 Planning actions: plan to address significant risks and opportunities; integrate into OHSMS processes.",
+        "6.2 OHS objectives: measurable, monitored, communicated to workers, updated as needed."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Clause 7: Support"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Sub-clause", "Requirement", "Audit Evidence"],
+        "rows": [
+          ["7.1 Resources", "Financial, human, infrastructure resources adequate for OHSMS", "Budget records, headcount, equipment inventory"],
+          ["7.2 Competence", "Determine required competence, provide training, evaluate effectiveness", "Training matrix, qualification records, competence assessments"],
+          ["7.3 Awareness", "Workers aware of OHS policy, hazards, their contribution to OHSMS", "Induction records, toolbox talk records, worker interviews"],
+          ["7.4 Communication", "Internal and external communication processes for OHS information", "Communication plan, meeting minutes, worker notice boards"],
+          ["7.5 Documented information", "Create, control, and maintain required documents and records", "Document register, revision history, access controls"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Clause 8: Operation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clause 8 covers operational planning and control — the day-to-day implementation of controls determined in Clause 6. This includes: control of hazards using the hierarchy, management of change, procurement control (contractors, outsourcing), and emergency preparedness and response."
+    },
+    {
+      "type": "list",
+      "items": [
+        "8.1.1 Operational controls: documented procedures for high-risk activities, safe systems of work, PTW",
+        "8.1.3 Management of change: assess OHS implications before implementing changes to processes, equipment, or organisation",
+        "8.1.4 Procurement: evaluate contractors' OHS competence; apply OHS requirements to procurement",
+        "8.2 Emergency preparedness: establish, maintain, and periodically test emergency procedures"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Clause 9: Performance Evaluation"
+    },
+    {
+      "type": "list",
+      "items": [
+        "9.1 Monitoring and measurement: determine what to measure, how, and when; calibrate measuring equipment",
+        "9.2 Internal audit: systematic, independent, documented; criteria and scope defined; auditor competence",
+        "9.3 Management review: top management reviews OHSMS inputs and outputs at planned intervals; decisions recorded"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Clause 10: Improvement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clause 10 requires the organisation to react to incidents, nonconformities, and opportunities. Corrective actions must address root causes, not just immediate causes. Continual improvement must be demonstrated — not just stated in the policy."
+    },
+    {
+      "type": "example",
+      "text": "During an ISO 45001 Stage 2 audit, the auditor interviews three operators and asks: 'Were you consulted before the new working procedure for tank cleaning was implemented?' All three say no. This is a nonconformity against Clause 5.4 (Worker Participation) — workers were not consulted on the determination of controls for their tasks. The audit finding: nonconformity, documented with evidence, requires root cause analysis and corrective action before certification is recommended."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: The most common ISO 45001 gaps found during audits on Gulf sites are: (1) Clause 5.4 — worker participation is nominal (safety committee exists but workers report their input is not acted on); (2) Clause 6.1.2 — hazard identification is risk-assessment-centric but misses non-routine and emergency scenarios; (3) Clause 7.2 — competence records are kept but effectiveness evaluation is absent; (4) Clause 10.2 — corrective actions close the symptom but rarely address root causes. Gulf organisations transitioning from OHSAS 18001 to ISO 45001 often underestimate the leadership and worker participation requirements — these represent a genuine culture shift, not just a document update."
+    }
+  ],
+  "quizId": null
+}

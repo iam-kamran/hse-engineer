@@ -1,0 +1,135 @@
+{
+  "id": "certifications/iosh/module-2",
+  "sectionId": "iosh",
+  "title": "Module 2: Assessing Risks",
+  "order": 2,
+  "estimatedReadTime": 20,
+  "difficulty": "beginner",
+  "learningObjectives": [
+    "Explain the five steps of risk assessment",
+    "Understand how to identify who might be harmed and how",
+    "Evaluate risk using a likelihood × severity risk matrix",
+    "Know what makes a 'suitable and sufficient' risk assessment",
+    "Understand when to review or update a risk assessment"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "What Is a Risk Assessment?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A risk assessment is a systematic process for identifying hazards in the workplace, evaluating the risks they pose, and deciding what controls are needed to reduce those risks to an acceptable level. It is a legal requirement in most countries and the foundation of all H&S management. A risk assessment is not a piece of paperwork — it is a thinking process that protects people."
+    },
+    {
+      "type": "keyPoint",
+      "text": "A risk assessment does not need to be complex, but it must be 'suitable and sufficient' — covering the significant hazards of the task, the people at risk, and the controls required."
+    },
+    {
+      "type": "heading",
+      "text": "The Five Steps of Risk Assessment"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Step 1: Identify the hazards — what could cause harm?",
+        "Step 2: Decide who might be harmed and how",
+        "Step 3: Evaluate the risks — how likely is harm, and how severe would it be?",
+        "Step 4: Record findings and implement controls",
+        "Step 5: Review and update the assessment when needed"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Step 1: Identify the Hazards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hazards are identified by walking around the workplace and observing; consulting workers who do the job (they often know hazards that managers miss); reviewing accident and near-miss records; checking manufacturers' Safety Data Sheets (SDS) for chemical hazards; and using hazard checklists. Consider physical hazards (machinery, electricity, falls, noise, vibration), chemical hazards (dusts, fumes, vapours, liquids), biological hazards (bacteria, viruses, mould), psychological hazards (stress, bullying, fatigue), and ergonomic hazards (manual handling, DSE)."
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Gulf construction and O&G, hazard identification must specifically include: heat stress (critical May–September), H2S gas (sour fields and refineries), working at height (scaffolding, elevated structures), confined space (tanks, vessels, trenches), fire and explosion (hydrocarbon environments), and driving risk (vehicle/plant interactions)."
+    },
+    {
+      "type": "heading",
+      "text": "Step 2: Who Might Be Harmed and How?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider all groups who could be affected: employees directly doing the task; other workers in the area; visitors, contractors, and maintenance workers; members of the public near the worksite; and vulnerable groups — pregnant workers, young workers, new starters (not yet acclimatised to Gulf heat), workers with disabilities or health conditions. Think about how each group could be harmed — not just the obvious primary victim but anyone in the vicinity."
+    },
+    {
+      "type": "example",
+      "text": "A grinding task on a Gulf construction site: primary risk is eye injury to the grinder (flying particles), but also: other workers nearby (flying sparks causing burns or eye injury), workers below if working at height (dropped angle grinder or discs), and flammable material nearby (sparks causing fire). Multiple groups at risk from one task."
+    },
+    {
+      "type": "heading",
+      "text": "Step 3: Evaluate the Risks — The Risk Matrix"
+    },
+    {
+      "type": "paragraph",
+      "text": "After identifying hazards and who is at risk, evaluate the likelihood and severity of harm to determine the risk level. A 5×5 risk matrix is commonly used: rate Likelihood (1 = very unlikely, 5 = almost certain) and Severity (1 = minor injury, 5 = fatality or multiple fatalities). Risk Score = Likelihood × Severity. Low risk (1–4): manage by routine procedures. Medium risk (5–12): requires specific controls and monitoring. High risk (13–25): work cannot proceed without robust controls in place."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["", "Severity 1\n(Minor)", "Severity 2\n(Moderate)", "Severity 3\n(Major)", "Severity 4\n(Severe)", "Severity 5\n(Catastrophic)"],
+        "rows": [
+          ["Likelihood 5 (Almost certain)", "5", "10", "15", "20", "25"],
+          ["Likelihood 4 (Likely)", "4", "8", "12", "16", "20"],
+          ["Likelihood 3 (Possible)", "3", "6", "9", "12", "15"],
+          ["Likelihood 2 (Unlikely)", "2", "4", "6", "8", "10"],
+          ["Likelihood 1 (Very unlikely)", "1", "2", "3", "4", "5"]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "The risk matrix evaluates risk BEFORE controls (inherent risk) and AFTER controls (residual risk). The goal is to reduce residual risk to acceptable levels through appropriate controls."
+    },
+    {
+      "type": "heading",
+      "text": "Step 4: Record and Implement Controls"
+    },
+    {
+      "type": "paragraph",
+      "text": "The risk assessment must be recorded when there are 5 or more employees (in most legal frameworks). The record shows: the hazard identified, who is at risk, existing controls, risk rating (before and after controls), additional controls required, person responsible, and target completion date. Critically — the assessment is only useful if the controls are actually implemented and verified. Writing 'wear PPE' in a risk assessment without checking that PPE is provided and worn has no value."
+    },
+    {
+      "type": "warning",
+      "text": "A risk assessment filed in a drawer and never acted on provides no protection — legally or practically. The documentation must reflect reality. Auditors and investigators will check whether documented controls actually exist on site."
+    },
+    {
+      "type": "heading",
+      "text": "Step 5: Review and Update"
+    },
+    {
+      "type": "paragraph",
+      "text": "Risk assessments must be reviewed when: the work method or equipment changes; there is a significant change in the workforce (new starters, changes in health of workers); after an accident or near miss involving the task; when new information becomes available (e.g. a new chemical SDS with updated hazard information); and at regular scheduled intervals (typically annually for ongoing tasks). A risk assessment that never changes is probably not being reviewed seriously."
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Gulf O&G, 'Task Risk Assessments' (TRAs) are completed before every significant task, not just annually. Aramco, ADNOC, and QP contractors complete daily JHA/TRA documents for each job. The five-step risk assessment process is the intellectual foundation for all these Gulf-specific tools."
+    },
+    {
+      "type": "heading",
+      "text": "Generic vs Specific Risk Assessments"
+    },
+    {
+      "type": "definition",
+      "term": "Generic Risk Assessment",
+      "text": "A risk assessment for a type of work rather than a specific task — e.g. 'manual handling in a warehouse' or 'use of angle grinders.' It provides a template that can be adapted for specific situations but must always be reviewed for relevance to the actual conditions."
+    },
+    {
+      "type": "definition",
+      "term": "Specific Risk Assessment",
+      "text": "A risk assessment for a particular task at a particular location — e.g. 'replacing valve V-103 on the crude unit at Sitra Refinery on 15 June.' More thorough and accurate for high-risk tasks. Required for non-routine, high-hazard, or complex operations."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Involve the workers doing the task in the risk assessment — they know the real hazards. A desk-based assessment that has never been validated on-site is likely to miss important hazards."
+    }
+  ],
+  "quizId": "iosh/module-2-quiz"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "certifications/iso-auditor/conducting-audits",
+  "sectionId": "iso-auditor",
+  "title": "Conducting Audits: Opening to Closing",
+  "order": 6,
+  "estimatedReadTime": 22,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Conduct an audit opening meeting that sets the right tone and establishes scope",
+    "Apply process tracing and sampling techniques to gather objective evidence",
+    "Classify findings as conforming, observation, minor nonconformity, or major nonconformity",
+    "Conduct an effective closing meeting and respond to auditee challenges"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "The Audit Process: Five Stages"
+    },
+    {
+      "type": "paragraph",
+      "text": "Every audit — whether internal or certification — follows a consistent process. Understanding all five stages is essential for both auditors and auditees (who will face audits on Gulf sites)."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Stage", "Activities"],
+        "rows": [
+          ["1. Initiation", "Appoint lead auditor, define objectives and scope, preliminary document review"],
+          ["2. Document Review", "Review documented information against standard requirements — identify gaps and focus areas before site visit"],
+          ["3. On-site Audit", "Opening meeting, collect objective evidence (interviews, observations, sampling), record findings, closing meeting"],
+          ["4. Audit Report", "Prepare written report with findings, nonconformities, observations, and conclusions"],
+          ["5. Follow-up", "Verify corrective actions for nonconformities are implemented and effective"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "The Opening Meeting"
+    },
+    {
+      "type": "paragraph",
+      "text": "The opening meeting establishes the purpose and process of the audit. It must be attended by top management or their representative, key process owners, and the audit team. It should be professional but not adversarial — the tone sets the audit relationship."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Introduce the audit team and their roles",
+        "Confirm the audit objectives, scope, and criteria",
+        "Confirm the schedule and confirm access to all areas and personnel required",
+        "Explain the audit process: evidence collection, how findings are classified, closing meeting timing",
+        "Clarify that findings are based on objective evidence — not suspicion or opinion",
+        "Confirm confidentiality and report distribution arrangements",
+        "Ask if there are any changes since the audit plan was issued (new processes, incidents, management changes)"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Collecting Objective Evidence"
+    },
+    {
+      "type": "definition",
+      "term": "Objective Evidence",
+      "text": "Data or information supporting the existence or truth of something. In auditing: records (inspection logs, training records, monitoring data), statements made by interviewees, observations of activities or conditions. Objective evidence is verifiable and reproducible — not subjective opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Auditors use three primary evidence collection methods: interviews (the most revealing — people tell you what actually happens), observation (confirms whether documented controls operate in reality), and document/record review (confirms existence and completeness of documented information)."
+    },
+    {
+      "type": "heading",
+      "text": "Process Tracing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Process tracing follows an activity from start to finish through the management system. For example, trace a reported incident: How was it reported? Who received the report? Was a root cause analysis conducted? Who approved the corrective actions? Were they implemented? Were they effective? This reveals whether the management system genuinely works end-to-end — not just in isolation."
+    },
+    {
+      "type": "heading",
+      "text": "Classifying Audit Findings"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Finding Type", "Definition", "Impact on Certification"],
+        "rows": [
+          ["Conformity", "Evidence confirms requirement is met", "None — record as evidence of compliance"],
+          ["Observation / OFI", "Opportunity for improvement — not a nonconformity, but worth noting", "No certification impact; included in report for auditee benefit"],
+          ["Minor Nonconformity", "Systematic or isolated failure to meet a requirement; low risk; part of the system still functioning", "Requires documented corrective action before or after certification, depending on CB policy"],
+          ["Major Nonconformity", "Absence of a required element of the management system, or a pattern of minor nonconformities indicating system breakdown; indicates significant risk of system failure", "Certification cannot be recommended until the major NC is closed"]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "A major nonconformity is NOT just a serious safety issue — it is a systemic failure in the management system. A single missed training record is a minor NC. A complete absence of any training programme for a significant hazard is a major NC. The auditor classifies based on the extent and systemic nature of the gap."
+    },
+    {
+      "type": "heading",
+      "text": "Writing a Nonconformity Statement"
+    },
+    {
+      "type": "paragraph",
+      "text": "A well-written nonconformity statement has three parts: the requirement (clause of the standard or procedure), the evidence (what was observed, reviewed, or stated), and the gap (how the evidence does not meet the requirement). Vague statements like 'training records are incomplete' are not acceptable — they must cite specific evidence."
+    },
+    {
+      "type": "example",
+      "text": "NC Statement example: 'Against ISO 45001:2018 Clause 7.2 (Competence): Five of the eight maintenance technicians interviewed could not correctly identify the lockout procedures for the packaging line they were assigned to maintain. Training records show the last competence assessment was conducted 26 months ago. The documented procedure requires annual competence verification. This represents a minor nonconformity — the training programme exists but the interval requirement has not been followed.'"
+    },
+    {
+      "type": "heading",
+      "text": "The Closing Meeting"
+    },
+    {
+      "type": "paragraph",
+      "text": "The closing meeting presents the audit findings to top management and key staff. The lead auditor presents: a summary of what was audited, positive findings (conformities and good practices), observations and opportunities for improvement, and all nonconformities with their classification. The auditee may challenge findings — the auditor must respond based on objective evidence, not personal view."
+    },
+    {
+      "type": "warning",
+      "text": "If an auditee provides new evidence at the closing meeting that changes a finding, the auditor must reassess the finding based on that evidence. However, if the auditee simply argues without providing new evidence, the finding stands. An auditor who changes findings under social pressure is compromising the integrity of the audit process."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Conducting audits in Gulf organisations requires cultural sensitivity. In many Gulf cultures, public identification of problems in front of senior management may cause the auditee to feel dishonoured — this is particularly important in the closing meeting. Best practice: share nonconformity drafts with the auditee before the closing meeting so they are not surprised in public. Phrase findings as 'the system has a gap' rather than 'you failed to...' — removing the personal attribution while being unambiguous about the finding. Many Gulf sites require auditors to be briefed on site-specific security and access procedures (media policy, photography restrictions) before audit commencement. Working through a site HSE representative who is familiar with the culture is valuable for external auditors."
+    }
+  ],
+  "quizId": null
+}

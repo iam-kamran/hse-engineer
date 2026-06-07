@@ -1,0 +1,120 @@
+{
+  "id": "certifications/osha/general-msd",
+  "sectionId": "osha",
+  "title": "Machine Guarding (29 CFR 1910.212 / 1910.217–1910.219)",
+  "order": 19,
+  "estimatedReadTime": 18,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Define the point of operation and explain why it is the most hazardous part of any machine",
+    "Identify the four types of machine motion that require guarding",
+    "Classify machine guards as fixed, interlocked, adjustable, or self-adjusting",
+    "Apply machine guarding requirements to Gulf industrial and manufacturing environments"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Why Machine Guarding Matters"
+    },
+    {
+      "type": "paragraph",
+      "text": "Machine guarding injuries are among the most severe in general industry — amputations, crush injuries, de-gloved limbs. OSHA 1910.212 states that one or more methods of machine guarding must be provided to protect operators and other employees in the machine area from hazards such as those created by point of operation, ingoing nip points, rotating parts, flying chips, and sparks."
+    },
+    {
+      "type": "definition",
+      "term": "Point of Operation",
+      "text": "The area on a machine where work is actually performed — where the cutting, shaping, forming, or fastening takes place. This is where the greatest injury potential exists. Examples: the blade of a circular saw, the ram of a press, the die of a punch press, the chuck of a lathe."
+    },
+    {
+      "type": "heading",
+      "text": "Four Types of Hazardous Machine Motion"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Motion Type", "Examples", "Hazard"],
+        "rows": [
+          ["Rotating", "Shafts, couplings, flywheels, fan blades, drill bits", "Hair, clothing, or fingers can be caught and pulled in"],
+          ["Reciprocating", "Press ram, saw blade, knife on a packaging machine", "Strike or catch during stroke"],
+          ["Transverse", "Moving belt, chain, or work material", "Caught between moving material and fixed surface"],
+          ["Cutting", "Saw, milling cutter, lathe tool, shears", "Direct contact causes laceration, amputation"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Nip Points"
+    },
+    {
+      "type": "definition",
+      "term": "Nip Point",
+      "text": "A pinch or squeeze point created when two rotating parts run together (ingoing nip point), or when a rotating part runs near a stationary object. Examples: where a belt meets a pulley, between two counter-rotating rolls, between a gear and rack. Nip points are extremely dangerous and pull objects in rapidly."
+    },
+    {
+      "type": "heading",
+      "text": "Types of Machine Guards"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Guard Type", "Description", "Advantages / Limitations"],
+        "rows": [
+          ["Fixed Guard", "A permanent barrier — cannot be opened or removed without tools. Usually enclosures on gears, chain drives, belt drives.", "Best protection; provides maximum protection; limited access to machine for maintenance"],
+          ["Interlocked Guard", "Guard connected to machine power/brake — machine cannot operate when guard is open; guard cannot open while machine is running.", "Allows access for maintenance but fails safe; requires regular testing of interlock"],
+          ["Adjustable Guard", "Can be moved/adjusted to accommodate different sizes of stock. Common on bandsaws, circular saws.", "Versatile but requires worker to correctly adjust for each job — human error risk"],
+          ["Self-Adjusting Guard", "Automatically moves to accommodate the stock passing through it. Common on table saw blade guards.", "Convenient but may not provide complete guarding during all operations"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Additional Machine Safety Devices"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Two-hand control: both hands must be on controls to start the machine, preventing hands from being in the danger zone during the cycle",
+        "Two-hand trip: requires simultaneous activation of two controls to initiate the machine cycle",
+        "Presence-sensing device (light curtain, pressure mat, camera system): detects when a person is in the danger zone and stops the machine",
+        "Restraints: physical tethers that prevent hands from reaching the danger zone",
+        "Pullbacks: connected to machine motion, they pull the operator's hands away from the danger zone during the machine stroke",
+        "Gates/barriers: automatically move into position before each machine cycle"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Requirements for All Machine Guards"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Prevent contact between the worker and the dangerous part of the machine",
+        "Be firmly secured — not easily removed or bypassed",
+        "Not create additional hazards (no sharp edges, no vision obstruction that causes unsafe work practices)",
+        "Not interfere with normal work operations — guards that impede work are eventually removed",
+        "Allow safe lubrication and maintenance when possible"
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Never remove, modify, or bypass a machine guard. If a guard makes operation difficult or impossible, the correct response is to report it to supervision for engineering review — not to remove it. Machine operators have been amputated within seconds of removing guards 'just for a minute'."
+    },
+    {
+      "type": "heading",
+      "text": "Power Transmission Guarding"
+    },
+    {
+      "type": "paragraph",
+      "text": "1910.219 requires guarding for all power transmission components: belts and pulleys, gears, chains and sprockets, couplings, and shafting. All pulleys within 7 feet of the floor or work platform must be guarded. All horizontal shafting must be guarded. This is one of the most-cited violations in general industry — particularly in older facilities."
+    },
+    {
+      "type": "example",
+      "text": "An inspector tours a food processing facility and notices: (1) a floor-level conveyor belt has no guarding at the nip point where it meets the drive pulley, (2) a overhead shaft coupling is unguarded 6 feet above the floor, (3) an operator has removed the blade guard on a circular saw 'because it catches on the product.' All three are OSHA violations. The inspector issues a stop-work for the unguarded nip point (employee in the area), a serious citation for the shaft, and a serious citation for the saw."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Machine guarding violations occur frequently during construction and commissioning phases on Gulf projects — when equipment is being tested, guards may be temporarily removed and not reinstated. Aramco SEMP requires pre-startup safety reviews (PSSR) before any equipment is handed over to operations, specifically including verification that all guards are in place and all interlocks function correctly. Many Gulf operators (ADNOC, QatarEnergy) use a mechanical integrity programme that includes periodic inspection of machine guards as part of preventive maintenance. Workers observing a missing guard on Gulf sites are empowered — and required — to stop the work under Life-Saving Rules."
+    }
+  ],
+  "quizId": null
+}

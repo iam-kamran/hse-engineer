@@ -1,0 +1,130 @@
+{
+  "id": "certifications/iso-auditor/iso-14001-clauses",
+  "sectionId": "iso-auditor",
+  "title": "ISO 14001 Clauses 4–10: Auditing Requirements",
+  "order": 4,
+  "estimatedReadTime": 22,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Audit each clause of ISO 14001 with appropriate evidence criteria",
+    "Identify significant environmental aspects in a manufacturing or process industry setting",
+    "Write ISO 14001 nonconformity statements with clear evidence",
+    "Understand compliance evaluation obligations and how auditors assess them"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Auditing ISO 14001: Approach"
+    },
+    {
+      "type": "paragraph",
+      "text": "Auditing ISO 14001 requires understanding both the standard's requirements and the environmental context of the organisation. An auditor who only reads documents will miss the crucial check: does the organisation's environmental performance actually reflect the controls documented in the EMS? Field observations — visiting operations, checking containment, observing waste handling — are essential."
+    },
+    {
+      "type": "heading",
+      "text": "Clause 4: Context — Auditing Evidence"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Is there a documented context analysis identifying external factors (regulatory changes, community concerns, climate risks) and internal factors (organisational scale, activities, products)?",
+        "Has an interested party register been prepared? Does it include regulators, local communities, employees, contractors, NGOs?",
+        "Does the EMS scope accurately reflect the organisation's activities, products, and services — or are significant environmental activities excluded?"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Clause 5: Leadership — Auditing Evidence"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Can top management describe the EMS and their role in it (rather than just delegating to the EMS coordinator)?",
+        "Is the environmental policy current, signed by top management, communicated to workers, and available to interested parties?",
+        "Are environmental responsibilities clearly assigned and known to the role-holders?"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Clause 6: Planning — Auditing Significant Aspects"
+    },
+    {
+      "type": "paragraph",
+      "text": "The significant aspects determination is the heart of an ISO 14001 audit. Auditors check: is the methodology for determining significance documented? Is it applied consistently? Are the significant aspects plausible given the organisation's activities? Are significant aspects addressed in objectives, controls, and training?"
+    },
+    {
+      "type": "warning",
+      "text": "A common auditor trap: accepting a list of significant aspects and objectives without field verification. If a company claims 'significant aspect = wastewater discharge' but has no effluent monitoring records and no training records for operators of the wastewater treatment plant, the EMS is not effective regardless of what the documents say."
+    },
+    {
+      "type": "heading",
+      "text": "Clause 6: Legal Compliance Obligations"
+    },
+    {
+      "type": "paragraph",
+      "text": "ISO 14001 requires the organisation to identify applicable legal requirements (permits, emission limits, waste disposal requirements, reporting obligations) and keep track of them. Auditors look for: a legal register, evidence it is up to date, and evidence that compliance is evaluated — not just assumed."
+    },
+    {
+      "type": "definition",
+      "term": "Compliance Evaluation (Clause 9.1.2)",
+      "text": "ISO 14001 requires the organisation to evaluate compliance with its legal and other obligations at planned intervals. This means actively checking whether actual emissions, discharges, and waste management practices comply with permit conditions — not just confirming that procedures exist."
+    },
+    {
+      "type": "heading",
+      "text": "Clause 7: Support — Key Audit Points"
+    },
+    {
+      "type": "list",
+        "items": [
+        "Resources: are there sufficient personnel and budget to operate the EMS effectively? (Evidence: EMS team headcount, training budget, monitoring equipment availability)",
+        "Competence: are workers who manage significant aspects trained and competent? (Evidence: training records, competence assessments for environmental roles such as spill response, waste coordinator, discharge monitoring)",
+        "Communication: how does the organisation communicate with external interested parties on environmental matters? Is there a process? Has it been used?"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Clause 8: Operation — Field Audit Checks"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Are operational controls for significant aspects implemented and working in practice? (Visit the waste storage area — is it labelled, segregated, contained?)",
+        "Are emergency procedures for environmental incidents tested? (Are spill response kits available and in date? Have drills been conducted?)",
+        "Is contractor environmental performance managed? (Do contractor work orders include environmental requirements? Are they verified?)"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Clause 9: Performance Evaluation"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Sub-clause", "What to Audit"],
+        "rows": [
+          ["9.1.1 Monitoring", "Are environmental KPIs being measured? Are monitoring records available and analysed?"],
+          ["9.1.2 Compliance evaluation", "Is there evidence that legal limits are met? Are compliance evaluation reports on file?"],
+          ["9.2 Internal audit", "Was the internal audit programme followed? Were auditors competent? Were nonconformities raised and closed?"],
+          ["9.3 Management review", "Did top management review EMS performance (not just the EMS coordinator)? Were decisions made and acted on?"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Clause 10: Improvement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clause 10 requires the organisation to react to nonconformities and work towards continual improvement. Auditors look for: a documented process for managing nonconformities, root cause analysis for significant incidents (not just immediate cause), evidence that corrective actions were implemented and effective, and a trend of improving environmental performance over time."
+    },
+    {
+      "type": "example",
+      "text": "During a Clause 9.1.2 compliance evaluation audit at a Gulf industrial site, the auditor asks to see the compliance evaluation report for the facility's air emission permit. The environment coordinator presents a report from 18 months ago. The permit has since been renewed with tighter NOx limits. The auditor raises a nonconformity: compliance evaluation has not been updated to reflect the revised permit requirements, and there is no evidence that current emissions comply with the new limits. The root cause is identified as: the procedure for updating the legal register when permits are renewed was not followed."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: ISO 14001 clause 9.1.2 (compliance evaluation) is often the most challenging for Gulf industrial facilities. Environmental permits in Gulf countries specify numerical limits for air emissions, wastewater discharges, and noise levels — and many facilities do not have continuous monitoring equipment installed. Where continuous monitoring is absent, periodic sampling campaigns are required, and results must be documented and compared to permit limits. Failure to demonstrate compliance evaluation — even if the facility is technically in compliance — is a standard nonconformity finding during ISO 14001 certification audits in the Gulf. Gulf HSE professionals preparing for ISO 14001 audits should ensure compliance evaluation records are current, complete, and reference the specific permit or regulation being evaluated."
+    }
+  ],
+  "quizId": null
+}

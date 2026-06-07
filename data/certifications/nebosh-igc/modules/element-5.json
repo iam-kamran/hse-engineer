@@ -1,0 +1,154 @@
+{
+  "id": "certifications/nebosh-igc/element-5",
+  "sectionId": "nebosh-igc",
+  "title": "Element 5: Physical and Psychological Health",
+  "order": 5,
+  "estimatedReadTime": 22,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Describe the health effects of noise, vibration, radiation, and temperature extremes",
+    "Explain the causes, effects, and management of work-related stress",
+    "Outline how to assess and control common physical health hazards",
+    "Apply Gulf-specific knowledge on heat stress management"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "5.1 Noise"
+    },
+    {
+      "type": "paragraph",
+      "text": "Noise-induced hearing loss (NIHL) is permanent and irreversible — there is no treatment. It is one of the most common occupational diseases worldwide. Noise causes damage through two mechanisms: acoustic trauma (single high-intensity event) and chronic exposure (sustained levels over time)."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Action Level", "dB(A)", "Employer's Duty"],
+        "rows": [
+          ["Lower Exposure Action Value", "80 dB(A) daily or weekly average", "Provide information and hearing protection on request"],
+          ["Upper Exposure Action Value", "85 dB(A) daily or weekly average", "Mandatory hearing protection zones; hearing surveillance"],
+          ["Exposure Limit Value", "87 dB(A) at the ear (with PPE)", "Must not be exceeded — work must stop"]
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "items": [
+        "Engineering controls first: enclose noisy machinery, use silencers, vibration-damping mounts, acoustic barriers",
+        "Administrative controls: job rotation to reduce exposure time, maintenance programmes to reduce equipment noise",
+        "PPE as last resort: ear plugs (SNR ~25 dB) or ear muffs (SNR ~30 dB) — must be worn consistently to be effective",
+        "Health surveillance: audiometric testing for all workers regularly exposed above 85 dB(A)"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "Drilling rigs, compressor stations, and construction sites in the Gulf regularly exceed 90 dB(A). Hearing protection is mandatory in designated zones. ADNOC and Aramco both conduct annual audiometry for workers in high-noise areas. Hearing loss claims are a significant liability for Gulf employers."
+    },
+    {
+      "type": "heading",
+      "text": "5.2 Vibration"
+    },
+    {
+      "type": "definition",
+      "term": "Hand-Arm Vibration Syndrome (HAVS)",
+      "text": "A painful and disabling condition caused by regular use of vibrating hand tools (grinders, jackhammers, chainsaws). Symptoms include Vibration White Finger (Raynaud's phenomenon), tingling, numbness, and grip weakness. It is irreversible."
+    },
+    {
+      "type": "definition",
+      "term": "Whole-Body Vibration (WBV)",
+      "text": "Vibration transmitted through the body via the feet or buttocks, typically from driving vehicles over rough terrain. Associated with lower back disorders and musculoskeletal problems."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Control measures: use low-vibration tools where possible; limit daily exposure times; regular tool maintenance",
+        "Worker rotation to reduce individual exposure duration",
+        "Health surveillance: regular checks for early signs of HAVS"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "5.3 Radiation"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Type", "Examples", "Health Effects", "Controls"],
+        "rows": [
+          ["Ionising Radiation", "X-rays, gamma rays, alpha/beta particles (NDT, nuclear industry)", "Cancer, acute radiation syndrome, genetic damage", "Shielding, distance, time limitation, dosimetry badges, controlled areas"],
+          ["UV Radiation (Non-ionising)", "Sunlight, welding arcs", "Sunburn, skin cancer, arc eye (photokeratitis), cataracts", "Sunscreen, UV-protective clothing, welding shields"],
+          ["Infrared (Non-ionising)", "Furnaces, hot processes", "Burns, cataracts", "Protective eyewear, heat-resistant clothing"],
+          ["Laser (Non-ionising)", "Laser cutting, surveying", "Eye damage, skin burns", "Interlocked enclosures, eyewear, warning signs"]
+        ]
+      }
+    },
+    {
+      "type": "gulfNote",
+      "text": "Non-Destructive Testing (NDT) using gamma ray sources is common in Gulf pipeline and pressure vessel inspection. Workers in NDT are classified radiation workers and must wear dosimetry badges. UV exposure from intense solar radiation in the Gulf (UV index regularly 11+) increases skin cancer risk significantly — sunscreen and UV-protective clothing are essential for all outdoor workers."
+    },
+    {
+      "type": "heading",
+      "text": "5.4 Temperature Extremes — Heat Stress"
+    },
+    {
+      "type": "paragraph",
+      "text": "Heat stress is the most dangerous physical hazard for workers in the Gulf region. It occurs when the body cannot maintain its normal temperature through sweating and increased blood flow."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Condition", "Symptoms", "First Aid Response"],
+        "rows": [
+          ["Heat Cramps", "Painful muscle spasms, sweating", "Move to cool area, rehydrate with electrolytes"],
+          ["Heat Exhaustion", "Heavy sweating, weakness, dizziness, nausea, pale/clammy skin, rapid weak pulse", "Move to cool area, lay down, remove excess clothing, cool skin, rehydrate — medical attention if no improvement"],
+          ["Heat Stroke (EMERGENCY)", "Body temp above 40°C, hot dry skin (or may still sweat), confusion, loss of consciousness, seizures", "CALL EMERGENCY SERVICES IMMEDIATELY. Cool rapidly by any means available (ice packs to neck/armpits/groin, wet sheets, fan). This is life-threatening."]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "Heat stroke is a medical emergency. Without rapid cooling, death or permanent brain damage can occur within minutes. Never wait for symptoms to 'improve on their own'."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Acclimatisation — Allow new workers 7–14 days to acclimatise before full heat exposure",
+        "Work-rest schedules — Shorten work periods and increase rest in the shade during peak heat",
+        "Hydration — Minimum 500ml water per hour during hot work; no caffeine or alcohol",
+        "WBGT monitoring — Wet Bulb Globe Temperature is the best measure of heat stress risk; set thresholds for work/rest ratios",
+        "Buddy system — Workers observe each other for symptoms",
+        "Emergency response — Ice packs, cool water, shade; evacuation route to cooling area",
+        "Midday ban — Saudi Arabia bans outdoor work 12:00–15:00 from 15 June to 15 September"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "5.5 Work-Related Stress"
+    },
+    {
+      "type": "definition",
+      "term": "Work-Related Stress",
+      "text": "The adverse reaction people have to excessive pressure or other types of demand placed on them at work. Stress is not a disease, but if excessive and sustained, it causes mental and physical illness including anxiety, depression, cardiovascular disease, and musculoskeletal disorders."
+    },
+    {
+      "type": "paragraph",
+      "text": "The HSE Management Standards identify six primary sources of work-related stress:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Demands — Excessive workload, long hours, unrealistic targets",
+        "Control — Inability to influence how work is done",
+        "Support — Inadequate support from managers and colleagues",
+        "Relationships — Bullying, harassment, conflict",
+        "Role — Role ambiguity, conflicting responsibilities",
+        "Change — Poor communication of organisational change"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "Migrant workers in Gulf construction and O&G are particularly vulnerable to work-related stress: isolation from family, extreme heat, financial debt from recruitment fees, language barriers, and limited ability to change employers (kafala system). Gulf HSE professionals should be aware of psychosocial risk factors and support referral pathways for affected workers."
+    }
+  ],
+  "quizId": "nebosh-igc/element-5-quiz"
+}

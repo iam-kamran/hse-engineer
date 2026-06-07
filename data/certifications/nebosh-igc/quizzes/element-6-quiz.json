@@ -1,0 +1,176 @@
+{
+  "id": "nebosh-igc/element-6-quiz",
+  "moduleId": "certifications/nebosh-igc/element-6",
+  "title": "Element 6 Quiz — Musculoskeletal Health & Manual Handling",
+  "passMark": 70,
+  "questions": [
+    {
+      "id": "e6-q1",
+      "text": "What does the TILE acronym stand for in manual handling risk assessment?",
+      "options": [
+        { "id": "a", "text": "Task, Individual, Load, Environment" },
+        { "id": "b", "text": "Training, Inspection, Lifting, Ergonomics" },
+        { "id": "c", "text": "Time, Intensity, Location, Equipment" },
+        { "id": "d", "text": "Task, Inspection, Limit, Employee" }
+      ],
+      "correctOptionId": "a",
+      "explanation": "TILE is the standard framework for assessing manual handling risks: Task (what movements are required?), Individual (does the person have the capacity?), Load (weight, shape, stability), and Environment (space, floor surface, lighting, temperature). Each factor can increase or reduce the overall risk.",
+      "difficulty": "easy",
+      "tags": ["manual handling", "TILE", "risk assessment"]
+    },
+    {
+      "id": "e6-q2",
+      "text": "Which of the following is a risk factor under the 'Task' element of a TILE assessment?",
+      "options": [
+        { "id": "a", "text": "The load has sharp edges and irregular shape" },
+        { "id": "b", "text": "The worker has a pre-existing back injury" },
+        { "id": "c", "text": "The floor surface is uneven and slopes downward" },
+        { "id": "d", "text": "The task requires prolonged or repeated twisting of the spine" }
+      ],
+      "correctOptionId": "d",
+      "explanation": "The Task element covers the movements and postures required: twisting, stooping, reaching above shoulder height, long carry distances, pushing/pulling, and sustained effort. Sharp edges and irregular shape relate to 'Load'; a pre-existing back injury relates to 'Individual'; uneven floor relates to 'Environment'.",
+      "difficulty": "medium",
+      "tags": ["manual handling", "TILE", "Task"]
+    },
+    {
+      "id": "e6-q3",
+      "text": "The hierarchy of controls for manual handling requires that elimination or mechanical assistance is preferred. Which example represents the MOST preferred control?",
+      "options": [
+        { "id": "a", "text": "Training workers in correct lifting technique" },
+        { "id": "b", "text": "Providing a back support belt to workers" },
+        { "id": "c", "text": "Using a forklift or conveyor to move materials mechanically — no manual lifting needed" },
+        { "id": "d", "text": "Reducing the load to below 25 kg so it can be lifted safely by one person" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Eliminating the manual handling task through mechanical aids (forklifts, conveyors, pallet jacks) is the most preferred control. Reducing load weight is better than training alone, but still involves manual handling. Training and back belts are the least preferred — they manage the risk rather than removing it. Back belts in particular have limited evidence of effectiveness.",
+      "difficulty": "easy",
+      "tags": ["manual handling", "hierarchy of controls"]
+    },
+    {
+      "id": "e6-q4",
+      "text": "Work-Related Upper Limb Disorders (WRULDs), such as carpal tunnel syndrome and tendonitis, are MOST commonly caused by:",
+      "options": [
+        { "id": "a", "text": "Lifting loads heavier than 25 kg" },
+        { "id": "b", "text": "Repetitive movements, awkward postures, and high force with insufficient recovery time" },
+        { "id": "c", "text": "Exposure to noise above 85 dB(A)" },
+        { "id": "d", "text": "Slipping on wet floors" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "WRULDs arise from sustained repetitive movements (keyboard work, assembly, pipefitting), awkward postures, and high force tasks — particularly when combined with insufficient recovery periods. They accumulate gradually (hence the term 'cumulative trauma disorders'). Common in manufacturing, construction, and office environments across Gulf projects.",
+      "difficulty": "medium",
+      "tags": ["WRULDs", "ergonomics", "MSDs"]
+    },
+    {
+      "id": "e6-q5",
+      "text": "Under Display Screen Equipment (DSE) regulations, a workstation risk assessment for office workers should consider which of the following?",
+      "options": [
+        { "id": "a", "text": "Only the brightness and size of the monitor screen" },
+        { "id": "b", "text": "Screen position, chair adjustability, keyboard placement, lighting, and work pattern (regular breaks)" },
+        { "id": "c", "text": "Whether the worker is right- or left-handed" },
+        { "id": "d", "text": "The manufacturer specification of the computer equipment" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "A DSE workstation assessment evaluates the whole work environment: screen position (top at eye level), chair height and lumbar support, keyboard and mouse placement, lighting (no glare), desk space, and work patterns (regular short breaks to prevent eye strain and upper limb fatigue). These collectively determine ergonomic risk.",
+      "difficulty": "easy",
+      "tags": ["DSE", "workstation", "ergonomics"]
+    },
+    {
+      "id": "e6-q6",
+      "text": "Which of the following describes a Musculoskeletal Disorder (MSD)?",
+      "options": [
+        { "id": "a", "text": "A cut or laceration caused by handling sharp materials" },
+        { "id": "b", "text": "An injury or disorder of muscles, tendons, ligaments, nerves, or joints — often caused by work activities" },
+        { "id": "c", "text": "A skin condition caused by chemical exposure" },
+        { "id": "d", "text": "A respiratory illness caused by dust inhalation" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Musculoskeletal disorders (MSDs) encompass injuries and disorders of the muscles, tendons, ligaments, nerves, discs, blood vessels, and joints. They include back pain, WRULDs (carpal tunnel, tendonitis), HAVS, and neck/shoulder problems. MSDs are the most common category of occupational ill-health in most industries globally, including Gulf construction.",
+      "difficulty": "easy",
+      "tags": ["MSD", "musculoskeletal disorders"]
+    },
+    {
+      "id": "e6-q7",
+      "text": "A materials handler in a Gulf petrochemical plant regularly lifts 30 kg drums from floor level to a pallet 1.5 m high, 60 times per shift. Which is the MOST significant risk factor in this task?",
+      "options": [
+        { "id": "a", "text": "The weight of the load alone" },
+        { "id": "b", "text": "The combination of load weight, high frequency, vertical range, and repetition" },
+        { "id": "c", "text": "The material of the drum" },
+        { "id": "d", "text": "The worker's height" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "No single factor fully defines manual handling risk. In this task, the risk comes from the combination: a relatively heavy load (30 kg), high frequency (60 lifts/shift), a large vertical range (floor to 1.5 m), repeated throughout the shift. Each factor adds to the cumulative stress on the spine and shoulders. This is a strong case for mechanical assistance (drum lifter, conveyor).",
+      "difficulty": "medium",
+      "tags": ["manual handling", "risk factors", "combined factors"]
+    },
+    {
+      "id": "e6-q8",
+      "text": "In the context of DSE work, which of the following is recognised as an effective measure to prevent eye strain?",
+      "options": [
+        { "id": "a", "text": "Increasing screen brightness to maximum" },
+        { "id": "b", "text": "Following the 20-20-20 rule: every 20 minutes, look at something 20 feet away for 20 seconds" },
+        { "id": "c", "text": "Using a screen filter to reduce screen size" },
+        { "id": "d", "text": "Avoiding spectacle use at the workstation" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The 20-20-20 rule is a practical, evidence-based technique for reducing digital eye strain: every 20 minutes, look at an object 20 feet (6 metres) away for 20 seconds. This relaxes the eye muscles which become fatigued from sustained close focusing. Increasing brightness worsens glare. Workers entitled to DSE eye tests should use them.",
+      "difficulty": "easy",
+      "tags": ["DSE", "eye strain", "controls"]
+    },
+    {
+      "id": "e6-q9",
+      "text": "The 'Individual' factor in a TILE manual handling assessment requires consideration of:",
+      "options": [
+        { "id": "a", "text": "Whether the item has handles or grip points" },
+        { "id": "b", "text": "The floor surface and available space" },
+        { "id": "c", "text": "The worker's physical capability, training, and any health conditions that might affect their ability to handle the load safely" },
+        { "id": "d", "text": "The distance the load needs to be carried" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The Individual element asks: is this person capable of safely performing this handling task? This covers physical fitness, training in manual handling techniques, pregnancy, recent injury or medical conditions, and whether the task requires unusual capability. Handles belong to Load; floor surface to Environment; carry distance to Task.",
+      "difficulty": "medium",
+      "tags": ["manual handling", "TILE", "Individual"]
+    },
+    {
+      "id": "e6-q10",
+      "text": "Health surveillance for workers at risk of WRULDs (Work-Related Upper Limb Disorders) is important because:",
+      "options": [
+        { "id": "a", "text": "It proves compliance with H&S law and reduces insurance premiums" },
+        { "id": "b", "text": "It enables early detection of symptoms so that further damage can be prevented and the work activity modified before permanent injury occurs" },
+        { "id": "c", "text": "It is only required once during a worker's employment" },
+        { "id": "d", "text": "It replaces the need for ergonomic risk assessments" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Health surveillance for MSD risk (regular interviews, questionnaires, or clinical assessments) allows early identification of symptoms like tingling, pain, or stiffness. Early intervention — job rotation, reduced force tasks, ergonomic adjustments — can prevent progression to permanent disability. Prevention is far better than treating established conditions.",
+      "difficulty": "medium",
+      "tags": ["health surveillance", "WRULDs", "occupational health"]
+    },
+    {
+      "id": "e6-q11",
+      "text": "A scaffolder on a Gulf offshore platform regularly works in awkward positions — reaching overhead, kneeling on steel grating, and carrying loads across uneven surfaces. Which element of TILE is MOST influenced by the offshore environment?",
+      "options": [
+        { "id": "a", "text": "Task — the required movements" },
+        { "id": "b", "text": "Individual — the worker's health status" },
+        { "id": "c", "text": "Load — the weight of scaffolding components" },
+        { "id": "d", "text": "Environment — uneven, wet, confined working surfaces with limited space" }
+      ],
+      "correctOptionId": "d",
+      "explanation": "The Environment element covers the working space, floor/surface type, temperature, and lighting. Offshore platforms present major environmental challenges: wet, slippery, uneven gratings; confined deck spaces limiting posture; wind and vibration adding to instability. These factors significantly increase manual handling risk beyond what the load weight alone would suggest.",
+      "difficulty": "medium",
+      "tags": ["manual handling", "TILE", "Environment", "Gulf context"]
+    },
+    {
+      "id": "e6-q12",
+      "text": "An employer is assessing the risk of back injury to workers who push heavy trolleys along a warehouse floor. Which of the following control measures addresses the task MOST directly?",
+      "options": [
+        { "id": "a", "text": "Training workers on safe pushing technique" },
+        { "id": "b", "text": "Fitting trolleys with powered drive assistance and ensuring floors are smooth and level" },
+        { "id": "c", "text": "Issuing workers with back support belts" },
+        { "id": "d", "text": "Limiting push distances to 10 metres" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Powered drive assistance eliminates the force required to push — this is an engineering control at the top of the hierarchy. Ensuring smooth, level floors reduces resistance force. Training, belts, and distance limits are administrative or PPE solutions at the bottom of the hierarchy. Engineering controls are preferred because they work regardless of worker compliance.",
+      "difficulty": "medium",
+      "tags": ["manual handling", "controls", "hierarchy of controls"]
+    }
+  ]
+}

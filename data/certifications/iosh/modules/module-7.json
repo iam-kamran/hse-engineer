@@ -1,0 +1,154 @@
+{
+  "id": "certifications/iosh/module-7",
+  "sectionId": "iosh",
+  "title": "Module 7: Measuring Performance",
+  "order": 7,
+  "estimatedReadTime": 16,
+  "difficulty": "beginner",
+  "learningObjectives": [
+    "Distinguish between active (leading) and reactive (lagging) performance measures",
+    "Explain the purpose and examples of leading and lagging indicators",
+    "Describe how to conduct workplace safety inspections",
+    "Understand the role of audits in the PDCA cycle",
+    "Know how to use performance data to drive continuous improvement"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Why Measure Health and Safety Performance?"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot improve what you do not measure. Health and safety performance measurement tells managers whether their controls are working, where hazards still exist, and whether the organisation is improving or deteriorating over time. Without measurement, safety management is guesswork. The challenge is choosing the right measures — and understanding what they actually tell you."
+    },
+    {
+      "type": "heading",
+      "text": "Active (Leading) vs Reactive (Lagging) Indicators"
+    },
+    {
+      "type": "definition",
+      "term": "Lagging (Reactive) Indicators",
+      "text": "Measure failures — events that have already happened. They tell you that harm has occurred. Examples: injury rate, lost-time injury frequency rate (LTIFR), total recordable case rate (TRCR), number of days lost to injury, number of enforcement notices received. Lagging indicators are important but have a fundamental weakness: by the time they show a problem, someone has already been hurt."
+    },
+    {
+      "type": "definition",
+      "term": "Leading (Active/Proactive) Indicators",
+      "text": "Measure prevention activities — things done before harm occurs. They indicate whether the safety management system is functioning. Examples: percentage of risk assessments completed on time, number of safety inspections per month, near-miss reporting rate, percentage of safety observations completed, toolbox talk delivery rate, training completion rate, corrective action closure rate. Leading indicators show whether prevention activity is happening; if the activity is good, harm should reduce."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Type", "Examples", "Tells You", "Weakness"],
+        "rows": [
+          ["Lagging (reactive)", "LTIFR, TRCR, fatality count, days lost", "Harm has occurred", "Only records failure AFTER someone is hurt"],
+          ["Leading (proactive)", "Inspection completion rate, near-miss rate, TBT delivery, training completion", "Prevention activities are (or are not) happening", "Can be 'gamed' — high numbers don't guarantee quality"]
+        ]
+      }
+    },
+    {
+      "type": "gulfNote",
+      "text": "Aramco SEMP, ADNOC HSE requirements, and QatarEnergy all require contractors to report BOTH leading and lagging KPIs monthly. Typical required metrics: TRCR and LTIFR (lagging) + near-miss reporting rate, observation frequency, and TBT delivery rate (leading). Understanding both types of KPI is essential for any Gulf HSE role."
+    },
+    {
+      "type": "keyPoint",
+      "text": "A site with a low injury rate but poor leading indicators (few inspections, near misses suppressed, low training completion) is a dangerous site where major harm is building unseen. The absence of reported incidents does not mean the absence of risk."
+    },
+    {
+      "type": "heading",
+      "text": "Workplace Inspections"
+    },
+    {
+      "type": "paragraph",
+      "text": "A workplace inspection is a systematic physical examination of the working environment to identify hazards and verify that controls are in place and working. Inspections are a form of active monitoring — they check conditions BEFORE harm occurs."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Who should inspect: supervisors and managers should conduct regular inspections in their own area (weekly or more frequently for high-risk areas); H&S officers should conduct independent inspections; workers should report hazards as part of their daily work",
+        "What to check: physical conditions (housekeeping, equipment condition, guarding, access/egress); work practices (correct PPE use, following procedures, permit compliance); welfare facilities (first aid, welfare provisions, emergency equipment)",
+        "How to record: use a standard inspection form with clear action items — who will fix what, by when; grade findings by severity to prioritise action",
+        "Follow-up: inspections are worthless without follow-up — every finding must have a corrective action, a responsible person, and a completion date, and then verification that it was done"
+      ]
+    },
+    {
+      "type": "example",
+      "text": "An HSE officer inspects a Gulf construction site and finds: 3 workers not wearing safety glasses during grinding (PPE non-compliance); scaffold board gap of 300mm on level 3 (physical hazard — fall risk); first aid box at Site Office empty (welfare deficiency); 4 outstanding toolbox talk records not signed (administrative gap). The inspection report records each finding with a severity rating, the corrective action required, the responsible supervisor, and a target completion date. The officer follows up 48 hours later to verify actions are complete."
+    },
+    {
+      "type": "heading",
+      "text": "Safety Audits"
+    },
+    {
+      "type": "paragraph",
+      "text": "An audit is a systematic, independent, and documented process for evaluating whether the safety management system is in place, functioning, and achieving its objectives. Audits examine the management system — policies, procedures, records, and systems — rather than physical conditions (which are the focus of inspections). Think of it this way: an inspection asks 'is this workplace safe today?' An audit asks 'does the system we have ensure it will remain safe?'"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Internal audits: conducted by the organisation's own staff (from a different department for independence); check compliance with own procedures and standards",
+        "External (third-party) audits: conducted by auditors from outside the organisation; used for ISO 45001 certification and client assessments (e.g. Aramco auditing contractors)",
+        "Audit scope: document review, worker and manager interviews, physical site observation — all three must be used",
+        "Findings: categorised as non-conformances (major or minor) or observations/opportunities for improvement",
+        "Corrective action plan: all findings must have specific corrective actions tracked to closure"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Safety Inspections vs Safety Audits — The Key Difference"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Feature", "Inspection", "Audit"],
+        "rows": [
+          ["Focus", "Physical conditions — what you can see", "Management system — how the system works"],
+          ["Question asked", "Is this workplace safe right now?", "Does our system ensure safety?"],
+          ["Frequency", "High — daily by supervisors, weekly by H&S", "Lower — quarterly or annually"],
+          ["Method", "Walk and observe the workplace", "Document review + interviews + site observation"],
+          ["Output", "List of deficiencies and physical actions", "Non-conformances against standards, system weaknesses"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "The PDCA Cycle and Continuous Improvement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Safety performance measurement feeds into the Plan-Do-Check-Act (PDCA) cycle — the model for continual improvement. Plan: identify hazards, assess risks, set objectives and targets, establish controls. Do: implement the controls, train the workforce, put systems in place. Check: measure performance using leading and lagging indicators, inspections, and audits — are the controls working? Are the targets being met? Act: take corrective action based on what the 'Check' phase revealed; implement improvements; update the plan. Then the cycle repeats at a higher level of performance."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Aramco SEMP monthly reports are a formal 'Check' phase activity — they measure whether SEMP requirements are being met (leading KPIs) and whether harm is occurring (lagging KPIs). The proponent's review of these reports and subsequent feedback to the contractor is the 'Act' phase. This is the PDCA cycle in action on a Gulf O&G project."
+    },
+    {
+      "type": "heading",
+      "text": "Using Performance Data to Drive Improvement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Performance data is only useful if it drives action. Collecting data and filing it without analysis is a waste of time. Effective use of performance data includes: trend analysis (is injury rate improving or deteriorating over time?); benchmarking against similar organisations or industry standards; root cause analysis of poor performance data (why is near-miss reporting declining? — could indicate blame culture); celebrating and publicising improvements; and setting specific, measurable improvement targets for the next period."
+    },
+    {
+      "type": "keyPoint",
+      "text": "The goal of measuring safety performance is not to produce impressive-looking statistics — it is to protect people. Data that shows poor performance and triggers effective corrective action is far more valuable than data manipulated to look good."
+    },
+    {
+      "type": "warning",
+      "text": "Pressuring workers NOT to report incidents to keep injury statistics low is both unethical and counterproductive. It hides real risk, creates legal exposure for the organisation, and leaves root causes unaddressed. In Gulf O&G, under-reporting of incidents is a major HSE compliance violation under Aramco SEMP, ADNOC, and QP contractor requirements."
+    },
+    {
+      "type": "heading",
+      "text": "The IOSH Managing Safely Assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "The IOSH Managing Safely certificate requires completing a written assessment (covering the seven module topics) and a practical workplace project — a risk assessment of a real or simulated workplace. The project demonstrates that the candidate can apply the five-step risk assessment process to a real situation. Both components must be passed to achieve the certificate."
+    },
+    {
+      "type": "keyPoint",
+      "text": "IOSH Managing Safely is valid indefinitely once achieved — it does not expire like some other safety certificates. However, many Gulf employers expect evidence of continuing professional development (CPD) alongside the certificate. IOSH membership (IOSH TechIOSH or MIOSH) provides the CPD framework for career progression."
+    }
+  ],
+  "quizId": "iosh/module-7-quiz"
+}

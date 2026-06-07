@@ -1,0 +1,348 @@
+[
+  {
+    "id": "qa-001",
+    "text": "What is QatarEnergy's (formerly Qatar Petroleum) HSE management framework and what are its key contractor requirements?",
+    "category": "legislation",
+    "region": "qatar",
+    "difficulty": "mid",
+    "modelAnswer": "QatarEnergy (rebranded from Qatar Petroleum in 2021) operates one of the world's largest LNG and hydrocarbon production systems and has a comprehensive HSE framework for contractor management. Key requirements include: contractors must be pre-qualified through QatarEnergy's EPIQ (Exploration and Production Integrated Quality) system, which evaluates H&S track record, management systems, and qualifications; project-specific HSE plans must be submitted and approved before mobilisation; QatarEnergy's Golden Rules of Safety are mandatory behavioural standards that all workers must be trained on; PTW compliance follows QP's own permit system; monthly HSE statistics (TRCR, LTIFR, man-hours, near-miss rate) are reported through the QatarEnergy contractor HSE portal; HSE Officers must hold NEBOSH IGC as a minimum; and serious violations can trigger immediate work suspension and contract termination.",
+    "keyPoints": [
+      "QatarEnergy (previously Qatar Petroleum, QP): major national oil company in Qatar",
+      "EPIQ contractor pre-qualification system: H&S performance and management system review",
+      "Golden Rules of Safety: mandatory behavioural standards for all QatarEnergy workforce",
+      "Project HSE plan required and approved before mobilisation",
+      "Monthly KPI reporting: TRCR, LTIFR, man-hours, near-miss rate",
+      "HSE Officer minimum: NEBOSH IGC",
+      "Serious violations: work suspension and possible contract termination"
+    ],
+    "tip": "QatarEnergy rebranded in 2021 to reflect its broader energy transition ambitions. Always use 'QatarEnergy' in interviews — using 'Qatar Petroleum' or 'QP' will signal your knowledge is outdated. Their Golden Rules of Safety are specific, memorable commitments that interviewers may ask you to name or describe.",
+    "followUpQuestions": [
+      "What are QatarEnergy's Golden Rules of Safety?",
+      "How does QatarEnergy's contractor HSE pre-qualification process work?",
+      "What is the TRCR target typically set by QatarEnergy for major contractors?"
+    ]
+  },
+  {
+    "id": "qa-002",
+    "text": "Qatar has experienced rapid construction growth for major projects. What are the key HSE challenges in this environment?",
+    "category": "safety-culture",
+    "region": "qatar",
+    "difficulty": "mid",
+    "modelAnswer": "Qatar's rapid infrastructure expansion — driven by LNG capacity growth, World Cup 2022 legacy projects, and National Vision 2030 — created a highly challenging HSE environment. Key challenges include: extremely large migrant worker population (over 2 million) with diverse language and cultural backgrounds requiring multilingual safety communication; high summer heat (WBGT regularly exceeds action levels May–October) requiring strict heat stress management; fast-track construction schedules creating pressure to sacrifice safety for speed; contractor fragmentation with many sub-tiers, each requiring oversight; accommodation and welfare standards for migrant workers attracting international scrutiny; skill levels varying significantly across nationalities and trades; and fire safety in temporary worker accommodation being a documented risk. Qatar's regulatory framework has strengthened significantly through the Supreme Committee for Delivery and Legacy (for World Cup) and the MOTC for general construction. The Ministry of Labour enforces labour law and welfare standards.",
+    "keyPoints": [
+      "Migrant workforce: 2M+ workers, dozens of languages — multilingual safety communication essential",
+      "Heat stress: Qatar summers are extreme — WBGT-based controls mandatory",
+      "Fast-track pressure: deadline pressure on mega-projects is a leading root cause of incidents",
+      "Contractor fragmentation: multiple sub-tiers require cascading H&S oversight",
+      "International scrutiny: worker welfare is globally publicised post-2022 World Cup",
+      "Ministry of Labour: enforces labour law; MOTC: construction; QatarEnergy: O&G",
+      "Welfare standards: accommodation, food, leisure — regulated under new Kafala reform"
+    ],
+    "tip": "Qatar's World Cup 2022 worker welfare controversy elevated the global focus on migrant worker H&S in the Gulf. Any candidate who shows awareness of this context — and commitment to genuine worker welfare, not just compliance — will stand out. Qatar has since strengthened its labour reforms (abolishing Kafala restrictions, introducing minimum wage) — mentioning these reforms shows you follow Qatar developments.",
+    "followUpQuestions": [
+      "What were the key H&S controversies related to Qatar's World Cup 2022 construction?",
+      "What is the Kafala system and how has Qatar reformed it?",
+      "How do you manage HSE for a workforce spread across hundreds of sub-contractors?"
+    ]
+  },
+  {
+    "id": "qa-003",
+    "text": "What do you know about Qatar's heat stress regulations and how would you implement them on an outdoor project?",
+    "category": "risk-assessment",
+    "region": "qatar",
+    "difficulty": "mid",
+    "modelAnswer": "Qatar's Ministry of Labour prohibits outdoor work in direct sunlight between 10:00am and 3:30pm daily from 1 June to 15 September. This is a legal requirement enforceable by Ministry of Labour inspectors. Beyond the legal minimum, effective heat stress management for Qatar outdoor projects requires: WBGT monitoring throughout the summer season; work/rest schedules based on WBGT readings (typically starting with 45 min work/15 min rest and reducing as temperatures rise); unlimited cool potable water accessible at all times; acclimatisation programme for workers new to Qatar summer conditions (7-14 days); shaded rest areas with seating and ventilation close to work areas; H2S-awareness (relevant in sour areas), medical surveillance for heat-intolerant individuals; training for all supervisors in heat illness recognition; and buddy systems. Workers showing symptoms of heat exhaustion (dizziness, weakness, heavy sweating) must be removed from the heat and hydrated; heat stroke (hot dry skin, confusion, loss of consciousness) is a medical emergency requiring immediate cooling and hospital transfer.",
+    "keyPoints": [
+      "Qatar outdoor work ban: 10:00–15:30, 1 June to 15 September — legal requirement",
+      "WBGT-based work/rest schedules: not just temperature-based",
+      "Acclimatisation: 7-14 days for new workers arriving from cooler climates",
+      "Unlimited cool water — not just 'water available'",
+      "Shaded rest areas: must be close to work area — not a distant welfare container",
+      "Heat exhaustion (still sweating) vs heat stroke (stopped sweating, confused = emergency)",
+      "Supervisors trained in recognition: their observation is first line of defence"
+    ],
+    "tip": "Qatar's outdoor work ban hours differ slightly from Saudi Arabia's (Qatar is 10:00–15:30, not 12:00–15:00). Knowing country-specific hours demonstrates detailed local knowledge. This detail frequently appears in interview questions designed to catch candidates who give generic Gulf answers.",
+    "followUpQuestions": [
+      "What are the exact hours of Qatar's summer outdoor work ban?",
+      "How does acclimatisation work physiologically — why does it take 7-14 days?",
+      "What is the first aid response for a worker showing signs of heat stroke on site?"
+    ]
+  },
+  {
+    "id": "qa-004",
+    "text": "How would you manage HSE on an LNG facility construction project in Qatar?",
+    "category": "ptw",
+    "region": "qatar",
+    "difficulty": "senior",
+    "modelAnswer": "LNG facility construction in Qatar involves simultaneous high-hazard activities including pressure testing, cryogenic equipment installation, hot work in hydrocarbon areas, confined space entry, and large lifting operations — all potentially operating simultaneously. Key HSE management approach: robust PTW system with SIMOPS coordination matrix to prevent conflicts between concurrent activities; gas testing programme before all hot work — continuous monitoring where any hydrocarbon release is possible; cryogenic safety training for workers handling LNG and BOG (Boil-Off Gas) systems — cold burns from LNG, oxygen enrichment from nitrogen venting, and flammable vapour cloud are specific LNG hazards; extensive lifting programme management (engineered lift plans for heavy equipment — LNG heat exchangers, reactors); confined space management for vessel internals; emergency response plan specifically for LNG release scenarios; and coordination with QatarEnergy operations teams if the facility is adjacent to live production. QatarEnergy HSE requirements and SIGTTO (Society of International Gas Tanker and Terminal Operators) standards apply.",
+    "keyPoints": [
+      "LNG-specific hazards: cryogenic burns, oxygen enrichment, flammable vapour, rapid phase transition (RPT)",
+      "SIMOPS matrix: essential when multiple high-hazard activities are simultaneous",
+      "Hot work near live LNG: stringent gas testing, continuous monitoring, fire watch",
+      "Cryogenic safety training: specific to LNG handling — different from general chemical PPE",
+      "Lifting: engineered lift plans for heavy LNG equipment (heat exchangers weigh 1000+ tonnes)",
+      "QatarEnergy HSE requirements + SIGTTO standards apply to LNG terminals",
+      "ERP: LNG-specific emergency scenarios including rapid phase transition and vapour cloud"
+    ],
+    "tip": "Qatar is the world's largest LNG exporter, so LNG facility safety is the most relevant specialisation for Qatar O&G interviews. SIGTTO (Society of International Gas Tanker and Terminal Operators) standards are specifically relevant to LNG terminals. Knowing what 'rapid phase transition' (RPT) means — an explosion-like event when LNG contacts water — signals LNG-specific knowledge.",
+    "followUpQuestions": [
+      "What is rapid phase transition (RPT) in the context of LNG?",
+      "What PPE is required for workers handling cryogenic materials like LNG?",
+      "What is SIGTTO and what standards does it publish for LNG operations?"
+    ]
+  },
+  {
+    "id": "qa-005",
+    "text": "What role does Qatar's Supreme Committee for Delivery and Legacy play in construction H&S?",
+    "category": "legislation",
+    "region": "qatar",
+    "difficulty": "mid",
+    "modelAnswer": "The Supreme Committee for Delivery and Legacy (SC) was established by the Qatar government to manage the delivery of FIFA World Cup 2022 infrastructure. In response to international scrutiny of worker welfare and safety on these projects, the SC developed a Worker's Welfare Standards (WWS) framework that set enhanced requirements beyond Qatar labour law. The WWS covered: health and safety management on sites (risk assessments, PTW, PPE, emergency response); worker accommodation standards (size, ventilation, sanitation, recreational facilities); wage protection and recruitment fee prohibition; working hours limits; medical provisions; and worker grievance mechanisms. The SC's programme included regular inspections, worker welfare audits, and publication of quarterly welfare reports. Following World Cup 2022, Qatar's Ministry of Labour has built on these standards to strengthen national requirements. The SC model influenced broader reforms in Qatar's labour framework.",
+    "keyPoints": [
+      "SC = Supreme Committee for Delivery and Legacy: managed FIFA 2022 infrastructure",
+      "Workers' Welfare Standards (WWS): enhanced H&S and welfare requirements for SC projects",
+      "WWS covers: H&S systems, accommodation, wages, working hours, medical provision, grievance",
+      "Regular SC inspections and welfare audits of contractors on their projects",
+      "SC model helped drive broader Qatar labour law reform (Kafala, minimum wage)",
+      "Quarterly welfare reports published publicly — transparency requirement",
+      "Post-2022 legacy: SC standards being integrated into national labour standards"
+    ],
+    "tip": "The SC Workers' Welfare Standards are one of the most rigorous worker welfare frameworks ever applied to construction projects globally. For Qatar interviews, mentioning the SC and WWS shows you are aware of the specific context that shaped Qatar's current H&S landscape. It also demonstrates awareness of the political and reputational context around Gulf construction safety.",
+    "followUpQuestions": [
+      "What were the minimum worker accommodation standards under the SC Workers' Welfare Standards?",
+      "How did the SC's worker welfare programme influence broader Gulf labour reform?",
+      "What is the role of the FIFA requirements in driving SC welfare standards?"
+    ]
+  },
+  {
+    "id": "qa-006",
+    "text": "Describe the key H&S risks and controls for an excavation project in Qatar.",
+    "category": "risk-assessment",
+    "region": "qatar",
+    "difficulty": "mid",
+    "modelAnswer": "Excavation in Qatar carries significant risks given the dense underground utility networks in urban Doha and industrial areas, and challenging soil conditions. Key risks and controls: underground utilities — obtain and verify underground utility drawings, conduct cable and pipe detection surveys (CAT scanner and sonde), hand-dig trial holes within 500mm of mapped utilities, obtain an excavation/dig permit before breaking ground; trench collapse — soil in Qatar can be unstable sandy or fill; provide shoring (timber or proprietary system), benching, or battering at 45° for unsupported trenches deeper than 1.2m; cave-in is the leading cause of excavation fatalities; access and egress — ladder access every 7.5m maximum in deep trenches; atmospheric hazards — H2S and hydrocarbon gases can accumulate in trenches; continuous gas monitoring; confined space entry procedures for deep excavations; adjacent structures — assess impact of excavation on adjacent buildings and utilities; and water ingress — dewatering plans for areas below the water table (common in coastal Qatar).",
+    "keyPoints": [
+      "Underground utilities: dig permit, utility drawings, cable detection, hand-dig within 500mm",
+      "Trench collapse: shoring/benching/battering for trenches >1.2m — sandy soil in Qatar collapses fast",
+      "Access/egress: ladder every 7.5m; never jump in or out of a trench",
+      "Atmospheric hazards: gas monitoring in all excavations — H2S common near oil/gas infrastructure",
+      "Adjacent structures: assessment and monitoring to prevent undermining",
+      "Water ingress/dewatering: common in coastal Qatar below water table",
+      "Exclusion zone: no worker under unsupported trench sides — no exceptions"
+    ],
+    "tip": "Excavation collapse is one of the most common fatal incident types in Qatar and Gulf construction generally. The soil type (sandy, cohesionless) in Qatar makes unsupported trench sides particularly dangerous — they can collapse in seconds without warning. Knowing the 1.2m threshold for mandatory support (consistent with most international standards) and the hand-digging requirement near utilities demonstrates practical site knowledge.",
+    "followUpQuestions": [
+      "At what depth does a trench require a formal confined space entry procedure?",
+      "What is the maximum unsupported trench depth before shoring is required?",
+      "How do you detect underground services before excavating in a built-up area?"
+    ]
+  },
+  {
+    "id": "qa-007",
+    "text": "How do you handle a fatal accident on a construction site in Qatar?",
+    "category": "incident-investigation",
+    "region": "qatar",
+    "difficulty": "senior",
+    "modelAnswer": "A fatality requires immediate and structured action. Immediate response: ensure no additional casualties — do not compromise the scene or put rescuers at risk; call emergency services (999 in Qatar) and ensure the victim receives medical attention even if death appears obvious (only a doctor can certify death); secure and cordon the scene immediately — do not move anything; notify senior management and H&S leadership within the first hour; notify the client (QatarEnergy or main contractor) as per contractual requirements. Legal notifications: the Ministry of Labour must be notified immediately (within 24 hours maximum); Qatar Civil Police will attend and may seal the scene as part of a criminal investigation; QCDD (Qatar Civil Defence) may attend if fire or hazardous material was involved. Scene management: full photographic documentation before anything is moved; witness statements taken by police and H&S team; do not allow work to resume until authorised by police and regulatory authority. Investigation: form a multi-disciplinary team; conduct root cause analysis; prepare and submit a formal investigation report to the Ministry of Labour. Worker welfare: support co-workers and colleagues — critical incident stress and psychological trauma support is important.",
+    "keyPoints": [
+      "Immediate: no additional casualties → emergency services → secure scene → notify management",
+      "Police and Ministry of Labour must be notified — Qatar police will attend",
+      "Scene preservation: no movement until police authorise; full photographic documentation",
+      "Ministry of Labour notification: within 24 hours (typically sooner in practice)",
+      "Work cannot resume until police and regulatory authority authorise",
+      "Psychological support: co-workers experience trauma — critical incident stress debriefing",
+      "Investigation: multi-disciplinary team; root cause analysis; formal report to Ministry"
+    ],
+    "tip": "A fatality question tests your composure, your process knowledge, and your humanity. The most common interview mistake is focusing only on the investigation and missing the immediate human and legal response steps. In Qatar specifically, police involvement is immediate and mandatory for any fatality. Mentioning psychological support for co-workers shows you understand the human dimension, which resonates strongly in Qatar where worker welfare is under global scrutiny.",
+    "followUpQuestions": [
+      "What notification must be made to Qatar's Ministry of Labour following a fatality?",
+      "How do you support workers who witnessed the fatality?",
+      "Can work resume on the same day as a fatality if it was in a different area of the site?"
+    ]
+  },
+  {
+    "id": "qa-008",
+    "text": "What experience do you have with fire prevention and fire safety management on petrochemical sites?",
+    "category": "emergency-response",
+    "region": "qatar",
+    "difficulty": "mid",
+    "modelAnswer": "Fire prevention in a Qatar petrochemical environment covers both ignition source control and fuel management. Prevention controls: hot work permit system with mandatory gas testing before and during welding/grinding (atmosphere below 10% LEL); all electrical equipment in classified zones must be ATEX/IECEx certified for the zone category; no smoking or open flame outside designated areas; vehicle access restrictions in hydrocarbon areas (non-ATEX vehicles require exhaust spark arrestors); grounding and bonding for flammable liquid transfer to prevent static discharge; area classification drawings maintained and followed; housekeeping — no accumulation of combustibles near ignition sources. Detection and response: fixed flame and gas detectors with central alarm; deluge and foam suppression systems on hydrocarbon storage; QCDD (Qatar Civil Defence) compliance for fire safety; site emergency response team with firefighting training; coordination with QatarEnergy emergency control room. Fire classification: Class B (flammable liquids — use foam or CO2); gas fires should not be extinguished unless source can be isolated — instead evacuate and isolate.",
+    "keyPoints": [
+      "Hot work PTW: gas testing before and during, atmosphere <10% LEL",
+      "ATEX equipment in classified zones: no non-certified electrical equipment",
+      "No-smoking zones enforced strictly — hydrocarbons present means no open flame",
+      "Gas and flame detectors: fixed detection with automatic suppression in critical areas",
+      "Foam suppression for Class B (liquid hydrocarbon) fires; CO2 for electrical",
+      "Gas fire principle: do not extinguish a gas fire if source cannot be isolated (explosion risk if re-ignites)",
+      "QCDD compliance: Qatar Civil Defence regulations for fire safety systems"
+    ],
+    "tip": "The 'do not extinguish a gas fire unless source can be isolated' principle is critical and often misunderstood. If you extinguish a gas fire without isolating the gas source, flammable gas continues to accumulate and can re-ignite with explosive force. This is one of the most important process safety fire principles for Gulf O&G candidates to demonstrate.",
+    "followUpQuestions": [
+      "Why should you NOT extinguish a gas fire unless the source can be isolated?",
+      "What is the difference between a fixed gas detection system and a personal monitor?",
+      "What does QCDD stand for and what is its role in Qatar fire safety?"
+    ]
+  },
+  {
+    "id": "qa-009",
+    "text": "What are the key features of Qatar's Labour Law that affect worker safety and welfare?",
+    "category": "legislation",
+    "region": "qatar",
+    "difficulty": "mid",
+    "modelAnswer": "Qatar's Labour Law (Law No. 14 of 2004, significantly amended by Law No. 18 of 2020) covers employment contracts, working hours, leave entitlements, and occupational health and safety. Key provisions: maximum working hours of 8 hours per day, 48 hours per week, with overtime limits; outdoor work restrictions in summer (10am–3:30pm ban from June 1 to September 15); employer obligation to provide a safe working environment and appropriate PPE at no cost; employer liability for work injuries — compensation and medical treatment; worker right to refuse dangerous work without dismissal; mandatory employer insurance for work-related injuries under NPHC (National Primary Health Care Corporation) and PHCC schemes. The 2020 amendments: abolished the exit visa requirement (workers can change employers more freely under certain conditions); introduced a minimum wage (QAR 1,000/month basic, QAR 800 food allowance, QAR 500 housing allowance if not provided). The Wage Protection System (WPS) ensures salary payments are tracked electronically.",
+    "keyPoints": [
+      "Law No. 14 of 2004 + 2020 amendments: primary employment and H&S law",
+      "Working hours: 8 hours/day, 48 hours/week maximum; summer reduced hours for outdoor work",
+      "Summer outdoor work ban: 10:00–15:30, June 1–September 15",
+      "Employer duty: safe workplace, free PPE, injury treatment",
+      "Worker right: refuse dangerous work without dismissal",
+      "2020 reforms: no-fee recruitment, employer change rights, minimum wage (QAR 1,000+)",
+      "WPS: electronic wage payment tracking to prevent wage theft"
+    ],
+    "tip": "Qatar has made significant labour law reforms since 2020 in response to international pressure. Demonstrating awareness of these reforms (minimum wage, Kafala reform, WPS) positions you as current and socially aware. The exact summer outdoor work hours (10:00–15:30) are a frequently tested detail that separates Qatar-specific knowledge from generic Gulf answers.",
+    "followUpQuestions": [
+      "What is the Wage Protection System (WPS) in Qatar and why was it introduced?",
+      "Can a Qatari employer require workers to live in employer-provided accommodation?",
+      "What were the main worker welfare concerns addressed by Qatar's 2020 Labour Law amendments?"
+    ]
+  },
+  {
+    "id": "qa-010",
+    "text": "How would you implement a contractor HSE management programme for a QatarEnergy project?",
+    "category": "safety-culture",
+    "region": "qatar",
+    "difficulty": "mid",
+    "modelAnswer": "Implementing contractor HSE management on a QatarEnergy project follows a lifecycle approach. Pre-award: QatarEnergy's EPIQ pre-qualification must be met; evaluate contractor H&S track record, qualifications of HSE staff, and management system maturity. Contract stage: include QatarEnergy Golden Rules, HSE plan requirements, KPI targets, and right to audit in the contract. Pre-mobilisation: approve contractor's project HSE plan; verify HSE officer qualifications; review risk assessments for key activities; HSE kickoff meeting with contractor management. During execution: site induction for all contractor workers; integrate contractors into daily TBT programme; weekly contractor HSE compliance audits; contractor participation in site H&S committee; monthly KPI reporting through QatarEnergy's online portal; immediate work suspension authority for serious violations; incident investigation involvement. Performance management: NCR (Non-Conformance Report) system for non-compliance; escalating consequences for repeat violations; positive recognition for excellent H&S performance.",
+    "keyPoints": [
+      "Lifecycle approach: pre-award → contract → pre-mobilisation → execution → close-out",
+      "EPIQ pre-qualification: QatarEnergy's contractor approval gateway",
+      "Golden Rules of Safety: must be trained and enforced",
+      "Project HSE plan: submitted and approved before any site work",
+      "Weekly compliance audits: not just monthly",
+      "Monthly KPI reporting: QatarEnergy online portal",
+      "NCR system: documented non-conformances with escalating consequences"
+    ],
+    "tip": "Describing a lifecycle approach (rather than just 'we audit them') shows programme management maturity. Mentioning the EPIQ system and Golden Rules specifically signals QatarEnergy-specific knowledge. Many candidates can describe generic contractor management — fewer know the QatarEnergy-specific mechanisms.",
+    "followUpQuestions": [
+      "What happens to a contractor who repeatedly fails to meet QatarEnergy's HSE requirements?",
+      "Who is responsible for contractor H&S performance — the main contractor or QatarEnergy?",
+      "How do you manage HSE for a contractor working in a remote Qatar location without regular site presence?"
+    ]
+  },
+  {
+    "id": "qa-011",
+    "text": "What is your approach to emergency mustering and headcount on a Qatar O&G facility?",
+    "category": "emergency-response",
+    "region": "qatar",
+    "difficulty": "mid",
+    "modelAnswer": "Emergency mustering and headcount is a life-safety critical procedure in Qatar O&G facilities. The procedure: upon alarm activation, all personnel proceed immediately to their designated muster point (assembly point) — running to muster is the priority, not collecting belongings; at the muster point, the area warden takes a headcount and compares against the sign-in/permit register to identify any missing persons; the warden communicates the headcount to the Emergency Control Room (ECR); no one may re-enter the facility until the 'all clear' is given by the Emergency Controller. Maintaining an accurate headcount register is essential: all personnel (workers, visitors, contractors) must sign in on entry and sign out on departure; electronic access control systems in modern Qatar facilities automate headcount; the muster list must match the access register. Drills are required at minimum quarterly and must include headcount verification — not just assembly. Missing persons triggers immediate search and rescue protocols. In large QatarEnergy facilities, a structured Incident Command System (ICS) is used.",
+    "keyPoints": [
+      "Primary rule: evacuate immediately on alarm — no delay for belongings",
+      "Area warden: takes headcount, compares to sign-in register, reports to ECR",
+      "ECR (Emergency Control Room): coordinates emergency response",
+      "Access register: all personnel sign in/out — basis for headcount accountability",
+      "Missing person: triggers search and rescue protocol — defined in ERP",
+      "Drills: quarterly minimum; include actual headcount verification",
+      "Incident Command System (ICS): structured command used in large QatarEnergy facilities"
+    ],
+    "tip": "Headcount accuracy depends entirely on the quality of the access register. If visitors or contractors can enter without signing in, headcount is unreliable. Mentioning electronic access control systems (standard in modern QatarEnergy facilities) shows awareness of how the technology supports the procedure. The most common drill failure is headcount that doesn't match — this should trigger a realistic search rather than just 'everyone is assumed present.'",
+    "followUpQuestions": [
+      "What do you do if the headcount at muster doesn't match the site entry register?",
+      "How long should an emergency evacuation take from alarm to full muster?",
+      "What is an Incident Command System (ICS) and how is it used in a major emergency?"
+    ]
+  },
+  {
+    "id": "qa-012",
+    "text": "How do you manage the risk of struck-by incidents from plant and vehicles on a busy Qatar construction site?",
+    "category": "risk-assessment",
+    "region": "qatar",
+    "difficulty": "mid",
+    "modelAnswer": "Struck-by incidents from vehicles and plant are a leading cause of construction fatalities in Qatar. Management approach: traffic management plan (TMP) — segregate vehicle routes from pedestrian routes with physical barriers where possible; designated vehicle access and egress routes; speed limits (typically 15-20 km/h on construction sites); road surfaces appropriate for vehicle type; vehicle safety standards — no defective plant or vehicles; all vehicles with reversing camera or proximity detection for blind-spot visibility; banksmen (spotters) for all reversing operations and any vehicle movement in pedestrian areas; PPE — high-visibility clothing for all workers at all times on site; pre-shift plant inspection; driver competency verification — no one drives or operates plant without a site driving permit; exclusion zones around cranes, excavators, and other heavy plant; and separation of deliveries from working areas during unloading.",
+    "keyPoints": [
+      "Physical segregation: separate pedestrian and vehicle routes with barriers — not just markings",
+      "Speed limits: 15-20 km/h typical on construction sites",
+      "Banksman mandatory for all reversing operations",
+      "Reversing cameras and proximity detection: engineering control to reduce blind spots",
+      "Site driving permit: no driver/plant operator without verified competence",
+      "Exclusion zones: clearly marked, enforced, especially around cranes and excavators",
+      "Hi-vis: all workers at all times, all areas of site"
+    ],
+    "tip": "Struck-by incidents are in the construction Fatal Four and are extremely common in Qatar where busy sites have heavy plant and delivery vehicles operating in close proximity to large workforces. Mentioning physical separation (not just painted lines) and banksmen for reversing shows practical site experience. Also mention that hi-vis vests are the minimum — workers in dusty environments may need fluorescent clothing cleaned regularly to maintain visibility.",
+    "followUpQuestions": [
+      "What is the role of a banksman and what qualifications do they need?",
+      "How do you enforce vehicle speed limits on a busy construction site?",
+      "What proximity detection technology is available for reducing struck-by risk from heavy plant?"
+    ]
+  },
+  {
+    "id": "qa-013",
+    "text": "What qualifications and experience would you expect from an HSE Inspector on a QatarEnergy construction project?",
+    "category": "general",
+    "region": "qatar",
+    "difficulty": "junior",
+    "modelAnswer": "For an HSE Inspector (lower than HSE Officer) on a QatarEnergy project, the typical requirements include: NEBOSH IGC or equivalent (e.g. IOSH Managing Safely for junior inspector roles) as the minimum H&S qualification; relevant construction safety training such as OSHA 10 or OSHA 30; First Aid certificate; H2S awareness training; minimum 3-5 years construction site H&S experience; good written and verbal English (for reporting); ability to conduct and document inspections, identify hazards, and brief workers; knowledge of QatarEnergy PTW system and Golden Rules. For senior inspector/officer roles: NEBOSH Diploma preferred, 8+ years experience, IOSH membership. Additional preferred: CISRS scaffold inspection (if scaffold inspection is within scope), scaffold inspection training, working at height inspection certification. Physical fitness for site inspection work (working outdoors in Qatar heat). All candidates must hold valid residency and relevant QatarEnergy site access documentation.",
+    "keyPoints": [
+      "Minimum qualification: NEBOSH IGC for HSE Inspector; IOSH Managing Safely for entry-level roles",
+      "OSHA 30: valued particularly for contractors to American or international main contractors",
+      "First Aid + H2S Awareness: both typically mandatory for any Gulf O&G site",
+      "Experience: 3-5 years construction site H&S for inspector; 8+ years for senior officer",
+      "QatarEnergy-specific: must be trained on PTW system and Golden Rules before site access",
+      "Languages: English essential for reporting; Arabic an advantage; Hindi/Urdu useful for workforce communication",
+      "Physical: outdoor site work in extreme heat — fitness and heat acclimatisation required"
+    ],
+    "tip": "Understanding the qualification hierarchy helps you position yourself accurately. Many candidates overstate their seniority when applying. Be honest about your qualification level — a QatarEnergy HSE auditor will immediately see through an inflated CV. If you hold NEBOSH IGC, you are qualified for Inspector or Junior Officer roles, not Manager roles.",
+    "followUpQuestions": [
+      "How many HSE inspectors are typically required per 100 workers on a QatarEnergy site?",
+      "What is the first thing you do when arriving on a new site for the first time as an HSE inspector?",
+      "How do you prioritise your time as an inspector when there are multiple issues to address?"
+    ]
+  },
+  {
+    "id": "qa-014",
+    "text": "Describe the PTW system for hot work and what controls must be in place before a hot work permit can be issued.",
+    "category": "hot-work",
+    "region": "qatar",
+    "difficulty": "mid",
+    "modelAnswer": "A hot work permit in Qatar O&G facilities controls all activities that generate sparks or heat above ignition temperature — welding, cutting, grinding, brazing, and certain electrical work. Before a hot work permit can be issued, the following controls must be verified: the area within 15 metres of the work is tested with a calibrated gas detector and confirmed below 10% LEL (and H2S below 10 ppm); all nearby drains and sumps are sealed; combustibles are removed or shielded from the work area; welding screens are in place to contain sparks; a fire watch (fire watcher) with a charged fire extinguisher is positioned at the work site for the duration and for 30 minutes after completion; the welding or cutting equipment is inspected and in safe condition; the welder holds valid hot work competency certification; there are no SIMOPS conflicts (no other operations that could release flammable atmosphere); and the issuing authority has inspected and signed the permit. Gas tests must be repeated at specified intervals (typically every 30 minutes) and if conditions change.",
+    "keyPoints": [
+      "Gas test: <10% LEL AND H2S <10 ppm within 15m of work — continuous monitoring",
+      "Drains/sumps sealed: prevent flammable liquid ingress to work area",
+      "Combustibles removed or shielded within 15m",
+      "Welding screens: contain sparks",
+      "Fire watch: trained fire watcher with extinguisher, present during work and 30 min after",
+      "Welder competency: certified — not just 'experienced'",
+      "SIMOPS check: no conflicting activities that could release hydrocarbons",
+      "Gas test interval: every 30 minutes minimum (or more frequently per site risk)"
+    ],
+    "tip": "The 30-minute post-work fire watch is one of the most commonly missed controls in hot work permits. Fires often start 20-30 minutes after welding stops, when smouldering materials ignite surrounding combustibles. Knowing this — and being able to explain why — is a powerful demonstration of practical hot work safety knowledge.",
+    "followUpQuestions": [
+      "Why does a fire watch need to remain for 30 minutes AFTER hot work is complete?",
+      "What is the LEL and why is 10% of LEL used as the safe limit for hot work?",
+      "Can hot work proceed if the gas reading is 8% LEL and has been stable for 10 minutes?"
+    ]
+  },
+  {
+    "id": "qa-015",
+    "text": "How would you investigate a serious injury to a worker on a QatarEnergy project and prepare the investigation report?",
+    "category": "incident-investigation",
+    "region": "qatar",
+    "difficulty": "mid",
+    "modelAnswer": "A serious injury investigation on a QatarEnergy project follows a structured, thorough process. Immediately: ensure injured worker receives medical treatment; secure and document the scene (photographs, video, measurements before anything is moved); notify QatarEnergy within 1 hour of the incident as per EPIQ requirements. Investigation team: multi-disciplinary — HSE Manager, relevant engineer, operations supervisor, HR — independent of those involved in the incident. Evidence gathering: physical evidence (equipment, tools, materials, PPE condition); witness interviews (conducted separately, early, without blame); documentary evidence (PTW records, risk assessment, training records, maintenance logs). Root cause analysis: use structured methodology (TapRoot, ICAM, or 5 Whys); identify immediate causes, contributing factors, and systemic root causes. Report structure: executive summary; incident description (chronological); evidence gathered; root cause analysis; lessons learned; corrective and preventive actions with assigned owners and completion dates. QatarEnergy requires formal investigation reports for all lost-time injuries within 14 days, submitted through the QatarEnergy contractor portal.",
+    "keyPoints": [
+      "Immediate: medical treatment first → scene security → QatarEnergy notification within 1 hour",
+      "Investigation team: multi-disciplinary, independent of those involved",
+      "Evidence: physical (scene, equipment) + documentary (PTW, training records) + witness interviews",
+      "Root cause methodology: TapRoot, ICAM, or 5 Whys — named methodology not just 'we investigate'",
+      "Report structure: executive summary, chronology, evidence, root cause, lessons learned, CAP",
+      "QatarEnergy requirement: formal report for LTI within 14 days via EPIQ portal",
+      "Corrective Action Plan: specific owners and completion dates — not vague recommendations"
+    ],
+    "tip": "QatarEnergy has a very structured incident reporting and investigation system. Knowing the 1-hour notification requirement and 14-day formal report deadline signals awareness of QatarEnergy-specific procedures. The quality of a corrective action plan separates good investigations from poor ones — weak corrective actions ('retrain the worker') only address symptoms. Powerful ones change systems.",
+    "followUpQuestions": [
+      "What is QatarEnergy's notification timeline requirement for a serious injury?",
+      "How do you ensure corrective actions from an investigation are actually implemented?",
+      "When should you involve the injured worker in the investigation process?"
+    ]
+  }
+]

@@ -1,0 +1,176 @@
+{
+  "id": "nebosh-igc/element-3-quiz",
+  "moduleId": "certifications/nebosh-igc/element-3",
+  "title": "Element 3 Quiz — Managing Risk",
+  "passMark": 70,
+  "questions": [
+    {
+      "id": "e3-q1",
+      "text": "What is the CORRECT formula for calculating risk?",
+      "options": [
+        { "id": "a", "text": "Risk = Hazard × Exposure" },
+        { "id": "b", "text": "Risk = Likelihood × Consequence" },
+        { "id": "c", "text": "Risk = Frequency × Duration" },
+        { "id": "d", "text": "Risk = Probability × Population" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Risk = Likelihood (probability of harm occurring) × Consequence (severity of harm if it does occur). This fundamental formula is the basis for all risk matrices used in H&S risk assessment.",
+      "difficulty": "easy",
+      "tags": ["risk formula", "risk assessment"]
+    },
+    {
+      "id": "e3-q2",
+      "text": "A risk assessment has been completed for manual handling tasks in a warehouse. Three months later, a new and heavier product line is introduced. What action should be taken?",
+      "options": [
+        { "id": "a", "text": "No action — the existing risk assessment covers all manual handling" },
+        { "id": "b", "text": "The risk assessment should be reviewed and updated to reflect the changed conditions" },
+        { "id": "c", "text": "A new risk assessment is only needed if there is an accident" },
+        { "id": "d", "text": "Workers should be informed verbally but no documentation is needed" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Risk assessments must be reviewed and updated when there is a significant change in the workplace — including new equipment, substances, processes, or working arrangements. Introducing heavier products changes the manual handling risk profile and requires review.",
+      "difficulty": "easy",
+      "tags": ["risk assessment", "review"]
+    },
+    {
+      "id": "e3-q3",
+      "text": "In the hierarchy of controls, which measure is MOST effective at protecting workers?",
+      "options": [
+        { "id": "a", "text": "Providing appropriate personal protective equipment (PPE)" },
+        { "id": "b", "text": "Introducing administrative controls such as safe working procedures" },
+        { "id": "c", "text": "Eliminating the hazard completely" },
+        { "id": "d", "text": "Improving training and supervision" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Elimination — removing the hazard entirely — is always the most effective control because it removes all possibility of the hazard causing harm. PPE is at the bottom of the hierarchy because it relies on the worker wearing it correctly at all times and does not remove the hazard.",
+      "difficulty": "easy",
+      "tags": ["hierarchy of controls"]
+    },
+    {
+      "id": "e3-q4",
+      "text": "A worker repeatedly takes a shortcut through a safe working procedure because it saves time and they have never been hurt doing so. This type of human error is classified as a:",
+      "options": [
+        { "id": "a", "text": "Slip" },
+        { "id": "b", "text": "Lapse" },
+        { "id": "c", "text": "Mistake" },
+        { "id": "d", "text": "Violation" }
+      ],
+      "correctOptionId": "d",
+      "explanation": "A violation is a deliberate deviation from a rule or procedure. The worker knows the correct procedure but chooses not to follow it. Slips and lapses are unintentional attention and memory failures; mistakes involve wrong judgements about the situation.",
+      "difficulty": "medium",
+      "tags": ["human error", "violations"]
+    },
+    {
+      "id": "e3-q5",
+      "text": "A HAZOP (Hazard and Operability Study) is MOST suitable for:",
+      "options": [
+        { "id": "a", "text": "Identifying hazards during routine inspection of an office" },
+        { "id": "b", "text": "Examining deviations from design intent in process plant systems" },
+        { "id": "c", "text": "Assessing ergonomic risks at computer workstations" },
+        { "id": "d", "text": "Conducting post-accident investigations" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "HAZOP is a formal, structured technique used to identify hazards and operability problems in process plant systems by systematically examining deviations from design intent using guide words (such as 'more than', 'less than', 'reverse'). It is most commonly used in chemical plants, refineries, and process industries.",
+      "difficulty": "medium",
+      "tags": ["hazard identification", "HAZOP"]
+    },
+    {
+      "id": "e3-q6",
+      "text": "According to the Swiss Cheese Model of accident causation, accidents occur when:",
+      "options": [
+        { "id": "a", "text": "A single worker makes a critical error" },
+        { "id": "b", "text": "Holes in multiple layers of defence align to allow an accident trajectory to pass through" },
+        { "id": "c", "text": "Safety equipment fails due to poor maintenance" },
+        { "id": "d", "text": "Management fails to conduct regular risk assessments" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "James Reason's Swiss Cheese Model illustrates that organisations have multiple layers of defence (like slices of Swiss cheese). Each layer has weaknesses ('holes'). When the holes in all layers align simultaneously, the accident trajectory passes through and an accident occurs. No single failure causes an accident — it requires multiple system failures.",
+      "difficulty": "medium",
+      "tags": ["accident causation", "Swiss Cheese Model"]
+    },
+    {
+      "id": "e3-q7",
+      "text": "What is the MAIN purpose of a Permit to Work (PTW) system?",
+      "options": [
+        { "id": "a", "text": "To provide a permanent record for insurance purposes" },
+        { "id": "b", "text": "To formally authorise high-risk work with defined controls verified before work starts" },
+        { "id": "c", "text": "To replace the need for a risk assessment" },
+        { "id": "d", "text": "To satisfy government regulatory requirements only" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "A Permit to Work system formally authorises specific people to carry out specific high-risk work in a specific location at a specific time, with defined control measures verified before work commences. It is a communication and control document, not a substitute for risk assessment.",
+      "difficulty": "easy",
+      "tags": ["permit to work", "safe system of work"]
+    },
+    {
+      "id": "e3-q8",
+      "text": "An individual factor that can increase the likelihood of human error is:",
+      "options": [
+        { "id": "a", "text": "Strong organisational safety culture" },
+        { "id": "b", "text": "Fatigue due to excessive working hours or shift work" },
+        { "id": "c", "text": "Use of well-designed, ergonomically optimised tools" },
+        { "id": "d", "text": "Clear, simple written procedures with diagrams" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Fatigue is a significant individual factor that impairs attention, decision-making, reaction time, and memory — all of which increase the probability of slips, lapses, and mistakes. It is particularly important in shift work industries such as O&G, healthcare, and construction.",
+      "difficulty": "medium",
+      "tags": ["human factors", "fatigue"]
+    },
+    {
+      "id": "e3-q9",
+      "text": "When evaluating risk, which combination produces the highest risk score?",
+      "options": [
+        { "id": "a", "text": "Likelihood 2, Severity 5 (Risk = 10)" },
+        { "id": "b", "text": "Likelihood 3, Severity 4 (Risk = 12)" },
+        { "id": "c", "text": "Likelihood 5, Severity 4 (Risk = 20)" },
+        { "id": "d", "text": "Likelihood 4, Severity 4 (Risk = 16)" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Risk = Likelihood × Severity. L5 × S4 = 20 is the highest score among these options. In a standard 5×5 risk matrix, scores of 20–25 are typically in the 'critical' or 'intolerable' zone requiring immediate action.",
+      "difficulty": "easy",
+      "tags": ["risk matrix", "risk calculation"]
+    },
+    {
+      "id": "e3-q10",
+      "text": "A Task Risk Assessment (TRA) is conducted before work on a Gulf O&G project. The main advantage of involving workers in the TRA process is:",
+      "options": [
+        { "id": "a", "text": "It reduces the legal liability of the HSE department" },
+        { "id": "b", "text": "Workers have practical knowledge of task hazards that managers may not be aware of" },
+        { "id": "c", "text": "It means workers cannot claim they were not consulted" },
+        { "id": "d", "text": "It speeds up the assessment process" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Workers performing a task have first-hand knowledge of the practical hazards, difficulties, and shortcuts involved. Their participation in risk assessment is valuable not just legally but practically — it produces better, more relevant assessments and increases worker ownership of safety controls.",
+      "difficulty": "medium",
+      "tags": ["worker consultation", "TRA", "Gulf context"]
+    },
+    {
+      "id": "e3-q11",
+      "text": "Substitution in the hierarchy of controls means:",
+      "options": [
+        { "id": "a", "text": "Replacing one worker with a more experienced one" },
+        { "id": "b", "text": "Replacing a hazardous substance or process with one that presents less risk" },
+        { "id": "c", "text": "Using PPE instead of engineering controls" },
+        { "id": "d", "text": "Sub-contracting hazardous work to another company" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Substitution means replacing something hazardous with something less hazardous. Examples: replacing a solvent-based paint with water-based; replacing a toxic chemical with a less toxic alternative; replacing manual handling with mechanical handling. The hazard is reduced, not eliminated.",
+      "difficulty": "easy",
+      "tags": ["hierarchy of controls", "substitution"]
+    },
+    {
+      "id": "e3-q12",
+      "text": "ALARP means that risk has been reduced to a level where:",
+      "options": [
+        { "id": "a", "text": "There is zero risk of harm to any worker" },
+        { "id": "b", "text": "All possible controls have been applied regardless of cost" },
+        { "id": "c", "text": "Further risk reduction would require effort grossly disproportionate to the benefit gained" },
+        { "id": "d", "text": "Risk has been reduced below the legal minimum" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "ALARP (As Low As Reasonably Practicable) means reducing risk until the cost (time, money, effort) of further reduction would be grossly disproportionate to the safety benefit. It is not zero risk — zero risk is rarely achievable. It is the legal standard used in UK, Australia, and referenced by international standards.",
+      "difficulty": "medium",
+      "tags": ["ALARP", "risk control"]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "certifications/first-aid/cpr-aed",
+  "sectionId": "first-aid",
+  "title": "Module 2: CPR and AED Use",
+  "order": 2,
+  "estimatedReadTime": 18,
+  "difficulty": "beginner",
+  "learningObjectives": [
+    "Perform adult CPR correctly — 30 compressions : 2 rescue breaths at the correct rate and depth",
+    "Understand the chain of survival and why early CPR and defibrillation are critical",
+    "Operate an Automated External Defibrillator (AED) safely",
+    "Understand when to continue and when to stop CPR",
+    "Apply CPR in special circumstances relevant to Gulf industrial settings"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Cardiac Arrest — The Emergency CPR Is Designed For"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cardiac arrest occurs when the heart suddenly stops pumping blood effectively. Without blood flow, the brain begins to suffer irreversible damage within 4–6 minutes. Cardiac arrest is different from a heart attack (myocardial infarction) — a heart attack is a blocked artery causing damage to the heart muscle; cardiac arrest is the complete cessation of effective heart function. A heart attack can lead to cardiac arrest, but cardiac arrest can also be caused by electric shock, drowning, H2S exposure, severe trauma, or certain arrhythmias."
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Gulf industrial settings, cardiac arrest may be caused by: electric shock (arc flash or direct contact with live conductors); H2S gas exposure causing rapid incapacitation and respiratory arrest leading to cardiac arrest; heat stroke causing multi-organ failure; trauma from falls or struck-by incidents. In all these cases, the first aider's CPR technique is the same — but the scene safety assessment before approach is critical."
+    },
+    {
+      "type": "heading",
+      "text": "The Chain of Survival"
+    },
+    {
+      "type": "paragraph",
+      "text": "Survival from cardiac arrest depends on a chain of actions happening quickly and in sequence. Each link is critical — a delay at any link reduces survival probability."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Link 1: Early recognition and call for help — recognise cardiac arrest, call emergency services immediately",
+        "Link 2: Early CPR — begin chest compressions immediately; CPR buys time by maintaining minimal blood flow to the brain",
+        "Link 3: Early defibrillation — most cardiac arrests involve a shockable heart rhythm; AED restores normal rhythm; every minute without defibrillation reduces survival by 10%",
+        "Link 4: Advanced life support — paramedics or doctors take over with drugs, advanced airway, and monitoring",
+        "Link 5: Post-resuscitation care — hospital treatment to address the underlying cause"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "The first two links in the chain of survival are performed by bystanders and first aiders — NOT by paramedics. Early CPR and rapid AED access are the most important determinants of survival before the ambulance arrives. This is why workplace AEDs and trained first aiders save lives."
+    },
+    {
+      "type": "heading",
+      "text": "How to Perform Adult CPR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before starting CPR: confirm the scene is safe; confirm the casualty is unresponsive and not breathing normally (gasping/agonal breathing is NOT normal breathing); send someone to call emergency services and get an AED."
+    },
+    {
+      "type": "list",
+      "items": [
+        "1. Position: place the casualty on their back on a firm surface; kneel beside the chest",
+        "2. Hand position: place the heel of your dominant hand on the centre of the chest (lower half of the breastbone/sternum); place your other hand on top, fingers interlocked, fingers pointing away from you",
+        "3. Body position: arms straight, locked at the elbows; lean directly over the casualty's chest",
+        "4. Compression depth: push down hard — at least 5 cm (2 inches) for an adult; release fully between compressions (allow full chest recoil)",
+        "5. Compression rate: 100–120 compressions per minute — roughly the beat of the song 'Stayin' Alive'",
+        "6. Ratio: 30 compressions : 2 rescue breaths (if trained and willing); or compression-only CPR if untrained or unwilling to give breaths",
+        "7. Rescue breaths: tilt head back, lift chin, pinch nose, create a seal over the mouth, give a breath over 1 second watching for chest rise; give 2 breaths then resume 30 compressions immediately",
+        "8. Continue: do not stop unless the casualty begins breathing normally, a defibrillator is ready to use, a healthcare professional takes over, or you are physically unable to continue"
+      ]
+    },
+    {
+      "type": "example",
+      "text": "A construction worker collapses in the site office. First aider approach: (1) Check danger — no obvious hazards; (2) Check response — no response; (3) Shout for help, send someone for AED and to call 999/911; (4) Tilt head, check breathing for 10 seconds — no normal breathing; (5) Begin 30 chest compressions immediately at 100-120/min; (6) Give 2 rescue breaths; (7) Continue 30:2 until AED arrives. When AED arrives: open, switch on, attach pads, follow voice instructions."
+    },
+    {
+      "type": "heading",
+      "text": "Compression-Only CPR"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not trained in rescue breathing, or if the situation prevents it (e.g. vomit, blood, no face shield available), give continuous chest compressions at 100–120/minute without rescue breaths. Compression-only CPR is significantly better than no CPR. The lungs contain residual oxygen that circulates with compressions alone for the first several minutes. For suspected H2S-related cardiac arrest, compression-only CPR is advisable without confirmed airway protection, as the casualty's exhaled breath may contain H2S."
+    },
+    {
+      "type": "warning",
+      "text": "For suspected H2S-related cardiac arrest: do not give mouth-to-mouth rescue breaths without a barrier device — the casualty's lungs may contain H2S. Use a pocket mask with one-way valve if available, or perform compression-only CPR until SCBA-equipped personnel can manage the airway safely."
+    },
+    {
+      "type": "heading",
+      "text": "Automated External Defibrillator (AED)"
+    },
+    {
+      "type": "paragraph",
+      "text": "An AED analyses the heart rhythm and delivers an electric shock if a shockable rhythm (Ventricular Fibrillation or pulseless Ventricular Tachycardia) is detected. Modern AEDs are designed for use by untrained bystanders — they give clear voice and visual instructions at every step. You cannot harm a patient in cardiac arrest with an AED — if the rhythm is not shockable, the AED will instruct you not to shock."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Step 1: Turn on the AED (open the lid or press the power button)",
+        "Step 2: Attach the electrode pads to the casualty's bare chest — one below the right collarbone, one on the left side below the armpit; most AEDs have diagrams on the pads showing placement",
+        "Step 3: Let the AED analyse the rhythm — do not touch the casualty during analysis",
+        "Step 4: If a shock is advised — shout 'CLEAR,' visually check no one is touching the casualty, then press the shock button",
+        "Step 5: Immediately resume CPR starting with chest compressions — do not wait for the AED to analyse again",
+        "Step 6: Follow AED voice prompts — typically re-analyse every 2 minutes"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "AED placement is mandatory in many Gulf industrial facilities — Aramco requires AEDs in first aid rooms and in areas with more than a specified number of workers. For maximum effectiveness, AEDs should be accessible within 3 minutes of any location on site. Gulf construction HSE Officers should know exactly where the nearest AED is located and ensure all first aiders know how to use it."
+    },
+    {
+      "type": "heading",
+      "text": "CPR in Special Gulf Industrial Circumstances"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Situation", "Special Considerations"],
+        "rows": [
+          ["Electric shock", "Ensure power is isolated BEFORE touching casualty; if still in contact with live source, do NOT touch; use non-conducting material to push source away or isolate remotely"],
+          ["H2S exposure", "Do NOT enter H2S zone without SCBA; remove casualty from the zone first if possible with SCBA; use compression-only CPR; 100% oxygen via face mask aids recovery"],
+          ["Heat stroke arrest", "Cool aggressively WHILE giving CPR — remove to shade, apply ice packs to neck, armpits, groin; this is the primary life-saving measure alongside CPR"],
+          ["Drowning", "5 rescue breaths before compressions — oxygenation is primary problem; water in lungs does not prevent effective CPR"],
+          ["Trauma arrest", "Control catastrophic bleeding first (tourniquet, direct pressure); then CPR if cardiac arrest confirmed; major bleeding cardiac arrest has different priorities to medical cardiac arrest"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "When to Stop CPR"
+    },
+    {
+      "type": "list",
+      "items": [
+        "The casualty starts breathing normally (signs of life return)",
+        "A healthcare professional (paramedic, doctor) takes over",
+        "A defibrillator achieves return of spontaneous circulation",
+        "You receive a medical instruction to stop (from emergency services)",
+        "You are physically exhausted and cannot continue — try to get a bystander to take over; CPR is physically demanding (even teams rotate every 2 minutes)",
+        "The scene becomes unsafe"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "CPR quality degrades rapidly due to fatigue — compressions become shallower and rate decreases. In a team setting, rotate the person giving compressions every 2 minutes (coordinated with AED analysis cycles). This is standard practice in Gulf first aid team training."
+    }
+  ],
+  "quizId": "first-aid/cpr-aed-quiz"
+}

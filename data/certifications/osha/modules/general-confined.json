@@ -1,0 +1,115 @@
+{
+  "id": "certifications/osha/general-confined",
+  "sectionId": "osha",
+  "title": "Permit-Required Confined Spaces (29 CFR 1910.146)",
+  "order": 14,
+  "estimatedReadTime": 22,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Distinguish a confined space from a permit-required confined space",
+    "Describe the three team roles: entrant, attendant, and entry supervisor",
+    "List the atmospheric monitoring sequence before and during confined space entry",
+    "Apply confined space rescue principles relevant to Gulf oil and gas work"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "What Makes a Space 'Confined'?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A confined space is a space that: (1) is large enough for a person to enter and perform work, (2) has limited or restricted means of entry or exit, and (3) is NOT designed for continuous human occupancy. Tanks, vessels, silos, storage bins, hoppers, vaults, sewers, pipes, and pits are all confined spaces."
+    },
+    {
+      "type": "heading",
+      "text": "Confined Space vs. Permit-Required Confined Space"
+    },
+    {
+      "type": "definition",
+      "term": "Permit-Required Confined Space (PRCS)",
+      "text": "A confined space that has one or more of the following: (1) contains or has a potential to contain a serious atmospheric hazard, (2) contains a material that has the potential to engulf an entrant, (3) has an internal configuration that could trap or asphyxiate an entrant (inwardly converging walls, sloping floor), or (4) contains any other recognised serious safety or health hazard."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Space Type", "Examples", "Controls Required"],
+        "rows": [
+          ["Non-permit confined space", "Attic, walk-in freezer, some tunnels", "Awareness, ventilation, basic precautions"],
+          ["Permit-required confined space", "Storage tanks, vessels, sewers, pits with chemical or O2 hazard", "Full permit system, 3-person team, atmospheric testing, rescue plan"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "The Permit System"
+    },
+    {
+      "type": "paragraph",
+      "text": "A confined space entry permit is a written document that authorises and controls entry into a PRCS. It must list: the space being entered, the purpose and duration of entry, the date and time, the hazards in the space, the measures used to isolate the space and eliminate or control hazards, acceptable entry conditions, atmospheric test results, rescue and emergency services, required equipment, and signatures of the entry supervisor."
+    },
+    {
+      "type": "heading",
+      "text": "The Three Team Roles"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Role", "Location", "Responsibilities"],
+        "rows": [
+          ["Authorised Entrant", "Inside the confined space", "Knows hazards and symptoms; communicates with attendant; exits immediately if conditions change or attendant orders evacuation"],
+          ["Attendant", "Outside the space — maintains continuous contact", "Tracks number and identity of entrants; monitors entry conditions; orders evacuation if necessary; summons rescue if needed; NEVER enters the space to perform rescue"],
+          ["Entry Supervisor", "At or near the space", "Verifies all permit conditions are met before entry; terminates entry if conditions deteriorate; cancels the permit when entry is complete"]
+        ]
+      }
+    },
+    {
+      "type": "warning",
+      "text": "60% of confined space fatalities are would-be rescuers — not the original victim. The attendant must NEVER enter the space to perform rescue. Only trained rescue personnel with appropriate equipment may enter. Non-entry rescue (retrieval lines, mechanical lifting devices) must be the first rescue option."
+    },
+    {
+      "type": "heading",
+      "text": "Atmospheric Testing Sequence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Atmospheric testing must be performed before entry and continuously during entry in permit spaces with atmospheric hazards. Test in this order — sequence matters because a flammable atmosphere can make oxygen testing meaningless, and oxygen affects the sensitivity of the combustible gas sensor."
+    },
+    {
+      "type": "list",
+      "items": [
+        "1. Oxygen level: acceptable range 19.5%–23.5% O2. Below 19.5% = oxygen deficient; above 23.5% = oxygen enriched (fire hazard)",
+        "2. Flammable gases: acceptable below 10% LEL. Evacuate and ventilate above 10% LEL; do not enter above 10%",
+        "3. Toxic gases and vapours: must be below the OSHA PEL or ACGIH TLV. H2S: IDLH at 100 ppm; action level often 5–10 ppm on Gulf sites",
+        "4. Additional site-specific contaminants as identified in the permit"
+      ]
+    },
+    {
+      "type": "definition",
+      "term": "LEL (Lower Explosive Limit)",
+      "text": "The minimum concentration of a flammable gas or vapour in air that will ignite. Below the LEL, the mixture is 'too lean' to ignite. Above the UEL (Upper Explosive Limit), it is 'too rich'. The explosive range between LEL and UEL is where ignition is possible. OSHA requires evacuation above 10% LEL."
+    },
+    {
+      "type": "heading",
+      "text": "Ventilation, Isolation, and PPE"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Continuous forced-air ventilation (blower) should supply fresh air at the work area — never use pure oxygen to ventilate",
+        "All energy sources must be locked out and all lines blinded or double-blocked before entry",
+        "A retrieval line attached to the entrant's harness must be set up for non-entry rescue wherever feasible",
+        "SCBA (self-contained breathing apparatus) may be required if O2 is deficient or toxic atmosphere cannot be eliminated",
+        "H2S monitor (personal gas detector) must be worn by all entrants in potential H2S atmospheres"
+      ]
+    },
+    {
+      "type": "example",
+      "text": "A maintenance team at a refinery needs to enter a desalter vessel for internal inspection. Before entry: the vessel is drained, purged with nitrogen (then flushed with air), blinded on all inlet/outlet lines, locked out on all connections, and a confined space entry permit is issued. The atmosphere is tested: O2 = 20.8%, LEL = 0%, H2S = 0 ppm. Two entrants enter with personal H2S monitors, connected to retrieval lines. The attendant maintains continuous radio contact and monitors the entrance. The entry supervisor has a pre-briefed rescue plan with SCBA-equipped rescue team on standby."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Confined space entry is one of the highest-risk activities on Gulf oil and gas sites. Aramco's SEMP Life-Saving Rule #8 covers confined space entry and requires: a PTW with a Confined Space Permit, atmospheric testing records on the permit, a designated standby man (attendant), and emergency rescue provision. H2S is a constant concern in Saudi, Kuwait, and Oman crude oil handling — many confined spaces that appear gas-free can have H2S pockets in low spots. Qatar's LNG facilities face different risks — cold temperatures and nitrogen blanketing in cryogenic vessels can create oxygen-deficient atmospheres instantly. In the UAE, ADNOC's HSEMS Confined Space Procedure mirrors OSHA 1910.146 exactly, with additional requirements for buddy systems and communication checks every 15 minutes."
+    }
+  ],
+  "quizId": null
+}

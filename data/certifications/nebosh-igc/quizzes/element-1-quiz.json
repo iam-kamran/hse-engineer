@@ -1,0 +1,176 @@
+{
+  "id": "nebosh-igc/element-1-quiz",
+  "moduleId": "certifications/nebosh-igc/element-1",
+  "title": "Element 1 Quiz — Why We Should Manage H&S",
+  "passMark": 70,
+  "questions": [
+    {
+      "id": "e1-q1",
+      "text": "Which of the following BEST describes the moral argument for managing workplace health and safety?",
+      "options": [
+        { "id": "a", "text": "Employers should manage safety to avoid financial penalties" },
+        { "id": "b", "text": "Workers have an inherent right not to be harmed by their work and employers have a duty of care" },
+        { "id": "c", "text": "Safety management is required to comply with insurance conditions" },
+        { "id": "d", "text": "Good safety performance improves company reputation" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The moral argument states that every person has a right to go home from work unharmed. It is based on the duty of care — a fundamental ethical obligation — not on financial or legal consequences.",
+      "difficulty": "easy",
+      "tags": ["moral argument", "duty of care"]
+    },
+    {
+      "id": "e1-q2",
+      "text": "An improvement notice issued by a safety inspector requires an employer to:",
+      "options": [
+        { "id": "a", "text": "Stop work on the activity immediately" },
+        { "id": "b", "text": "Pay a fixed fine to the regulatory authority" },
+        { "id": "c", "text": "Remedy a contravention of law within a specified time period; work may continue" },
+        { "id": "d", "text": "Submit a written accident report within 24 hours" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "An improvement notice requires compliance within a set time period (typically 21 days minimum) but does not stop work. A prohibition notice, by contrast, stops the activity immediately when there is risk of serious personal injury.",
+      "difficulty": "easy",
+      "tags": ["enforcement", "improvement notice"]
+    },
+    {
+      "id": "e1-q3",
+      "text": "What does the 'iceberg model' of accident costs illustrate?",
+      "options": [
+        { "id": "a", "text": "Most accident costs are covered by insurance" },
+        { "id": "b", "text": "Uninsured indirect costs are typically much greater than insured direct costs" },
+        { "id": "c", "text": "Cold working environments increase accident risk" },
+        { "id": "d", "text": "The hidden emotional impact of accidents on workers" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The iceberg model shows that the visible direct costs (medical, compensation) are just the 'tip' — the much larger uninsured indirect costs (lost production, management time, training replacements, reputational damage) lie 'below the surface'. Research shows indirect costs are 8–36x direct costs.",
+      "difficulty": "easy",
+      "tags": ["financial argument", "accident costs"]
+    },
+    {
+      "id": "e1-q4",
+      "text": "A prohibition notice can be issued by a health and safety inspector when:",
+      "options": [
+        { "id": "a", "text": "An employer has failed to keep accident records" },
+        { "id": "b", "text": "There is a risk of serious personal injury if the activity continues" },
+        { "id": "c", "text": "An employer has not paid their workers properly" },
+        { "id": "d", "text": "Workers have not received their statutory holiday entitlement" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "A prohibition notice is issued when an inspector believes there is imminent risk of serious personal injury. It stops the activity immediately. It is the most serious enforcement action short of prosecution.",
+      "difficulty": "easy",
+      "tags": ["enforcement", "prohibition notice"]
+    },
+    {
+      "id": "e1-q5",
+      "text": "Which of the following is an example of an INDIRECT (uninsured) cost of a workplace accident?",
+      "options": [
+        { "id": "a", "text": "Medical treatment costs covered by employer's liability insurance" },
+        { "id": "b", "text": "Compensation payment to the injured worker" },
+        { "id": "c", "text": "Time spent by management investigating the accident" },
+        { "id": "d", "text": "Legal fees paid to defend a civil claim" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Management investigation time is an indirect (uninsured) cost — it is not covered by insurance and represents lost productive time. Direct costs (medical treatment, compensation, legal fees) are typically insured. Both (a) and (d) are direct costs.",
+      "difficulty": "medium",
+      "tags": ["financial argument", "direct costs", "indirect costs"]
+    },
+    {
+      "id": "e1-q6",
+      "text": "The ILO (International Labour Organization) creates international labour standards through:",
+      "options": [
+        { "id": "a", "text": "Directives that all member states must implement within 2 years" },
+        { "id": "b", "text": "Conventions (binding on ratifying states) and Recommendations (non-binding guidance)" },
+        { "id": "c", "text": "Regulations that override national law in all member countries" },
+        { "id": "d", "text": "Annual global inspections of workplaces in member states" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The ILO creates Conventions, which are legally binding international treaties for countries that ratify them, and Recommendations, which provide guidance but are not legally binding. The ILO does not have inspectors or the ability to override national law.",
+      "difficulty": "medium",
+      "tags": ["ILO", "international standards"]
+    },
+    {
+      "id": "e1-q7",
+      "text": "Under most H&S legal frameworks, employees have a duty to:",
+      "options": [
+        { "id": "a", "text": "Conduct formal risk assessments for all activities they perform" },
+        { "id": "b", "text": "Take reasonable care of themselves and others, and cooperate with their employer on H&S matters" },
+        { "id": "c", "text": "Provide and maintain all personal protective equipment at their own expense" },
+        { "id": "d", "text": "Investigate all accidents that occur in their work area" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Employees are required to take reasonable care for their own safety and the safety of others who may be affected by their acts or omissions, and to cooperate with their employer in complying with H&S law. Risk assessments and PPE provision are employer duties.",
+      "difficulty": "easy",
+      "tags": ["legal duties", "employees"]
+    },
+    {
+      "id": "e1-q8",
+      "text": "Which statement BEST describes criminal liability in the context of workplace health and safety?",
+      "options": [
+        { "id": "a", "text": "An injured worker sues the employer for financial compensation" },
+        { "id": "b", "text": "The state prosecutes an employer or individual for breach of health and safety law, which can result in fines or imprisonment" },
+        { "id": "c", "text": "An insurer recovers costs from the employer after paying out on a claim" },
+        { "id": "d", "text": "A regulatory body closes a business permanently for poor safety standards" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Criminal liability involves the state (government/regulator) prosecuting an employer or individual for breaching health and safety law. Penalties can include unlimited fines and imprisonment. Civil liability (option A) is a separate legal action by the injured party for compensation.",
+      "difficulty": "medium",
+      "tags": ["legal argument", "criminal liability"]
+    },
+    {
+      "id": "e1-q9",
+      "text": "A health and safety inspector visits a construction site and finds serious, immediate risk of injury. Which enforcement action would be MOST appropriate?",
+      "options": [
+        { "id": "a", "text": "Informal advice followed by a letter of concern" },
+        { "id": "b", "text": "An improvement notice requiring action within 21 days" },
+        { "id": "c", "text": "A prohibition notice stopping the dangerous activity immediately" },
+        { "id": "d", "text": "A fine imposed on the spot by the inspector" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Where there is imminent risk of serious personal injury, a prohibition notice is the appropriate response. It stops the specific activity immediately. Inspectors cannot impose on-the-spot fines — this would require prosecution.",
+      "difficulty": "easy",
+      "tags": ["enforcement", "prohibition notice"]
+    },
+    {
+      "id": "e1-q10",
+      "text": "Which of the following is the MOST powerful argument for a cost-conscious senior manager who is reluctant to invest in H&S improvements?",
+      "options": [
+        { "id": "a", "text": "The moral argument — workers have a right not to be harmed" },
+        { "id": "b", "text": "The financial argument — accidents cost far more than prevention, including uninsured losses and reputational damage" },
+        { "id": "c", "text": "The legal argument — the company could face an improvement notice" },
+        { "id": "d", "text": "The H&S policy requires it" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "For a cost-conscious manager, the financial argument is most persuasive. Research consistently shows that accident costs (direct + indirect) vastly exceed the cost of prevention. For other audiences, the moral argument might be most powerful. NEBOSH exams often ask which argument is 'most appropriate' for a specific audience.",
+      "difficulty": "medium",
+      "tags": ["financial argument", "arguments for H&S"]
+    },
+    {
+      "id": "e1-q11",
+      "text": "A company's suppliers and designers have a duty to:",
+      "options": [
+        { "id": "a", "text": "Conduct risk assessments on behalf of their customers" },
+        { "id": "b", "text": "Ensure products and designs are safe throughout their intended use, and provide adequate information about residual risks" },
+        { "id": "c", "text": "Provide their own H&S inspectors to oversee use of their products" },
+        { "id": "d", "text": "Take out additional insurance to cover product liability claims" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Designers and manufacturers/suppliers must ensure their products are safe for their intended purpose and provide adequate information (instruction manuals, safety data sheets, warnings) about any residual risks. They share in the duty of care alongside the employer using the product.",
+      "difficulty": "medium",
+      "tags": ["legal duties", "designers", "suppliers"]
+    },
+    {
+      "id": "e1-q12",
+      "text": "In Gulf O&G operations, which regulatory requirement is MOST commonly cited for contractor H&S performance reporting?",
+      "options": [
+        { "id": "a", "text": "UK Health and Safety at Work Act 1974" },
+        { "id": "b", "text": "Saudi Aramco SEMP (Safety and Environment Management Plan)" },
+        { "id": "c", "text": "EU ATEX Directive" },
+        { "id": "d", "text": "ISO 9001 Quality Management Standard" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Saudi Aramco's SEMP (Safety and Environment Management Plan) is the primary H&S framework imposed on all Aramco contractors. It requires monthly HSE statistics (TRCR, DAFWR, near-miss rate), HSE plans, PTW compliance, and regular audits. Understanding SEMP is essential for any HSE professional working in Saudi Arabia.",
+      "difficulty": "medium",
+      "tags": ["Gulf context", "Aramco SEMP"]
+    }
+  ]
+}

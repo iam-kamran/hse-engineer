@@ -1,0 +1,122 @@
+{
+  "id": "certifications/nebosh-diploma/unit-b",
+  "sectionId": "nebosh-diploma",
+  "title": "Unit B: Hazardous Agents in the Workplace",
+  "order": 2,
+  "estimatedReadTime": 25,
+  "difficulty": "advanced",
+  "learningObjectives": [
+    "Apply a structured approach to recognising, evaluating, and controlling chemical and biological hazards",
+    "Understand occupational exposure limits (OELs) and how they are measured",
+    "Conduct a COSHH-equivalent assessment for a complex workplace chemical hazard",
+    "Recognise physical hazards (noise, vibration, radiation) and their health effects"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "What Unit B Covers"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unit B is the occupational hygiene module of the NEBOSH Diploma. It covers chemical agents, biological agents, physical agents (noise, vibration, radiation), and the systematic process for their recognition, evaluation, and control. At Diploma level, you move from 'what is a hazardous substance' to 'how do I conduct a defensible health risk assessment and select appropriate control measures.'"
+    },
+    {
+      "type": "heading",
+      "text": "The Recognition-Evaluation-Control Framework"
+    },
+    {
+      "type": "paragraph",
+      "text": "Occupational hygiene follows a three-stage framework that mirrors the risk assessment process. Recognition identifies what hazardous agents are present. Evaluation quantifies exposure and compares to OELs. Control selects and implements appropriate measures from the hierarchy of controls."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Stage", "Actions", "Tools"],
+        "rows": [
+          ["Recognition", "Chemical inventory, process review, COSHH assessment, biological monitoring indication", "SDS review, walk-through surveys, job safety analysis"],
+          ["Evaluation", "Exposure measurement, biological monitoring, comparison to OELs/BEIs", "Occupational hygiene sampling (grab, personal, area), laboratory analysis, AIHA IHMOD"],
+          ["Control", "Hierarchy of controls: elimination > substitution > engineering > admin > PPE", "LEV design, enclosure, dilution ventilation, respiratory programme"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Occupational Exposure Limits (OELs)"
+    },
+    {
+      "type": "definition",
+      "term": "Workplace Exposure Limit (WEL)",
+      "text": "The UK term for OEL — the maximum concentration of an airborne substance averaged over a reference period (8-hour TWA or 15-minute STEL) to which workers may be exposed. Set by the Health and Safety Executive. Equivalent to OSHA PELs (US) and ACGIH TLVs (international recommendation)."
+    },
+    {
+      "type": "list",
+      "items": [
+        "TWA (Time-Weighted Average): the 8-hour average concentration. Standard OEL reference period.",
+        "STEL (Short-Term Exposure Limit): the 15-minute average concentration. Must not be exceeded during any 15-minute period.",
+        "Ceiling value: an instantaneous maximum — must NEVER be exceeded, even momentarily.",
+        "BEI (Biological Exposure Index): measures the chemical or its metabolite in blood, urine, or exhaled air — assesses actual body burden regardless of route of entry."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Chemical Hazard Classification at Diploma Level"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Diploma requires understanding of GHS hazard classification categories in depth — not just the pictograms, but the cut-off values that determine classification. For example: Acute Toxicity Category 1 (LD50 ≤ 5 mg/kg oral) vs. Category 4 (LD50 300–2000 mg/kg). This depth is needed to design appropriate substitution strategies."
+    },
+    {
+      "type": "heading",
+      "text": "COSHH Assessment (UK) / Health Risk Assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "The COSHH Regulations (Control of Substances Hazardous to Health) framework is the UK's implementation of the Recognition-Evaluation-Control process. Even in non-UK contexts, the COSHH methodology is internationally respected and used as a model for health risk assessment in the Gulf."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Step 1: Identify the substance and hazard (SDS, chemical inventory, COSHH database)",
+        "Step 2: Determine who might be harmed and how (route of entry: inhalation, skin absorption, ingestion, injection)",
+        "Step 3: Evaluate exposure (compare to WEL/OEL; consider duration, frequency, task variability)",
+        "Step 4: Determine and implement control measures (hierarchy, LEV, RPE)",
+        "Step 5: Maintain controls (inspection, LEV testing, RPE fit testing programme)",
+        "Step 6: Monitor health (biological monitoring, health surveillance where required)",
+        "Step 7: Record the assessment and review"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Physical Agents: Noise and Vibration"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unit B covers occupational noise in detail: the dB(A) scale, the equal-energy principle (3 dB doubling rule for ISO/EU, 5 dB rule for OSHA), the mechanisms of noise-induced hearing loss (NIHL), and the design of a hearing conservation programme. Hand-arm vibration (HAV) and whole-body vibration (WBV) exposure standards are covered using the EU/ISO A(8) exposure action and limit values."
+    },
+    {
+      "type": "heading",
+      "text": "Biological Agents"
+    },
+    {
+      "type": "paragraph",
+      "text": "Biological hazards are classified into Hazard Groups 1–4 based on pathogenicity and availability of effective treatment. Legionella (Hazard Group 2) is the most commonly encountered biological hazard in workplaces — cooling towers, spa pools, and water systems. COSHH assessments must address biological agents wherever workers may be exposed."
+    },
+    {
+      "type": "heading",
+      "text": "Radiation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unit B covers both ionising radiation (X-rays, gamma, alpha, beta particles) and non-ionising radiation (UV from welding, lasers, radiofrequency). Dose limits, controlled and supervised areas, classified workers, and the ALARA (As Low As Reasonably Achievable) principle are key concepts."
+    },
+    {
+      "type": "example",
+      "text": "A Unit B exam question might ask: 'Outline a health risk assessment for workers involved in spray painting with a two-part isocyanate paint system in a partially ventilated booth.' The answer structure: identify the hazardous agents (isocyanates, solvents), their hazard classifications, routes of entry (inhalation, skin), likely exposure vs. WEL, control measures (LEV, STEL compliance, RPE — full-face airline supplied-air for isocyanates), health surveillance (lung function testing), and monitoring programme."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Occupational hygiene is a critical skill in Gulf oil and gas. The key hazardous agents encountered are: H2S (highly toxic; IDLH 100 ppm; all workers must be trained and equipped), benzene (carcinogen; present in crude oil, petrol, and aromatics processes), silica dust (construction, sandblasting — an ongoing Gulf epidemic), heat stress (a physical hazard unique in scale to the Gulf), and aromatic amines (catalysts in some petrochemical processes). Saudi Arabia's MHRSD has established OELs based on ACGIH TLVs. ADNOC uses the same ACGIH TLVs. On Gulf construction sites, silica control is a growing enforcement priority — crystalline silica from sandblasting operations is classified as a carcinogen with no safe level of exposure."
+    }
+  ],
+  "quizId": null
+}

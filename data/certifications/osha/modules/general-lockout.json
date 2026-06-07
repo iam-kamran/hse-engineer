@@ -1,0 +1,113 @@
+{
+  "id": "certifications/osha/general-lockout",
+  "sectionId": "osha",
+  "title": "Lockout/Tagout — Control of Hazardous Energy (29 CFR 1910.147)",
+  "order": 13,
+  "estimatedReadTime": 22,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Explain the scope and purpose of OSHA's LOTO standard",
+    "Describe the six-step lockout sequence",
+    "Distinguish between lockout (preferred) and tagout (limited use)",
+    "Apply LOTO requirements to Gulf isolation certificate and PTW systems"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "What Is Hazardous Energy?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hazardous energy is any energy that, if released or re-activated during servicing or maintenance of equipment, could cause injury. OSHA 1910.147 — the Control of Hazardous Energy standard, commonly called Lockout/Tagout (LOTO) — covers all forms of hazardous energy: electrical, mechanical, hydraulic, pneumatic, chemical, thermal, and gravitational."
+    },
+    {
+      "type": "keyPoint",
+      "text": "LOTO prevents the unexpected energisation, start-up, or release of stored energy while a worker is performing servicing or maintenance. Approximately 50,000 workers are injured and 120 killed annually in the US from unexpected equipment start-up — LOTO is designed to prevent these events."
+    },
+    {
+      "type": "heading",
+      "text": "Scope: When Does LOTO Apply?"
+    },
+    {
+      "type": "paragraph",
+      "text": "LOTO applies whenever employees perform servicing or maintenance on machines or equipment and the unexpected energisation or startup could cause injury. It applies to both electrical and non-electrical hazardous energy. It does NOT apply to normal production operations (using equipment as designed) or hot tap operations with continuous flow."
+    },
+    {
+      "type": "heading",
+      "text": "The Six-Step Lockout Sequence"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Step", "Action"],
+        "rows": [
+          ["1. Notify", "Inform affected employees that equipment will be taken out of service"],
+          ["2. Identify all energy sources", "Locate ALL energy inputs: main power, control circuits, hydraulic lines, stored pressure, gravity (raised components)"],
+          ["3. Isolate all energy sources", "Use disconnect switches, valves, blanks, pins to physically disconnect all energy sources"],
+          ["4. Apply lockout/tagout devices", "Each authorised employee applies their own personal lock to each energy isolation point"],
+          ["5. Release/restrain stored energy", "Bleed hydraulic lines, release compressed springs, block suspended parts, drain electrical capacitors"],
+          ["6. Verify zero energy state", "Test for zero energy: use a voltage tester, check gauges, attempt to start the machine"]
+        ]
+      }
+    },
+    {
+      "type": "definition",
+      "term": "Authorised Employee",
+      "text": "A person who locks out or tags out machines or equipment in order to perform servicing or maintenance. They must be trained in the LOTO procedure for the specific equipment they work on."
+    },
+    {
+      "type": "definition",
+      "term": "Affected Employee",
+      "text": "An employee whose job requires them to operate or use a machine that is being locked out, or who works in an area where LOTO is being performed. They must be trained to recognise LOTO devices and understand they must not attempt to re-start locked-out equipment."
+    },
+    {
+      "type": "heading",
+      "text": "Lockout vs. Tagout"
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA prefers lockout over tagout wherever possible. Locks are physical barriers; tags are only warnings. If an energy isolation point cannot accept a lock, tagout is permissible — but only if the employer can demonstrate it provides equivalent protection through additional means."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Aspect", "Lockout", "Tagout"],
+        "rows": [
+          ["Device", "Personal padlock — key held only by the worker", "Durable warning tag with standardised wording"],
+          ["Protection level", "Physical prevention of energisation", "Warning only — relies on people not overriding the tag"],
+          ["When used", "Whenever the isolation point can accept a lock", "Only when lockout is not physically possible"],
+          ["Additional requirements when tagout used", "None needed for lockout", "Must provide equivalent protection: additional means such as removing fuses, blocking valves, etc."]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Group Lockout and Complex Procedures"
+    },
+    {
+      "type": "paragraph",
+      "text": "When multiple workers are involved in a task, each authorised employee must apply their own personal lock to a group lockout box or hasp. The group lockout box contains the keys to all the individual isolation point locks. No one can begin work until their lock is on; no one can restore power until everyone removes their lock."
+    },
+    {
+      "type": "heading",
+      "text": "Written LOTO Procedures"
+    },
+    {
+      "type": "paragraph",
+      "text": "Employers must have written LOTO procedures for each piece of equipment unless the equipment has only a single energy source that can be completely locked out without creating hazards, and the procedure is well understood by authorised employees. Most industrial equipment requires specific written procedures documenting every energy isolation point."
+    },
+    {
+      "type": "warning",
+      "text": "A common and fatal error: workers isolate the obvious electrical supply but forget hydraulic accumulators, pneumatic reservoirs, springs under tension, or elevated components. Stored mechanical energy has caused many LOTO fatalities even after electrical lockout was correctly applied."
+    },
+    {
+      "type": "example",
+      "text": "A maintenance technician prepares to clear a jammed conveyor belt. He follows the written LOTO procedure: notifies production, turns off the main motor disconnect and applies his personal lock, turns off the PLC control panel disconnect and applies his lock, releases spring tension on the tensioner by backing off the adjustment bolt, and confirms zero energy by pressing the start button at the HMI (no movement) and testing the motor terminals with a voltage tester (zero volts). He then proceeds to clear the jam."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: LOTO is implemented across Gulf oil and gas as the Isolation Certificate system within the Permit to Work (PTW). In Saudi Arabia, Aramco's GI 2.100 requires a formal Isolation Certificate for any maintenance work on equipment containing energy or hazardous materials. The certificate lists every isolation point, its status (locked, blinded, vented), and the individual responsible. A PTW with an isolation certificate must be signed off by the operations area engineer and the HSE representative before work begins. The ADNOC PTW system, Qatar Energy PTW, and Kuwait Oil Company Work Authorisation System all have equivalent isolation procedures. Misuse of the isolation certificate is a serious disciplinary offence across all Gulf operators."
+    }
+  ],
+  "quizId": null
+}

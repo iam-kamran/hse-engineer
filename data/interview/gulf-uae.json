@@ -1,0 +1,581 @@
+[
+  {
+    "id": "uae-001",
+    "text": "What is the UAE's OSHAD-SF (Occupational Safety and Health Management System Framework) and how does it affect HSE practice in Abu Dhabi?",
+    "category": "legislation",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "OSHAD-SF (Abu Dhabi Occupational Safety and Health System Framework) is the occupational safety and health management framework mandated by the Abu Dhabi Occupational Safety and Health Center (OSHAD) for all organisations operating in Abu Dhabi. It is based on international standards including OHSAS 18001/ISO 45001 and ILO OSH 2001. OSHAD-SF requires organisations to establish, implement, and maintain a formal OSH Management System covering: leadership and commitment, legal compliance, hazard identification and risk assessment, emergency preparedness, incident investigation, and continual improvement. ADNOC and its group companies are required to comply with OSHAD-SF. Contractors working in Abu Dhabi (including on ADNOC projects) must demonstrate compliance. Non-compliance can result in fines, work suspension, or loss of business licence.",
+    "keyPoints": [
+      "OSHAD-SF = Abu Dhabi's mandatory OSH management framework",
+      "Issued by OSHAD (Abu Dhabi Occupational Safety and Health Center)",
+      "Based on ISO 45001 / OHSAS 18001 / ILO OSH 2001 principles",
+      "Mandatory for all organisations operating in Abu Dhabi",
+      "ADNOC and ADNOC group companies comply with OSHAD-SF",
+      "Contractors must demonstrate compliance before operating",
+      "Non-compliance: fines, suspension, or licence revocation"
+    ],
+    "tip": "OSHAD-SF is unique to Abu Dhabi — Dubai has its own framework under Trakhees/DTCD. If you are applying for ADNOC or Abu Dhabi roles, knowing OSHAD-SF by name is essential. Candidates who only know NEBOSH and Aramco SEMP without mentioning UAE-specific frameworks will be seen as unfamiliar with the local landscape.",
+    "followUpQuestions": [
+      "What is the difference between OSHAD-SF and Dubai's HSE regulatory framework?",
+      "How does ADNOC's HSE management system align with OSHAD-SF?",
+      "What are the key documents required under OSHAD-SF?"
+    ]
+  },
+  {
+    "id": "uae-002",
+    "text": "How is HSE regulated differently in Dubai versus Abu Dhabi?",
+    "category": "legislation",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "The UAE is a federation with some H&S regulatory functions delegated to individual Emirates. In Abu Dhabi: OSHAD (Abu Dhabi Occupational Safety and Health Center) is the primary H&S regulator, with OSHAD-SF as the mandatory management framework. In Dubai: Trakhees (part of DP World) regulates HSE in free zones and major industrial areas, while the Dubai Municipality's Environment Health and Safety Department covers most of Dubai. The Ministry of Human Resources and Emiratisation (MOHRE) governs labour law across the UAE federally. Federal Law No. 8 of 1980 (UAE Labour Law, recently updated) applies nationwide. For construction, the UAE Fire and Life Safety Code (NFPA-based) applies in Dubai. The key practical implication: an HSE professional in the UAE must know which emirate and which regulatory body has jurisdiction over their specific project location.",
+    "keyPoints": [
+      "Abu Dhabi: OSHAD is the primary HSE regulator; OSHAD-SF is mandatory",
+      "Dubai: Trakhees (free zones/ports), Dubai Municipality (general); plus Dubai Civil Defence for fire",
+      "Federal: MOHRE (labour law), Ministry of Interior (fire safety — NCEMA)",
+      "UAE Labour Law (Federal Law No. 8 of 1980, updated by Federal Decree Law No. 33 of 2021)",
+      "Construction: UAE Fire and Life Safety Code; OSHAD AD Construction Safety Code",
+      "Jurisdiction depends on location AND sector — know which regulator before project starts",
+      "Free zone projects (JAFZA, KIZAD) may have separate free zone authority requirements"
+    ],
+    "tip": "Showing awareness of the regulatory complexity across emirates is a strong differentiator. Most candidates know 'UAE safety rules' as a single entity. Demonstrating that Abu Dhabi and Dubai have different regulators — and naming them — signals practical country knowledge. This is especially important if you are applying to a company that operates across multiple emirates.",
+    "followUpQuestions": [
+      "Which UAE authority enforces fire safety standards on construction sites?",
+      "Does the UAE have a national equivalent to RIDDOR for accident reporting?",
+      "What is the role of MOHRE in UAE occupational safety?"
+    ]
+  },
+  {
+    "id": "uae-003",
+    "text": "How would you ensure HSE compliance on a large-scale UAE construction project involving multiple nationalities?",
+    "category": "safety-culture",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "Managing HSE compliance on a multinational UAE construction project requires a robust, culturally sensitive approach. Before mobilisation: develop a project-specific HSE plan compliant with OSHAD-SF or Dubai Municipality requirements; pre-qualify all contractors; identify all languages spoken on the site (typically Arabic, Hindi, Urdu, Tagalog, Bangla on UAE sites). Induction and training: deliver inductions in workers' languages using bilingual supervisors and visual materials; test comprehension practically. Daily management: daily toolbox talks in relevant languages; daily site inspections with photographic records; enforce PTW system strictly; heat stress management programme (mandatory during UAE summer). Monitoring: weekly H&S committee meetings involving contractor HSE reps; monthly KPI reporting to client; regular audits. Culture: zero tolerance for serious violations, with clear escalation procedure; celebrate positive safety behaviour publicly; use safety observation programmes.",
+    "keyPoints": [
+      "OSHAD-SF compliance (Abu Dhabi) or Dubai Municipality requirements — know which applies",
+      "Multilingual inductions: Arabic, Hindi, Urdu, Tagalog, Bangla typically required in UAE",
+      "Visual-heavy materials and practical demonstrations for language barriers",
+      "Heat stress programme mandatory — UAE summer bans outdoor work 12:30–15:00 from June 15",
+      "Daily toolbox talks in relevant languages with attendance records",
+      "Weekly H&S committee with contractor participation",
+      "Zero tolerance for serious violations — not zero tolerance for reporting"
+    ],
+    "tip": "The UAE has a formal summer outdoor work ban similar to Saudi Arabia: 12:30–15:00 from 15 June to 15 September. Mentioning the specific time and dates shows local knowledge. Also mention the UAE Ministry of Human Resources heat stress awareness campaigns. UAE construction projects have historically had severe worker welfare issues — showing awareness of this (and commitment to addressing it) is valued.",
+    "followUpQuestions": [
+      "What does the UAE summer outdoor work ban specifically prohibit?",
+      "How do you handle a situation where a subcontractor's workers refuse to follow site HSE rules?",
+      "What are your obligations under UAE Labour Law if a worker is injured on site?"
+    ]
+  },
+  {
+    "id": "uae-004",
+    "text": "What is ADNOC's HSE framework and what are its key requirements for contractors?",
+    "category": "legislation",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "ADNOC (Abu Dhabi National Oil Company) applies a comprehensive HSE management framework across its operations and all contractors. Key requirements include: (1) Pre-qualification — contractors must demonstrate HSE capability through ADNOC's contractor pre-qualification database before being eligible for work; (2) HSE Plan — a project-specific HSE plan aligned with ADNOC's HSE Management System and OSHAD-SF must be submitted and approved before mobilisation; (3) HSE KPIs — contractors report monthly statistics including TRCR, LTIFR, man-hours, near misses, and observation rates; (4) HSE competency — all HSE personnel must hold recognised qualifications (NEBOSH IGC minimum for HSE Officers); (5) PTW compliance — ADNOC has its own PTW system that contractors must operate within; (6) Process safety — ADNOC's Process Safety Management system applies to all operations involving hydrocarbons. Non-compliance results in NCR (Non-Conformance Report) issuance, work suspension, or contract termination.",
+    "keyPoints": [
+      "ADNOC contractor pre-qualification: must be approved before any work",
+      "Project-specific HSE plan: submitted and approved before mobilisation",
+      "Monthly KPI reporting: TRCR, LTIFR, man-hours, near-miss rate, observation rate",
+      "HSE staff qualifications: NEBOSH IGC minimum — NEBOSH Diploma for senior roles",
+      "ADNOC PTW system: contractors must operate within — not use their own system",
+      "Process Safety Management: mandatory for hydrocarbon handling operations",
+      "Non-conformance: NCR system — repeated NCRs escalate to work suspension"
+    ],
+    "tip": "ADNOC is one of the world's largest oil companies. Knowing its contractor requirements impresses Abu Dhabi interviewers. The ADNOC pre-qualification database (ADNOC EPRO) is specifically designed to filter contractors by HSE performance — showing awareness of this system signals genuine UAE O&G knowledge. ADNOC has recently intensified its contractor HSE requirements as part of its 2030 strategy.",
+    "followUpQuestions": [
+      "What qualification does ADNOC require for an HSE Officer on its projects?",
+      "What is a Non-Conformance Report (NCR) and how is it used in contractor management?",
+      "How does ADNOC's PTW system differ from Aramco's PTW system?"
+    ]
+  },
+  {
+    "id": "uae-005",
+    "text": "Explain the key features of the UAE Labour Law as it relates to worker safety and rights.",
+    "category": "legislation",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "The UAE Labour Law (most recently updated by Federal Decree Law No. 33 of 2021) establishes the framework for employment and worker safety. Key H&S provisions: employers must provide a safe working environment and take necessary measures to protect workers from occupational hazards; employers must provide appropriate PPE at no cost; workers are entitled to work in conditions that preserve their dignity and health; workers can refuse work that poses an imminent risk to their safety or health. Accident reporting: workplace accidents must be reported to MOHRE within specified timeframes; ADNOC and government employers may have additional reporting requirements. Worker compensation: workers injured at work are entitled to compensation under UAE law and DAMAN (health insurance) coverage. Recent improvements under the 2021 law include: prohibition of forced labour, right to change employer under certain conditions, mandatory annual leave, and enhanced protection for low-wage workers including accommodation and transport standards.",
+    "keyPoints": [
+      "Federal Decree Law No. 33 of 2021 — most recent UAE Labour Law update",
+      "Employer duty: safe workplace, PPE provided free, dignity at work",
+      "Worker right to refuse dangerous work without fear of dismissal",
+      "Workplace accident reporting to MOHRE required",
+      "Worker compensation: UAE Labour Law + DAMAN health insurance",
+      "2021 update: banned forced labour, improved mobility rights, wage protection",
+      "MOHRE (Ministry of Human Resources) enforces compliance through labour inspectors"
+    ],
+    "tip": "The 2021 UAE Labour Law update was significant — it addressed many long-standing concerns about worker welfare in the UAE. Showing awareness of these improvements signals that you follow UAE labour law developments. Worker welfare is increasingly scrutinised by international clients — Qatar World Cup, Dubai Expo, and NEOM all faced international pressure on this issue.",
+    "followUpQuestions": [
+      "What is the Wage Protection System (WPS) in the UAE and what does it mean for workers?",
+      "Can a UAE employer dismiss a worker who refuses to do dangerous work?",
+      "What is DAMAN and what does it cover for injured workers?"
+    ]
+  },
+  {
+    "id": "uae-006",
+    "text": "What experience do you have with managing H2S safety in offshore or onshore UAE O&G operations?",
+    "category": "emergency-response",
+    "region": "uae",
+    "difficulty": "senior",
+    "modelAnswer": "H2S safety management in UAE O&G operations requires a specific and well-rehearsed programme. The key elements are: hazard identification (knowing where H2S is present — sour reservoirs, sour gas lines, waste water treatment); monitoring (fixed H2S detectors with alarms, personal monitors for all personnel entering potential H2S zones); access control (classified zones with entry restrictions and SCBA pre-positioned); training (H2S awareness training for ALL site personnel, SCBA competency for H2S zone workers, full H2S rescue training for emergency responders); emergency response (evacuation routes leading crosswind/upwind, muster points, H2S-trained rescue team); equipment (calibrated multi-gas detectors, personal H2S monitors with alarm at 10 ppm, SCBA for rescue and high-exposure entry). Critical point: olfactory fatigue at >100 ppm means workers cannot smell H2S even at lethal concentrations — detection equipment is the only reliable indicator.",
+    "keyPoints": [
+      "H2S = colourless, extremely toxic, flammable gas — heavier than air",
+      "OEL: 1 ppm TWA; STEL: 5 ppm (UK); IDLH: 100 ppm; entry limit: typically <10 ppm",
+      "Olfactory fatigue: cannot smell H2S above ~100 ppm — monitors essential",
+      "Personal monitors: alarm at 10 ppm warning, 20 ppm alert in many Gulf systems",
+      "Rescue: SCBA mandatory — multiple fatalities from unprotected rescue attempts",
+      "Evacuation: crosswind or upwind — H2S drifts downwind",
+      "ADNOC and offshore UAE: H2S zones classified, SCBA accessible at zone entry"
+    ],
+    "tip": "H2S is one of the most tested topics in UAE O&G interviews because the UAE has significant sour gas reserves. Knowing IDLH (100 ppm), olfactory fatigue, and the crosswind evacuation principle immediately signals O&G field experience. If you have formal H2S training certification (HUET, H2S Alive), mention it — it is often a mandatory requirement for UAE offshore roles.",
+    "followUpQuestions": [
+      "What is the IDLH concentration for H2S and what happens at this level?",
+      "A worker collapses in an H2S-suspected confined space — what do you do?",
+      "How do you ensure H2S monitors are reliable and not giving false readings?"
+    ]
+  },
+  {
+    "id": "uae-007",
+    "text": "How would you manage the risk of working at height on a Dubai high-rise construction project?",
+    "category": "risk-assessment",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "Managing work at height on a high-rise project in Dubai requires strict compliance with UAE Civil Defence requirements, OSHAD-SF (if in Abu Dhabi), and international best practice. The approach follows the hierarchy: first, eliminate the need to work at height by designing tasks for ground-level completion (pre-fabrication, pre-assembly); where this is not possible, provide collective protection (scaffold platforms with guardrails, edge protection, nets) before individual fall arrest; and PPE (harness, lanyard) as a last resort. Specific controls: all scaffold must be erected and inspected by competent scaffolders and signed off by a Scaffolding Supervisor; scaffold tags (green for safe, red for unsafe) at all access points; pre-use inspection by supervisor before each shift; exclusion zones below all elevated work; 100% tie-off rule — harness attached at all times when in the fall zone; permit to work for non-routine elevated work; and regular training on fall prevention equipment. Given Dubai's high-rise environment, dropped object prevention is also critical — all tools must be tethered or secured.",
+    "keyPoints": [
+      "Hierarchy: eliminate → collective protection (scaffold) → individual (harness)",
+      "Scaffold: erected by competent persons, signed off, tagged green/red at access points",
+      "100% tie-off: harness attached at all times in the fall zone",
+      "Dropped objects: tool tethering mandatory — objects fall much further from high-rise floors",
+      "Exclusion zones below ALL elevated work",
+      "Dubai Civil Defence: compliance with UAE Fire and Life Safety Code for scaffold near buildings",
+      "Fall rescue plan: how will you rescue a worker suspended in a harness at height?"
+    ],
+    "tip": "The Dubai high-rise environment adds the dropped object dimension that is less critical in low-rise construction. Mentioning tool tethering and exclusion zones shows awareness of this. Also mention that suspension trauma (harness hang syndrome) can be fatal if a suspended worker is not rescued quickly — a fall arrest plan must include a rescue component, not just fall prevention.",
+    "followUpQuestions": [
+      "What is suspension trauma and how does it relate to fall arrest systems?",
+      "What is the minimum scaffold inspection frequency and who can carry it out?",
+      "How do you manage the risk of dropped objects from 30+ floors?"
+    ]
+  },
+  {
+    "id": "uae-008",
+    "text": "What are the key elements of an effective Permit to Work system for UAE oil and gas operations?",
+    "category": "ptw",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "An effective PTW system in UAE O&G operations contains several key elements. Before issue: the work requester identifies the task, all hazards, and proposes initial controls; the issuing authority (typically a plant/operations person) independently verifies the hazard identification and controls, including energy isolation; SIMOPS checks ensure no conflicting activities in the area. During the permit: the permit is physically displayed at the worksite; the permit scope defines exactly who, what, where, and when; gas tests are performed as required; controls are verified to be in place before work starts; the receiver (work team leader) signs acceptance and takes responsibility for their workers. Permit close-out: when work is complete or the permit expires, the receiver returns the permit to the issuer, who verifies the area is safe and signs off. Suspension: if conditions change (gas alarm, weather, emergency), the permit is suspended and work stops. Annual review: the PTW system itself should be periodically audited for effectiveness. In ADNOC operations, the PTW system is integral to their HSE management system and is audited regularly.",
+    "keyPoints": [
+      "Key parties: Issuing Authority (operations), Receiver (work team leader), Area Authority (operator)",
+      "Hazard identification and controls agreed before issue",
+      "Energy isolation verified and documented — separate isolation certificate",
+      "Gas test before and during work where atmospheric hazards exist",
+      "Physical display at worksite — not just in the site office",
+      "Suspension: any conditions change → suspend → do not just carry on",
+      "SIMOPS coordination: check for conflicting permits before issuing"
+    ],
+    "tip": "UAE O&G companies (ADNOC, Dolphin Energy, ENOC) have comprehensive PTW systems. A candidate who can describe a multi-party PTW system — issuer, receiver, area authority — and knows about concurrent permits and SIMOPS is immediately seen as having real O&G facility experience. Mentioning that PTW systems are auditable (all records kept for a minimum period) shows system maturity.",
+    "followUpQuestions": [
+      "What is the difference between a hot work permit and a cold work permit?",
+      "Who has the authority to cancel a permit to work if conditions change?",
+      "How do you manage multiple concurrent permits in a single area?"
+    ]
+  },
+  {
+    "id": "uae-009",
+    "text": "Describe your understanding of process safety management (PSM) and why it matters in UAE O&G.",
+    "category": "general",
+    "region": "uae",
+    "difficulty": "senior",
+    "modelAnswer": "Process Safety Management (PSM) is a systematic framework for managing the integrity of hazardous processes to prevent catastrophic failures — major fires, explosions, and toxic releases. It is distinct from occupational safety (which focuses on personal injuries) because its consequences can affect entire communities. PSM key elements include: Process Hazard Analysis (HAZOP, HAZID, What-If) to identify and evaluate process hazards; Management of Change (MOC) to ensure that all changes to equipment, procedures, or staffing are reviewed for safety implications before being implemented; Mechanical Integrity to verify that pressure vessels, piping, and safety systems are maintained and tested; Emergency Planning and Response for major accident scenarios; Incident Investigation of process safety events (not just personal injuries); and Training and Competency of operators on process abnormalities. In the UAE, ADNOC's Process Safety Management system (aligned with API RP 750 and OSHA PSM 1910.119) is mandatory for all hydrocarbon-handling operations. Failure to manage process safety has resulted in disasters like BP Texas City (2005), Buncefield (2005), and Deepwater Horizon (2010).",
+    "keyPoints": [
+      "PSM prevents catastrophic process failures — fires, explosions, toxic releases",
+      "Distinct from occupational safety — consequences can be community-scale",
+      "HAZOP/HAZID: systematic identification of process deviations and their consequences",
+      "Management of Change (MOC): controls changes to process, equipment, procedures",
+      "Mechanical Integrity: pressure vessel inspection, safety system testing",
+      "ADNOC PSM: mandatory for hydrocarbon operations; aligned with API RP 750",
+      "BP Texas City, Deepwater Horizon: examples of occupational safety success + PSM failure"
+    ],
+    "tip": "Demonstrating knowledge of the PSM-occupational safety distinction is the hallmark of a senior candidate. Mentioning HAZOP specifically (not just 'hazard identification') shows technical depth. ADNOC has significantly invested in PSM since the early 2010s — candidates applying to ADNOC or its partners who can speak to PSM elements will be highly valued.",
+    "followUpQuestions": [
+      "What is Management of Change (MOC) and why is it critical in process safety?",
+      "How does HAZOP work and when is it conducted in a project lifecycle?",
+      "Name three process safety leading indicators you would track in an ADNOC facility."
+    ]
+  },
+  {
+    "id": "uae-010",
+    "text": "How do you communicate and enforce safety standards with workers who have low literacy levels?",
+    "category": "safety-culture",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "Communicating safety to workers with low literacy requires abandoning text-heavy approaches in favour of visual, practical, and interpersonal methods. For inductions: use picture-based materials showing safe and unsafe practices; video content in workers' languages; practical demonstrations — show, don't just tell. For daily communication: visual job aid cards with step-by-step pictures for high-risk tasks; colour-coded systems (green = safe zone, red = restricted zone); internationally recognised safety symbols and pictograms on signage throughout the site. For toolbox talks: use physical demonstrations; bring the actual equipment and show how to use it; ask workers to demonstrate back what they have understood. For written materials: use bilingual documents alongside photographs for those who are literate in their own language. Build trusted translators and bilingual supervisors into the supervisory structure so that safety messages reach workers without distortion. Check comprehension by asking workers to explain back what they have understood.",
+    "keyPoints": [
+      "Visual-first: pictures, videos, demonstrations replace text-heavy materials",
+      "International pictograms and colour-coding on all site signage",
+      "Practical demonstrations: show the correct behaviour, not just describe it",
+      "Bilingual supervisors: trust their ability to translate accurately",
+      "Visual job aid cards: laminated picture sequences for high-risk tasks",
+      "Teach-back: ask workers to explain what they understood — not just 'do you understand?'",
+      "Low literacy ≠ low intelligence — respect, don't condescend"
+    ],
+    "tip": "This is a critical skill for UAE construction sites where literacy levels across nationality groups vary widely. The key insight is 'teach-back' — asking a worker to explain what they will do is far more reliable than asking 'did you understand?' (to which workers always say yes). Mentioning teach-back specifically stands out. Also note: low literacy workers often have deep practical experience — involve them in demonstrating safe methods to peers.",
+    "followUpQuestions": [
+      "How do you test whether a worker has understood a safety procedure without a written test?",
+      "What visual aids have you personally used on multilingual sites?",
+      "How do you maintain safety communication standards when workers change frequently?"
+    ]
+  },
+  {
+    "id": "uae-011",
+    "text": "What is your approach to managing occupational health on a UAE construction project in summer?",
+    "category": "risk-assessment",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "Occupational health management during UAE summer requires a proactive, structured programme. Heat stress management: comply with the MOHRE summer outdoor work ban (12:30–15:00, 15 June to 15 September); monitor WBGT daily and implement work/rest schedules; acclimatise new workers over 7-14 days; provide unlimited cool water and shaded rest areas; conduct pre-employment medical checks to identify heat-intolerant individuals; train all supervisors to recognise heat exhaustion and heat stroke; implement buddy systems. Beyond heat: UV protection (sunscreen, appropriate clothing, shaded break areas); noise monitoring in high-decibel areas; dust management (especially silica dust from construction activities); vibration monitoring for heavy plant operators; early health surveillance for WRULDs in repetitive tasks; mental health support for isolated migrant workers (suicide rates among migrant workers in the Gulf are a documented concern). All occupational health records must be kept for a minimum period and workers with identified conditions must be reassigned to appropriate duties.",
+    "keyPoints": [
+      "Summer outdoor work ban: 12:30–15:00, June 15–September 15 — UAE MOHRE requirement",
+      "WBGT-based work/rest schedules, not just temperature",
+      "7-14 day acclimatisation for new or returning workers",
+      "Occupational health beyond heat: UV, noise, dust (silica), vibration, WRULDs",
+      "Mental health: migrant worker isolation is a documented occupational health risk in UAE",
+      "Pre-employment medicals: screen for heat intolerance, respiratory conditions",
+      "Health records retention: minimum 5 years for occupational health data"
+    ],
+    "tip": "Most candidates only think of heat stress when asked about UAE summer occupational health. Mentioning mental health for migrant workers distinguishes a socially aware candidate — this is increasingly important post-COVID and post-Qatar-World-Cup scrutiny of Gulf migrant worker welfare. The UAE's migrant workforce represents over 88% of the total workforce — their specific vulnerabilities matter.",
+    "followUpQuestions": [
+      "What are the signs of heat stroke versus heat exhaustion and how do you treat each?",
+      "How do you protect workers from crystalline silica dust during demolition work?",
+      "What does your company's minimum standard for worker accommodation include?"
+    ]
+  },
+  {
+    "id": "uae-012",
+    "text": "What is your experience with conducting incident investigations and what methodology do you use?",
+    "category": "incident-investigation",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "Incident investigation is one of the most important HSE activities — done well, it prevents recurrence; done poorly, it only blames individuals and leaves root causes unaddressed. My approach: immediately secure the scene and ensure injured person receives medical attention; notify management and H&S team; collect physical evidence (photographs, tool/equipment condition, gas readings) before the scene is changed; interview witnesses and the involved person(s) separately, in a supportive non-blame atmosphere, as soon as possible while memory is fresh; use structured root cause analysis — I prefer the ICAM (Incident Cause Analysis Method) or '5 Whys' for simpler incidents, or TapRoot for complex ones. The investigation traces from immediate cause → contributing factors → root causes → systemic failures. Recommendations address root causes (system fixes) not just immediate cause (retraining the individual). Findings are communicated across the workforce via safety alerts. Corrective action tracking is essential — I use a register to ensure all actions are closed before the investigation is truly complete.",
+    "keyPoints": [
+      "Secure scene, treat injured person, notify — then investigate",
+      "Evidence collection: photographs, equipment condition, gas records, CCTV",
+      "Witness interviews: separate, supportive, non-blame environment",
+      "Root cause methodologies: 5 Whys, TapRoot, ICAM, fishbone/Ishikawa",
+      "Trace from immediate cause → contributing factors → root causes → systemic failures",
+      "Recommendations: target root causes, not just symptoms",
+      "Communication: safety alert to broader workforce",
+      "Corrective action tracking: all actions closed before investigation is complete"
+    ],
+    "tip": "Naming a specific root cause analysis methodology (TapRoot, ICAM, SCAT) immediately shows technical depth. Many candidates say '5 Whys' — this is adequate but shows a basic level. For senior UAE O&G roles, TapRoot is widely used. ICAM was developed by the Australian military and is used in some ADNOC operations. Showing you understand that recommendations must address ROOT causes (not 'retrain the worker') is the most important conceptual point.",
+    "followUpQuestions": [
+      "What is TapRoot and when would you use it versus 5 Whys?",
+      "How long does a thorough investigation of a lost-time injury typically take?",
+      "What do you do if management is reluctant to implement investigation recommendations because of cost?"
+    ]
+  },
+  {
+    "id": "uae-013",
+    "text": "How do you manage safety during a project shutdown or turnaround (TAR) in a UAE petrochemical facility?",
+    "category": "ptw",
+    "region": "uae",
+    "difficulty": "senior",
+    "modelAnswer": "Turnaround (TAR) management presents a concentrated period of high H&S risk because large numbers of contractors work simultaneously in a normally operating facility that is temporarily shut down. Key elements: pre-TAR planning (H&S plan, safe isolation schedule, contractor coordination plan, SIMOPS matrix for all simultaneous activities); competency verification of all TAR workers before mobilisation; enhanced induction specific to the shutdown scope; PTW system management for hundreds of concurrent permits — requiring a robust PTW coordination centre; area classification reviews (zones may change during shutdown); confined space entry — typically peaks during TARs as vessels are entered for inspection; hot work management — extensive welding and cutting in a previously hydrocarbon-rich environment requiring stringent gas testing; daily SIMOPS meetings; enhanced HSE presence (increased HSE officer ratio); fatigue management (extended shifts common during TARs — manage rest periods); emergency response on standby throughout. Post-TAR: recommissioning safety checks before restart.",
+    "keyPoints": [
+      "TAR = concentrated risk: many contractors, simultaneous high-hazard activities",
+      "Pre-TAR: SIMOPS matrix, isolation schedule, contractor competency checks",
+      "PTW coordination centre: manages hundreds of concurrent permits",
+      "Confined space entry peak: vessels, tanks, heat exchangers all entered",
+      "Hot work in previously hydrocarbon-rich environment: stringent gas testing",
+      "Fatigue management: extended hours → impaired judgment → increased incidents",
+      "Enhanced HSE ratio: 1 HSE officer per 25-50 workers (vs 1:100 normal operations)",
+      "Recommissioning check before restart: verify all isolations removed, blinds pulled"
+    ],
+    "tip": "TAR safety management is a specialised skill set highly valued in UAE O&G (ADNOC, ENOC, TAKREER). If you have TAR experience, detail it — particularly the PTW coordination challenge with many concurrent permits. Fatigue management during extended TAR shifts is often overlooked by less experienced candidates. This question separates those with facility operations experience from those with only construction experience.",
+    "followUpQuestions": [
+      "What is 'blind log' management during a plant shutdown?",
+      "How do you verify that all isolations have been restored before plant start-up after a TAR?",
+      "What is the typical HSE officer-to-worker ratio during a major turnaround?"
+    ]
+  },
+  {
+    "id": "uae-014",
+    "text": "How do you handle a worker who refuses to wear PPE and what actions would you take?",
+    "category": "safety-culture",
+    "region": "uae",
+    "difficulty": "junior",
+    "modelAnswer": "A worker refusing PPE must be handled firmly but fairly and with respect. First, I would stop the work and speak privately with the worker — in their language if possible. I would try to understand the reason for refusal: is the PPE uncomfortable or ill-fitting? Is it the wrong specification for the task? Has the worker not been trained how to use it? Many refusals have practical causes that can be solved. I would explain the specific hazard the PPE protects against and the consequences of not wearing it. If the reason is fitting or comfort, I would source appropriate PPE. If the worker still refuses after understanding the risk and receiving suitable PPE, I would document the refusal in writing and escalate to the line supervisor. Under UAE Labour Law, persistent refusal to follow safety rules can be grounds for disciplinary action or dismissal. The worker cannot continue the task without appropriate PPE. I would never ignore PPE refusal or treat it as acceptable — once one refusal is tolerated, others follow.",
+    "keyPoints": [
+      "Never ignore PPE refusal — address it immediately and professionally",
+      "First: understand WHY — ill-fitting, wrong type, not trained? Many refusals are fixable",
+      "Explain the specific hazard protected against — not just 'rules say so'",
+      "Escalate in writing if refusal persists after proper PPE and explanation provided",
+      "Document the interaction and the worker's refusal",
+      "Persistent refusal: grounds for disciplinary action under UAE Labour Law",
+      "Zero tolerance for PPE non-compliance — but handled with dignity, not aggression"
+    ],
+    "tip": "This question tests your approach to enforcement AND people skills. Gulf interviewers want someone who can enforce standards without being aggressive or culturally insensitive. The key insight is discovering WHY the worker refuses — usually it's practical, not wilful. If you go straight to 'send them off site,' you will not impress. Show you try to solve the problem first, then escalate only if the worker is genuinely non-compliant.",
+    "followUpQuestions": [
+      "How do you create a culture where workers WANT to wear PPE rather than seeing it as an imposition?",
+      "What do you do if a supervisor is not wearing required PPE and the workers see it?",
+      "How do you select the correct PPE specification for a new task?"
+    ]
+  },
+  {
+    "id": "uae-015",
+    "text": "What experience do you have with HAZOP (Hazard and Operability Study) studies?",
+    "category": "risk-assessment",
+    "region": "uae",
+    "difficulty": "senior",
+    "modelAnswer": "HAZOP (Hazard and Operability Study) is a structured, team-based technique for identifying potential hazards and operability problems in a process system. It is typically applied to oil and gas processes, chemical plants, and offshore facilities during the design phase and when modifications are planned. In a HAZOP, a multi-disciplinary team (process engineers, operations, instrumentation, H&S) systematically reviews process and instrumentation diagrams (P&IDs) node by node, applying a set of guide words (More, Less, No, Reverse, As Well As, Other Than) to each process parameter (flow, pressure, temperature, level) to identify deviations and their causes, consequences, safeguards, and required actions. My experience includes participating as the H&S member of HAZOP teams, reviewing HAZOP reports, and implementing HAZOP recommendations. HAZOP is required under ADNOC's Process Safety Management framework for new projects and significant modifications. HAZOP findings are documented in a structured worksheet and tracked to closure through the MOC (Management of Change) process.",
+    "keyPoints": [
+      "HAZOP = systematic examination of process P&IDs using guide words",
+      "Guide words: More, Less, No, Reverse, As Well As, Other Than",
+      "Parameters examined: flow, pressure, temperature, level, composition",
+      "Multi-disciplinary team: process, operations, instrument, H&S, project",
+      "Output: hazards, operability problems, causes, consequences, safeguards, actions",
+      "Applied: design stage, modifications, decommissioning",
+      "ADNOC: HAZOP required under PSM framework for new processes and MOCs",
+      "HAZOP worksheet tracks findings to closure"
+    ],
+    "tip": "HAZOP knowledge is a strong differentiator for senior UAE O&G roles. Even if you have not led a HAZOP, demonstrating that you understand the guide word approach and P&ID-based methodology shows you are ready for the O&G environment. ADNOC, TAKREER, and Ruwais facilities use HAZOP extensively. If you have sat in a HAZOP as the H&S representative, describe that experience specifically.",
+    "followUpQuestions": [
+      "What is the difference between a HAZOP and a HAZID?",
+      "What is a process node in the context of a HAZOP study?",
+      "How are HAZOP findings tracked to ensure they are implemented?"
+    ]
+  },
+  {
+    "id": "uae-016",
+    "text": "What is your understanding of Behaviour Based Safety (BBS) and have you implemented a BBS programme?",
+    "category": "safety-culture",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "Behaviour Based Safety (BBS) is an approach that focuses on identifying, measuring, and improving safety-critical behaviours in the workplace — moving beyond systems and hardware to address the human element. A BBS programme typically involves: identifying critical safety behaviours for key tasks (e.g. harness use, PTW compliance, tool use); training observer-coaches (usually supervisors and senior workers) to conduct structured observations; conducting positive, supportive observations focused on both safe and at-risk behaviours; providing immediate, non-punitive feedback; tracking observation data to identify trends in at-risk behaviours; and using the data to target training, toolbox talks, or engineering improvements. The strength of BBS is that it addresses the 88-96% of accidents attributed to unsafe behaviour. The weakness — if poorly implemented — is that it can become 'blame the worker' rather than addressing underlying system causes. In the UAE, BBS is used by ADNOC and international contractors like AECOM and Bechtel. A healthy BBS programme complements (not replaces) systems-based H&S management.",
+    "keyPoints": [
+      "BBS focuses on identifying and improving safety-critical behaviours",
+      "Observer-coaches: supervisors and senior workers trained to conduct positive observations",
+      "Observations are supportive and non-punitive — focus on safe behaviours too",
+      "Data-driven: trends in at-risk behaviours inform targeted interventions",
+      "BBS must not become 'worker blame' — system causes must also be addressed",
+      "ADNOC and international contractors in UAE use BBS programmes",
+      "Complements (not replaces) management systems and engineering controls"
+    ],
+    "tip": "BBS is a mature safety culture topic — showing you know its strengths AND its criticisms (it can become blame-focused if not done well) is impressive. The DuPont Bradley Curve is a useful framework to reference — it shows progression from reactive to interdependent safety cultures. Mentioning you have trained BBS observers or coached supervisors in positive observation techniques shows implementation experience.",
+    "followUpQuestions": [
+      "What are the potential criticisms of Behaviour Based Safety?",
+      "What is the DuPont Bradley Curve and how does it relate to safety culture maturity?",
+      "How do you use BBS observation data to improve safety rather than to discipline workers?"
+    ]
+  },
+  {
+    "id": "uae-017",
+    "text": "How do you maintain HSE documentation on a large UAE construction project?",
+    "category": "general",
+    "region": "uae",
+    "difficulty": "junior",
+    "modelAnswer": "HSE documentation on a large project must be accurate, accessible, current, and retrievable for audits and investigations. Key documentation maintained includes: HSE Management Plan (master document covering all H&S activities for the project); risk assessments and method statements for all significant tasks; PTW register (all permits issued, closed, and suspended); accident, incident, and near-miss reports with investigation findings; induction training records (every worker, every day of induction); toolbox talk records (date, topic, presenter, attendees with signatures); inspection reports (daily, weekly, special); audit reports with non-conformance tracking; health surveillance records; equipment inspection and maintenance records; emergency drill records with debrief notes; and monthly H&S statistics report. For UAE projects, I maintain both physical files and electronic records (using document management software or SharePoint). All records should be organised by category and date, clearly referenced, and backed up. Retention period: typically minimum 5 years for injury records, 10+ years for occupational disease records.",
+    "keyPoints": [
+      "Core registers: PTW, incident, near-miss, inspection, audit, training (induction + TBT)",
+      "All training records include: worker name, date, topic, trainer, signature",
+      "Inspection reports: dated, signed, with corrective actions tracked to closure",
+      "Electronic records: document management system or SharePoint for large projects",
+      "Retention: 5 years minimum for H&S records; longer for occupational disease exposure",
+      "Documentation audit: can you produce any record within 5 minutes?",
+      "ADNOC/client: may require specific document management system (Aconex, SharePoint)"
+    ],
+    "tip": "Poor documentation is one of the most common findings in UAE construction HSE audits. Mentioning specific document management systems (Aconex is common on large UAE infrastructure projects) shows real project experience. The practical test during an interview is whether you can describe how you would retrieve any given record — 'within 5 minutes' is a useful standard to cite.",
+    "followUpQuestions": [
+      "How do you ensure toolbox talk records are genuine and not just signed blank sheets?",
+      "What document management system have you used on previous projects?",
+      "How do you handle a situation where a client auditor asks for a record you cannot find?"
+    ]
+  },
+  {
+    "id": "uae-018",
+    "text": "What is your understanding of Management of Change (MOC) and why is it important in process safety?",
+    "category": "general",
+    "region": "uae",
+    "difficulty": "senior",
+    "modelAnswer": "Management of Change (MOC) is a formal process for evaluating, approving, and implementing changes to processes, equipment, procedures, staffing, or facilities in a way that ensures new hazards are not inadvertently introduced. MOC covers both temporary and permanent changes. The MOC process typically includes: identifying that a change is proposed; categorising the change (minor, moderate, major) to determine the level of review required; conducting a hazard analysis of the proposed change (mini-HAZOP, HAZID, or What-If); identifying additional controls needed; obtaining technical, operations, and H&S approval; communicating the change to affected personnel; updating P&IDs, procedures, and training materials; and verifying implementation before authorisation to proceed. MOC failures are a root cause of many major process accidents: the Texas City refinery used a temporary blowdown drum as a permanent fixture for years without MOC review, contributing to the 2005 explosion. In ADNOC facilities, MOC is a mandatory element of the PSM framework.",
+    "keyPoints": [
+      "MOC = formal process for managing changes to prevent inadvertent introduction of hazards",
+      "Covers: process, equipment, procedures, organisational structure, staffing",
+      "Steps: identify → categorise → hazard assess → approve → communicate → implement → verify",
+      "Both temporary and permanent changes require MOC",
+      "'Like for like' replacement: even minor replacements can require MOC review",
+      "Texas City example: temporary fixture operated as permanent — no MOC — contributed to explosion",
+      "ADNOC: MOC mandatory under PSM framework; changes must be closed in MOC system before start-up"
+    ],
+    "tip": "MOC is the element that most often slips in busy operational environments — 'it's just a temporary fix' is the most dangerous phrase in process safety. Knowing that temporary changes require MOC (because they often become permanent) is a key insight that separates process safety-aware candidates. The Texas City example is powerful and memorable.",
+    "followUpQuestions": [
+      "What is the difference between a 'like for like' replacement and a 'change' requiring MOC?",
+      "Who should be involved in approving a major process change?",
+      "What is a Pre-Startup Safety Review (PSSR) and when is it required?"
+    ]
+  },
+  {
+    "id": "uae-019",
+    "text": "How do you ensure a positive safety culture on a UAE project site?",
+    "category": "safety-culture",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "Safety culture is the shared beliefs, values, and behaviours regarding safety — it is 'the way we do things around here.' Building a positive safety culture requires consistent leadership behaviour at all levels. Practical actions: visible senior leadership involvement in safety walks, toolbox talks, and safety meetings — not delegating to HSE officers; celebrating and publicising safe behaviour and near-miss reporting rather than only reacting to incidents; open, blame-free reporting environment where workers report hazards without fear of punishment; HSE performance metrics in individual and managerial performance reviews; regular two-way communication — management listens to workforce concerns and acts; zero tolerance for serious safety violations (normalising violations erodes culture); and consistent, fair enforcement — the same rules apply to managers as to workers. Culture change takes time and must be sustained. In UAE construction, cultural sensitivities matter: respecting religious practices (prayer times), communicating in workers' languages, and treating migrant workers with dignity are all part of creating a genuinely positive H&S culture.",
+    "keyPoints": [
+      "Safety culture = shared values and behaviours — 'the way we do things here'",
+      "Leadership visibility: senior management personally participates in safety activities",
+      "Blame-free reporting: workers report near misses without fear — REWARD, don't punish",
+      "Consistent enforcement: same rules for managers and workers",
+      "Two-way communication: listen to workforce, act on concerns",
+      "Cultural sensitivity in UAE: respect prayer times, multilingual communication, dignity",
+      "Safety culture measured by: near-miss reporting rate, leadership observation frequency, safety climate surveys"
+    ],
+    "tip": "Culture questions are common in senior UAE interviews because organisations have moved beyond just having systems — they want people who can influence and sustain culture. The specific UAE context matters: migrant worker dignity is a global human rights concern now, and companies operating in the UAE must show they take it seriously. Mentioning the Bradford Factor (for managing attendance) or safety climate surveys (for measuring culture) shows HR and leadership maturity.",
+    "followUpQuestions": [
+      "How do you measure safety culture — what metrics or tools would you use?",
+      "What is the difference between a blame culture and a just culture?",
+      "Describe a safety culture improvement initiative you have personally led."
+    ]
+  },
+  {
+    "id": "uae-020",
+    "text": "What qualifications are typically required for an HSE Manager in UAE oil and gas?",
+    "category": "general",
+    "region": "uae",
+    "difficulty": "junior",
+    "modelAnswer": "For an HSE Manager role in UAE O&G, employers typically look for: NEBOSH Diploma (Level 6) or equivalent as the minimum professional qualification — NEBOSH IGC is generally insufficient for manager-level roles; IOSH Member (MIOSH) or Chartered Member (CMIOSH) status preferred; an Engineering or Science degree is valued for process/O&G roles; additional specialist qualifications relevant to O&G including H2S Alive, BOSIET (for offshore), HAZOP participation, and OHSAS 18001/ISO 45001 Lead Auditor are highly regarded. Minimum experience: typically 8–12 years H&S experience for Manager roles, with at least 5 years in O&G or heavy industry; experience with ADNOC, Aramco, or QP frameworks is particularly valued. For HSE Officer roles, NEBOSH IGC is the minimum — with NEBOSH Diploma required for senior officer positions. Aramco specifically stipulates NEBOSH IGC minimum for contractor HSE Officers in their SEMP requirements.",
+    "keyPoints": [
+      "HSE Manager (UAE O&G): NEBOSH Diploma minimum; Degree preferred",
+      "IOSH Membership (MIOSH/CMIOSH): professional body recognition",
+      "Additional O&G certs: H2S Alive, BOSIET (offshore), HAZOP, ISO 45001 Lead Auditor",
+      "Experience: 8–12 years H&S; 5+ years O&G for Manager roles",
+      "HSE Officer: NEBOSH IGC minimum; NEBOSH Diploma for senior officer",
+      "ADNOC: HSE staff qualifications are audited as part of contractor pre-qualification",
+      "Aramco SEMP: specifies NEBOSH IGC as minimum for contractor HSE Officers"
+    ],
+    "tip": "Understanding the qualification hierarchy (Worker → HSE Officer → Senior HSE Officer → HSE Manager → HSE Director) and which qualifications correspond to which level helps you position yourself appropriately. If you have NEBOSH IGC and are targeting an Officer role, that is accurate and honest. Overstating your qualification level is easily caught during technical interviews and destroys credibility.",
+    "followUpQuestions": [
+      "What is the difference between NEBOSH IGC and NEBOSH Diploma?",
+      "Is IOSH membership mandatory for HSE practice in the UAE?",
+      "What is BOSIET and why is it required for offshore roles?"
+    ]
+  },
+  {
+    "id": "uae-021",
+    "text": "What is your understanding of permit space entry versus non-permit confined space in UAE O&G?",
+    "category": "confined-space",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "Confined spaces are classified as either permit-required or non-permit based on the hazards present. A permit-required confined space contains or has the potential to contain a serious hazard: atmospheric hazards (oxygen deficiency, toxic gases, flammable atmosphere), engulfment hazard, internal configuration that could trap an entrant, or any other recognised serious safety or health hazard. Entry into a permit-required confined space requires a formal confined space entry permit specifying: the space, the work to be done, authorised entrants and attendants, atmospheric conditions, energy isolations in place, required PPE, communication arrangements, and rescue procedures. A non-permit confined space has no serious hazards or the hazards can be made negligible through continuous forced ventilation without special entry procedures. In UAE O&G (ADNOC facilities), essentially all vessel, tank, and enclosed drainage entries are treated as permit-required because hydrocarbon contamination cannot be excluded without extensive cleaning and purging.",
+    "keyPoints": [
+      "Permit-required: atmospheric hazards, engulfment, entrapment, or other serious hazards",
+      "Non-permit: no serious hazards present; continuous forced ventilation eliminates atmospheric risk",
+      "ADNOC: most vessels, tanks, and drains are permit-required — assume so unless verified otherwise",
+      "Permit must specify: entrants, attendant, atmosphere readings, isolations, rescue arrangements",
+      "Continuous monitoring: not just pre-entry — monitor throughout the work",
+      "Reclassification: a space can be reclassified from permit to non-permit ONLY after all hazards are verified absent",
+      "Rescue: pre-positioned SCBA and trained rescue team — BEFORE entry begins"
+    ],
+    "tip": "In Gulf O&G, the default approach is to treat any enclosed space as permit-required unless there is documented evidence to the contrary. This conservative approach is correct — the consequences of getting it wrong (H2S fatality, oxygen deficiency collapse) are irreversible. Mentioning this 'assume permit-required unless proven otherwise' principle demonstrates sound professional judgment.",
+    "followUpQuestions": [
+      "Under what conditions can a permit-required confined space be reclassified as non-permit?",
+      "What does continuous atmospheric monitoring mean — how is it done in practice?",
+      "How do you rescue an entrant who becomes incapacitated inside a confined space?"
+    ]
+  },
+  {
+    "id": "uae-022",
+    "text": "How do you prepare a site for a third-party HSE audit?",
+    "category": "general",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "Preparation for a third-party audit should be ongoing — the best audit preparation is consistent H&S management throughout the project, not a last-minute cleanup. However, structured pre-audit preparation includes: reviewing the audit scope and criteria with the client or certifying body; conducting an internal pre-audit against the same criteria to identify gaps; ensuring all documentation is current, organised, and retrievable — no expired risk assessments, no gaps in training records; verifying that physical conditions match documented controls (if the risk assessment says a guard is in place, it must actually be in place); briefing line managers and supervisors on what to expect — audit interviews, document requests, site walkarounds; ensuring all corrective actions from previous audits or inspections are closed; and never 'papering over cracks' — if a genuine non-conformance exists, raise it yourself in a corrective action before the audit rather than hoping the auditor misses it. During the audit: be transparent, accompany the auditor on site walks, facilitate document access, and make competent staff available for interviews.",
+    "keyPoints": [
+      "Best audit prep is ongoing excellent H&S management — not last-minute cleanup",
+      "Internal pre-audit: conduct the same audit yourself and close gaps first",
+      "Documentation: current, organised, retrievable — no expired risk assessments",
+      "Physical conditions must match documented controls",
+      "Brief supervisors and workers on audit format — no surprises",
+      "Close all outstanding corrective actions before the audit",
+      "Never deceive auditors — transparency builds trust and long-term credibility",
+      "Accompany auditors on site walk to facilitate access and answer questions"
+    ],
+    "tip": "The most impressive thing you can say is that you do your own internal audits before the external one — and that you raise your own non-conformances before the auditor finds them. This demonstrates a culture of self-improvement rather than impression management. ADNOC auditors specifically look for this attitude — organisations that proactively find and fix their own problems are trusted with less intensive ongoing oversight.",
+    "followUpQuestions": [
+      "What is the difference between an audit non-conformance and an observation?",
+      "How do you respond to an audit finding you disagree with?",
+      "How long after the audit should all corrective actions be closed?"
+    ]
+  },
+  {
+    "id": "uae-023",
+    "text": "Describe your experience with working at height inspections and scaffold safety.",
+    "category": "risk-assessment",
+    "region": "uae",
+    "difficulty": "junior",
+    "modelAnswer": "Scaffold safety inspections are a critical competency for UAE construction H&S. My inspection approach covers: foundation and base plates (level, stable, not on soft ground); uprights, ledgers, and transoms (properly connected, no visible deformation); cross bracing installed as required; platforms (fully planked, no gaps, boards secured); guardrails at correct height (usually 950mm–1200mm top rail with mid-rail and toe board); access (ladders properly secured, at correct angle, extending 1m above platform); load capacity not exceeded (scaffold is designed for a specific load); ties to the building structure at specified intervals; scaffold tag (green = inspected and safe, red = unsafe, do not use). Scaffolds must be inspected before first use, every 7 days, after any event that may have affected stability (storm, impact), and after modification. In UAE, only competent scaffolders with relevant certification (e.g. CISRS or equivalent) should erect and modify scaffold.",
+    "keyPoints": [
+      "Foundation: base plates, sole boards, level and stable ground",
+      "Structure: uprights, ledgers, transoms, bracing — no deformation or missing components",
+      "Platform: fully planked, no gaps, toe boards, guardrails at correct height",
+      "Access: ladders at correct angle, secured, extending 1m above platform",
+      "Scaffold tag: green = safe; red = unsafe — displayed at ALL access points",
+      "Inspection frequency: before first use, every 7 days, after events, after modification",
+      "Competent scaffolders: CISRS card or equivalent — erect, modify, dismantle"
+    ],
+    "tip": "In UAE, scaffold incidents are among the top causes of construction fatalities. Showing you know the 7-day inspection rule AND the post-event re-inspection requirement demonstrates regulatory knowledge. Mentioning the scaffold tag system (green/red) is immediately recognisable to any experienced UAE construction interviewer. If you have a scaffold inspection certificate (SPA, CSCS, or CISRS), mention it.",
+    "followUpQuestions": [
+      "What is the maximum gap allowed between scaffold boards on a working platform?",
+      "Who is qualified to modify an existing scaffold in the UAE?",
+      "What is the maximum load a standard construction scaffold is designed for?"
+    ]
+  },
+  {
+    "id": "uae-024",
+    "text": "How would you manage HSE during a nighttime construction activity in Dubai?",
+    "category": "risk-assessment",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "Night work in Dubai presents additional hazards that require specific management. Additional hazards: reduced visibility increasing fall, struck-by, and machinery risks; fatigue (particularly for workers on extended rotations); reduced supervisor-to-worker communication; fire hazard management is harder in darkness; emergency evacuation is more difficult. Controls: adequate task-specific lighting (minimum lux levels per task type — general construction 50 lux, fine work 200+ lux); all site lighting checked before work starts and backup emergency lighting in place; personal high-visibility clothing for all workers; additional supervisory presence per worker compared to daytime; fatigue management — maximum continuous working hours, mandatory rest breaks; night-specific toolbox talk before shift begins; emergency procedures confirmed and rehearsed for night conditions; communication devices (radios) for supervisors; and coordination with Dubai Municipality or relevant authority if noise restrictions apply (Dubai has nocturnal noise ordinances in residential proximity areas).",
+    "keyPoints": [
+      "Night-specific hazards: reduced visibility, fatigue, impaired communication, emergency response",
+      "Adequate lighting: minimum lux levels per task type — not just 'some lights on'",
+      "Emergency lighting: backup system in case main power fails",
+      "Hi-vis for all workers at night — more important than daytime",
+      "Fatigue management: shift length limits, mandatory breaks, not working double shifts",
+      "Night-specific TBT before shift starts",
+      "Dubai noise ordinances: check for residential proximity restrictions on night work"
+    ],
+    "tip": "Dubai night work is increasingly common on fast-track infrastructure projects. The Dubai noise ordinance (restriction of noisy work between 9pm–7am near residential areas) is a specific local regulation that shows UAE knowledge. Fatigue management is frequently overlooked — mentioning it specifically (maximum hours, rest breaks, no double shifts) demonstrates operational experience.",
+    "followUpQuestions": [
+      "What is the minimum illumination level for general construction work at night?",
+      "Are there time restrictions on noise-generating construction work near residential areas in Dubai?",
+      "How do you manage a fatigue-related incident where a worker falls asleep during a night shift?"
+    ]
+  },
+  {
+    "id": "uae-025",
+    "text": "What is your experience with ISO 45001 implementation and what does it add over OHSAS 18001?",
+    "category": "legislation",
+    "region": "uae",
+    "difficulty": "mid",
+    "modelAnswer": "ISO 45001:2018 replaced OHSAS 18001 as the international standard for occupational health and safety management systems. My experience includes supporting implementation of ISO 45001 through gap analysis, documentation update, and internal audit. The key additions ISO 45001 makes over OHSAS 18001 include: (1) Context of the organisation — explicitly requires understanding of internal and external issues and the needs and expectations of interested parties (workers, contractors, regulators, community); (2) Leadership and worker participation — stronger emphasis on top management demonstrating active leadership rather than just 'supporting' safety; (3) Risk and opportunity-based thinking — the organisation must identify not only H&S risks but also opportunities for improvement; (4) Performance evaluation — more specific requirements for monitoring, measurement, analysis, and evaluation; (5) High Level Structure (HLS) — ISO 45001 follows the same HLS as ISO 9001 and ISO 14001, making integrated management system implementation much easier. In the UAE, OSHAD-SF aligns with ISO 45001, and many ADNOC contractors pursue ISO 45001 certification.",
+    "keyPoints": [
+      "ISO 45001 replaced OHSAS 18001 (organisations should have transitioned by March 2021)",
+      "New: context of the organisation — external and internal issues + interested parties",
+      "Stronger: leadership demonstrated through active participation, not just policy signing",
+      "New: risk and opportunity thinking — not just managing risk, but identifying improvement opportunities",
+      "HLS: aligns with ISO 9001 and ISO 14001 — enables integrated management systems",
+      "OSHAD-SF aligns with ISO 45001 for Abu Dhabi compliance",
+      "ADNOC contractors: ISO 45001 certification valued in pre-qualification"
+    ],
+    "tip": "ISO 45001 transition was completed by March 2021 — any organisation still on OHSAS 18001 is now operating outside the current standard. Mentioning context of the organisation and leadership requirements as the two biggest additions shows you know the standard in depth. If you have an ISO 45001 Lead Auditor certificate, it is very valuable in UAE because ADNOC and its contractors actively pursue ISO 45001 certification.",
+    "followUpQuestions": [
+      "What is the High Level Structure (HLS) and why is it significant for integrated management systems?",
+      "What does 'context of the organisation' mean in practice under ISO 45001?",
+      "How does ISO 45001 differ from OHSAS 18001 in its treatment of worker participation?"
+    ]
+  }
+]

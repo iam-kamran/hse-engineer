@@ -1,0 +1,122 @@
+{
+  "id": "certifications/nebosh-igc/exam-prep",
+  "sectionId": "nebosh-igc",
+  "title": "NEBOSH IGC Exam Preparation & Question Technique",
+  "order": 14,
+  "estimatedReadTime": 22,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Understand the IG1 exam format and marking structure",
+    "Apply command word technique to write high-scoring exam answers",
+    "Structure extended response answers using the NEBOSH marking approach",
+    "Practise with example questions and model answers"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "IG1 Exam Format"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Component", "Detail"],
+        "rows": [
+          ["Format", "Open book exam (OBE) — you can use notes and course materials"],
+          ["Duration", "48 hours from time of opening the question paper"],
+          ["Questions", "One long-form question with multiple parts"],
+          ["Total marks", "80 marks"],
+          ["Pass mark", "45 marks (56%)"],
+          ["Submission", "Word-processed response submitted online to NEBOSH"],
+          ["Maximum words", "No strict limit but NEBOSH expects approximately 3,000–3,500 words"]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "The IG1 is open book — this is both an advantage and a trap. Candidates who simply copy text from notes without applying it to the specific scenario will score poorly. NEBOSH wants APPLICATION and ANALYSIS, not regurgitation."
+    },
+    {
+      "type": "heading",
+      "text": "Understanding Command Words"
+    },
+    {
+      "type": "paragraph",
+      "text": "Every exam question begins with a command word. Misunderstanding the command word is the most common reason for poor marks."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Command Word", "What NEBOSH Wants", "Marks Typically Available"],
+        "rows": [
+          ["Identify / State / Give", "Simple list; no explanation required", "1 mark per valid point"],
+          ["Outline", "Brief description of each point — more than a list, less than a full explanation", "1–2 marks per point"],
+          ["Describe", "Full description with enough detail that the reader understands the concept clearly", "2–3 marks per point"],
+          ["Explain", "Give reasons; justify your answer; show how or why", "2–4 marks per point"],
+          ["Justify", "Give strong reasons and evidence for why something is appropriate", "3–5 marks per response"],
+          ["Comment on", "Make observations about; evaluate or assess a given situation", "2–4 marks per observation"]
+        ]
+      }
+    },
+    {
+      "type": "example",
+      "text": "Question: 'Outline the possible causes of a manual handling injury to a warehouse worker.' Poor answer: 'Heavy loads.' (0–1 marks) Good answer: 'Exceeding personal physical capacity through lifting loads that are too heavy or bulky without mechanical assistance; adopting awkward postures such as bending or twisting while carrying loads in confined racking aisles; failing to rest during sustained manual handling tasks leading to muscle fatigue; inadequate training meaning workers are unaware of correct lifting technique.' (4–5 marks)"
+    },
+    {
+      "type": "heading",
+      "text": "Answer Structure for Extended Questions"
+    },
+    {
+      "type": "paragraph",
+      "text": "For questions worth 10+ marks, structure your answer to maximise coverage:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Read the scenario carefully — all answers should refer back to the scenario; generic answers score poorly",
+        "Plan before writing — note bullet points for each mark you need to earn",
+        "Use sub-headings if the question has multiple parts",
+        "Give specific examples from the scenario wherever possible",
+        "For 'Explain the consequences' type questions, consider legal, financial, and human consequences",
+        "Never repeat the same point in different words — NEBOSH marks each unique point once"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "High-Value Topics to Prioritise"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Topic", "Why It's High Priority", "Elements Covered"],
+        "rows": [
+          ["Risk assessment process", "Always appears on IGC exams", "Element 3"],
+          ["Hierarchy of controls", "Appears in multiple contexts", "Elements 3, 7, 8, 9, 10"],
+          ["Reasons for managing H&S", "Standard introductory question", "Element 1"],
+          ["H&S policy", "Frequently examined", "Element 2"],
+          ["Permit to Work", "Major Gulf topic; frequently examined", "Element 3"],
+          ["Confined space entry", "High-risk activity; detailed examination expected", "Element 8"],
+          ["Working at height", "Leading cause of fatalities; always examined", "Element 8"],
+          ["Fire safety", "Common topic", "Element 10"],
+          ["Incident investigation", "NEBOSH loves investigation questions", "Element 4"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Practice Question — Model Answer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: 'A worker has been seriously injured in a forklift truck accident at a distribution warehouse. Outline the immediate actions that should be taken following this accident and the possible legal consequences for the employer.' (10 marks)"
+    },
+    {
+      "type": "example",
+      "text": "Immediate actions: (1) Ensure scene is safe — check for ongoing hazards (fuel spill, unstable vehicle); do not move the casualty unless in immediate danger. (2) Call emergency services immediately — ambulance and, if required, fire service. (3) Administer first aid by a trained first aider while awaiting ambulance. (4) Secure the scene — prevent access to preserve evidence; only emergency services should enter. (5) Notify senior management and HSE department immediately. (6) Begin the internal incident investigation process — appoint an investigator; secure CCTV footage, maintenance records, training records, and witness statements before memories fade. (7) Notify the regulatory authority (HSE, Ministry of Labour, etc.) — notifiable incidents must be reported within defined timeframes. Legal consequences: (8) Regulatory investigation and potential prosecution under health and safety legislation, resulting in unlimited fines and/or imprisonment for individuals. (9) Civil claim for compensation by the injured worker or their family. (10) Reputational damage; loss of business from clients who impose HSE performance requirements on their supply chain. (10/10 marks)"
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf region NEBOSH candidates: the IG1 exam is globally standardised — you will answer the same questions as candidates in the UK, India, and Australia. However, your answers can reference Gulf-specific context as examples. Mentioning Aramco SEMP, ADNOC standards, or Gulf regulatory frameworks alongside the generic answer demonstrates additional depth and contextual understanding that impresses examiners."
+    }
+  ],
+  "quizId": null
+}

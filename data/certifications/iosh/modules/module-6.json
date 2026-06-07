@@ -1,0 +1,147 @@
+{
+  "id": "certifications/iosh/module-6",
+  "sectionId": "iosh",
+  "title": "Module 6: Investigating Incidents",
+  "order": 6,
+  "estimatedReadTime": 18,
+  "difficulty": "beginner",
+  "learningObjectives": [
+    "Understand the primary purpose of accident investigation — prevention, not blame",
+    "Apply a structured investigation methodology to identify immediate, underlying, and root causes",
+    "Understand the significance of near-miss reporting and investigation",
+    "Prepare and communicate an investigation report with effective corrective actions",
+    "Know the legal reporting requirements for workplace incidents"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Why Investigate Incidents?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The primary purpose of incident investigation is prevention — to understand what happened, why it happened, and what must change to prevent recurrence. Investigation is NOT primarily about blame, discipline, or legal liability. Organisations that investigate primarily to find fault discourage honest reporting and miss the real root causes, which remain unaddressed until a more serious event occurs."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Investigation is about learning, not blaming. When workers know they will be blamed rather than listened to, they stop reporting near misses and minor incidents — leaving root causes unaddressed until a major event occurs."
+    },
+    {
+      "type": "heading",
+      "text": "What Should Be Investigated?"
+    },
+    {
+      "type": "list",
+      "items": [
+        "All fatalities and serious injuries — mandatory investigation",
+        "Lost-time injuries (injuries causing absence from work)",
+        "Recordable injuries (those requiring medical treatment beyond first aid)",
+        "Near misses — unplanned events that did not cause injury but had the potential to do so",
+        "Dangerous occurrences — specified events that must be investigated regardless of injury (e.g. scaffold collapse, crane failure, explosion)",
+        "Property damage incidents — particularly if the damage could have been an injury"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Gulf O&G under Aramco SEMP, QatarEnergy, and ADNOC frameworks, near-miss reporting rates are leading KPIs tracked monthly. A high near-miss reporting rate indicates a healthy safety culture — workers feel safe to report without fear of blame. A low near-miss rate with a high injury rate indicates a blame culture suppressing reporting, which is far more dangerous."
+    },
+    {
+      "type": "heading",
+      "text": "The Investigation Process"
+    },
+    {
+      "type": "paragraph",
+      "text": "A structured investigation follows these steps:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "1. Immediate response: ensure injured person receives medical attention; make the scene safe; do not move evidence unless necessary for safety",
+        "2. Preserve evidence: photograph the scene from multiple angles; photograph equipment, tools, and PPE involved; collect CCTV footage, maintenance records, permits",
+        "3. Interview witnesses: interview separately and early while memory is fresh; use open questions; create a supportive, non-blame atmosphere",
+        "4. Root cause analysis: identify immediate causes, underlying/contributing factors, and root causes",
+        "5. Corrective actions: develop specific, measurable actions that address root causes — not just symptoms",
+        "6. Report and communicate: write the investigation report; share learning with the wider workforce through safety alerts",
+        "7. Follow up: verify that corrective actions are implemented and effective"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Causes of Accidents — The Three Levels"
+    },
+    {
+      "type": "definition",
+      "term": "Immediate Cause",
+      "text": "The unsafe act or unsafe condition that directly triggered the event. Examples: not wearing PPE; wet floor; unguarded machine. This is the most visible cause but usually the least informative for prevention."
+    },
+    {
+      "type": "definition",
+      "term": "Underlying / Contributing Factors",
+      "text": "The factors that allowed or contributed to the immediate cause. Examples: PPE not worn because it was not available at the worksite; floor was wet because the drainage system had been defective for two weeks; machine was unguarded because the guard had been removed during maintenance and not replaced."
+    },
+    {
+      "type": "definition",
+      "term": "Root Causes",
+      "text": "The fundamental management system failures that allowed the hazardous conditions to persist. Examples: PPE purchase process was inadequate; maintenance request system failed to prioritise drainage repair; no reinstatement check after maintenance was completed. Root causes are management system failures — fixing them prevents recurrence."
+    },
+    {
+      "type": "example",
+      "text": "Incident: A worker on a Saudi construction site receives a burn from a welding spark. Immediate cause: no welding screen erected. Underlying cause: the risk assessment for the welding task did not require screens and no one checked. Root cause: the risk assessment process was not reviewed after a similar incident six months ago; the supervisor had not received refresher training on hot work risk assessment. Corrective action targeting root cause: review and update risk assessment process; schedule supervisor refresher training; establish a post-incident review procedure. Corrective action targeting only immediate cause: 'Erect a welding screen' — fails to prevent recurrence because the system that missed this hazard is unchanged."
+    },
+    {
+      "type": "heading",
+      "text": "Root Cause Analysis Techniques"
+    },
+    {
+      "type": "definition",
+      "term": "5 Whys",
+      "text": "Repeatedly asking 'why?' to drill from the immediate cause to the root cause. Worker did not wear gloves (immediate) → Why? Gloves were not available at worksite. Why? → They were not ordered on time. Why? → No PPE restocking procedure. Why? → The safety management system does not include a PPE management process. Root cause identified: management system gap."
+    },
+    {
+      "type": "definition",
+      "term": "Fishbone / Ishikawa Diagram",
+      "text": "A visual tool that organises causes into categories (People, Environment, Equipment, Methods, Management, Materials) branching from the central 'problem.' Useful for complex incidents with many contributing factors."
+    },
+    {
+      "type": "definition",
+      "term": "TapRoot",
+      "text": "A structured root cause analysis system used in major O&G incidents (used by ADNOC, QP, and many Aramco contractors). TapRoot uses a comprehensive cause tree to systematically identify all root causes in management systems, training, and procedures."
+    },
+    {
+      "type": "gulfNote",
+      "text": "For Gulf O&G roles, naming a specific root cause analysis methodology — 5 Whys for simple incidents, TapRoot or ICAM for serious events — demonstrates technical depth in interviews. Most Gulf O&G operators require root cause analysis for all LTIs and specified serious events, with formal reports submitted within 14 days."
+    },
+    {
+      "type": "heading",
+      "text": "Near Miss Investigation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Near misses deserve the same investigation rigour as accidents — they share identical root causes and represent 'free warnings' before the same scenario results in injury. Heinrich's Triangle tells us that for every major injury there are many near misses at the base — investigating and learning from near misses prevents the top of the triangle from occurring. High near-miss reporting rates are a positive sign of safety culture maturity, not evidence of a dangerous site."
+    },
+    {
+      "type": "heading",
+      "text": "The Investigation Report"
+    },
+    {
+      "type": "paragraph",
+      "text": "An investigation report should contain: incident description (who, what, where, when, how); evidence gathered; immediate causes; underlying factors; root causes; corrective actions (specific, with named owners and completion dates); and lessons learned. The report should be written clearly enough that someone unfamiliar with the site can understand what happened and why. Corrective actions must target root causes — not just the immediate symptom."
+    },
+    {
+      "type": "warning",
+      "text": "Weak corrective actions — 'worker will be retrained,' 'workers reminded to follow procedures' — address the immediate cause only and rarely prevent recurrence. Strong corrective actions change the system: update the procedure; install a physical barrier; change the inspection process; review the training curriculum."
+    },
+    {
+      "type": "heading",
+      "text": "Legal Reporting Requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most countries require mandatory reporting of certain workplace incidents to the regulatory authority. Commonly reportable events include: fatalities; specified serious injuries (fractures, amputations, hospitalisations beyond a set duration); dangerous occurrences (scaffold collapse, pressure vessel explosion, crane overload, etc.); and certain occupational diseases. The reporting timeline varies by country (typically 24 hours to 7 days). In the UK, this is RIDDOR (Reporting of Injuries, Diseases and Dangerous Occurrences Regulations). Gulf countries have Ministry of Labour reporting requirements with similar scope."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Never delay reporting a serious incident to 'see if the worker recovers' or to avoid classification as a recordable event. Late reporting is itself a violation, and covers only the immediate situation — the root causes remain unaddressed."
+    }
+  ],
+  "quizId": "iosh/module-6-quiz"
+}

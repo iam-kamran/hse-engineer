@@ -1,0 +1,119 @@
+{
+  "id": "certifications/osha/construction-hazcom",
+  "sectionId": "osha",
+  "title": "Hazard Communication / GHS in Construction (29 CFR 1926.59)",
+  "order": 7,
+  "estimatedReadTime": 18,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Explain the three pillars of HazCom: Safety Data Sheets, labels, and training",
+    "Read and interpret a GHS-formatted Safety Data Sheet (SDS)",
+    "Identify the nine GHS hazard pictograms",
+    "Apply HazCom requirements to chemical management on Gulf construction sites"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "What Is HazCom?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Hazard Communication Standard (HCS) — commonly called HazCom — requires chemical manufacturers to communicate hazards to downstream users through Safety Data Sheets and labels. Employers must have a written HazCom program, maintain SDSs for all hazardous chemicals in the workplace, and train workers to understand them."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2012, OSHA aligned HazCom with the Globally Harmonised System of Classification and Labelling of Chemicals (GHS). This created a standardised, internationally recognised format for hazard communication — making HazCom knowledge directly applicable to Gulf workplaces, which adopted GHS between 2014 and 2020."
+    },
+    {
+      "type": "keyPoint",
+      "text": "HazCom has three core requirements: (1) Written HazCom Program, (2) Safety Data Sheets (SDS) accessible to all workers who may be exposed, (3) Labels on all containers of hazardous chemicals. All three apply to construction sites where chemicals are used."
+    },
+    {
+      "type": "heading",
+      "text": "The Safety Data Sheet (SDS) — 16 Sections"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Section", "Content"],
+        "rows": [
+          ["1", "Identification — product name, manufacturer, emergency contact"],
+          ["2", "Hazard Identification — GHS classification, signal word, pictograms, hazard statements"],
+          ["3", "Composition — chemical identity, CAS numbers, trade secrets"],
+          ["4", "First Aid Measures — for eye contact, skin contact, inhalation, ingestion"],
+          ["5", "Fire-Fighting Measures — extinguishing agents, special fire hazards"],
+          ["6", "Accidental Release — spill and leak procedures"],
+          ["7", "Handling and Storage — ventilation, incompatibilities, temperature limits"],
+          ["8", "Exposure Controls / PPE — OELs, engineering controls, respiratory protection type"],
+          ["9", "Physical and Chemical Properties — flash point, boiling point, vapour density"],
+          ["10", "Stability and Reactivity — conditions to avoid, incompatible materials"],
+          ["11", "Toxicological Information — LD50, LC50, target organs, routes of exposure"],
+          ["12", "Ecological Information"],
+          ["13", "Disposal Considerations"],
+          ["14", "Transport Information — UN number, hazard class"],
+          ["15", "Regulatory Information — OSHA, RCRA, SARA, state regulations"],
+          ["16", "Other Information — revision date, disclaimer"]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "For the exam and real-world work, memorise sections 2, 4, 7, 8, and 9 — these are the sections workers and supervisors use daily: hazards, first aid, safe handling, PPE selection, and physical properties."
+    },
+    {
+      "type": "heading",
+      "text": "GHS Pictograms: The Nine Symbols"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Flame: flammables, self-reactives, pyrophorics, self-heating substances, organic peroxides",
+        "Flame Over Circle: oxidisers",
+        "Exploding Bomb: explosives, self-reactives, organic peroxides",
+        "Skull and Crossbones: acute toxicity (fatal or toxic)",
+        "Exclamation Mark: irritants, mild skin/eye sensitisers, harmful if swallowed",
+        "Health Hazard (person with starburst): carcinogens, respiratory sensitisers, reproductive toxins, organ damage",
+        "Corrosion: skin/eye corrosives, metals corrosion",
+        "Gas Cylinder: gases under pressure",
+        "Environment (dead tree/fish): environmental hazards"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "GHS Labels: Six Required Elements"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Product identifier (name as it appears on the SDS)",
+        "Signal word: DANGER (more severe) or WARNING (less severe)",
+        "Hazard statements: standardised phrases describing the nature and degree of hazard",
+        "Precautionary statements: what to do to minimise exposure, what PPE to wear, first aid",
+        "Pictograms: applicable GHS symbols",
+        "Supplier identification: name, address, and telephone number of the manufacturer or importer"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Written HazCom Program Requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Every employer must have a written HazCom program that addresses how the employer will: maintain and update the chemical inventory list, maintain and make accessible SDSs, label all containers, and train workers. On multi-employer construction sites, contractors must share hazard information with each other."
+    },
+    {
+      "type": "example",
+      "text": "A construction crew arrives at a site to apply epoxy coating to a floor slab. Before work starts, the foreman locates the epoxy SDS (Section 2 — DANGER, skin sensitiser; Section 8 — wear nitrile gloves, safety glasses, half-face respirator with organic vapour cartridges). Workers are briefed on the hazards, given appropriate PPE, and shown where the emergency eyewash is. The SDS is posted at the work location. Containers are labelled per GHS requirements."
+    },
+    {
+      "type": "definition",
+      "term": "Permissible Exposure Limit (PEL)",
+      "text": "OSHA's legally enforceable maximum concentration of a substance a worker may be exposed to over an 8-hour day (TWA). Found in SDS Section 8 and 29 CFR 1910.1000 (Z tables). Many PELs are outdated — the ACGIH Threshold Limit Values (TLVs) are generally more protective."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: All Gulf countries have adopted GHS. Saudi Arabia's SASO (Saudi Standards, Metrology and Quality Organization) mandated GHS labels by 2019. The UAE Federal Standard aligns with GHS Revision 6. Qatar and Kuwait follow the GCC (Gulf Cooperation Council) harmonised chemical labelling regulation. On Aramco sites, all chemical containers must have an Aramco-approved safety label before being brought on site — many chemicals are restricted or banned on Aramco facilities regardless of their GHS classification (e.g., certain solvents, mercury-containing devices). ADNOC's HSEMS similarly requires a chemical approval process before new substances are introduced to a facility."
+    }
+  ],
+  "quizId": null
+}

@@ -1,0 +1,138 @@
+{
+  "id": "certifications/iosh/module-3",
+  "sectionId": "iosh",
+  "title": "Module 3: Controlling Risks",
+  "order": 3,
+  "estimatedReadTime": 20,
+  "difficulty": "beginner",
+  "learningObjectives": [
+    "Apply the hierarchy of controls to reduce risks to ALARP",
+    "Understand the limitations of PPE as a control measure",
+    "Describe examples of each level of control for common workplace hazards",
+    "Explain the meaning of ALARP (As Low As Reasonably Practicable)",
+    "Know how to select the most appropriate control for a given risk"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "The Hierarchy of Controls"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once hazards have been identified and risks evaluated (Module 2), the next step is controlling them. Controls are not all equal — some are far more reliable than others. The hierarchy of controls ranks control measures from most to least effective, and the principle is clear: always use the highest level of control that is reasonably practicable before resorting to lower-level measures."
+    },
+    {
+      "type": "list",
+      "items": [
+        "1. Elimination — remove the hazard entirely",
+        "2. Substitution — replace with something less hazardous",
+        "3. Engineering controls — physically isolate people from the hazard",
+        "4. Administrative controls — change the way people work",
+        "5. Personal Protective Equipment (PPE) — protect the individual"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "PPE is always the LAST resort — not the first response. It only protects if correctly selected, fitted, maintained, and worn every time. Engineering and elimination controls work automatically, regardless of human behaviour."
+    },
+    {
+      "type": "heading",
+      "text": "Level 1: Elimination"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most effective control is to remove the hazard entirely so it cannot cause harm. Examples: pre-assembling structures at ground level instead of working at height (eliminates the fall hazard); using a non-toxic cleaning chemical instead of a solvent (eliminates the chemical hazard); commissioning an automated system instead of manual process (eliminates repetitive manual handling). Elimination is not always possible — but it should always be the first question asked: 'Do we actually need to do this task this way?'"
+    },
+    {
+      "type": "gulfNote",
+      "text": "In Gulf construction, pre-fabrication of structural elements at ground level before lifting is a classic elimination control — it removes the need for workers to be at height during assembly. Major ADNOC and Aramco projects increasingly require design teams to demonstrate that working at height has been minimised through pre-fab, not just managed with harnesses."
+    },
+    {
+      "type": "heading",
+      "text": "Level 2: Substitution"
+    },
+    {
+      "type": "paragraph",
+      "text": "Where elimination is not possible, substitute the hazardous element with something safer. Examples: replace a solvent-based paint with a water-based equivalent (reduces chemical hazard); replace heavy manual components with lighter modular versions (reduces manual handling risk); use a quieter machine to replace a noisy one (reduces noise exposure); replace asbestos-containing insulation with rock wool during refurbishment. The substituted material must be genuinely safer — some substitutions create new hazards."
+    },
+    {
+      "type": "heading",
+      "text": "Level 3: Engineering Controls"
+    },
+    {
+      "type": "paragraph",
+      "text": "Engineering controls physically separate the worker from the hazard. They are reliable because they work automatically — the worker does not need to take any action. Examples: machine guards preventing contact with moving parts; Local Exhaust Ventilation (LEV) capturing dust or fumes at source; guardrails preventing falls from edges; safety interlocks that stop a machine when a guard is opened; acoustic enclosures around noisy equipment; blast-resistant control room structures in petrochemical facilities."
+    },
+    {
+      "type": "example",
+      "text": "A dust extraction hood (LEV) positioned at a grinding station captures dust at the point of generation before it enters the worker's breathing zone. This engineering control works continuously, regardless of whether the worker remembers to take any action. Contrast with asking the worker to wear a dust mask — this requires the worker to wear it correctly, every time, for the full duration of exposure. The LEV is more reliable."
+    },
+    {
+      "type": "heading",
+      "text": "Level 4: Administrative Controls"
+    },
+    {
+      "type": "paragraph",
+      "text": "Administrative controls change the way work is organised or performed to reduce exposure. They rely on people following procedures correctly. Examples: work/rest schedules to limit heat stress exposure; permit to work systems for high-hazard activities; job rotation to reduce repetitive strain exposure; safe work procedures and method statements; training and supervision; restricted access zones; signage and warnings. Administrative controls are necessary but inherently less reliable than engineering controls — they depend on human compliance."
+    },
+    {
+      "type": "gulfNote",
+      "text": "The Permit to Work (PTW) system — mandatory at Aramco, ADNOC, and QP facilities — is a critical administrative control. It ensures high-risk activities are planned, communicated, and controlled before they begin. Despite being administrative, PTW is one of the most powerful safety tools in Gulf O&G when properly implemented."
+    },
+    {
+      "type": "heading",
+      "text": "Level 5: Personal Protective Equipment (PPE)"
+    },
+    {
+      "type": "paragraph",
+      "text": "PPE is the last line of defence — it protects the individual if all other controls fail or are insufficient. PPE does not remove the hazard; it only reduces the consequences if the hazard reaches the worker. Examples: hard hats (head injury from falling objects), safety boots (foot injury from dropped items or punctures), safety glasses and face shields (eye injury from particles or splashes), ear defenders (hearing damage from noise), respirators (respiratory damage from dust or chemicals), full-body harness (fall arrest if a fall occurs)."
+    },
+    {
+      "type": "warning",
+      "text": "PPE limitations: it must be the correct type for the specific hazard (a dust mask does not protect against chemical vapours); it must fit correctly (an ill-fitting respirator provides no seal); it must be maintained and inspected; and it must be worn correctly every single time it is needed. When any of these conditions fail, protection fails. Engineering controls do not have these weaknesses."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Control Level", "Example — Noise Hazard", "Reliability"],
+        "rows": [
+          ["Elimination", "Redesign the process to remove the noisy equipment", "Highest — hazard gone"],
+          ["Substitution", "Replace with quieter equipment below action level", "Very high — hazard reduced at source"],
+          ["Engineering", "Acoustic enclosure around the machine", "High — works automatically"],
+          ["Administrative", "Work rotation — limit exposure time to 2 hours per person", "Medium — requires compliance"],
+          ["PPE", "Ear defenders worn by workers in the area", "Lower — depends on correct use every time"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "ALARP — As Low As Reasonably Practicable"
+    },
+    {
+      "type": "definition",
+      "term": "ALARP",
+      "text": "As Low As Reasonably Practicable. The legal and ethical standard for risk control — reduce risk as far as the benefits of further reduction justify the cost and effort. ALARP does not mean zero risk (impossible), but it means doing everything that is reasonably possible to reduce risk. Further reduction is not required only when the cost would be 'grossly disproportionate' to the safety benefit gained."
+    },
+    {
+      "type": "paragraph",
+      "text": "Demonstrating ALARP requires showing that: all practical control measures have been considered; higher-level controls have been used wherever reasonably possible; lower-level controls (PPE, admin) supplement but do not replace higher controls; and residual risk is genuinely as low as can be achieved given the circumstances."
+    },
+    {
+      "type": "gulfNote",
+      "text": "ALARP is used extensively in Gulf O&G process safety risk assessments (QRA — Quantitative Risk Assessment) to justify the risk level of major facilities. Aramco and ADNOC require formal ALARP demonstrations for major hazard installations. For practical job-level risk assessments, ALARP means choosing the highest feasible control for each identified hazard."
+    },
+    {
+      "type": "heading",
+      "text": "Combining Controls"
+    },
+    {
+      "type": "paragraph",
+      "text": "For most significant hazards, multiple levels of control are used together — this is called a 'defence in depth' approach. Example for working at height on a scaffold: Engineering (guardrails, toe boards) + Administrative (scaffold inspection regime, permit for non-routine elevated work) + PPE (hard hat for people below, harness if in a fall zone without guardrails). The combination is more reliable than any single control."
+    },
+    {
+      "type": "keyPoint",
+      "text": "The hierarchy is a priority guide — it does not mean you only use ONE level of control. Most significant hazards require controls at multiple levels to achieve ALARP. Start at the top of the hierarchy and work down, adding controls at each level as needed."
+    }
+  ],
+  "quizId": "iosh/module-3-quiz"
+}

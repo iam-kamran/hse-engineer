@@ -1,0 +1,131 @@
+{
+  "id": "certifications/osha/construction-cranes",
+  "sectionId": "osha",
+  "title": "Cranes & Rigging (29 CFR 1926 Subpart CC)",
+  "order": 6,
+  "estimatedReadTime": 20,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "State the operator qualification requirements for cranes on construction sites",
+    "Describe pre-use inspection requirements for cranes",
+    "Identify rigging hardware requirements and inspection criteria",
+    "Apply swing radius, exclusion zone, and power line safe distance rules"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Crane Hazards in Construction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cranes are involved in approximately 50 fatalities and 500 injuries annually in US construction. The primary hazards are: contact with overhead power lines (the leading cause), crane tip-over, load drops, and being struck by the swing radius. OSHA 1926 Subpart CC (1926.1400–1926.1442) is one of the most detailed construction standards."
+    },
+    {
+      "type": "keyPoint",
+      "text": "The most common cause of crane fatalities is contact with overhead power lines. The default required distance from any part of the crane (including load line and load) to an energised overhead line is 20 feet for lines up to 350 kV."
+    },
+    {
+      "type": "heading",
+      "text": "Operator Qualification Requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA 1926.1427 requires crane operators to be certified by an accredited crane operator testing organisation (such as NCCCO), licensed by a state or local government, or qualified by an employer-approved process. Operators must also be evaluated by the employer for each crane type and capacity they operate."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Personnel", "Role", "Requirements"],
+        "rows": [
+          ["Operator", "Controls the crane", "Certified, evaluated, documented"],
+          ["Signal Person", "Gives hand or radio signals to operator when load is out of sight", "Qualified — knows standard signals, crane movements, rigging"],
+          ["Rigger", "Attaches load to crane hook", "Qualified — knows rigging, slings, hardware ratings"],
+          ["Competent Person", "Inspects crane before use; identifies hazards", "OSHA-defined competent person level"],
+          ["Qualified Person", "Engineer or specialist for complex lifts", "Relevant degree or equivalent experience"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Crane Inspections"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Pre-shift inspection: visual inspection of hooks, ropes, controls, safety devices by the operator or a competent person before each shift",
+        "Monthly inspection: more detailed check of wire rope, sheaves, drums, pins, outrigger pads",
+        "Annual inspection: comprehensive inspection by a qualified person; documented and retained",
+        "After any significant event (storm, load slip, equipment strike): additional inspection required before return to service",
+        "Annual wire rope inspection: check for kinks, broken wires, corrosion, reduction in diameter — any single strand must have no more than 3 broken wires per lay"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Rigging Safety"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rigging includes all slings, chains, wire rope, hooks, shackles, and hardware used to attach a load to the crane hook. Every piece of rigging hardware must be rated, inspected before use, and used within its Working Load Limit (WLL)."
+    },
+    {
+      "type": "definition",
+      "term": "Working Load Limit (WLL)",
+      "text": "The maximum load that should ever be applied to rigging hardware in normal service. Also called the Safe Working Load (SWL). The WLL is the Break Load divided by the safety factor (typically 4:1 to 5:1 for slings, 6:1 for hooks)."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Synthetic web slings: inspect for cuts, abrasions, knots, heat damage, chemical damage. Discard if core yarns are exposed.",
+        "Wire rope slings: inspect for broken wires (6 or more in any rope lay = remove from service), kinks, corrosion, reduction in diameter",
+        "Chain slings: inspect for cracks, nicks, gouges, wear exceeding 10% of original cross-section",
+        "Shackles: screw-pin shackles must have pin fully seated; never substitute a bolt for the shackle pin",
+        "Hook latch: all hooks must have a functioning safety latch; remove from service if latch is broken or missing"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Swing Radius Exclusion Zones"
+    },
+    {
+      "type": "paragraph",
+      "text": "The area within the swing radius of the rotating superstructure (counterweight and boom) must be barricaded to prevent anyone from being struck. This is often called the 'tail swing' exclusion zone. Workers must not enter the zone while the crane is rotating."
+    },
+    {
+      "type": "heading",
+      "text": "Overhead Power Line Safety"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Voltage", "Minimum Distance"],
+        "rows": [
+          ["Up to 350 kV", "20 feet"],
+          ["350 kV to 1000 kV", "50 feet"],
+          ["Unknown voltage", "50 feet until voltage is established"]
+        ]
+      }
+    },
+    {
+      "type": "warning",
+      "text": "If a crane contacts or comes within the minimum approach distance of a power line: do not try to exit the cab — the cab may be the safest place if lines are still energised. Direct all personnel to stay away from the crane and any metallic objects touching it. Contact the utility immediately."
+    },
+    {
+      "type": "heading",
+      "text": "Critical Lifts"
+    },
+    {
+      "type": "definition",
+      "term": "Critical Lift",
+      "text": "A lift that requires detailed planning due to size, complexity, or risk. Under OSHA 1926.1431, a critical lift is one where the load exceeds 75% of the crane's rated capacity, or involves multiple cranes, or involves personnel being lifted. Must have a written lift plan prepared by a qualified person."
+    },
+    {
+      "type": "example",
+      "text": "A 300-ton crawler crane installs a heat exchanger shell weighing 180 tonnes (81% of crane capacity at the required radius) at a refinery expansion site. This triggers a critical lift: the lift supervisor prepares a written rigging plan showing load calculations, crane setup, outrigger pad design, swing path, and exclusion zones. A trial lift is performed at ground level before the critical placement."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Cranes are ubiquitous on Gulf petrochemical, refinery, and construction sites. Aramco SEMP requires a GI (General Instruction) 7.029 Lifting Plan for all lifts over 10 tonnes or any lift within 10 m of an energised line. Crane operators on Aramco sites must hold an Aramco-approved certification. In the UAE, Abu Dhabi's COSHAD requires all tower crane operators to hold Dubai Municipality or Abu Dhabi Department of Municipalities approval. Pre-lift meetings (Toolbox Talks) before every crane pick are mandatory on most Gulf EPC projects."
+    }
+  ],
+  "quizId": null
+}

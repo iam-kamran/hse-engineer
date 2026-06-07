@@ -1,0 +1,134 @@
+{
+  "id": "certifications/osha/construction-tools",
+  "sectionId": "osha",
+  "title": "Hand and Power Tools (29 CFR 1926 Subpart I)",
+  "order": 10,
+  "estimatedReadTime": 16,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Identify the primary hazards associated with hand and power tools",
+    "State the guarding requirements for portable power tools",
+    "Describe the inspection and maintenance requirements for tools on construction sites",
+    "Recognise the specific hazards of pneumatic, powder-actuated, and abrasive wheel tools"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Why Tool Safety Matters"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hand and power tools account for thousands of injuries annually on construction sites — including lacerations, amputations, eye injuries, and electrocution. The leading causes are: improper or missing guards, using the wrong tool for the job, using damaged tools, and inadequate training."
+    },
+    {
+      "type": "keyPoint",
+      "text": "The core OSHA tool principle (1926.300): all tools must be maintained in safe condition. The employer is responsible for ensuring tools are safe. Workers must not use damaged, improperly guarded, or modified tools."
+    },
+    {
+      "type": "heading",
+      "text": "General Tool Safety Rules"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Inspect every tool before each use — look for cracks, loose handles, damaged cords, missing guards",
+        "Never remove or bypass guards or safety devices",
+        "Use the right tool for the right job — never use a screwdriver as a chisel",
+        "Keep cutting tools sharp — dull tools require more force and are more likely to slip",
+        "Do not carry sharp tools in your pockets; use a tool belt or tool pouch",
+        "When handing a tool to another worker, present the handle, not the blade or sharp end",
+        "Store tools properly — do not leave tools on elevated surfaces where they can fall"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Guards on Power Tools"
+    },
+    {
+      "type": "paragraph",
+      "text": "Portable power tools must have guards that protect the operator from the point of operation, power transmission parts, and any other moving parts that present a hazard. Circular saw blades must have lower guards that automatically return to the guarding position when the blade is not in contact with material."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Tool", "Required Guard"],
+        "rows": [
+          ["Circular saw", "Upper fixed guard + lower pivoting blade guard"],
+          ["Angle grinder", "Wheel guard covering at least half the wheel"],
+          ["Table saw / bench saw", "Blade guard, spreader (riving knife), anti-kickback fingers"],
+          ["Bench grinder", "Adjustable tool rest (max 1/8\" gap); adjustable tongue guard (max 1/4\" gap)"],
+          ["Pneumatic nailer/stapler", "Contact trip mechanism to prevent accidental firing when tool is bumped"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Abrasive Wheels and Grinders"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abrasive wheel explosions (wheel shattering during operation) are extremely hazardous — the fragments can cause fatal injuries. OSHA 1926.303 requires: ring test all wheels before mounting, never exceed the maximum RPM marked on the wheel, use flanges of correct diameter, allow new wheels to run at full speed in a protected area for at least one minute before use."
+    },
+    {
+      "type": "definition",
+      "term": "Ring Test",
+      "text": "A method to check for cracks in an abrasive wheel before mounting. Suspend the wheel on a finger or shaft through the centre hole and tap it lightly with a non-metallic object. A sound wheel produces a clear 'ring'; a cracked wheel produces a dull 'thud'. Never mount a wheel that fails the ring test."
+    },
+    {
+      "type": "heading",
+      "text": "Pneumatic Tools"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Never point a pneumatic tool at any person",
+        "Disconnect air supply before making adjustments or clearing jams",
+        "Secure all hose connections — use safety wire or whip checks at joints to prevent hose whipping if a connection fails",
+        "Check the maximum air pressure rating on the tool — never exceed it",
+        "Pneumatic nailers/staplers: use the sequential trigger mode rather than bump firing when working on ladders or elevated surfaces"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Powder-Actuated Tools"
+    },
+    {
+      "type": "paragraph",
+      "text": "Powder-actuated tools (Hilti guns, Ramset) use a propellant charge to drive fasteners into concrete or steel. They are essentially firearms and require the same respect."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Only trained and licensed operators may use powder-actuated tools",
+        "Select the correct charge (powder load) for the material — test with the lowest charge first",
+        "Never use on steel less than 3/16\" thick or on hardened steel, rock, brick, or cast iron",
+        "Maintain a safety distance of 10 feet for all bystanders",
+        "If a fastener misfires, wait 30 seconds, then follow the manufacturer's misfire procedure",
+        "Store charges in locked boxes; never carry loose charges in pockets"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Electric Tool Safety"
+    },
+    {
+      "type": "list",
+      "items": [
+        "All electric tools on construction sites must have GFCI protection or be part of an AEGCP",
+        "Double-insulated tools (marked with a double-square symbol) do not need a grounding prong — but still need GFCI on construction sites",
+        "Never carry a tool by its cord; never yank the cord to unplug",
+        "Inspect cords daily — any damage requires removal from service",
+        "Use the correct extension cord: minimum 12-gauge for most power tools over 25 feet"
+      ]
+    },
+    {
+      "type": "example",
+      "text": "A worker prepares to cut metal studs with an angle grinder. He ring-tests the new cutting disc, confirms the disc RPM rating (13,300 RPM) exceeds the grinder's free speed (11,000 RPM), mounts the disc with correct flanges, confirms the guard covers more than half the wheel, puts on safety glasses and a face shield, and allows the tool to reach full speed before contact. He ensures bystanders are clear of the potential fragment zone."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Tool inspections are formalised on Gulf construction and maintenance sites. Aramco and ADNOC require colour-coded tool inspection tags updated quarterly: a specific colour for each quarter (e.g., green for Q1, red for Q2) indicates the tool passed inspection. Any tool without a current colour tag is removed from service. Powder-actuated tool operators on Gulf sites must hold a manufacturer-issued operator card. Angle grinder incidents (wheel burst, lack of guarding) are among the most common lost-time injuries reported in Gulf construction HSE statistics."
+    }
+  ],
+  "quizId": null
+}

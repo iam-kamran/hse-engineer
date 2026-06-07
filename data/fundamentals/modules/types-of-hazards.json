@@ -1,0 +1,151 @@
+{
+  "id": "fundamentals/types-of-hazards",
+  "sectionId": "fundamentals",
+  "title": "Types of Hazards",
+  "order": 3,
+  "estimatedReadTime": 14,
+  "difficulty": "beginner",
+  "learningObjectives": [
+    "Classify hazards into the five main categories",
+    "Identify specific hazards within each category",
+    "Describe Gulf-specific hazards including heat stress and H2S",
+    "Explain why hazard identification is the first step in risk assessment"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "The Five Categories of Hazards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before you can assess risk, you must first identify hazards. Hazards are grouped into five main categories. Understanding these categories ensures you don't miss any hazard during a risk assessment or workplace inspection."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Category", "Definition", "Examples"],
+        "rows": [
+          ["Physical", "Energy-based hazards that can directly injure the body", "Noise, vibration, temperature extremes, radiation, falling objects, electricity"],
+          ["Chemical", "Hazardous substances that can harm through contact, inhalation, or ingestion", "Solvents, acids, gases (H2S, CO), dust, asbestos, pesticides"],
+          ["Biological", "Living organisms or their by-products that cause disease", "Bacteria, viruses, mould, insects, rodents, blood-borne pathogens"],
+          ["Ergonomic", "Work design factors that cause musculoskeletal injury over time", "Manual handling, repetitive motion, poor posture, awkward positions"],
+          ["Psychosocial", "Work organisation factors affecting mental health and wellbeing", "Excessive workload, harassment, shift work, job insecurity, isolation"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Physical Hazards in Detail"
+    },
+    {
+      "type": "paragraph",
+      "text": "Physical hazards are the most visible and common in industrial workplaces. They involve various forms of energy that can transfer to the body and cause injury."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Noise — Continuous exposure above 85 dB(A) causes permanent hearing loss (NIHL). Common in construction, manufacturing, and drilling",
+        "Vibration — Hand-arm vibration from power tools causes HAVS (Hand-Arm Vibration Syndrome). Whole-body vibration from vehicles causes back injuries",
+        "Temperature Extremes — Heat causes heat exhaustion and heat stroke; cold causes hypothermia and frostbite",
+        "Radiation — Ionising (X-rays, gamma rays) and non-ionising (UV, laser, radiofrequency) radiation",
+        "Mechanical — Moving machinery parts, rotating equipment, unguarded blades",
+        "Electrical — Shock, burns, arc flash from electrical systems"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "HEAT STRESS is the most critical physical hazard in the Gulf. Summer temperatures regularly exceed 45°C with high humidity. Saudi Arabia's Ministry of Human Resources prohibits outdoor work between 12:00 PM and 3:00 PM from June 15 to September 15 each year. UAE enforces similar regulations. All Gulf HSE professionals must be able to explain heat stress controls: acclimatisation, hydration, buddy systems, WBGT monitoring, and emergency response."
+    },
+    {
+      "type": "heading",
+      "text": "Chemical Hazards in Detail"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chemical hazards are particularly important in the Gulf's oil & gas sector. Workers can be exposed through inhalation, skin absorption, ingestion, or injection."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Gases — H2S, CO, methane, chlorine; many are colourless and odourless at dangerous concentrations",
+        "Vapours — Evaporation of liquids like benzene, toluene, solvents",
+        "Dusts — Silica dust (causing silicosis), welding fume, asbestos fibres",
+        "Liquids — Acids, caustics, oils, pesticides",
+        "Fumes — Metal fumes from welding operations"
+      ]
+    },
+    {
+      "type": "definition",
+      "term": "H2S (Hydrogen Sulfide)",
+      "text": "A colourless, flammable, extremely toxic gas with a characteristic rotten egg smell at low concentrations. At concentrations above 100 ppm, the smell disappears (olfactory fatigue), giving a false sense of safety. At 1000 ppm, death can occur within minutes. H2S is a critical hazard in Gulf oil & gas operations. OEL (Occupational Exposure Limit): 1 ppm (ceiling: 5 ppm in most GCC countries)."
+    },
+    {
+      "type": "warning",
+      "text": "Do not trust your nose to detect H2S at dangerous levels. Olfactory fatigue means you stop smelling it just as concentrations become lethal. Always use gas detection equipment."
+    },
+    {
+      "type": "heading",
+      "text": "Biological Hazards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Biological hazards are often overlooked in industrial HSE but are critical in certain sectors and environments."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Healthcare settings — Blood-borne pathogens (HIV, Hepatitis B/C), airborne diseases (TB)",
+        "Outdoor construction in Gulf — Insects, scorpions, snakes; risk of MERS-CoV in the Arabian Peninsula",
+        "Food processing — Salmonella, E.coli, Listeria",
+        "Wastewater — Leptospirosis, Weil's disease",
+        "Legionella — Found in poorly maintained cooling towers and water systems; causes Legionnaires' disease"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Ergonomic Hazards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ergonomic hazards cause musculoskeletal disorders (MSDs) — injuries to muscles, tendons, nerves, and joints. They are the leading cause of work-related ill health in many industries."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Manual Handling — Lifting, carrying, pushing, pulling loads incorrectly",
+        "Repetitive Movements — Assembly line work, data entry, typing",
+        "Awkward Postures — Working in confined spaces, overhead work, twisted positions",
+        "Contact Stress — Pressing against hard edges or surfaces repeatedly",
+        "Static Loading — Maintaining the same position for extended periods"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "The TILE acronym is used for manual handling assessment: Task, Individual, Load, Environment. Use this framework when assessing manual handling risk."
+    },
+    {
+      "type": "heading",
+      "text": "Psychosocial Hazards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Psychosocial hazards affect mental and emotional health. They are increasingly recognised as major causes of work-related illness, including stress, anxiety, depression, and burnout."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Work Demands — Excessive workload, impossible deadlines, insufficient resources",
+        "Control — Little autonomy over how work is done",
+        "Support — Inadequate support from managers and colleagues",
+        "Relationships — Bullying, harassment, discrimination",
+        "Role — Role ambiguity or role conflict",
+        "Change — Poorly managed organisational change"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "Psychosocial hazards are increasingly recognised in Gulf workplaces, particularly for migrant workers who face isolation, heat exposure, financial stress, and communication barriers. ADNOC and Saudi Aramco have wellbeing programmes addressing mental health. As an HSE professional, you should be able to identify and report psychosocial risk factors."
+    }
+  ],
+  "quizId": null
+}

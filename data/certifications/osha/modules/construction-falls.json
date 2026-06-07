@@ -1,0 +1,120 @@
+{
+  "id": "certifications/osha/construction-falls",
+  "sectionId": "osha",
+  "title": "Fall Protection (29 CFR 1926 Subpart M)",
+  "order": 2,
+  "estimatedReadTime": 22,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "State the height thresholds that trigger fall protection requirements in construction",
+    "Identify the three methods of fall protection: guardrail, safety net, and personal fall arrest systems",
+    "Describe the components and inspection criteria of a PFAS",
+    "Apply fall protection principles to Gulf construction and oil & gas worksites"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Why Falls Are Construction's #1 Killer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Falls consistently account for the largest share of construction fatalities in the United States — roughly one-third of all construction deaths each year. OSHA's Fall Protection standard (29 CFR 1926 Subpart M) is the most frequently cited construction standard. Understanding it is not optional for any safety professional."
+    },
+    {
+      "type": "keyPoint",
+      "text": "The threshold: OSHA requires fall protection for construction workers at heights of 6 feet or more above a lower level. (Note: general industry threshold is 4 feet; shipyards 5 feet; longshoring 8 feet.)"
+    },
+    {
+      "type": "heading",
+      "text": "Where Fall Protection Is Required"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Unprotected sides and edges 6 feet or higher (1926.502)",
+        "Leading edges — the advancing edge of a floor or roof deck",
+        "Hoist areas — openings where equipment is raised or lowered",
+        "Holes in floors, roofs, or other walking/working surfaces",
+        "Formwork and reinforcing steel 6 feet or higher",
+        "Ramps, runways, and other walkways 6 feet or higher",
+        "Excavations 6 feet or deeper (or with a hazardous substance at the bottom)",
+        "Dangerous equipment — regardless of height if working near unguarded machinery"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "The Three Accepted Methods of Fall Protection"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Method", "Description", "When Used"],
+        "rows": [
+          ["Guardrail System", "Top rail at 42 inches (±3\"), mid-rail at 21 inches, toeboard if overhead hazard. Top rail must withstand 200 lbs outward force.", "Most floors, roofs, walking surfaces — preferred for permanent edges"],
+          ["Safety Net System", "Nets installed below work area, within 30 ft of working surface. Must be drop-tested (400 lb bag from 26 ft).", "Multi-story construction, bridgework, where nets can be practically installed below work"],
+          ["Personal Fall Arrest System (PFAS)", "Full-body harness + lanyard/SRL + anchor point rated ≥5,000 lbs. Limits free-fall to 6 ft, deceleration distance 3.5 ft.", "Where guardrails/nets are impractical — steel erection, roofing, form work, maintenance"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Personal Fall Arrest Systems (PFAS) — In Detail"
+    },
+    {
+      "type": "definition",
+      "term": "Personal Fall Arrest System (PFAS)",
+      "text": "A system used to arrest a worker in a fall from a working level. Consists of an anchorage, connectors, and a body harness. May include a lanyard, deceleration device, or lifeline. Must stop a fall before the worker hits a lower level."
+    },
+    {
+      "type": "paragraph",
+      "text": "A PFAS must be rigged so that a worker cannot free-fall more than 6 feet or contact any lower level. After a fall arrest, the system must be removed from service and inspected. The attachment point must handle 5,000 lbs per attached worker, or be part of a certified engineered system with a safety factor of 2."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Full-body harness: the only OSHA-accepted body support device (body belts not allowed for PFAS since 1998)",
+        "Shock-absorbing lanyard: maximum 6 ft, with internal shock absorber limiting arrest force to 1,800 lbs",
+        "Self-Retracting Lifeline (SRL): allows greater freedom of movement; locks in milliseconds",
+        "Anchor point: minimum 5,000 lbs per worker; positioned above the D-ring to minimize free-fall",
+        "Inspection: before each use — check stitching, hardware, webbing for cuts, burns, chemical damage"
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Never anchor a PFAS to a guardrail — guardrails are designed for 200 lbs push force, not 5,000 lbs arrest force. Never use a body belt for fall arrest. Never connect a deceleration lanyard to a horizontal lifeline that was not engineered for that load."
+    },
+    {
+      "type": "heading",
+      "text": "Covers for Floor Holes and Openings"
+    },
+    {
+      "type": "paragraph",
+      "text": "Any hole large enough for a person's body or materials to fall through must be covered or guarded. Covers must be capable of supporting twice the weight of workers, equipment, and materials that may be imposed, and must be secured against accidental displacement. Mark covers with 'HOLE' or 'COVER' in high-visibility paint."
+    },
+    {
+      "type": "heading",
+      "text": "Falling Object Protection"
+    },
+    {
+      "type": "paragraph",
+      "text": "When workers are below other workers, the lower workers must be protected from falling objects. Methods include: toeboards (3.5 inches minimum height) on scaffolding/elevated platforms, debris nets, catch platforms, or controlled access zones. Hard hats are required on all construction sites."
+    },
+    {
+      "type": "heading",
+      "text": "Rescue Plan Requirement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before any work where PFAS may arrest a fall, the employer must have a rescue plan for promptly rescuing a suspended worker. Suspension trauma (harness hang syndrome) can cause unconsciousness within minutes — a plan that relies on emergency services alone is insufficient."
+    },
+    {
+      "type": "example",
+      "text": "A worker installs roof decking on a new warehouse. The open edge is 22 feet above the concrete floor. The employer installs a warning line system at 15 feet from the edge and designates a controlled decking zone. Workers within the zone use PFAS anchored to a horizontal lifeline. A rescue plan is posted and a trained colleague stands by."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Working at height is a leading cause of fatalities across Gulf construction and oil & gas. Aramco SEMP Life-Saving Rule #3 requires 100% tie-off at height. ADNOC's construction code and Dubai Municipality's Green Building/Construction regulations mirror OSHA's 6-foot threshold. On Qatar's LNG expansion projects, every worker above 1.8 m (approx. 6 ft) must wear a full-body harness. Confusingly, some Gulf employers use 1.8 m (metric equivalent of 6 ft) while others use 2 m — always follow the site-specific PTW requirements."
+    }
+  ],
+  "quizId": null
+}

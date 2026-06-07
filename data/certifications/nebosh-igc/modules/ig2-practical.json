@@ -1,0 +1,105 @@
+{
+  "id": "certifications/nebosh-igc/ig2-practical",
+  "sectionId": "nebosh-igc",
+  "title": "IG2: Risk Assessment (Practical Assessment)",
+  "order": 13,
+  "estimatedReadTime": 25,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Understand the IG2 assessment format and marking criteria",
+    "Conduct a workplace risk assessment suitable for submission",
+    "Write clear, specific hazard and control descriptions that score marks",
+    "Complete all required sections of the IG2 observation sheet"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "What is IG2?"
+    },
+    {
+      "type": "paragraph",
+      "text": "IG2 is the practical component of the NEBOSH IGC. Instead of a written exam, you conduct a real workplace risk assessment and submit a completed observation sheet to NEBOSH. You can choose any workplace — your current employer, a site visit, or a simulated environment. There is no time limit, but NEBOSH expects the assessment to represent approximately 3–4 hours of observation time."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["IG2 Component", "Marks Available", "What NEBOSH Looks For"],
+        "rows": [
+          ["Part 1: Introduction to the workplace", "Not separately marked", "Brief description; helps assessor understand context"],
+          ["Part 2: Observation sheet", "80 marks", "Hazard observations with likelihood, severity, risk score, existing controls, and recommended actions"],
+          ["Part 3: Summary of key findings", "20 marks", "Prioritised recommendations with justification"],
+          ["Overall pass mark", "60% (48 out of 80 on observation sheet)", "Sufficient breadth and depth of observations"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "What NEBOSH Expects in Each Observation Row"
+    },
+    {
+      "type": "paragraph",
+      "text": "Each row on the observation sheet requires five elements. Many candidates lose marks by being vague — be specific."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Column", "What to Write", "Good Example", "Bad Example (loses marks)"],
+        "rows": [
+          ["Hazard", "Specific hazard identified — not just a broad category", "Trailing electrical cable from floor-standing fan across main pedestrian walkway", "Electrical hazard"],
+          ["Who might be harmed", "Specific group and how", "Maintenance workers and office staff — trip, fall, and potential electric shock", "Workers"],
+          ["Likelihood (1–5)", "Score with brief justification", "3 — Cable is in a high-traffic area and is frequently walked over", "3"],
+          ["Severity (1–5)", "Score with brief justification", "4 — Fall could result in fractures or head injury on hard floor", "4"],
+          ["Existing Controls", "What controls are already in place", "Cable has been taped to floor in one section; 'mind the step' sign at entrance", "Some controls in place"],
+          ["Recommended Action", "SMART additional controls", "Re-route cable through wall conduit or overhead; add physical barrier if re-routing not possible; review within 2 weeks", "Fix the cable"]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "Aim for at least 20 meaningful observations across a range of hazard types. Weak candidates submit 8–10 vague observations. Strong candidates submit 25+ specific observations covering physical, chemical, ergonomic, fire, and psychosocial hazards."
+    },
+    {
+      "type": "heading",
+      "text": "Part 3: Summary of Key Findings — How to Score Well"
+    },
+    {
+      "type": "paragraph",
+      "text": "Part 3 is worth 20 marks and tests your ability to prioritise and justify recommendations. NEBOSH expects you to:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Identify the 3–5 highest-priority hazards from your observation sheet",
+        "Explain WHY each is a priority (high risk rating, legal requirement, potential for serious harm)",
+        "Recommend specific actions with timescales",
+        "Reference appropriate standards or regulations where relevant",
+        "Use professional, report-style language — not bullet points alone"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Hazard Categories to Cover"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Physical — slip/trip hazards, working at height, noise, temperature, manual handling",
+        "Chemical — cleaning chemicals, fuel, dust, fumes (welding, vehicle exhaust)",
+        "Fire — ignition sources, housekeeping, exit routes, extinguisher access",
+        "Electrical — portable equipment condition, overloaded sockets, cable management",
+        "Ergonomic — workstation setup, manual handling tasks, repetitive work",
+        "Welfare — welfare facilities, first aid provision, emergency procedures",
+        "Workplace transport — vehicles, pedestrian routes, visibility"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "NEBOSH allows IG2 to be conducted in any workplace globally, including Gulf O&G sites. If conducting your IG2 on a Gulf site, include Gulf-specific hazards: heat stress controls, H2S detection, PTW compliance, and sun protection measures. These demonstrate additional depth of knowledge and can strengthen your Part 3 summary."
+    },
+    {
+      "type": "example",
+      "text": "Part 3 Priority Hazard Example: 'The most significant hazard observed was inadequate fall protection on the mezzanine floor storage area. Workers were observed accessing storage at heights of approximately 3.5m without edge protection or fall arrest systems. The risk rating was 5 × 4 = 20 (Critical). Falls from height are the leading cause of fatalities in this industry sector. Immediate action required: prohibit mezzanine access until a suitable edge protection system is installed and a working-at-height risk assessment is completed. Recommended timeframe: within 48 hours.'"
+    }
+  ],
+  "quizId": null
+}

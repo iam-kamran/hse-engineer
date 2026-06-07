@@ -1,0 +1,462 @@
+[
+  {
+    "id": "og-001",
+    "text": "What is process safety and how does it differ from occupational safety?",
+    "category": "general",
+    "region": "oil-gas",
+    "difficulty": "mid",
+    "modelAnswer": "Occupational safety focuses on protecting individual workers from day-to-day workplace hazards — slips, trips, falls, manual handling, and machinery accidents. It is measured by personal injury statistics such as LTIFR and TRCR. Process safety focuses on preventing catastrophic failures of industrial processes — major fires, explosions, and toxic releases that can cause multiple fatalities, widespread environmental damage, and major asset loss. Process safety hazards arise from the energy and materials within the process itself — high-pressure vessels, flammable hydrocarbons, toxic gases, and reactive chemicals. A site can have an excellent personal injury record while simultaneously having serious process safety risks building toward a catastrophic event. The key lesson from BP Texas City (2005) is exactly this: personal injury rates were improving while process safety barriers were being systematically eroded. Both must be managed — but the consequences of process safety failure are typically much larger in magnitude.",
+    "keyPoints": [
+      "Occupational safety: personal injuries (LTIFR, TRCR) from day-to-day hazards",
+      "Process safety: prevents catastrophic process failures — explosions, toxic releases, fires",
+      "Good personal injury record does NOT mean good process safety",
+      "Process safety measured by: process safety events (PSEs), barrier status, hydrocarbon releases",
+      "BP Texas City 2005: 15 fatalities despite improving personal injury rates — the defining example",
+      "Both must be managed: occupational safety is easier to measure but less catastrophic",
+      "API RP 754: process safety performance indicators standard for O&G industry"
+    ],
+    "tip": "This question separates junior from senior O&G candidates. If you can cite BP Texas City and explain why improving personal injury stats can coincide with a building process safety catastrophe, you signal genuine O&G safety understanding. API RP 754 defines process safety performance indicators (Tier 1–4) — knowing this standard's structure is very impressive in O&G interviews.",
+    "followUpQuestions": [
+      "Name three process safety leading indicators used in oil and gas.",
+      "What is API RP 754 and why is it significant?",
+      "Describe a specific example from O&G history where poor process safety led to a catastrophic event."
+    ]
+  },
+  {
+    "id": "og-002",
+    "text": "What is a HAZOP study and how is it conducted?",
+    "category": "risk-assessment",
+    "region": "oil-gas",
+    "difficulty": "senior",
+    "modelAnswer": "HAZOP (Hazard and Operability Study) is a structured, systematic team-based technique for identifying hazards and operability problems in process systems. It is typically applied to oil and gas processes, chemical plants, and pipelines during the design stage (Detail Design HAZOP) and when modifications are made. In a HAZOP, a multi-disciplinary team — typically including a process engineer, operations representative, instrumentation engineer, a safety engineer (me), and a HAZOP facilitator — systematically reviews the Process and Instrumentation Diagrams (P&IDs) node by node. A node is a discrete section of the process (e.g. a vessel with its inlet and outlet lines). For each node, the team applies guide words (More, Less, No, Reverse, As Well As, Other Than) to each process parameter (flow, pressure, temperature, level, composition) to generate deviations. For each deviation, the team identifies: causes (what could cause this deviation?), consequences (what is the worst credible outcome?), existing safeguards (what protection is already there?), and actions required (what must be added or changed?). All findings are documented in a HAZOP worksheet and tracked to closure. HAZOP is required by ADNOC, QatarEnergy, and Aramco for all new processes and significant modifications.",
+    "keyPoints": [
+      "HAZOP = systematic review of P&IDs using guide words to find process deviations",
+      "Multi-disciplinary team: process, operations, instrument, safety, facilitator",
+      "Guide words: More, Less, No, Reverse, As Well As, Other Than",
+      "Parameters: flow, pressure, temperature, level, composition",
+      "Output per deviation: causes, consequences, safeguards, required actions",
+      "HAZOP worksheet: tracks all findings and actions to closure",
+      "Required by: ADNOC, QatarEnergy, Aramco for new processes and modifications"
+    ],
+    "tip": "Being able to give an example HAZOP entry — 'High flow → causes: pump failure to close; consequence: vessel overfill and release; safeguard: high-level alarm; action: verify alarm calibration schedule' — demonstrates you have actually participated in a HAZOP, not just read about it. The facilitated team process is key — a HAZOP done by one person is not a HAZOP.",
+    "followUpQuestions": [
+      "What is the difference between a HAZOP and a HAZID?",
+      "Who facilitates a HAZOP and what qualifications do they need?",
+      "At what stage of a project should a HAZOP be conducted?"
+    ]
+  },
+  {
+    "id": "og-003",
+    "text": "What is H2S and why is it particularly dangerous in oil and gas operations?",
+    "category": "general",
+    "region": "oil-gas",
+    "difficulty": "junior",
+    "modelAnswer": "Hydrogen sulphide (H2S) is a colourless, toxic, and flammable gas with a characteristic rotten-egg smell at low concentrations. It is naturally occurring in sour oil and gas reservoirs and is a byproduct of many O&G processes. H2S is particularly dangerous for three reasons: (1) Extremely toxic — at 100 ppm (immediately dangerous to life and health, IDLH), it paralyses the olfactory nerve (you stop being able to smell it), so workers can walk into lethal concentrations with no sensory warning; above 500 ppm, rapid unconsciousness and death can occur within minutes; (2) Flammable — LEL of 4.3% and UEL of 46% — a wide flammable range; burns with a blue flame; (3) Heavier than air — accumulates in low-lying areas including trenches, drains, sumps, confined spaces, and pits. Critical safety measures: personal H2S monitors with audible alarm (warn at 10 ppm, action at 20 ppm in most Gulf systems); SCBA pre-positioned for emergency response; H2S training for all personnel; evacuation upwind or crosswind from any H2S release.",
+    "keyPoints": [
+      "H2S = colourless, toxic, flammable, heavier than air",
+      "Rotten-egg smell: ONLY detectable at low concentrations — UNRELIABLE warning",
+      "Olfactory fatigue: above ~100 ppm, cannot smell it at all — monitors are essential",
+      "IDLH: 100 ppm — immediately dangerous to life and health",
+      "Lethal concentration: >500 ppm causes rapid unconsciousness and death",
+      "Flammable: LEL 4.3%, UEL 46% — burns blue; dual hazard (toxic + flammable)",
+      "Heavier than air: accumulates in low-lying areas, confined spaces, pits"
+    ],
+    "tip": "H2S is THE most commonly tested topic in Gulf O&G interviews because it is present throughout Gulf operations from Saudi Arabia to Oman. Knowing the IDLH (100 ppm), the olfactory fatigue mechanism, and the heavier-than-air accumulation pattern is the minimum. Knowing the flammable range (4.3-46%) and the emergency evacuation direction (crosswind/upwind) is what distinguishes experienced candidates.",
+    "followUpQuestions": [
+      "What are the immediate actions when a personal H2S monitor alarms at 20 ppm?",
+      "Why must rescuers not enter an H2S-affected confined space without SCBA?",
+      "What is the difference between H2S IDLH and OEL (occupational exposure limit)?"
+    ]
+  },
+  {
+    "id": "og-004",
+    "text": "Explain the bow-tie model and how it is used in oil and gas risk management.",
+    "category": "risk-assessment",
+    "region": "oil-gas",
+    "difficulty": "senior",
+    "modelAnswer": "The bow-tie model is a visual risk management tool that maps the relationship between hazards, threats, the top event (loss of containment or major accident event), and consequences. The model looks like a bow-tie: on the left are threats — the things that can lead to the top event; in the centre is the top event itself; on the right are consequences — what happens if the top event occurs. Between the threats and the top event are preventive barriers — controls that stop the threat from causing the top event. Between the top event and the consequences are mitigation barriers — controls that reduce the severity of consequences after the top event occurs. Example: Threat = overpressure → Preventive barriers = pressure control valve + high-pressure alarm + operator response → Top event = loss of containment (hydrocarbon release) → Mitigation barriers = gas detection + ESD + deluge + evacuation → Consequences = fire, explosion, injury. The power of the bow-tie is that it makes safety barriers visible and manageable. Escalation factors are conditions that can degrade barriers (e.g. a bypassed ESD). In Gulf O&G (PDO, Shell, ADNOC, QatarEnergy), bow-tie analysis is used for all Major Accident Hazards and barrier status is actively managed.",
+    "keyPoints": [
+      "Bow-tie: threats → preventive barriers → top event → mitigation barriers → consequences",
+      "Top event: typically a loss of containment or major accident event",
+      "Preventive barriers stop the top event from occurring",
+      "Mitigation barriers reduce consequences after the top event",
+      "Escalation factors: conditions that degrade or disable a barrier",
+      "Visually shows barrier gaps — where a layer of defence is missing or degraded",
+      "Used by Shell, PDO, ADNOC, QatarEnergy for Major Accident Hazard (MAH) management"
+    ],
+    "tip": "Drawing a bow-tie on a whiteboard during an interview is a very powerful technique. Practice it. Be ready to draw one for a specific O&G scenario — a gas well blowout, a vessel overpressure, or a jetty fire — showing at least 3 threats, 3 preventive barriers, 3 mitigation barriers, and an escalation factor for one barrier. This level of depth immediately communicates senior O&G experience.",
+    "followUpQuestions": [
+      "What is a 'critical barrier' versus a 'standard barrier' in bow-tie risk management?",
+      "Give me an example of an escalation factor that could degrade a gas detection barrier.",
+      "How does the bow-tie model differ from the traditional risk assessment matrix?"
+    ]
+  },
+  {
+    "id": "og-005",
+    "text": "What is well control and why is it important for onshore and offshore drilling operations?",
+    "category": "general",
+    "region": "oil-gas",
+    "difficulty": "senior",
+    "modelAnswer": "Well control refers to the set of procedures and equipment used to prevent and respond to uncontrolled flow of formation fluids (oil, gas, water) from a wellbore. An uncontrolled well influx is called a 'kick'; if not controlled, it can escalate to a blowout — an uncontrolled flow of reservoir fluids to surface, which can cause fire, explosion, and environmental catastrophe. Well control is critical because: reservoir pressures can be extreme (5,000–15,000 psi); gas kicks can expand rapidly as they rise in the wellbore, expelling drilling fluid and igniting at surface; and blowouts can last for months (as in the Deepwater Horizon, 2010, and Kuwait oil fires, 1991). Primary well control relies on hydrostatic pressure of drilling fluid (mud weight) balanced against formation pressure — the mud column pressure must exceed formation pressure to prevent influx. Secondary well control uses the Blowout Preventer (BOP) to mechanically seal the wellbore if a kick is detected. Tertiary well control involves killing the well after a blowout. IWCF (International Well Control Federation) and IADC certifications are mandatory for well-site drilling personnel.",
+    "keyPoints": [
+      "Well control: preventing uncontrolled formation fluid influx (kicks) and blowouts",
+      "Kick: influx of formation fluid into wellbore",
+      "Blowout: uncontrolled surface flow — fire, explosion, environmental catastrophe risk",
+      "Primary well control: drilling fluid hydrostatic pressure balances formation pressure",
+      "Secondary well control: BOP (Blowout Preventer) mechanically seals wellbore on kick detection",
+      "Deepwater Horizon (2010): largest marine oil spill in history — well control failure",
+      "IWCF/IADC certification: mandatory for well-site personnel on drilling operations"
+    ],
+    "tip": "Well control is a specialised topic that separates O&G candidates with drilling experience from those with only construction or facility experience. If you have an IWCF or IADC well control certificate, mention it prominently — it is often a mandatory requirement for any role near active drilling operations. Knowing the three levels of well control (primary, secondary, tertiary) demonstrates systematic thinking.",
+    "followUpQuestions": [
+      "What is the primary indicator that a kick is occurring during drilling operations?",
+      "What is a BOP (Blowout Preventer) and what are its main components?",
+      "What happened at Deepwater Horizon in 2010 and what were the well control failures?"
+    ]
+  },
+  {
+    "id": "og-006",
+    "text": "What is Management of Change (MOC) and why is it critical in process safety?",
+    "category": "general",
+    "region": "oil-gas",
+    "difficulty": "mid",
+    "modelAnswer": "Management of Change (MOC) is a formal process for evaluating, approving, and implementing changes to processes, equipment, procedures, staffing, or facility design in a way that ensures new hazards are not inadvertently introduced. MOC is critical in process safety because most major industrial accidents have a change somewhere in their causal chain — a modification that seemed minor but introduced a new hazard that was not assessed. The MOC process: identify that a change is proposed (even 'temporary' or 'like-for-like'); categorise by risk level; conduct a hazard assessment of the proposed change (mini-HAZOP, What-If, risk assessment); get technical, operations, and H&S approval; update P&IDs, procedures, and training before implementing; communicate to affected personnel; verify implementation; and close out in the MOC register. BP Texas City: temporary blowdown drum used as permanent vessel — no MOC review. Deepwater Horizon: temporary abandonment procedure modified — no adequate MOC. The phrase 'it's just a temporary change' is the most dangerous statement in process safety.",
+    "keyPoints": [
+      "MOC: formal review of ALL changes before implementation — temporary and permanent",
+      "Critical because: most major accidents have an unreviewed change in the causal chain",
+      "'Like-for-like' replacement: still requires MOC review in most systems",
+      "'Temporary' changes: often become permanent; require MOC from day one",
+      "MOC steps: identify → categorise → hazard assess → approve → update docs → communicate → verify",
+      "BP Texas City and Deepwater Horizon: MOC failures in causal chain of both disasters",
+      "MOC register: all changes tracked from initiation to close-out — auditable"
+    ],
+    "tip": "The 'temporary change that became permanent' is the defining MOC failure mode. Candidates who know this — and who mention that temporary changes require MOC from day one — immediately demonstrate genuine process safety awareness. The Texas City and Deepwater Horizon examples are both specifically related to unreviewed changes — this is not academic theory.",
+    "followUpQuestions": [
+      "Does a 'like-for-like' pump replacement of identical specification require an MOC?",
+      "Who should approve a major process change in an oil and gas facility?",
+      "What is a Pre-Startup Safety Review (PSSR) and when is it required?"
+    ]
+  },
+  {
+    "id": "og-007",
+    "text": "Explain the PTW system for confined space entry in an oil and gas facility.",
+    "category": "confined-space",
+    "region": "oil-gas",
+    "difficulty": "mid",
+    "modelAnswer": "Confined space entry in an O&G facility — tanks, vessels, columns, heat exchangers, drains — requires a rigorous PTW process. Steps: (1) Identify and classify the confined space (permit-required due to atmospheric hazards); (2) Isolate — all energy and process connections must be physically isolated using LOTO and blinds/blanks; (3) Purge and clean — remove hydrocarbon content by purging with nitrogen or steam, then flush and ventilate; (4) Test atmosphere — calibrated multi-gas detector confirms: O2 between 19.5-23.5%, combustibles <10% LEL, H2S <10 ppm (or lower per site standard), CO below OEL; (5) Issue the confined space entry permit specifying: entrants, attendant, gas readings, isolations, PPE, rescue procedure, time limit; (6) Continuous monitoring during entry — re-test before each entry after breaks; (7) Attendant remains at entry point at all times — never enters; (8) Rescue: pre-positioned SCBA and lifeline, trained rescuers staged outside; (9) Close-out: permit closed when work complete. In O&G, the nitrogen purging step creates an oxygen-free atmosphere that must be completely replaced with fresh air — residual nitrogen in a vessel will cause asphyxiation.",
+    "keyPoints": [
+      "Full isolation before entry: LOTO + blinds on all process connections",
+      "Purge sequence: nitrogen/steam purge → flush → ventilate → gas test",
+      "Atmosphere: O2 (19.5–23.5%), combustibles (<10% LEL), H2S (<10 ppm), CO (below OEL)",
+      "Nitrogen hazard: nitrogen purge creates oxygen-deficient atmosphere — must be fully displaced",
+      "Attendant: never enters — monitors from outside, initiates rescue if needed",
+      "Rescue: SCBA and lifeline pre-positioned before entry starts — not assembled during emergency",
+      "Re-testing: after any break, re-test atmosphere before re-entry"
+    ],
+    "tip": "The nitrogen purge hazard is specific to O&G vessel entry and is rarely understood by candidates without O&G experience. Nitrogen is inert and invisible — it doesn't trigger gas detectors or have any smell or warning sign. Workers have died entering vessels that still contained nitrogen from a purge, believing the air was safe. Knowing this detail signals genuine O&G confined space experience.",
+    "followUpQuestions": [
+      "Why is a vessel purged with nitrogen particularly dangerous for confined space entry?",
+      "At what O2 level is a confined space considered immediately dangerous to life?",
+      "What is the difference between a 'cold' confined space entry permit and a 'hot' entry permit?"
+    ]
+  },
+  {
+    "id": "og-008",
+    "text": "What is a SIMOPS (Simultaneous Operations) plan and when is one required?",
+    "category": "ptw",
+    "region": "oil-gas",
+    "difficulty": "senior",
+    "modelAnswer": "SIMOPS (Simultaneous Operations) refers to two or more operations conducted in proximity where their interaction could create hazards that neither would present alone. A SIMOPS plan is required when: drilling while production operates on an adjacent well pad; hot work while a live process system is in service nearby; multiple concurrent activities on an offshore platform or facility; construction while a plant operates; or crane lifts over live equipment. The SIMOPS plan contains: identification of all planned concurrent operations; a SIMOPS matrix — a grid showing which activity pairs are incompatible or require specific controls; designated SIMOPS coordinator role (typically the OIM offshore or Site Manager onshore); daily SIMOPS meetings reviewing all active and planned operations; control measures for each identified interaction (communication between crews, exclusion zones, hold-points triggered if the other operation detects a hazard); and a suspension protocol — if one operation detects a hazard (gas alarm, structural concern), the other operations are suspended pending assessment. In Gulf O&G (Aramco, ADNOC, QatarEnergy), SIMOPS plans are required for any significant period of concurrent operations in a facility.",
+    "keyPoints": [
+      "SIMOPS: two or more operations that can interact to create combined hazards",
+      "SIMOPS matrix: identifies which activity pairs are incompatible or require specific controls",
+      "SIMOPS coordinator: single point of coordination — prevents conflicting permits and activities",
+      "Daily SIMOPS meeting: reviews all active operations for the next 24 hours",
+      "Suspension protocol: one operation detecting hazard → all SIMOPS activities suspended",
+      "Required for: drilling + production, hot work + live process, construction + operations",
+      "Gulf O&G: SIMOPS plan submitted to facility operator before operations begin"
+    ],
+    "tip": "SIMOPS coordination failures have caused several major O&G incidents — operations that appeared safe in isolation became deadly when interacting. The SIMOPS matrix is the key tool — being able to describe it (a grid with activities on both axes, red cells for incompatible combinations, amber for controlled, green for compatible) demonstrates you have used it rather than just heard of it.",
+    "followUpQuestions": [
+      "Describe how a SIMOPS matrix is structured and how you use it.",
+      "Who acts as SIMOPS coordinator on an offshore production platform?",
+      "Name three activity combinations that would trigger a SIMOPS concern on a Gulf O&G facility."
+    ]
+  },
+  {
+    "id": "og-009",
+    "text": "What is Quantitative Risk Assessment (QRA) and when is it used in oil and gas?",
+    "category": "risk-assessment",
+    "region": "oil-gas",
+    "difficulty": "senior",
+    "modelAnswer": "Quantitative Risk Assessment (QRA) uses mathematical models to estimate the probability and consequences of major accident events, expressing risk as a numerical value (typically Individual Risk Per Annum — IRPA, or Societal Risk — F-N curves). QRA is used in O&G for: siting decisions (how far should a control room be from a processing plant?); demonstrating ALARP for regulatory approval of major hazard facilities; comparing design options for risk reduction; major change assessment where qualitative risk assessment is insufficient. A QRA for an O&G facility would include: hazard identification (all potential release scenarios); frequency analysis (how often does each release scenario occur, using historical failure rate data and fault trees); consequence modelling (dispersion models for gas releases, explosion overpressure models, fire radiation models — tools like SAFETI, PHAST, Shell FRED); risk integration (combining frequency and consequences to produce risk contours around the facility); and comparison against regulatory risk tolerability criteria (ALARP). In the Gulf, ADNOC, QatarEnergy, and Aramco may require QRA for major new facilities, offshore platforms, and when locating new buildings near process plants.",
+    "keyPoints": [
+      "QRA = numerical risk estimation — probability × consequence for major accident scenarios",
+      "IRPA (Individual Risk Per Annum): probability of a fatality at a specific location per year",
+      "F-N curve: societal risk — frequency vs number of fatalities",
+      "Tools: SAFETI, PHAST, FRED — consequence modelling software for gas/fire/explosion",
+      "Used for: siting, regulatory ALARP demonstration, major design decisions",
+      "Regulatory tolerability: typically IRPA 1×10⁻⁴ (intolerable) to 1×10⁻⁶ (broadly acceptable)",
+      "Gulf O&G: required by ADNOC, QatarEnergy for major new facilities"
+    ],
+    "tip": "QRA is the territory of specialist risk engineers — most HSE candidates won't have done one personally. Showing you understand the concept (frequency × consequence = risk, expressed numerically and compared to ALARP criteria) is impressive. Mentioning IRPA and F-N curves, and knowing software like PHAST or SAFETI exist, signals genuine O&G major hazard awareness.",
+    "followUpQuestions": [
+      "What is Individual Risk Per Annum (IRPA) and what are typical tolerance thresholds?",
+      "What is an F-N curve and what does it show?",
+      "How does QRA relate to demonstrating ALARP for a major hazard installation?"
+    ]
+  },
+  {
+    "id": "og-010",
+    "text": "What are the key health and safety requirements for working offshore in the Gulf?",
+    "category": "general",
+    "region": "oil-gas",
+    "difficulty": "mid",
+    "modelAnswer": "Working offshore in the Gulf requires both physical and safety preparation that is significantly different from onshore operations. Pre-offshore requirements: BOSIET (Basic Offshore Safety Induction and Emergency Training) or HUET (Helicopter Underwater Escape Training) — mandatory for helicopter passengers; H2S training and certificate; medical fitness examination by an approved offshore medical officer (OGUK/UKOOA standard or equivalent); valid offshore survival training (EBS — Emergency Breathing System use, life raft, fire fighting, first aid). Offshore-specific hazards: helicopter travel — overwater transfer is a significant risk; H2S in sour reservoirs — personal monitors mandatory; confined space — vessels, risers, modules; working at height on offshore platforms (30+ metres above sea); dropped objects from elevated structures onto decks below; marine hazards — gangway access, man overboard, weather limitations on operations; fire and explosion from hydrocarbon processing. Offshore emergency response: muster and POB (Personnel on Board) accountability; lifeboat and life raft mustering; helideck emergency procedures; Marine Evacuation System (TEMPSC — Totally Enclosed Motor Propelled Survival Craft). In Gulf offshore (ADNOC Abu Dhabi, QatarEnergy offshore, Aramco offshore), all offshore personnel must hold BOSIET/HUET before first offshore trip.",
+    "keyPoints": [
+      "BOSIET: Basic Offshore Safety Induction — mandatory for all offshore helicopter passengers",
+      "HUET: Helicopter Underwater Escape Training — inverted helicopter simulation",
+      "Offshore medical: approved medical officer fitness examination (OGUK or equivalent)",
+      "H2S: personal monitors mandatory; SCBA for emergency response",
+      "Dropped objects: major offshore hazard — critical tool tethering requirement",
+      "Lifeboat drill: mandatory on each offshore trip; muster list updated for POB",
+      "TEMPSC: Totally Enclosed Motor Propelled Survival Craft — offshore evacuation"
+    ],
+    "tip": "BOSIET and HUET are mentioned together because BOSIET includes HUET as one element. If you do not have a current BOSIET certificate, you cannot travel offshore in any major Gulf operation — period. The certificate typically expires every 4 years. Knowing this mandatory training requirement and its renewal cycle is basic offshore knowledge that signals you are actually qualified to work offshore.",
+    "followUpQuestions": [
+      "What does BOSIET training cover and how often does it need to be renewed?",
+      "What is POB (Personnel on Board) and why is accurate POB accountability critical offshore?",
+      "What is a TEMPSC and when would it be used in an offshore emergency?"
+    ]
+  },
+  {
+    "id": "og-011",
+    "text": "How do you implement a dropped object prevention programme (DROPS) in an oil and gas facility?",
+    "category": "risk-assessment",
+    "region": "oil-gas",
+    "difficulty": "mid",
+    "modelAnswer": "Dropped objects are the second leading cause of fatalities in the oil and gas industry globally. A DROPS programme covers: exclusion zones — establish and enforce exclusion zones below all elevated work; no person or vehicle below a working zone unless the exclusion zone has been formally assessed and managed; tool tethering — all tools and equipment used at height must be tethered to the worker or the structure using certified tool lanyards; tool bags — tools are carried in tied bags, not pockets; inspection — all elevated equipment, clamps, and fittings inspected regularly for corrosion, vibration-loosening, or wear; securing deck equipment — all loose items on elevated grating, pipe racks, and structures must be secured against wind or movement; DROPS calculators — use to calculate the energy of a falling object at ground level (mass × height × gravity) to determine exclusion zone radius and required head protection; incident reporting — all dropped objects (even small ones that didn't injure anyone) reported and investigated; communication — coordinate with operations and other teams before lifting, moving, or disturbing elevated structures.",
+    "keyPoints": [
+      "Exclusion zones: mandatory below all elevated work — no person underneath unless managed",
+      "Tool tethering: all tools at height are tethered — lanyards rated for the tool weight",
+      "DROPS calculator: calculates impact energy (F=mgh) — used to set exclusion zone radius",
+      "Inspection programme: elevated fittings, clamps, grating checked for loosening/corrosion",
+      "Deck securing: all loose items on elevated structures secured",
+      "Tool bags: tools transported in closed, secured bags — never loose in pockets",
+      "Dropped object reporting: all drops investigated — size does not matter"
+    ],
+    "tip": "DROPS calculators are a specific O&G tool — they determine how dangerous a falling object is based on weight and height. A 1 kg spanner dropped from 30 metres has an impact energy equivalent to a rifle bullet. This kind of specific technical detail — knowing how exclusion zones are calculated — separates candidates with genuine O&G elevated work experience.",
+    "followUpQuestions": [
+      "What is the formula used in DROPS to calculate the potential impact energy of a falling object?",
+      "What is the minimum exclusion zone around a worksite at height?",
+      "What do you do if you drop a tool from a height and cannot find it after the job?"
+    ]
+  },
+  {
+    "id": "og-012",
+    "text": "What is mechanical integrity (MI) and why is it a core element of process safety management?",
+    "category": "general",
+    "region": "oil-gas",
+    "difficulty": "senior",
+    "modelAnswer": "Mechanical Integrity (MI) is the discipline of ensuring that equipment critical to process safety — pressure vessels, piping, heat exchangers, safety valves, instrumentation, and rotating equipment — is designed, fabricated, installed, inspected, tested, and maintained to remain fit for service. MI is a core PSM element because process safety barriers depend on physical equipment that must function when needed. Key MI activities: design and material selection (correct material for the process conditions — corrosion allowance, temperature ratings); quality assurance during fabrication and construction (welding inspection, NDT — non-destructive testing); inspection and testing schedule (thickness monitoring for corrosion, statutory vessel inspection, pressure safety valve testing at set intervals); maintenance programme (planned preventive maintenance — not just breakdown maintenance); reliability and degradation monitoring (ultrasonic thickness measurement, corrosion monitoring); and defect reporting and management (no 'running degraded' without documented risk assessment). MI failures are a root cause of many catastrophic O&G incidents: Piper Alpha (1988) — a temporary pipe plug used without safe work procedures caused a fire that killed 167 people.",
+    "keyPoints": [
+      "MI: ensures process safety equipment remains fit for service throughout its lifecycle",
+      "Scope: pressure vessels, piping, safety valves (PSVs), instrumentation, rotating equipment",
+      "Activities: design → fabrication QA → inspection schedule → maintenance → defect management",
+      "NDT: ultrasonic testing, radiography — non-destructive ways to check internal integrity",
+      "PSV testing: safety valves must be tested at intervals to verify they open at set pressure",
+      "Corrosion management: measure and track wall thickness reduction over time",
+      "Piper Alpha (1988): maintenance failure (pump blind left incorrectly) → 167 fatalities"
+    ],
+    "tip": "Piper Alpha is the O&G industry's defining mechanical integrity failure. The combination of a missing pump isolation certificate and a PTW failure resulted in 167 fatalities on 6 July 1988. Every O&G candidate should know Piper Alpha, its cause, and the Cullen Report recommendations that followed. Mentioning it in the context of PTW and MI demonstrates that you understand how these systems interact.",
+    "followUpQuestions": [
+      "What was the Cullen Report and what safety improvements did it recommend for the offshore industry?",
+      "What is a pressure safety valve (PSV) and how is it tested?",
+      "What is the difference between inspectable and non-inspectable equipment in an MI programme?"
+    ]
+  },
+  {
+    "id": "og-013",
+    "text": "What is the significance of the 'Safety Case' in offshore O&G safety regulation?",
+    "category": "legislation",
+    "region": "oil-gas",
+    "difficulty": "senior",
+    "modelAnswer": "The Safety Case is a formal document submitted by an offshore facility operator to the regulatory authority, demonstrating that major hazards have been identified, evaluated, and reduced to ALARP. The Safety Case concept emerged from the Piper Alpha disaster (1988) and the Cullen Report (1990), which recommended moving away from prescriptive regulation (specific rules for specific equipment) to goal-setting regulation (demonstrate safety rather than comply with rules). A Safety Case contains: description of the installation; identification of all Major Accident Hazards (MAHs); formal safety assessment (QRA or equivalent) demonstrating ALARP; description of the Safety Management System (SMS) that manages the MAHs; arrangements for emergency response; and verification scheme for safety-critical elements (independent inspection and testing of critical equipment). In the UK, the Safety Case is required under the Offshore Installations (Safety Case) Regulations 1992. In the Gulf, while formal Safety Case regulation is less prescriptive, ADNOC and QatarEnergy require equivalent documentation for major offshore facilities. The Safety Case is a living document updated when significant changes occur (MOC triggers Safety Case revision).",
+    "keyPoints": [
+      "Safety Case: formal document demonstrating MAHs are identified and reduced to ALARP",
+      "Emerged from Piper Alpha (1988) and Cullen Report (1990)",
+      "Goal-setting regulation: operator demonstrates safety rather than complying with prescriptive rules",
+      "Contents: MAH identification, QRA/formal safety assessment, SMS description, emergency arrangements, verification scheme",
+      "Verification scheme: independent verification of safety-critical element (SCE) inspection and testing",
+      "Living document: updated following significant changes (MOC triggers revision)",
+      "Gulf: ADNOC and QatarEnergy require equivalent formal safety assessments"
+    ],
+    "tip": "The Safety Case is the highest-level H&S regulatory document in offshore O&G. Few candidates below senior level know about it — but mentioning Piper Alpha, the Cullen Report, and the shift from prescriptive to goal-setting regulation immediately elevates you to a senior O&G discussion. If you have contributed to or reviewed a Safety Case, this is a top credential for senior Gulf O&G roles.",
+    "followUpQuestions": [
+      "What is a Safety-Critical Element (SCE) and how is it verified in a Safety Case?",
+      "How does the Safety Case approach differ from prescriptive safety regulation?",
+      "What event led to the introduction of the Safety Case regime in the UK offshore industry?"
+    ]
+  },
+  {
+    "id": "og-014",
+    "text": "Describe your understanding of emergency shutdown (ESD) systems in oil and gas facilities.",
+    "category": "emergency-response",
+    "region": "oil-gas",
+    "difficulty": "senior",
+    "modelAnswer": "Emergency Shutdown (ESD) systems are automated safety systems that, upon detecting a hazardous condition, initiate a pre-programmed sequence to safely shut down a process facility — isolating hydrocarbon inventory, stopping rotating equipment, depressurising vessels, activating deluge systems, and initiating alarms. ESD systems are a critical mitigation barrier in the bow-tie model. Key components: gas and flame detectors (inputs — detect the hazardous condition); ESD logic controller (typically a Safety Instrumented System, SIS, rated to SIL 2 or SIL 3 for critical functions — processes inputs and activates shutdown); ESD valves (outputs — close to isolate process); blowdown valves (depressurise by venting to flare safely); pump and compressor shutdown interlocks; alarm and PA system. ESD levels: Level 1 — unit or section shutdown; Level 2 — area or module shutdown; Level 3 — full facility shutdown with evacuation. ESD systems must be tested regularly to verify they function — functional testing (proof testing) at intervals prescribed in the Safety Integrity Level (SIL) verification. Inhibiting (bypassing) an ESD must follow a formal Management of Change process — bypassed ESD = degraded barrier.",
+    "keyPoints": [
+      "ESD = automated system that safely shuts down a facility on hazardous condition detection",
+      "Key inputs: gas detectors, flame detectors, high/low pressure/temperature sensors",
+      "SIS (Safety Instrumented System): ESD logic controller rated to SIL (Safety Integrity Level)",
+      "SIL 2 or 3 for critical ESD functions: required to achieve adequate probability of function on demand",
+      "ESD levels: Unit → Area → Full facility (escalating shutdown scope)",
+      "Proof testing: ESD valves and system tested at intervals to verify function",
+      "ESD bypass/inhibit: must follow MOC — bypassed ESD is a degraded safety barrier"
+    ],
+    "tip": "Safety Integrity Levels (SIL) are the quantitative standard for ESD reliability. SIL 1 means the system fails to operate 1-in-10 times it should; SIL 2 means 1-in-100 times; SIL 3 means 1-in-1000 times. Knowing the SIL concept — and that ESD bypasses degrade the SIL — shows genuine instrumented safety system knowledge that separates process safety candidates from basic construction H&S professionals.",
+    "followUpQuestions": [
+      "What is a Safety Integrity Level (SIL) and how does it relate to ESD reliability?",
+      "How often should ESD valves be proof-tested to verify they function?",
+      "What must happen before an ESD can be formally inhibited (bypassed)?"
+    ]
+  },
+  {
+    "id": "og-015",
+    "text": "What is the role of the HSE representative during an oil and gas project FEED (Front End Engineering Design) stage?",
+    "category": "general",
+    "region": "oil-gas",
+    "difficulty": "senior",
+    "modelAnswer": "The FEED (Front End Engineering Design) stage is the critical phase where the basic process configuration, equipment layout, and control philosophy are defined. Changes at FEED are inexpensive; changes during construction cost 10-100x more. The HSE representative's role during FEED includes: participating in HAZID (Hazard Identification) studies to identify major hazards in the proposed design; facilitating or participating in HAZOP on the developing P&IDs; reviewing facility layout for inherent safety (process isolation, escape routes, safe distances between hazardous equipment and control room); reviewing ESD philosophy and fire and gas detection system design; identifying regulatory compliance requirements; preparing the safety basis document (preliminary safety case or safety report); participating in SIL classification studies; reviewing building and control room layout against explosion risk; advising on structural fire protection requirements; and ensuring HSE requirements are flowed down to vendor package specifications. Early HSE input prevents costly late-stage design changes and ensures that inherent safety principles (eliminate, substitute, reduce inventory) are applied while the design is still fluid.",
+    "keyPoints": [
+      "FEED = Front End Engineering Design: where design decisions are most cost-effective to change",
+      "HSE at FEED: participate in HAZID, HAZOP, SIL classification studies",
+      "Layout review: process isolation, escape routes, blast-resistant control room location",
+      "ESD philosophy: contribute to fire and gas detection and shutdown philosophy development",
+      "Safety basis document: preliminary safety assessment, regulatory compliance mapping",
+      "Vendor specifications: ensure HSE requirements in package specifications before procurement",
+      "Inherent safety: FEED is where Eliminate/Substitute/Reduce can be applied most effectively"
+    ],
+    "tip": "HSE input at FEED stage is one of the highest-leverage activities in O&G project safety — preventing design-in hazards is vastly cheaper than removing them later. Showing you understand that FEED is when the safety fight is won or lost distinguishes a candidate who has been involved in projects from the beginning, not just during construction and operations.",
+    "followUpQuestions": [
+      "What is a HAZID and how does it differ from a HAZOP?",
+      "What are the 'inherent safety' principles and when in a project lifecycle should they be applied?",
+      "How does a SIL classification study relate to the ESD system design?"
+    ]
+  },
+  {
+    "id": "og-016",
+    "text": "What is a Life Saving Rule and how do you enforce one when it is violated?",
+    "category": "safety-culture",
+    "region": "oil-gas",
+    "difficulty": "mid",
+    "modelAnswer": "Life Saving Rules (also called Golden Rules, Non-Negotiables, Cardinal Rules, or Critical Safety Behaviours) are a small set of non-negotiable safety behaviours that, if violated, can result in immediate fatality. Common Life Saving Rules in Gulf O&G include: always use PTW before starting high-risk work; always isolate and verify zero energy before maintenance; never enter a confined space without a valid permit and gas test; never work at height without proper fall protection; never drive without a seatbelt; always test atmosphere in confined spaces before entering. A Life Saving Rule violation is treated differently from a normal safety rule breach — it is typically grounds for immediate suspension from site pending investigation, regardless of seniority. Enforcement approach: when a violation is observed, stop the work immediately (using stop-work authority); address the individual calmly and professionally — explain the rule and the life-safety reason for it; do not allow the work to continue until the control is in place; report through the normal incident reporting system; the organisation's consequence management process applies (which may include suspension or termination for first violation). Consistency is essential — if management bypasses rules without consequence, the entire programme collapses.",
+    "keyPoints": [
+      "Life Saving Rules = non-negotiable safety behaviours protecting against immediate fatal risk",
+      "Examples: PTW, energy isolation, confined space, working at height, driving, gas testing",
+      "Violation: immediate work stop using stop-work authority",
+      "Consequence: suspension from site pending investigation — regardless of seniority",
+      "Enforcement approach: calm, professional, explain the life-safety reason — not aggressive",
+      "Consistency: same consequence for everyone — manager or worker; Kuwaiti national or migrant",
+      "Senior management compliance: if leaders bypass rules, programme credibility collapses"
+    ],
+    "tip": "The most powerful point about Life Saving Rules enforcement is consistency — the same consequence must apply to a senior manager as to a labourer. If a Kuwaiti national or an expat senior engineer bypasses a Life Saving Rule with no consequence, every worker on site observes this and knows the rules don't really apply to important people. This is the fastest way to destroy a Life Saving Rules programme.",
+    "followUpQuestions": [
+      "What happens if a senior manager violates a Life Saving Rule?",
+      "How do you communicate Life Saving Rules to a workforce that speaks limited English?",
+      "Why is having a small number of Life Saving Rules better than a long list?"
+    ]
+  },
+  {
+    "id": "og-017",
+    "text": "Describe the key H&S requirements for hot work in an oil and gas processing facility.",
+    "category": "hot-work",
+    "region": "oil-gas",
+    "difficulty": "mid",
+    "modelAnswer": "Hot work in an O&G processing facility — welding, cutting, grinding, non-sparking tool use in classified areas, or anything generating heat above 65°C — requires a formal Hot Work Permit. Requirements before permit issue: the work area must be gas tested and confirmed below 10% LEL and H2S below site-specific limit (often 5 ppm for hot work); all nearby drains, sumps, and catch pits sealed with wet sand or plugs to prevent vapour migration; combustibles removed or shielded; a trained fire watch with charged extinguisher and access to water hose in position; welding equipment inspected; welding cables checked for damage; welding screen erected to contain sparks; the issuing authority inspects and signs the permit. During work: gas testing repeated every 30 minutes and whenever conditions change; fire watch remains in place throughout; SIMOPS coordination if other activities are nearby; if gas alarm sounds — stop work immediately, abandon equipment safely, activate alarm, evacuate. After work: fire watch continues for 30 minutes after work completion — smouldering fires can ignite 20-30 minutes after welding stops.",
+    "keyPoints": [
+      "Gas test: <10% LEL and H2S below site limit before and throughout — every 30 minutes",
+      "Drains sealed: prevent vapour migration into work area from adjacent systems",
+      "Fire watch: trained watcher with extinguisher, present during AND 30 minutes after",
+      "Sparks from grinding/welding: can travel 10 metres — combustibles removed/shielded",
+      "Welding equipment inspection: cables, connections, earth clamp checked before use",
+      "SIMOPS: coordinate with operations to prevent concurrent activities that could release hydrocarbons",
+      "Gas alarm during hot work: STOP WORK — do not finish the weld then stop"
+    ],
+    "tip": "The most common hot work failure modes are: (1) not sealing drains (vapours migrate underground); (2) no fire watch after completion (fires start when welder has left); (3) gas test done once at start but not repeated. All three of these common failures can be mentioned as things you specifically monitor and enforce. They signal practical hot work experience rather than just theoretical knowledge.",
+    "followUpQuestions": [
+      "Why must drains be sealed before hot work begins?",
+      "What do you do if a gas alarm sounds while hot work is in progress?",
+      "Can hot work proceed at 8% LEL if the reading has been stable for 15 minutes?"
+    ]
+  },
+  {
+    "id": "og-018",
+    "text": "What is the OIMS (Operations Integrity Management System) and which company uses it?",
+    "category": "legislation",
+    "region": "oil-gas",
+    "difficulty": "senior",
+    "modelAnswer": "OIMS (Operations Integrity Management System) is ExxonMobil's proprietary HSE and operations integrity management framework, used across all ExxonMobil operations and joint ventures globally. OIMS consists of 11 elements covering: Safety, Health, and Environment Commitment; Risk Assessment and Management; Facilities Design and Construction; Information and Documentation; Personnel and Training; Operations and Maintenance; Management of Change; Third-Party Services; Incident Investigation; Emergency Response; and Operations Integrity Assessment. OIMS is one of the most systematic and rigorous management systems in the O&G industry and has been widely benchmarked by other companies. ExxonMobil joint ventures in the Gulf region (including in the UAE, Qatar, and Iraq) require contractor compliance with OIMS. For contractors working on ExxonMobil or ExxonMobil JV projects, OIMS requirements cascade through the contract chain. Knowing OIMS is important if targeting roles with ExxonMobil or its JV partners in the Gulf.",
+    "keyPoints": [
+      "OIMS = ExxonMobil's HSE and operations integrity management system",
+      "11 elements: commitment, risk assessment, design, information, personnel, operations, MOC, contractors, investigation, emergency, assessment",
+      "One of the most comprehensive and systematic O&G management frameworks",
+      "Applicable to ExxonMobil JVs in UAE, Qatar, Iraq — contractors must comply",
+      "Widely benchmarked — many companies have modelled their systems on OIMS elements",
+      "Operations Integrity Assessment (OIA): periodic internal audit of all OIMS elements",
+      "Targeting ExxonMobil JV roles: demonstrate OIMS awareness as a differentiator"
+    ],
+    "tip": "OIMS is less well-known than Aramco SEMP or ADNOC requirements, but ExxonMobil operates significant JVs in the Gulf (Abu Dhabi Marine Operating Company — ADMA-OPCO — is partially ExxonMobil). Showing awareness of OIMS alongside the more common Gulf frameworks (SEMP, OSHAD-SF, QatarEnergy requirements) demonstrates breadth of O&G HSE framework knowledge.",
+    "followUpQuestions": [
+      "How many elements does OIMS contain and can you name three of them?",
+      "Which ExxonMobil joint ventures operate in the Abu Dhabi offshore sector?",
+      "How does OIMS compare in scope to ISO 45001 as a management system?"
+    ]
+  },
+  {
+    "id": "og-019",
+    "text": "What are the key elements of a Process Safety Management (PSM) system as defined by OSHA 29 CFR 1910.119?",
+    "category": "general",
+    "region": "oil-gas",
+    "difficulty": "senior",
+    "modelAnswer": "OSHA PSM standard (29 CFR 1910.119) was introduced after the 1984 Bhopal disaster and the 1989 Phillips Petroleum explosion and applies to US facilities handling highly hazardous chemicals above threshold quantities. While OSHA is a US standard, it is widely adopted as best practice in Gulf O&G. The 14 PSM elements are: (1) Process Safety Information (PSI) — documentation of chemistry, technology, and equipment; (2) Process Hazard Analysis (HAZOP, HAZID, What-If); (3) Operating Procedures — written procedures for all phases of operation; (4) Training — initial and refresher for operators; (5) Contractors — contractor safety management; (6) Pre-Startup Safety Review (PSSR) — safety review before introducing HHCs to new/modified equipment; (7) Mechanical Integrity (MI) — equipment inspection and maintenance; (8) Hot Work Permit — PTW for ignition-source activities; (9) Management of Change (MOC) — formal change control; (10) Incident Investigation — root cause analysis; (11) Emergency Planning and Response; (12) Compliance Audits — periodic audit of PSM system; (13) Trade Secrets (confidentiality provision); (14) Employee Participation — worker involvement in PSM. Elements 1-13 are the core operational elements; Aramco, ADNOC, and QatarEnergy each have equivalent internal PSM frameworks based on these.",
+    "keyPoints": [
+      "OSHA PSM: 29 CFR 1910.119 — 14 elements for managing major chemical process hazards",
+      "Introduced after Bhopal (1984) and Phillips Petroleum explosion (1989)",
+      "Widely adopted as best practice across Gulf O&G even outside the US",
+      "Key elements: PSI, PHA, operating procedures, training, MI, MOC, PSSR, incident investigation",
+      "PSSR: Pre-Startup Safety Review — before introducing HHCs to new/modified equipment",
+      "Compliance audit: independent periodic audit of all 14 PSM elements",
+      "Gulf applications: Aramco, ADNOC, QatarEnergy have equivalent PSM frameworks"
+    ],
+    "tip": "Being able to list the 14 PSM elements without prompting is a genuine differentiator at senior level. Even knowing 7-8 of them accurately signals you have studied PSM seriously. Connecting the PSM elements to real Gulf O&G systems (MOC = Aramco change management, PSSR = QatarEnergy pre-startup review) shows you can apply the framework in the Gulf context.",
+    "followUpQuestions": [
+      "What is a Pre-Startup Safety Review (PSSR) and what triggers the requirement for one?",
+      "How does Process Safety Information (PSI) support HAZOP studies?",
+      "What are the most common PSM non-conformances found during OSHA process safety audits?"
+    ]
+  },
+  {
+    "id": "og-020",
+    "text": "How do you manage the specific risks of working on a live offshore platform during a hook-up and commissioning phase?",
+    "category": "ptw",
+    "region": "oil-gas",
+    "difficulty": "senior",
+    "modelAnswer": "Offshore hook-up and commissioning (HUC) is one of the most hazardous phases of an O&G project because construction activities and live operations occur simultaneously on the same structure. Key H&S challenges: SIMOPS everywhere — welding adjacent to live systems, hydrocarbon introduction while construction work continues; space constraints on offshore platforms limit segregation options; hot work in an environment with hydrocarbons being introduced incrementally; confined space entry with increasing process hazard nearby; personnel on board (POB) surges (maximum POB during HUC) stretching accommodation, muster, and emergency response; and commissioning sequences introducing energy and hydrocarbons to systems step by step — each step changing the hazard profile. Critical H&S measures: dedicated HUC HSE team (significantly larger than normal operations team); SIMOPS matrix updated daily as systems are progressively commissioned; cold commissioning before hot commissioning (start with inert/nitrogen before introducing hydrocarbons); detailed Pre-Startup Safety Reviews (PSSR) before each system is activated; strict walk-the-line inspections before first hydrocarbon introduction; and documented system completion status (punch list) ensuring all construction work is properly closed out before operations commence.",
+    "keyPoints": [
+      "HUC phase: construction and commissioning simultaneously — highest SIMOPS intensity",
+      "POB surge: maximum people on board — muster, emergency response, accommodation all stretched",
+      "Cold commissioning before hot: inert/nitrogen tests before hydrocarbon introduction",
+      "PSSR for each system: before first hydrocarbon — formal safety review and sign-off",
+      "Walk-the-line: physical inspection of each pipe, fitting, and connection before first flow",
+      "Punch list: all construction deficiencies closed before commissioning — no 'live with it'",
+      "Dedicated HUC HSE team: significantly larger than normal operational H&S resource"
+    ],
+    "tip": "The 'cold before hot' commissioning principle is fundamental — never introduce hydrocarbons to an untested system. Walk-the-line inspections are a physical check of every inch of pipe before first flow — it catches construction deficiencies (missing gaskets, incorrect valve positions) that drawings don't show. These are practical HUC details that immediately signal offshore commissioning experience.",
+    "followUpQuestions": [
+      "What is a punch list in the context of offshore commissioning?",
+      "What is the walk-the-line procedure and who performs it?",
+      "How do you manage POB (Personnel on Board) limits during a busy hook-up and commissioning phase?"
+    ]
+  }
+]

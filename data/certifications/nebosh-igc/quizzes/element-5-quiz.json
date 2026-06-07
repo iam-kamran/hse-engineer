@@ -1,0 +1,176 @@
+{
+  "id": "nebosh-igc/element-5-quiz",
+  "moduleId": "certifications/nebosh-igc/element-5",
+  "title": "Element 5 Quiz — Physical & Psychological Health, Heat Stress",
+  "passMark": 70,
+  "questions": [
+    {
+      "id": "e5-q1",
+      "text": "Which of the following is NOT a potential outcome of long-term occupational noise exposure?",
+      "options": [
+        { "id": "a", "text": "Noise-Induced Hearing Loss (NIHL)" },
+        { "id": "b", "text": "Tinnitus (ringing in the ears)" },
+        { "id": "c", "text": "Asbestosis" },
+        { "id": "d", "text": "Increased stress and fatigue" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Asbestosis is a fibrotic lung disease caused by inhaling asbestos fibres — it is a respiratory, not a hearing condition. Long-term noise exposure causes Noise-Induced Hearing Loss (NIHL), tinnitus, and can also contribute to stress and fatigue. NIHL is permanent and irreversible.",
+      "difficulty": "easy",
+      "tags": ["noise", "occupational health"]
+    },
+    {
+      "id": "e5-q2",
+      "text": "In the hierarchy of controls for managing occupational noise, which measure is MOST preferred?",
+      "options": [
+        { "id": "a", "text": "Providing ear defenders to all workers in the noisy area" },
+        { "id": "b", "text": "Erecting noise barriers around noisy equipment" },
+        { "id": "c", "text": "Eliminating or substituting the noisy process with a quieter method" },
+        { "id": "d", "text": "Rotating workers to limit individual noise exposure time" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Elimination or substitution is always the top of the hierarchy of controls — removing or replacing the noise source is the most effective solution. Engineering controls (barriers, enclosures) come next. Administrative controls (rotation) and PPE (ear defenders) are the least preferred because they rely on human behaviour and do not remove the hazard.",
+      "difficulty": "easy",
+      "tags": ["noise", "hierarchy of controls"]
+    },
+    {
+      "id": "e5-q3",
+      "text": "Heat stroke is a medical emergency that can occur in Gulf outdoor workers. What is the PRIMARY difference between heat exhaustion and heat stroke?",
+      "options": [
+        { "id": "a", "text": "Heat exhaustion only affects older workers; heat stroke affects all ages" },
+        { "id": "b", "text": "Heat stroke involves the failure of the body's temperature regulation mechanism, causing core temperature to rise dangerously (>40°C); the person stops sweating and may lose consciousness" },
+        { "id": "c", "text": "Heat exhaustion always leads to heat stroke if not treated" },
+        { "id": "d", "text": "Heat stroke only occurs when humidity is above 90%" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Heat stroke is a life-threatening emergency where the body's cooling system fails — core temperature exceeds 40°C, sweating stops, and the person may become confused or unconscious. Heat exhaustion is less severe: the person is still sweating and conscious but feels faint and weak. Immediate cooling and medical help are required for heat stroke.",
+      "difficulty": "medium",
+      "tags": ["heat stress", "heat stroke", "Gulf context"]
+    },
+    {
+      "id": "e5-q4",
+      "text": "Saudi Arabia's Royal Commission and Aramco require outdoor work restrictions when a Wet Bulb Globe Temperature (WBGT) index exceeds certain thresholds. What does WBGT measure?",
+      "options": [
+        { "id": "a", "text": "Only air temperature in the shade" },
+        { "id": "b", "text": "The combined heat stress effect of temperature, humidity, radiant heat, and air movement" },
+        { "id": "c", "text": "The UV radiation index for outdoor workers" },
+        { "id": "d", "text": "The worker's core body temperature using an oral thermometer" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "WBGT (Wet Bulb Globe Temperature) is the most widely used index for assessing heat stress in outdoor environments. It combines dry bulb temperature, wet bulb temperature (humidity effect), and globe temperature (radiant heat) to give a single value representing the heat load on a worker. WBGT is used by Aramco, ADNOC, and most Gulf employers to set work/rest schedules.",
+      "difficulty": "medium",
+      "tags": ["heat stress", "WBGT", "Gulf context"]
+    },
+    {
+      "id": "e5-q5",
+      "text": "Which of the following is a recognised occupational cause of work-related stress?",
+      "options": [
+        { "id": "a", "text": "Reasonable workloads with clear deadlines" },
+        { "id": "b", "text": "Good relationships with line managers and colleagues" },
+        { "id": "c", "text": "Excessive demands, bullying, lack of control over one's work, and poor role clarity" },
+        { "id": "d", "text": "Regular one-to-one meetings with supervisors" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Work-related stress arises when demands exceed a person's ability to cope. Common causes include excessive workload, tight deadlines, bullying/harassment, lack of control, poor communication, role ambiguity, and poor relationships at work. These map to the Management Standards Framework (UK HSE) — Demands, Control, Support, Relationships, Role, Change.",
+      "difficulty": "easy",
+      "tags": ["work-related stress", "psychological health"]
+    },
+    {
+      "id": "e5-q6",
+      "text": "Hand-Arm Vibration Syndrome (HAVS) is a condition caused by regular use of vibrating tools. Which of the following is an early symptom of HAVS?",
+      "options": [
+        { "id": "a", "text": "Ringing in the ears and headaches" },
+        { "id": "b", "text": "Whitening (blanching) of the fingers triggered by cold, tingling, and loss of grip" },
+        { "id": "c", "text": "Back pain and sciatica" },
+        { "id": "d", "text": "Skin rashes on the hands and wrists" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "HAVS (also known as Vibration White Finger) is caused by long-term use of hand-held vibrating tools. Early symptoms include blanching (whitening) of fingers triggered by cold, tingling, numbness, and reduced grip. Advanced HAVS can cause permanent loss of hand function. Prevention includes daily exposure limits, health surveillance, and regular breaks.",
+      "difficulty": "medium",
+      "tags": ["vibration", "HAVS", "occupational health"]
+    },
+    {
+      "id": "e5-q7",
+      "text": "An employer notices that several workers report feeling fatigued and mentally drained. Under a good occupational health framework, the FIRST response should be:",
+      "options": [
+        { "id": "a", "text": "Dismiss the concerns as personal issues outside the employer's responsibility" },
+        { "id": "b", "text": "Immediately increase wages to compensate for the conditions" },
+        { "id": "c", "text": "Conduct a risk assessment to identify work-related causes and implement appropriate controls" },
+        { "id": "d", "text": "Require workers to take unpaid leave until they recover" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Employers have a duty of care that extends to psychological health. The appropriate first step is to risk-assess: identify whether fatigue and mental exhaustion have work-related causes (shift patterns, workload, management style) and implement controls. Dismissing concerns or punishing workers for poor mental health are both legally and ethically wrong.",
+      "difficulty": "easy",
+      "tags": ["psychological health", "duty of care", "risk assessment"]
+    },
+    {
+      "id": "e5-q8",
+      "text": "The Occupational Exposure Limit (OEL) for noise is typically expressed as:",
+      "options": [
+        { "id": "a", "text": "Decibels of noise allowed at any point in time, with no daily limit" },
+        { "id": "b", "text": "An 8-hour time-weighted average (TWA) in dB(A), with a separate peak pressure limit" },
+        { "id": "c", "text": "Frequency in Hz rather than loudness in dB" },
+        { "id": "d", "text": "Number of times per shift that a loud noise can occur" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Noise exposure limits are expressed as an 8-hour time-weighted average (TWA) in dB(A) — typically 85 dB(A) action level and 87 dB(A) limit value in EU/NEBOSH contexts. There is also a separate peak sound pressure limit (usually 140 dB(C)) for instantaneous impacts like gunshots or explosions. The TWA allows for variation across the working day.",
+      "difficulty": "medium",
+      "tags": ["noise", "OEL", "TWA"]
+    },
+    {
+      "id": "e5-q9",
+      "text": "Which control measure is MOST effective for preventing heat-related illness in Gulf outdoor workers during summer?",
+      "options": [
+        { "id": "a", "text": "Distributing ice-cold water at the start of each shift only" },
+        { "id": "b", "text": "Scheduling heavy outdoor work in early morning or evening, providing shaded rest areas, acclimatisation periods, and frequent hydration" },
+        { "id": "c", "text": "Requiring workers to wear long-sleeved clothing in all conditions" },
+        { "id": "d", "text": "Issuing sunscreen with SPF 50+" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The most effective heat stress management programme combines: rescheduling heavy work to cooler hours, providing shaded rest areas, acclimatisation (gradual exposure for new workers), frequent drinking (250ml water every 20 minutes), buddy systems, and heat illness training. This is consistent with Aramco heat stress guidelines and the Saudi Ministry of Human Resources summer outdoor work ban (June–September, 12–3pm).",
+      "difficulty": "medium",
+      "tags": ["heat stress", "Gulf context", "controls"]
+    },
+    {
+      "id": "e5-q10",
+      "text": "Whole Body Vibration (WBV) is a risk for which category of worker?",
+      "options": [
+        { "id": "a", "text": "Office workers using desktop computers" },
+        { "id": "b", "text": "Drivers of heavy plant, trucks, and off-road vehicles over rough terrain" },
+        { "id": "c", "text": "Workers using hand-held jackhammers and drills" },
+        { "id": "d", "text": "Laboratory technicians using centrifuges" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "WBV affects the whole body through a supporting surface (seat, floor, handle). It is a risk for drivers and operators of heavy plant, trucks, forklifts, and off-road vehicles — common in Gulf construction and logistics. Prolonged WBV exposure causes lower back disorders. HAVS (Hand-Arm Vibration Syndrome) is separate and is caused by hand-held tools.",
+      "difficulty": "easy",
+      "tags": ["vibration", "WBV", "occupational health"]
+    },
+    {
+      "id": "e5-q11",
+      "text": "Which of the following is a control measure for managing work-related stress, specifically targeting the 'Demands' risk factor?",
+      "options": [
+        { "id": "a", "text": "Introducing flexible working arrangements so employees can adjust start/finish times" },
+        { "id": "b", "text": "Reviewing workloads to ensure they are achievable within normal working hours and removing non-essential tasks" },
+        { "id": "c", "text": "Improving communication about the organisation's future plans" },
+        { "id": "d", "text": "Training managers in conflict resolution and mentoring skills" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The 'Demands' risk factor in the UK HSE Management Standards refers to workload, work patterns, and the work environment. A direct control is reviewing and adjusting workloads to be achievable. Flexible working addresses Control. Better communication about plans addresses Change. Manager training addresses Support and Relationships.",
+      "difficulty": "hard",
+      "tags": ["work-related stress", "Management Standards", "controls"]
+    },
+    {
+      "id": "e5-q12",
+      "text": "A new worker arrives from a cool climate to work on an Aramco construction site in summer. The site's heat acclimatisation protocol requires them to:",
+      "options": [
+        { "id": "a", "text": "Start full outdoor duties immediately to build up heat tolerance quickly" },
+        { "id": "b", "text": "Avoid all outdoor work for 2 weeks and stay in air-conditioned accommodation" },
+        { "id": "c", "text": "Gradually increase heat exposure over 7–14 days, starting at 50% outdoor duty and progressively working up to full shifts" },
+        { "id": "d", "text": "Work full shifts but wear a cooling vest and drink extra water" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Acclimatisation is a physiological process by which the body adjusts to heat stress over 7–14 days. New or returning workers must be progressively exposed — typically starting at 50% of full outdoor duty on day 1, increasing gradually. Sudden full exposure for unacclimatised workers is a major risk factor for heat stroke. This requirement appears in Aramco SEMP, ADNOC HSE procedures, and international best practice.",
+      "difficulty": "medium",
+      "tags": ["heat stress", "acclimatisation", "Gulf context"]
+    }
+  ]
+}

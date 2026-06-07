@@ -1,0 +1,174 @@
+{
+  "id": "certifications/iosh/module-5",
+  "sectionId": "iosh",
+  "title": "Module 5: Identifying Hazards",
+  "order": 5,
+  "estimatedReadTime": 22,
+  "difficulty": "beginner",
+  "learningObjectives": [
+    "Identify the main categories of workplace hazards",
+    "Recognise specific hazards common to construction, oil and gas, and general industry",
+    "Understand how slips, trips, falls, manual handling, and fire are among the most common causes of injury",
+    "Apply hazard identification techniques including workplace inspections and consultation"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Categories of Workplace Hazards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hazards are grouped into categories to help ensure a systematic and complete identification process. Missing a category of hazard means leaving workers unprotected. The main categories are: Physical, Chemical, Biological, Ergonomic, and Psychological. In practice, many work activities involve hazards from multiple categories simultaneously."
+    },
+    {
+      "type": "heading",
+      "text": "Physical Hazards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Physical hazards are the most visible and include any form of energy or physical condition that can cause injury. They are the most common cause of workplace accidents globally."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Slips, trips, and falls on the same level — the most frequent cause of workplace injury worldwide",
+        "Falls from height — leading cause of fatal accidents in construction",
+        "Moving machinery and vehicles — entanglement, crushing, struck-by",
+        "Electricity — shock, arc flash, fire",
+        "Noise — Noise-Induced Hearing Loss (NIHL) and tinnitus from prolonged exposure",
+        "Vibration — Hand-Arm Vibration Syndrome (HAVS) from power tools; Whole Body Vibration (WBV) from vehicles",
+        "Temperature extremes — heat stress (critical in Gulf summers) and hypothermia (cold storage, night work)",
+        "Radiation — UV from outdoor work, ionising radiation from radiography",
+        "Pressure — compressed gases, pressure vessels (stored energy release)",
+        "Fire and explosion — particularly in hydrocarbon-rich O&G environments",
+        "Confined spaces — atmospheric hazards (O2 deficiency, toxic/flammable gas), entrapment"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "In the Gulf, heat stress is a physical hazard that kills workers every summer. The thermal environment — air temperature, radiant heat from the sun and hot surfaces, humidity, and air movement — creates a combined heat load measured by the WBGT index. All Gulf countries enforce outdoor work bans during peak summer hours. This hazard is unique in severity compared to most countries where IOSH is taught."
+    },
+    {
+      "type": "heading",
+      "text": "Chemical Hazards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chemical hazards arise from substances that can harm health through inhalation, skin contact, ingestion, or injection. Chemical hazards are assessed using Safety Data Sheets (SDS), Occupational Exposure Limits (OELs), and COSHH (Control of Substances Hazardous to Health) assessments."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Dusts — silica dust (from cutting stone, concrete, or masonry) causes silicosis; coal dust causes pneumoconiosis",
+        "Fumes — welding fumes, paint spray mist, solvent vapours",
+        "Gases — H2S (toxic and flammable), CO (odourless, toxic), chlorine (toxic)",
+        "Liquids — skin contact with acids, caustics, solvents, fuels",
+        "Skin sensitisers — cement, epoxy resins, cutting oils causing contact dermatitis",
+        "Carcinogens — benzene (refinery operations), asbestos fibres, hardwood dust"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "H2S (hydrogen sulphide) is the most critical chemical hazard in Gulf O&G. Present in sour oil and gas reservoirs, refineries, and produced water systems, H2S is both highly toxic (IDLH 100 ppm) and flammable (LEL 4.3%). Olfactory fatigue at >100 ppm means workers can no longer smell it. Personal H2S monitors with audible alarms are mandatory in all Gulf sour service areas."
+    },
+    {
+      "type": "heading",
+      "text": "Biological Hazards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Biological hazards are living organisms or substances they produce that can harm health."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Legionella bacteria — in cooling towers, hot water systems, and showers; causes Legionnaires' disease (potentially fatal pneumonia)",
+        "Blood-borne pathogens — Hepatitis B, Hepatitis C, HIV (risk for healthcare workers and first responders)",
+        "Zoonoses — diseases transmitted from animals (relevant in agricultural and veterinary settings)",
+        "Mould and fungi — in damp buildings, causing respiratory sensitisation",
+        "Vector-borne disease — dengue, malaria (relevant in tropical areas of Oman's Dhofar region)"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Ergonomic Hazards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ergonomic hazards arise from a mismatch between the worker's physical capabilities and the demands of the task. They cause musculoskeletal disorders (MSDs) — the most prevalent occupational illness in most industries."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Manual handling — lifting, carrying, pushing, pulling loads that are too heavy, awkwardly shaped, or handled in poor postures",
+        "Repetitive work — assembly, keyboard use, precision work causing WRULDs (Work-Related Upper Limb Disorders)",
+        "Awkward postures — working with arms above shoulder height, stooping, kneeling, twisting",
+        "Display Screen Equipment (DSE) — prolonged computer use causing eye strain, neck, shoulder, and back problems",
+        "Whole Body Vibration (WBV) — driving heavy plant on rough terrain causing lower back disorders"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "Manual handling is assessed using TILE: Task (movements required), Individual (worker capability), Load (weight, shape, stability, handles), Environment (floor, space, temperature, lighting). All four factors affect the overall risk level."
+    },
+    {
+      "type": "heading",
+      "text": "Psychological Hazards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Psychological hazards affect mental health and can lead to stress, anxiety, depression, and burnout — all of which impact safety performance as well as health."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Work-related stress — excessive demands, lack of control, poor support, poor relationships, role ambiguity",
+        "Bullying and harassment — unwanted behaviour that undermines dignity and wellbeing",
+        "Fatigue — from shift work, long hours, or inadequate rest between shifts",
+        "Workplace violence — verbal abuse or physical aggression from colleagues, clients, or the public",
+        "Isolation — remote workers or lone workers with limited social contact"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "Migrant workers in the Gulf face unique psychological hazards: isolation from family, language barriers, cultural adjustment, financial stress (debt from recruitment fees), and sometimes poor living conditions. These factors increase fatigue-related accident risk and reduce safety reporting. Gulf employers increasingly include mental health and worker welfare in their HSE programmes — PDO, ADNOC, and the Qatar Supreme Committee Worker Welfare Standards all address psychological wellbeing."
+    },
+    {
+      "type": "heading",
+      "text": "Common High-Risk Hazards — The 'Fatal Four' in Construction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Construction fatalities globally cluster around four hazard types, known as the Fatal Four (from OSHA data). Understanding these four is essential for anyone working in Gulf construction and civil engineering."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Fatal Four Hazard", "Typical Scenarios in Gulf Construction", "Key Controls"],
+        "rows": [
+          ["Falls from height", "Scaffold collapse, unguarded edges, ladder falls, holes in floors", "Guardrails, full planked platforms, 100% tie-off in fall zones, scaffold tag system"],
+          ["Struck-by objects", "Falling tools/materials from height, reversing vehicles, swinging crane loads", "Exclusion zones, toe boards, banksmen, dropped object prevention (tool tethering)"],
+          ["Caught-in/between", "Unguarded machinery, excavation collapse (trench cave-in), pinch points on plant", "Machine guarding, trench shoring, exclusion zones around operating plant"],
+          ["Electrocution", "Underground cable strike during excavation, damaged portable tool cables, live electrical work", "Dig permit with cable detection, RCD protection, LOTO for electrical work, qualified electricians only"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hazard Identification Techniques"
+    },
+    {
+      "type": "paragraph",
+      "text": "Effective hazard identification uses multiple methods: (1) Workplace inspection — physically walk the area and observe conditions and work practices; (2) Consultation with workers — they often know hazards that managers and H&S professionals overlook; (3) Accident and near-miss records — patterns in historical data reveal recurring hazards; (4) Safety Data Sheets (SDS) — for chemical hazards; (5) Manufacturer's information and equipment manuals; (6) Published guidance and industry standards; (7) Comparison with similar workplaces or industries."
+    },
+    {
+      "type": "keyPoint",
+      "text": "Walk the job. No desk-based hazard identification is a substitute for actually observing the work being done, in the actual location, at the actual time it happens. Hazards observed during the planning phase (on a drawing or model) are often different from hazards that emerge during actual operation."
+    },
+    {
+      "type": "example",
+      "text": "A risk assessment for welding is prepared in the office and identifies fume inhalation as the main hazard. When the actual welding location is visited, the assessor discovers: the welder is working in a confined pit with no ventilation; there is LPG gas cylinders stored 3 metres away; workers from another trade are walking through the area during welding. These additional hazards — confined space, fire/explosion risk, other workers at risk — were not visible from the office."
+    }
+  ],
+  "quizId": "iosh/module-5-quiz"
+}

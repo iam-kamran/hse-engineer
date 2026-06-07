@@ -1,0 +1,136 @@
+{
+  "id": "certifications/osha/construction-intro",
+  "sectionId": "osha",
+  "title": "Introduction to OSHA & General Safety Provisions",
+  "order": 1,
+  "estimatedReadTime": 20,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Understand OSHA's mission and the rights it grants workers",
+    "Identify key construction standards under 29 CFR Part 1926",
+    "Explain how OSHA inspections and penalties work",
+    "Connect OSHA principles to Gulf-region equivalents (SEMP, OSHAD-SF)"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "What Is OSHA?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Occupational Safety and Health Administration (OSHA) was created by the Occupational Safety and Health Act of 1970. Its mission is to ensure safe and healthful working conditions by setting and enforcing standards and by providing training, outreach, education, and assistance. OSHA is part of the U.S. Department of Labor."
+    },
+    {
+      "type": "keyPoint",
+      "text": "OSHA's core promise: every worker has the right to a safe workplace. Employers have a general duty to provide employment free from recognized hazards likely to cause death or serious physical harm — this is the General Duty Clause (Section 5(a)(1) of the OSH Act)."
+    },
+    {
+      "type": "heading",
+      "text": "Construction Standards: 29 CFR Part 1926"
+    },
+    {
+      "type": "paragraph",
+      "text": "All OSHA construction standards are found in 29 CFR Part 1926 — the Code of Federal Regulations, Title 29 (Labor), Part 1926. Subparts divide the standard by hazard category: Subpart M covers fall protection, Subpart K electrical, Subpart L scaffolding, Subpart P excavations, and so on."
+    },
+    {
+      "type": "definition",
+      "term": "29 CFR",
+      "text": "Code of Federal Regulations, Title 29 (Labor). Part 1910 covers General Industry; Part 1926 covers Construction. When an OSHA standard cites '29 CFR 1926.502', that means Title 29, Part 1926, Section 502."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Subpart", "Topic", "Key CFR"],
+        "rows": [
+          ["C", "General Safety & Health Provisions", "1926.20–1926.35"],
+          ["M", "Fall Protection", "1926.500–1926.503"],
+          ["K", "Electrical Safety", "1926.400–1926.449"],
+          ["L", "Scaffolding", "1926.450–1926.452"],
+          ["P", "Excavations", "1926.650–1926.652"],
+          ["CC", "Cranes & Derricks", "1926.1400–1926.1442"],
+          ["D", "Occupational Health / HazCom", "1926.50–1926.65"],
+          ["E", "PPE", "1926.95–1926.107"],
+          ["F", "Fire Protection", "1926.150–1926.155"],
+          ["H", "Materials Handling / Hand & Power Tools", "1926.250–1926.307"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Worker Rights Under OSHA"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Right to a safe workplace free from recognized hazards",
+        "Right to receive information and training in a language you understand",
+        "Right to request an OSHA inspection and speak with the inspector",
+        "Right to receive copies of test results and medical records",
+        "Right to report injuries and illnesses without retaliation",
+        "Right to see the OSHA 300 Log of work-related injuries and illnesses",
+        "Right to whistleblower protection (Section 11(c) of the OSH Act)"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Employer Responsibilities"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Follow all OSHA standards applicable to the work being performed",
+        "Provide required PPE at no cost to workers",
+        "Inform workers of chemical hazards through training, labels, and SDSs",
+        "Notify OSHA within 8 hours of a fatality; within 24 hours of inpatient hospitalisation, amputation, or eye loss",
+        "Post the OSHA 300A summary from February 1 to April 30 each year",
+        "Not retaliate against workers for exercising their OSHA rights",
+        "Keep records of work-related injuries and illnesses (if 11+ employees)"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "OSHA Inspections"
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA compliance officers (inspectors) can arrive at a worksite without prior notice. Inspections are prioritised by severity: imminent danger situations first, then fatalities and catastrophes, then worker complaints, then programmed inspections (random or industry-targeted)."
+    },
+    {
+      "type": "example",
+      "text": "During a construction site inspection the OSHA officer will review the site's written safety program, verify required postings (OSHA poster, 300A log), check fall protection on open edges, verify trench protection, inspect scaffolding for proper planking and guardrails, and interview workers confidentially."
+    },
+    {
+      "type": "heading",
+      "text": "Violations and Penalties"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Violation Type", "Description", "Penalty (2024)"],
+        "rows": [
+          ["Serious", "Substantial probability of death or serious harm, employer knew or should have known", "Up to $15,625 per violation"],
+          ["Willful/Repeated", "Employer intentionally violated standard, or same violation cited twice in 5 years", "Up to $156,259 per violation"],
+          ["Other-Than-Serious", "Violation with direct relationship to safety but unlikely to cause death", "Up to $15,625 per violation"],
+          ["Failure to Abate", "Not correcting a cited violation by the abatement date", "Up to $15,625 per day"]
+        ]
+      }
+    },
+    {
+      "type": "keyPoint",
+      "text": "The OSHA 30-Hour Construction course is designed for supervisors and workers with safety responsibilities. Completion does not make you OSHA-certified or exempt from inspections — it demonstrates training commitment."
+    },
+    {
+      "type": "heading",
+      "text": "OSHA Written Program Requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Several OSHA construction standards require a written program: Hazard Communication (HazCom), Excavation/Trenching, Fall Protection, and Confined Space Entry, among others. The written program must be site-specific, available to workers, and kept current."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Equivalent: In Saudi Arabia, Aramco SEMP (Safety, Environment & Management Practices) is the employer equivalent of OSHA — it sets mandatory HSE requirements for all contractors. In the UAE, the OSHAD-SF (Abu Dhabi) and the Dubai OSHMS set statutory requirements. Qatar follows QP's HSSE-MS. All Gulf systems share OSHA's core logic: written programs, hazard identification, worker training, inspection, and corrective action. An HSE professional who knows OSHA will quickly adapt to any Gulf framework."
+    }
+  ],
+  "quizId": null
+}

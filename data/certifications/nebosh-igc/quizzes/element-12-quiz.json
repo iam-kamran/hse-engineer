@@ -1,0 +1,176 @@
+{
+  "id": "nebosh-igc/element-12-quiz",
+  "moduleId": "certifications/nebosh-igc/element-12",
+  "title": "Element 12 Quiz — Construction Safety, CDM, Lifting & Asbestos",
+  "passMark": 70,
+  "questions": [
+    {
+      "id": "e12-q1",
+      "text": "In the CDM (Construction Design and Management) Regulations, who has the primary duty to ensure the pre-construction phase H&S plan is prepared?",
+      "options": [
+        { "id": "a", "text": "The Principal Contractor" },
+        { "id": "b", "text": "The Principal Designer" },
+        { "id": "c", "text": "The client (project owner)" },
+        { "id": "d", "text": "Each individual sub-contractor independently" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Under CDM 2015, the Principal Designer (appointed by the client) is responsible for planning, managing, monitoring, and coordinating H&S in the pre-construction phase — including preparation of the H&S file and the pre-construction H&S information. The Principal Contractor takes over coordination during the construction phase. CDM principles are widely referenced in Gulf construction project HSE plans.",
+      "difficulty": "medium",
+      "tags": ["CDM", "Principal Designer", "construction"]
+    },
+    {
+      "id": "e12-q2",
+      "text": "Which of the following is one of the MOST common causes of fatal accidents on construction sites globally (including Gulf countries)?",
+      "options": [
+        { "id": "a", "text": "Electrical shocks from portable tools" },
+        { "id": "b", "text": "Falls from height — including falls from scaffolds, ladders, roofs, and floor openings" },
+        { "id": "c", "text": "Noise-induced hearing loss" },
+        { "id": "d", "text": "Skin contact with cement" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Falls from height consistently rank as the single biggest cause of construction fatalities globally. In Gulf construction, falls from scaffolding, floor openings, roof edges, and elevated plant are responsible for a disproportionate share of the fatal incident rate. The 'Fatal Four' in construction are: Falls, Struck-by, Caught-in/between, and Electrocution.",
+      "difficulty": "easy",
+      "tags": ["construction hazards", "falls from height", "Fatal Four"]
+    },
+    {
+      "id": "e12-q3",
+      "text": "A Lifting Operation must be planned, supervised, and carried out in a safe manner. Who is responsible for planning lifting operations?",
+      "options": [
+        { "id": "a", "text": "The crane operator, who has the most practical knowledge" },
+        { "id": "b", "text": "A competent person — typically a Appointed Person or Rigging Supervisor — who plans the lift, selects equipment, and coordinates the operation" },
+        { "id": "c", "text": "The general site manager, regardless of their crane knowledge" },
+        { "id": "d", "text": "The equipment manufacturer's representative" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Lifting operations must be planned by a competent Appointed Person (or equivalent — Rigging Supervisor, Lift Supervisor in Gulf O&G terminology). The Appointed Person is responsible for: lift plan, selection of crane and accessories, load weight verification, ground bearing capacity, exclusion zones, and coordination. The crane operator follows the plan but is not the planner. This role is clearly defined in LEEA (Lifting Equipment Engineers Association) standards and adopted in Gulf facilities.",
+      "difficulty": "medium",
+      "tags": ["lifting operations", "Appointed Person", "crane safety"]
+    },
+    {
+      "id": "e12-q4",
+      "text": "Under lifting equipment regulations, what inspection frequency is required for lifting accessories (slings, shackles, hooks)?",
+      "options": [
+        { "id": "a", "text": "Before each use by the operator only — no formal records required" },
+        { "id": "b", "text": "Thorough examination by a competent person at least every 6 months (every 12 months for equipment not used for lifting persons)" },
+        { "id": "c", "text": "Annual inspection by the original manufacturer only" },
+        { "id": "d", "text": "Only when visible damage is reported by the operator" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Under LOLER (Lifting Operations and Lifting Equipment Regulations — UK) and equivalent Gulf standards, lifting accessories (slings, shackles, chains, hooks) must undergo thorough examination by a competent person at least every 6 months. Pre-use checks by operators are also required but do not replace formal thorough examinations. Records must be kept.",
+      "difficulty": "medium",
+      "tags": ["lifting equipment", "LOLER", "inspection"]
+    },
+    {
+      "id": "e12-q5",
+      "text": "Asbestos Containing Materials (ACMs) were widely used in buildings constructed before the 1990s. When encountered during refurbishment or demolition, the FIRST action should be:",
+      "options": [
+        { "id": "a", "text": "Remove the asbestos immediately using standard PPE to prevent workers from being exposed" },
+        { "id": "b", "text": "Stop work, prevent disturbance of the material, assume it contains asbestos and arrange for sampling by an accredited analyst" },
+        { "id": "c", "text": "Wet the material down to suppress dust and continue work" },
+        { "id": "d", "text": "Wrap the material in polythene and continue work around it" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "If asbestos-containing material is suspected during work (e.g. insulation, textured coatings, cement sheets in older buildings), stop work immediately, leave the area, and prevent others from entering. Do not disturb the material. Arrange for a sample to be tested by an accredited laboratory. Undisturbed asbestos in good condition is far less dangerous than disturbed asbestos releasing fibres into the air.",
+      "difficulty": "easy",
+      "tags": ["asbestos", "construction hazards", "refurbishment"]
+    },
+    {
+      "id": "e12-q6",
+      "text": "Which type of asbestos is considered MOST hazardous and is associated with mesothelioma (cancer of the lung lining)?",
+      "options": [
+        { "id": "a", "text": "White asbestos (chrysotile) — which is now the most common found in buildings" },
+        { "id": "b", "text": "Blue (crocidolite) and brown (amosite) asbestos — which have the highest association with mesothelioma" },
+        { "id": "c", "text": "Yellow asbestos — which is the most brittle form" },
+        { "id": "d", "text": "Green asbestos — found primarily in pipe lagging" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Blue asbestos (crocidolite) and brown asbestos (amosite) are considered the most hazardous forms due to their thin, needle-like fibre structure that penetrates deep into lung tissue and causes mesothelioma. White asbestos (chrysotile) is now the only type still in limited commercial use globally but is still carcinogenic. All forms are banned in the UK and many Gulf countries. There is no yellow or green asbestos.",
+      "difficulty": "medium",
+      "tags": ["asbestos", "mesothelioma", "asbestos types"]
+    },
+    {
+      "id": "e12-q7",
+      "text": "A 'Safe Load Indicator' (SLI) on a mobile crane serves what purpose?",
+      "options": [
+        { "id": "a", "text": "It records how many lifts the crane has performed for maintenance scheduling" },
+        { "id": "b", "text": "It continuously monitors the load on the hook relative to the rated capacity for the current radius and boom angle, and warns the operator if the rated capacity is being approached or exceeded" },
+        { "id": "c", "text": "It checks that the load is properly rigged before the crane operates" },
+        { "id": "d", "text": "It sounds an alarm when a person enters the crane's exclusion zone" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "An SLI (also called Load Moment Indicator, LMI) monitors the relationship between load weight, boom radius, and rated capacity in real-time. It warns the operator as the load approaches rated capacity (usually at 75% and 90%) and may lock out the crane at 100% to prevent overloading. This is critical because rated capacity changes with radius — a crane can lift 10 tonnes at 5m radius but only 3 tonnes at 15m radius.",
+      "difficulty": "medium",
+      "tags": ["crane safety", "Safe Load Indicator", "lifting operations"]
+    },
+    {
+      "id": "e12-q8",
+      "text": "Which of the following is an example of a 'struck-by' hazard on a construction site?",
+      "options": [
+        { "id": "a", "text": "A worker falling through an unguarded floor opening" },
+        { "id": "b", "text": "A worker being hit by falling materials from a higher level or by a reversing vehicle" },
+        { "id": "c", "text": "A worker's hand becoming trapped between a press and a die" },
+        { "id": "d", "text": "A worker collapsing due to heat exhaustion" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Struck-by hazards occur when a worker is hit by a moving object. In construction, this includes: falling materials from height (tools, debris), swinging crane loads, reversing vehicles and plant, and projectiles from powered tools. It is one of the construction Fatal Four. Controls include exclusion zones, toe boards, hard hats, vehicle management plans, and banksmen for reversing vehicles.",
+      "difficulty": "easy",
+      "tags": ["construction hazards", "struck-by", "Fatal Four"]
+    },
+    {
+      "id": "e12-q9",
+      "text": "A critical lift plan is required in Gulf construction for lifts that are classified as complex or high-risk. Which of the following would typically trigger a critical lift classification?",
+      "options": [
+        { "id": "a", "text": "Any lift over 500 kg regardless of conditions" },
+        { "id": "b", "text": "Lifts over a live process area, tandem lifts (two cranes), lifts near overhead power lines, or loads exceeding 75% of the crane's rated capacity" },
+        { "id": "c", "text": "Lifts performed on Fridays or public holidays" },
+        { "id": "d", "text": "Lifts involving any wire rope sling over 3 metres in length" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Critical (or 'engineered') lift plans are required for: lifts over 75% (or in some systems 85%) of rated capacity; lifts over live process areas or occupied buildings; tandem lifts (two cranes sharing a load); lifts near overhead power lines; lifts of personnel; or any lift the Appointed Person deems high-risk. These are consistent with Aramco GI (General Instruction) standards and ADNOC lifting procedures.",
+      "difficulty": "medium",
+      "tags": ["lifting operations", "critical lift", "Gulf context"]
+    },
+    {
+      "id": "e12-q10",
+      "text": "The three main control strategies for asbestos work are: 'leave in good condition', 'seal/encapsulate', and 'remove'. In which situation is REMOVAL most appropriate?",
+      "options": [
+        { "id": "a", "text": "When asbestos is in good condition and will not be disturbed by planned work" },
+        { "id": "b", "text": "When asbestos is in a deteriorated or friable state, or when it cannot remain in place without being disturbed by the planned construction work" },
+        { "id": "c", "text": "Whenever asbestos is discovered, regardless of condition or location" },
+        { "id": "d", "text": "Only in buildings that will be demolished within 10 years" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Removal is the most invasive option and carries the highest immediate risk of fibre release. It is appropriate when the material is damaged/friable (releasing fibres already), or when construction work will unavoidably disturb it. Removal must be carried out by licensed asbestos contractors wearing full RPE (air-fed hood) and using wet methods. Well-maintained, undisturbed ACMs are often better left in place and monitored.",
+      "difficulty": "medium",
+      "tags": ["asbestos", "control strategies", "removal"]
+    },
+    {
+      "id": "e12-q11",
+      "text": "Ground conditions are a critical factor for mobile crane operations. What ground condition issue can cause crane instability or collapse?",
+      "options": [
+        { "id": "a", "text": "The ground being too dry, causing the outrigger pads to slip" },
+        { "id": "b", "text": "Soft or unstable ground, underground voids (service trenches, drainage), or ground slopes that reduce load-bearing capacity below the outrigger point loads" },
+        { "id": "c", "text": "Gravel surfaces that allow the crane to slowly sink over time" },
+        { "id": "d", "text": "Concrete surfaces that reflect heat and cause tire pressure increases" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Ground conditions are a leading cause of crane overturns. Key risks include: soft or waterlogged ground with insufficient bearing capacity; underground voids (utility trenches, culverts, drainage) that can collapse under outrigger loads; sloped ground exceeding the crane's rated level tolerance. The lift plan must include ground bearing capacity assessment, and crane mats/outrigger pads sized to spread the load. This is verified in Aramco and QP lifting permit systems.",
+      "difficulty": "hard",
+      "tags": ["crane safety", "ground conditions", "lifting operations"]
+    },
+    {
+      "id": "e12-q12",
+      "text": "In Gulf construction, a Permit to Excavate is required before any ground-breaking work. The PRIMARY reason is:",
+      "options": [
+        { "id": "a", "text": "To prevent damage to the project schedule by avoiding unplanned groundwork" },
+        { "id": "b", "text": "To identify and protect underground utilities (electrical cables, gas pipes, communication ducts, water pipes) from accidental damage, which could cause electrocution, fire, explosion, or service disruption" },
+        { "id": "c", "text": "To ensure the client has approved the excavation dimensions" },
+        { "id": "d", "text": "To obtain approval from the local municipality for noise and vibration" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "A Permit to Excavate (or Dig Permit) in Gulf O&G facilities requires: retrieval and verification of underground utility drawings, physical cable/pipe detection surveys (CAT scanner, sonde), hand-digging trial holes near utilities, and authorisation by the responsible authority. Striking a live electrical cable or gas main during excavation can kill workers and cause major incidents. This is a fundamental PTW category in Aramco, QP, ADNOC, and KOC facilities.",
+      "difficulty": "medium",
+      "tags": ["excavation", "permit to work", "underground utilities", "Gulf context"]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "certifications/osha/construction-excavations",
+  "sectionId": "osha",
+  "title": "Excavations & Trenching (29 CFR 1926 Subpart P)",
+  "order": 5,
+  "estimatedReadTime": 22,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Explain why trench collapses are so deadly and occur without warning",
+    "Identify the four soil types and the corresponding protection methods",
+    "Describe sloping, shoring, and trench box requirements",
+    "List safe access, atmospheric testing, and water removal requirements"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Why Trenching Is Called a 'Grave You Dig Yourself'"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trench collapses kill dozens of US workers annually — and they kill quickly. A cubic yard of soil weighs approximately 3,000 lbs (1.4 tonnes). A collapse can bury a worker in seconds, causing asphyxiation and crushing injuries simultaneously. The terrifying reality: trenches often appear stable minutes before they collapse."
+    },
+    {
+      "type": "keyPoint",
+      "text": "OSHA 1926.652 requires protective systems (sloping, shoring, or trench boxes) for all excavations 5 feet or deeper where a worker enters. For excavations less than 5 feet deep, a competent person must still assess and may require protection if hazardous soil conditions exist."
+    },
+    {
+      "type": "heading",
+      "text": "Soil Classification: The Four Types"
+    },
+    {
+      "type": "paragraph",
+      "text": "Soil type determines what protection is required. The competent person must classify soil based on visual and manual tests at the start of every shift and after any rain or other event that could change soil conditions."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Soil Type", "Characteristics", "Max Allowable Slope"],
+        "rows": [
+          ["Type A", "Cohesive, unconfined compressive strength ≥1.5 tsf. Clay, silty clay. Has NOT been previously disturbed.", "53° from horizontal (3/4H:1V)"],
+          ["Type B", "Cohesive soil <1.5 tsf; angular gravel; previously disturbed Type A; fissured soil.", "45° from horizontal (1H:1V)"],
+          ["Type C", "Granular soil — sand, gravel, loam. Submerged soil or with seeping water. Most unstable.", "34° from horizontal (1.5H:1V)"],
+          ["Layered Systems", "Where different soil types are layered, classify based on the weakest type present.", "Use classification of weakest layer"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Three Protective Systems"
+    },
+    {
+      "type": "list",
+      "items": [
+        "SLOPING: Cut the trench walls back at the safe angle for the soil type. Simplest method but requires more space.",
+        "SHORING: Use timber, hydraulic, or pneumatic shores to brace the trench walls. No soil removal needed — works in tight spaces.",
+        "TRENCH BOXES (Shields): Pre-fabricated steel or aluminium boxes placed inside the trench. Workers work inside the box. The box does NOT hold back soil collapse — it shields the worker within it. Box must be rated for the soil and depth."
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Trench boxes protect workers inside them — but workers must stay within the protected zone and must exit the box (not just crawl out from the side) before material is moved. Never undercut a trench box or allow the box top to be below the trench surface by more than 2 feet."
+    },
+    {
+      "type": "heading",
+      "text": "Competent Person Duties"
+    },
+    {
+      "type": "definition",
+      "term": "Competent Person (Excavation)",
+      "text": "A person who can identify hazardous or dangerous conditions in excavations and soil, has been trained to make soil classifications, and has authority to stop work. Required to inspect excavations daily before work begins and after any rain, freeze/thaw, or disturbance."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Classify soil type before work begins using thumb test, pocket penetrometer, or Torvane shear device",
+        "Inspect excavation walls, faces, and adjacent areas at the start of each shift",
+        "Monitor for tension cracks (horizontal cracks near top of trench walls — sign of imminent collapse)",
+        "Ensure spoil pile is kept at least 2 feet from the edge",
+        "Test atmosphere in excavations deeper than 4 feet before entry and as needed during work",
+        "Ensure adequate access and egress is available at all times"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Access, Egress, and Other Requirements"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Ladders, steps, or ramps required for excavations 4 feet deep or deeper; placement so worker travels no more than 25 feet to reach one",
+        "Excavated material (spoil) must be kept at least 2 feet from the trench edge",
+        "Walkways and bridges over excavations 6 feet or wider must have standard guardrails",
+        "Underground utilities must be located (USA Call 811) before digging; hand dig within 18 inches of utility lines",
+        "Mobile equipment must have barricades or stop logs to prevent falling into trench",
+        "Water accumulation: water must be removed before entry; pumping required in wet conditions"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Atmospheric Hazards in Excavations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Excavations deeper than 4 feet must be tested for oxygen deficiency (below 19.5%), oxygen enrichment (above 23.5%), flammable gases (above 10% LEL), and toxic atmospheres (CO, H2S, solvents from nearby contamination). Continuous monitoring may be required in hazardous areas."
+    },
+    {
+      "type": "example",
+      "text": "A crew is installing water pipes in a 12-foot deep trench in sandy soil (Type C) in an urban area. The competent person classifies the soil, sets up 1.5H:1V sloping (15 feet wide at the top for a 4-foot-wide trench at the bottom), keeps the spoil pile 3 feet from the edge, places two ladders 20 feet apart, calls 811 to locate utilities, and tests the atmosphere before workers descend."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Excavation cave-ins occur on Gulf construction projects, particularly during pipeline installation in desert and coastal soils. Sandy desert soil (aeolian sand) is essentially Type C — zero cohesion, collapses instantly when disturbed. Aramco SEMP and ADNOC standards require a formal Excavation Permit before breaking ground on any excavation deeper than 0.5 m on their facilities. Utility strike prevention (gas, electrical, telecommunications) is a major concern: Saudi Arabia, UAE, and Qatar all have underground utility mapping programmes, but records are often incomplete — hand digging within 2 m of any marked utility line is mandatory."
+    }
+  ],
+  "quizId": null
+}

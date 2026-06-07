@@ -1,0 +1,136 @@
+{
+  "id": "fundamentals/hse-in-the-gulf",
+  "sectionId": "fundamentals",
+  "title": "HSE in the Gulf",
+  "order": 6,
+  "estimatedReadTime": 15,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Describe the HSE regulatory landscape in KSA, UAE, and Qatar",
+    "Identify the key HSE standards of Aramco, ADNOC, and QP/QatarEnergy",
+    "List typical HSE roles and career progression in the Gulf",
+    "Explain what Gulf employers look for in HSE candidates without engineering degrees"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Why the Gulf Region is a Top Destination for HSE Professionals"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Gulf Cooperation Council (GCC) — Saudi Arabia, UAE, Qatar, Kuwait, Oman, and Bahrain — is home to some of the world's largest oil and gas operations, mega construction projects, and rapidly growing industrial sectors. These industries all require qualified HSE professionals, creating strong and sustained demand for certified safety personnel."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Saudi Arabia — Largest oil producer in the world; Saudi Aramco is the world's most valuable company",
+        "UAE — Major O&G (ADNOC), construction (Expo 2020 legacy), and diversified industry hub",
+        "Qatar — World's largest LNG producer; QatarEnergy (formerly Qatar Petroleum) drives HSE demand",
+        "Kuwait — KNPC and KOC are major employers; large refinery and upstream projects",
+        "Oman — PDO (Petroleum Development Oman) and growing industrial sector",
+        "Bahrain — BAPCO and aluminium production (Alba) create HSE opportunities"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Saudi Arabia — Regulatory Landscape"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saudi Arabia's HSE regulations are governed by several bodies and codes:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Ministry of Human Resources (MOHR) — Labour Law sets minimum safety requirements for employers",
+        "Saudi Standards, Metrology and Quality Organisation (SASO) — Develops HSE standards aligned with international norms",
+        "General Organisation for Social Insurance (GOSI) — Workers' compensation and occupational disease reporting",
+        "Saudi Aramco SEMP — Saudi Aramco's Safety and Environment Management Plan; applies to all Aramco contractors",
+        "Vision 2030 NEOM and giga-projects — Require adherence to international HSE standards (NEBOSH, OSHA)"
+      ]
+    },
+    {
+      "type": "gulfNote",
+      "text": "Saudi Aramco's SEMP is the most comprehensive HSE framework you will encounter in the Kingdom. If you are applying for any role on an Aramco project, you MUST be familiar with SEMP. It covers 20+ elements including Permit to Work, emergency response, contractor management, and incident reporting. Aramco requires HSE statistics monthly from all contractors."
+    },
+    {
+      "type": "heading",
+      "text": "UAE — Regulatory Landscape"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Abu Dhabi Occupational Safety and Health System Framework (OSHAD-SF) — Abu Dhabi's mandatory OSH framework for all employers in the emirate",
+        "Dubai Municipality — Regulates construction safety in Dubai via the Green Building Regulations and Construction Safety Standards",
+        "ADNOC HSE Standards — Apply to all ADNOC group companies and contractors; aligned with ISO 45001 and ISO 14001",
+        "Ministry of Human Resources and Emiratisation (MOHRE) — Federal labour law covering all UAE workers"
+      ]
+    },
+    {
+      "type": "definition",
+      "term": "OSHAD-SF",
+      "text": "Abu Dhabi Occupational Safety and Health System Framework. A mandatory, comprehensive HSE management system framework that all employers in Abu Dhabi must comply with. It is divided into Technical Guidelines (TGs) covering specific hazards and activities."
+    },
+    {
+      "type": "heading",
+      "text": "Qatar — Regulatory Landscape"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Ministry of Labour — Enforces Labour Law No. 14 of 2004 and its HSE provisions",
+        "QatarEnergy (formerly QP) HSE Standards — Apply to all QatarEnergy JVs, subsidiaries, and contractors",
+        "FIFA World Cup 2022 Legacy Standards — FIFA and ILO frameworks improved construction safety significantly; these standards continue in post-event infrastructure",
+        "Supreme Committee for Delivery & Legacy — Still relevant for ongoing World Cup-related infrastructure projects"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Common HSE Roles and Career Progression"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Role", "Experience", "Key Certifications", "Typical Salary Range (USD)"],
+        "rows": [
+          ["HSE Officer", "0–3 years", "IOSH, NEBOSH IGC", "$24,000 – $48,000"],
+          ["Senior HSE Officer", "3–6 years", "NEBOSH IGC, OSHA", "$42,000 – $66,000"],
+          ["HSE Engineer", "5–10 years", "NEBOSH IGC, OSHA 30, ISO Lead Auditor", "$54,000 – $84,000"],
+          ["HSE Supervisor", "5–8 years", "NEBOSH IGC, Aramco-approved training", "$48,000 – $78,000"],
+          ["HSE Manager", "10+ years", "NEBOSH Diploma or equivalent", "$84,000 – $150,000+"],
+          ["QHSE Director", "15+ years", "NEBOSH Diploma, ISO Lead Auditor", "$120,000 – $200,000+"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Breaking In Without an Engineering Degree"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many HSE professionals in the Gulf do not have engineering degrees. What matters most to Gulf employers is a combination of recognised certifications, practical experience, and the right attitude. Here is the realistic path:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "1. Get IOSH Managing Safely — 4-day course, widely available online, globally recognised",
+        "2. Get NEBOSH IGC — The single most important cert for Gulf employment; takes 3–6 months to study",
+        "3. Get first-aid certification (HABC or equivalent)",
+        "4. Gain any practical experience — even volunteering, internships, or site visits matter",
+        "5. Learn Permit to Work (PTW) procedures and common HSE documentation",
+        "6. Target EPC contractors and smaller companies first for entry-level roles",
+        "7. Upgrade to OSHA 30 once employed — many companies pay for this",
+        "8. Build toward NEBOSH Diploma for management-level roles"
+      ]
+    },
+    {
+      "type": "keyPoint",
+      "text": "The NEBOSH IGC is your most important investment. In the Gulf, it is listed as a requirement in the majority of HSE job postings. It proves you understand international safety management principles regardless of your academic background."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf employers — especially in Saudi Arabia — are increasingly open to candidates without engineering degrees if they hold NEBOSH IGC + IOSH and can demonstrate practical HSE knowledge. The shortage of qualified HSE professionals in the region means opportunities exist for those with the right certifications and preparation."
+    }
+  ],
+  "quizId": null
+}

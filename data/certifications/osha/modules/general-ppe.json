@@ -1,0 +1,127 @@
+{
+  "id": "certifications/osha/general-ppe",
+  "sectionId": "osha",
+  "title": "PPE in General Industry (29 CFR 1910 Subpart I)",
+  "order": 16,
+  "estimatedReadTime": 18,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Conduct a PPE hazard assessment and document it",
+    "Select appropriate PPE for specific general industry hazards",
+    "Describe the employer's training and certification obligations for PPE",
+    "Apply PPE selection to hot, dusty, and chemically hazardous Gulf environments"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "PPE in General Industry: The Assessment Requirement"
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA 1910.132 requires employers to perform a hazard assessment of their workplace to determine if hazards are present that necessitate PPE. The assessment must be documented in a written certification. It must also consider whether engineering and administrative controls can eliminate or reduce the hazard before relying on PPE."
+    },
+    {
+      "type": "keyPoint",
+      "text": "The PPE hazard assessment is not optional. OSHA 1910.132(d) requires a written certification identifying the workplace evaluated, the person performing the assessment, the date, and a statement identifying the document as a PPE assessment. Failure to document this assessment is a citable violation."
+    },
+    {
+      "type": "heading",
+      "text": "Eye and Face Protection (1910.133)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eye protection must meet ANSI Z87.1. Safety glasses provide basic impact protection. Goggles provide splash protection and are required for chemical handling, grinding, and compressed air use. Face shields are worn over safety glasses or goggles for additional splash or impact protection — they are not a substitute for eye protection."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Safety glasses: minimum requirement in most general industry settings; ANSI Z87.1-rated",
+        "Indirect-vent goggles: chemical splash; indirect vent prevents liquid entry",
+        "Direct-vent goggles: airborne particles but NOT liquids",
+        "Face shield: sparks, large splash, thermal radiation — always worn over primary eye protection",
+        "Welding lenses: shade selected by welding process — GTAW (TIG) typically shade 10–12; SMAW (stick) 10–14"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Respiratory Protection (1910.134)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before any respirator is used, the employer must implement a written respiratory protection programme covering: standard procedures, respirator selection based on hazard, medical evaluation of workers, fit testing, use, maintenance, and training."
+    },
+    {
+      "type": "definition",
+      "term": "Assigned Protection Factor (APF)",
+      "text": "The level of workplace respiratory protection that a respirator or class of respirators is expected to provide when used by a trained worker in a properly functioning respirator. APF 10 = the respirator reduces exposure by a factor of 10. APF 50 = reduces by factor of 50."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Respirator Type", "APF", "Use Case"],
+        "rows": [
+          ["Filtering facepiece (N95)", "10", "Dust, biological particles, TB — NOT for vapours/gases"],
+          ["Half-face APR (air-purifying)", "10", "Gases and vapours below 10x PEL with correct cartridge"],
+          ["Full-face APR", "50", "Higher concentrations, plus eye protection"],
+          ["Powered Air-Purifying (PAPR)", "25 (half-face) / 1000 (hood)", "High exposure, bearded workers, comfort priority"],
+          ["SCBA (compressed air)", "10000", "IDLH atmospheres, confined spaces with toxic gases, firefighting"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Hearing Conservation (1910.95)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Employers must implement a hearing conservation programme when workers are exposed to time-weighted average noise levels of 85 dBA or more over an 8-hour shift. The programme must include: noise monitoring, audiometric testing (baseline and annual hearing tests), hearing protection provision, training, and recordkeeping."
+    },
+    {
+      "type": "list",
+      "items": [
+        "85 dBA TWA: action level — hearing conservation programme must start",
+        "90 dBA TWA: OSHA PEL — hearing protection required if engineering/admin controls cannot reduce exposure below 90 dBA",
+        "Audiometric testing: within 6 months of initial exposure; annually thereafter",
+        "Standard threshold shift (STS): a change in hearing threshold averaging 10 dB or more at 2000, 3000, and 4000 Hz — must be recorded as a work-related illness"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Hand and Body Protection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Glove selection is hazard-specific. OSHA 1910.138 requires appropriate hand protection when workers are exposed to hazards such as harmful chemicals, cuts, lacerations, abrasions, punctures, chemical burns, thermal burns, and harmful temperature extremes."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Chemical", "Recommended Glove Material"],
+        "rows": [
+          ["Petroleum-based solvents (petrol, mineral spirits)", "Neoprene or nitrile (NOT latex)"],
+          ["Ketones (MEK, acetone)", "Butyl rubber (nitrile and neoprene NOT suitable)"],
+          ["Strong acids (H2SO4, HCl)", "Neoprene or thick nitrile; check permeation time"],
+          ["Caustics (NaOH)", "Natural rubber or neoprene"],
+          ["Cryogenic liquids", "Insulated cryo gloves with wrist guard"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "PPE Training and Certification"
+    },
+    {
+      "type": "paragraph",
+      "text": "OSHA 1910.132(f) requires training for all employees required to use PPE. Training must cover: when PPE is necessary, what PPE is necessary, how to properly don, doff, adjust, and wear PPE, limitations of PPE, proper care and maintenance. The employer must certify in writing that training was provided and understood."
+    },
+    {
+      "type": "example",
+      "text": "A chemical plant operator handles sulphuric acid during pH adjustment in the water treatment plant. The hazard assessment identifies: splash risk to eyes and skin, inhalation risk of acid mist. PPE selection: indirect-vent chemical goggles, face shield, butyl rubber apron, neoprene gloves (checked for permeation time vs. H2SO4 concentration), safety boots with rubber overshoes, and a half-face APR with acid gas cartridge. An emergency eyewash is within 10 seconds travel distance."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Heat stress significantly affects PPE selection in the Gulf. Heavy PPE (coveralls, respiratory protection, full body suits) dramatically increases physiological heat load. Aramco's heat stress protocol limits the duration of PPE-intensive work during summer and requires mandatory cool-down breaks in air-conditioned rest areas (Taarrud Centres). On Aramco and ADNOC sites, all site workers must have site-specific PPE compliance cards. During H2S-risk activities, all workers must carry personal H2S gas detectors set to alarm at 5 ppm. In dusty desert environments, safety glasses with anti-dust side shields are preferred over standard safety glasses to prevent sandstorm-related eye injuries."
+    }
+  ],
+  "quizId": null
+}

@@ -1,0 +1,114 @@
+{
+  "id": "certifications/iso-auditor/iso-45001-overview",
+  "sectionId": "iso-auditor",
+  "title": "ISO 45001:2018 — Overview and Context",
+  "order": 1,
+  "estimatedReadTime": 20,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Explain the history and purpose of ISO 45001 and how it replaced OHSAS 18001",
+    "Describe the High Level Structure (HLS) common to all ISO management standards",
+    "Identify the key stakeholders and their roles in an ISO 45001 implementation",
+    "Understand how ISO 45001 differs from OHSAS 18001 in practice"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "What Is ISO 45001?"
+    },
+    {
+      "type": "paragraph",
+      "text": "ISO 45001:2018 — Occupational Health and Safety Management Systems — Requirements with guidance for use — is the world's first international standard for occupational health and safety management systems. Published in March 2018, it replaced OHSAS 18001:2007 (whose transition period ended in March 2021). Over 150,000 organisations in more than 120 countries hold ISO 45001 certification."
+    },
+    {
+      "type": "keyPoint",
+      "text": "ISO 45001 does not prescribe specific OHS performance requirements or set a performance level. Instead, it provides a framework for an organisation to manage OHS risks and opportunities in order to prevent work-related injury and ill health and provide safe and healthy workplaces. The organisation determines what performance means in its own context."
+    },
+    {
+      "type": "heading",
+      "text": "Why ISO 45001 Was Created"
+    },
+    {
+      "type": "paragraph",
+      "text": "OHSAS 18001, while widely adopted, was a British Standard — not an international ISO standard. It lacked the risk-based thinking, context analysis, and leadership requirements that modern management standards demand. ISO 45001 addresses these gaps and aligns with ISO 9001 (quality) and ISO 14001 (environment) through the High Level Structure, making integrated management systems straightforward."
+    },
+    {
+      "type": "heading",
+      "text": "The High Level Structure (HLS)"
+    },
+    {
+      "type": "definition",
+      "term": "High Level Structure (HLS)",
+      "text": "A common framework for all ISO management system standards, comprising identical clause numbering (1–10), identical text for common clauses, and consistent core terms and definitions. The HLS enables organisations to implement multiple management standards (ISO 9001, ISO 14001, ISO 45001) as a single integrated management system (IMS)."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Clause", "Title"],
+        "rows": [
+          ["1", "Scope"],
+          ["2", "Normative References"],
+          ["3", "Terms and Definitions"],
+          ["4", "Context of the Organization"],
+          ["5", "Leadership and Worker Participation"],
+          ["6", "Planning"],
+          ["7", "Support"],
+          ["8", "Operation"],
+          ["9", "Performance Evaluation"],
+          ["10", "Improvement"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Key Differences: ISO 45001 vs. OHSAS 18001"
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Topic", "OHSAS 18001", "ISO 45001"],
+        "rows": [
+          ["Context", "Not explicitly required", "Clause 4 — mandatory analysis of internal and external context, interested parties"],
+          ["Leadership", "Management representative responsible for OHSMS", "Top management must demonstrate visible leadership and accountability"],
+          ["Worker participation", "Consultation mentioned", "Explicit requirement for worker participation and consultation at all levels"],
+          ["Risk approach", "Hazard identification and risk assessment", "Risk AND opportunity — must also identify opportunities to improve OHS performance"],
+          ["Supply chain", "Contractor management included", "Explicit requirements for outsourced processes, procurement, and contractors"],
+          ["Performance", "Objectives based on risks", "OHS objectives linked to context, risks, and strategic direction"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Key Terminology"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Hazard: source, situation, or act with potential for harm",
+        "OHS risk: combination of likelihood of a hazardous event occurring and severity of injury/ill health it could cause",
+        "OHS opportunity: circumstance or set of circumstances that can lead to improvement of OHS performance",
+        "Competence: ability to apply knowledge and skills to achieve intended results",
+        "Interested party (stakeholder): any person or organisation that can affect or be affected by the organisation's OHS performance",
+        "Nonconformity: non-fulfilment of a requirement",
+        "Corrective action: action to eliminate the cause of a nonconformity and prevent recurrence"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "The PDCA Cycle in ISO 45001"
+    },
+    {
+      "type": "paragraph",
+      "text": "ISO 45001 explicitly maps its clauses to the PDCA cycle. Clause 4 (Context) wraps the entire system. Clause 5 (Leadership) and 6 (Planning) cover Plan. Clauses 7 and 8 cover Do. Clause 9 covers Check. Clause 10 covers Act. Understanding this mapping helps auditors assess whether the system is genuinely cyclical and improving."
+    },
+    {
+      "type": "example",
+      "text": "A Gulf petrochemical company transitions from OHSAS 18001 to ISO 45001. Key changes they make: (1) conduct a formal context analysis to identify external factors (new Gulf labour law, economic situation, contractor workforce demographics) and internal factors (safety culture maturity, management commitment, workforce language barriers), (2) establish a formal interested-party register including regulators, employees, contractors, local communities, and investors, (3) upgrade worker participation from quarterly safety committee meetings to daily pre-task briefings and a digital near-miss reporting platform."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: ISO 45001 certification is increasingly required by Gulf operators for their contractors. Aramco's contractor pre-qualification process awards higher scores to ISO 45001-certified contractors. In the UAE, ADNOC specifies ISO 45001 as the OHSMS standard for Tier 1 contractors. Qatar's QatarEnergy requires ISO 45001 certification for contractors working on LNG expansion projects. Many Gulf HSE professionals pursue ISO 45001 Lead Auditor certification (BSI, Bureau Veritas, IRCA-accredited) to qualify them to conduct certification audits or internal audits at their companies. The Lead Auditor course is typically 5 days with a written exam."
+    }
+  ],
+  "quizId": null
+}

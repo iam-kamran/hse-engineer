@@ -1,0 +1,119 @@
+{
+  "id": "certifications/iso-auditor/audit-planning",
+  "sectionId": "iso-auditor",
+  "title": "Audit Planning: Types, Programme, and Preparation",
+  "order": 5,
+  "estimatedReadTime": 22,
+  "difficulty": "intermediate",
+  "learningObjectives": [
+    "Distinguish between first-party, second-party, and third-party audits",
+    "Develop an audit programme based on risk and previous audit results",
+    "Prepare an audit plan: objectives, scope, criteria, methods, and schedule",
+    "Formulate effective audit questions and identify appropriate evidence sources"
+  ],
+  "content": [
+    {
+      "type": "heading",
+      "text": "Types of Audits"
+    },
+    {
+      "type": "paragraph",
+      "text": "ISO 19011:2018 — Guidelines for auditing management systems — is the reference standard for audit methodology used across all ISO management system audits. It defines audit types, principles, programme management, and the audit process."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Audit Type", "Who Conducts It", "Purpose"],
+        "rows": [
+          ["First-party (internal) audit", "Auditors employed by or contracted to the audited organisation", "Self-assessment; regulatory compliance check; preparation for third-party audit"],
+          ["Second-party audit", "Auditors from a customer or another interested party", "Supplier evaluation; contractor assessment; customer-specific requirements"],
+          ["Third-party audit", "Auditors from an independent certification body (CB)", "Certification/registration; regulatory verification; independent assurance"]
+        ]
+      }
+    },
+    {
+      "type": "definition",
+      "term": "Certification Audit",
+      "text": "A third-party audit conducted by an accredited Certification Body (e.g., BSI, Bureau Veritas, SGS, LRQA) to assess whether an organisation's management system meets the requirements of a standard (ISO 45001, ISO 14001). Typically involves Stage 1 (document review) and Stage 2 (on-site assessment). Surveillance audits follow annually; full re-certification every 3 years."
+    },
+    {
+      "type": "heading",
+      "text": "The Audit Programme"
+    },
+    {
+      "type": "paragraph",
+      "text": "An audit programme is the set of planned audits for a defined period (typically one year). It is managed by the audit programme manager (typically the HSE or EMS coordinator) and must consider: the importance and significance of the processes to be audited, results of previous audits, changes affecting the organisation, and available audit resources."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Risk-based scheduling: high-risk or poorly performing areas audited more frequently",
+        "Full system coverage over the audit cycle: all clauses must be covered over the 3-year certification cycle",
+        "Independence: auditors must not audit their own work",
+        "Competence: auditors must be qualified in both the standard and the subject matter being audited",
+        "Programme review: evaluate programme effectiveness annually — are audits finding real issues, or rubber-stamping?"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "The Audit Plan"
+    },
+    {
+      "type": "paragraph",
+      "text": "For each individual audit, an audit plan is prepared and communicated to the auditee in advance. The audit plan defines: the audit objectives, scope and criteria, schedule (who, when, what), methods (interviews, observation, document review, sampling), and logistics."
+    },
+    {
+      "type": "table",
+      "table": {
+        "headers": ["Audit Plan Element", "Description"],
+        "rows": [
+          ["Objectives", "What the audit is intended to achieve: determine conformance, evaluate effectiveness, identify improvement opportunities"],
+          ["Scope", "What is included: processes, locations, time period, clauses of the standard"],
+          ["Criteria", "The requirements against which evidence is assessed: the standard, legal requirements, the organisation's own procedures"],
+          ["Methods", "Interviews (who), observation (what will be observed in the field), document review (which records), sampling (which records or sites will be sampled)"],
+          ["Schedule", "Date, time, location, process being audited, auditor assigned"],
+          ["Resources", "Lead auditor, technical experts, translators if needed, time available"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "text": "Preparing Audit Questions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Effective audit questions are open-ended (not yes/no), process-focused (how does this happen, not does this happen), and risk-directed (focused on areas most likely to reveal gaps). Pre-prepared checklists are useful but must not constrain the auditor's professional judgement."
+    },
+    {
+      "type": "list",
+      "items": [
+        "\"Can you walk me through what happens when a near-miss is reported?\" (process trace — tests awareness AND procedure AND effectiveness)",
+        "\"How do you know which legal requirements apply to this process?\" (tests clause 6.1.3 knowledge)",
+        "\"Show me an example of a corrective action that addressed the root cause of a problem\" (tests clause 10.2 effectiveness)",
+        "\"Who decided that this hazard was not significant? What evidence supports that?\" (tests 6.1.2 methodology)",
+        "\"What would you do if this piece of equipment failed while you were using it?\" (tests worker awareness of emergency procedures)"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Document Review vs. Field Observation"
+    },
+    {
+      "type": "paragraph",
+      "text": "A significant error in audit preparation is over-relying on document review at the expense of field observation. Documents can be created retrospectively; field observations reveal whether the documented system is actually operating. Effective auditors spend at least 40–50% of audit time in operations — not in meeting rooms reviewing paperwork."
+    },
+    {
+      "type": "keyPoint",
+      "text": "The audit golden rule: if you can't find evidence of it in practice, it doesn't exist in the management system. A procedure that no worker has read, a hazard register that no supervisor can find, a training record that doesn't match the observed skill level — these are all nonconformities."
+    },
+    {
+      "type": "example",
+      "text": "An auditor is planning a Clause 8.1 (Operational Controls) audit at a Gulf refinery's maintenance department. The audit plan for this section allocates: 30 minutes document review (LOTO procedures, permit-to-work forms, contractor briefing records), 90 minutes field observation (visit maintenance bay, observe a LOTO being performed, check tool inspection tags, review posted safety information), and 30 minutes interviews with three maintenance technicians on their understanding of LOTO requirements."
+    },
+    {
+      "type": "gulfNote",
+      "text": "Gulf Context: Audit planning in Gulf organisations must account for several local factors: language barriers (Arabic-speaking workers may need translated procedures and translated audit questions), large contractor workforces (contractor activities must be included in the audit scope — contractor workers must be aware of and following the client's OHS or EMS requirements), shift patterns (activities during night shifts may differ from day shifts — consider unannounced off-hours visits), and remote work locations (satellite camps, offshore platforms, pipeline ROW crews require specific planning for access and communication). IRCA (International Register of Certificated Auditors) is the most widely recognised lead auditor qualification in the Gulf."
+    }
+  ],
+  "quizId": null
+}

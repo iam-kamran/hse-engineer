@@ -1,0 +1,232 @@
+[
+  {
+    "id": "om-001",
+    "text": "What do you know about PDO (Petroleum Development Oman) and its HSE framework?",
+    "category": "legislation",
+    "region": "oman",
+    "difficulty": "mid",
+    "modelAnswer": "Petroleum Development Oman (PDO) is the largest oil and gas producer in Oman, with a shareholding of 60% Omani government, 34% Shell, 4% Total, and 2% Partex. PDO operates an extensive onshore and offshore production system and has a well-regarded HSE management system built on Shell's global HSE framework. PDO's Health, Safety, Security and Environment (HSSE) Golden Rules set mandatory non-negotiable behaviours. Key contractor requirements: HSSE capability assessment before award; project-specific HSSE management plan; PDO PTW system compliance; monthly HSSE statistics (TRCR, LTIFR, near-miss rate); minimum NEBOSH IGC for HSE Officers; compliance with HSSE standards in contracts. PDO also has a strong focus on process safety (barrier-based thinking, bow-tie analysis) and leadership visibility through programmes like HSSE Leadership Dialogues — structured conversations between managers and frontline workers about safety.",
+    "keyPoints": [
+      "PDO: 60% Omani government, 34% Shell — Shell's global HSE framework underpins PDO's system",
+      "Golden Rules: mandatory non-negotiable safety behaviours — similar to KOC Life Saving Rules",
+      "HSSE Leadership Dialogues: structured manager-worker safety conversations — Shell methodology",
+      "Bow-tie analysis: PDO uses barrier-based thinking for process safety risk management",
+      "Contractor requirements: HSSE assessment, project plan, PDO PTW, monthly KPIs",
+      "NEBOSH IGC minimum for HSE Officers on PDO projects",
+      "Oman Vision 2040: diversification push — PDO and non-O&G sectors growing"
+    ],
+    "tip": "PDO's connection to Shell means its HSE management system reflects Shell's global standards, which are among the most rigorous in the industry. Mentioning the Shell connection and HSSE Leadership Dialogues specifically signals that you know PDO is more than a generic Gulf company — it operates at a Shell subsidiary level of H&S sophistication.",
+    "followUpQuestions": [
+      "What are PDO's Golden Rules of HSSE?",
+      "What is bow-tie analysis and how is it used in PDO's process safety management?",
+      "What is an HSSE Leadership Dialogue and how does it differ from a normal toolbox talk?"
+    ]
+  },
+  {
+    "id": "om-002",
+    "text": "How does Oman's regulatory framework for occupational safety and health compare to other Gulf countries?",
+    "category": "legislation",
+    "region": "oman",
+    "difficulty": "mid",
+    "modelAnswer": "Oman's occupational health and safety is governed by the Labour Law (Royal Decree 35/2003 and subsequent amendments) and the General Framework for Occupational Safety and Health. The Ministry of Manpower (now Ministry of Labour) is the primary regulatory authority for private sector workplaces. The Ministry of Heritage and Energy (formerly Ministry of Oil and Gas) oversees safety in oil and gas operations through PDO and OQEP (Oman Oil and Gas). Key provisions: employers must provide safe workplaces and appropriate PPE; workers can refuse dangerous work; summer outdoor work ban (June 15–September 15, 12:30–3:30pm — similar to Qatar's ban); mandatory reporting of serious workplace accidents to the Ministry. Compared to other Gulf countries: Oman's regulatory framework is less developed than the UAE's OSHAD-SF or Abu Dhabi's detailed construction code, but PDO and OQEP apply international Shell-derived standards that exceed national minimum requirements. Oman's H&S regulatory enforcement has been strengthening as Vision 2040 diversification drives growth in non-O&G construction.",
+    "keyPoints": [
+      "Primary law: Royal Decree 35/2003 Labour Law — Ministry of Labour enforces",
+      "Ministry of Heritage and Energy: O&G sector oversight",
+      "Summer outdoor work ban: June 15–September 15, 12:30–3:30pm — same as Qatar",
+      "PDO and OQEP apply Shell-derived standards that exceed national law requirements",
+      "Less formal regulatory structure than UAE (no equivalent to OSHAD) but O&G standards are high",
+      "Serious accident reporting: mandatory to Ministry of Labour",
+      "Vision 2040: increased infrastructure and non-O&G construction — H&S framework growing"
+    ],
+    "tip": "Oman's summer work ban hours (12:30–15:30, June 15–September 15) mirror Qatar's exactly — this is a country-specific detail worth noting. Oman's O&G H&S standards are effectively Shell standards applied through PDO — far exceeding the national legal minimum. Candidates should know this distinction between regulatory minimum and industry standard.",
+    "followUpQuestions": [
+      "What are Oman's summer outdoor work ban hours?",
+      "Which ministry regulates occupational safety in Oman's oil and gas sector?",
+      "How do PDO's HSSE standards compare to Oman's national H&S laws?"
+    ]
+  },
+  {
+    "id": "om-003",
+    "text": "What are the unique H&S challenges of working in Oman's remote desert and mountainous locations?",
+    "category": "risk-assessment",
+    "region": "oman",
+    "difficulty": "mid",
+    "modelAnswer": "Oman's geography is extraordinarily diverse — from the extreme southern desert (Rub' al Khali) to the Hajar Mountains, and the Dhofar region with different climate. Remote operations present challenges that do not exist on urban sites: isolation and emergency response — nearest hospital may be 4-6 hours away, requiring more comprehensive on-site medical facilities, air evacuation planning, and a higher first-aider to worker ratio; extreme heat and cold — the desert is 50°C by day but can drop below 10°C at night, requiring both heat stress and hypothermia management; wildlife — venomous snakes (Saw-scaled viper, Arabian Cobra), scorpions, and camel spiders are present in desert oilfields and require a wildlife protocol (search before entering tents, check boots, snake bite treatment kit); dust storms — reduce visibility, impact vehicle safety and equipment ventilation; flash flooding — Wadi flooding in Oman can be sudden and violent, requiring wadi crossing protocols and flood warning awareness; remote communications — satellite communication backup required in areas with no mobile coverage; and supply chain — ensuring adequate food, water, medical supplies, and spare parts reach remote camps.",
+    "keyPoints": [
+      "Emergency response: remote locations require on-site medical capability and helicopter evacuation plan",
+      "Temperature extremes: desert is hot by day, cold at night — both heat and cold management",
+      "Wildlife: venomous snakes and scorpions in desert Oman — wildlife protocol, first aid for bites",
+      "Dust storms: impact visibility and breathing — respiratory protection, shelter protocol",
+      "Wadi flooding: flash flooding with little warning — never park in a wadi, check weather forecasts",
+      "Communications: satellite backup in areas with no mobile signal",
+      "Medical ratio: higher first-aider to worker ratio due to hospital distance"
+    ],
+    "tip": "Oman's wildlife hazard — specifically venomous snakes — is unique among Gulf HSE topics and frequently surprises candidates. PDO has a specific protocol for snake encounters on remote sites. Wadi flooding is also unique to Oman and Southwestern Saudi Arabia. Knowing these Oman-specific hazards demonstrates genuine country knowledge beyond generic Gulf H&S.",
+    "followUpQuestions": [
+      "What is the first aid procedure for a suspected snakebite on a remote Oman oilfield site?",
+      "What precautions are required when establishing a camp in a desert wadi location?",
+      "How do you plan emergency medical evacuation from a remote site in southern Oman?"
+    ]
+  },
+  {
+    "id": "om-004",
+    "text": "How is Oman Vision 2040 affecting the HSE landscape in Oman?",
+    "category": "general",
+    "region": "oman",
+    "difficulty": "mid",
+    "modelAnswer": "Oman Vision 2040 is Oman's long-term economic diversification strategy aiming to reduce dependence on oil revenues by developing tourism, logistics, manufacturing, and fisheries. This has significant implications for the HSE landscape: (1) Construction surge — major infrastructure projects (roads, ports, airports, industrial zones, tourist resorts) have expanded construction H&S requirements beyond the traditional O&G sector; (2) New employer types — tourism and hospitality employers may be less familiar with formal H&S management than the O&G industry; (3) Regulatory development — Oman is strengthening its H&S regulatory framework to match Vision 2040's ambitions; (4) Omanisation (Tanfeedh) — the drive to increase Omani nationals in the workforce requires significant investment in H&S training for Omani workers who may be entering industrial roles for the first time; (5) Environmental sustainability — Vision 2040's green commitments are driving environmental H&S requirements alongside occupational safety. HSE professionals with both O&G and construction backgrounds are increasingly valuable as Oman's H&S needs diversify.",
+    "keyPoints": [
+      "Vision 2040: diversify from O&G into tourism, logistics, manufacturing, fisheries",
+      "Construction surge: more non-O&G projects requiring H&S management",
+      "Regulatory strengthening: Oman's H&S framework developing to match Vision 2040",
+      "Omanisation: Omani nationals entering industrial roles — H&S training demand increases",
+      "Environmental H&S: green commitments driving ESG alongside occupational safety",
+      "H&S career opportunity: Vision 2040 creates demand for diversified H&S skills",
+      "Tourism/hospitality: new sector with less mature H&S culture than O&G"
+    ],
+    "tip": "Understanding Vision 2040's H&S implications demonstrates you are thinking about where Oman is going, not just where it has been. Showing awareness of Omanisation (Tanfeedh national workforce targets) is particularly impressive in Oman-based interviews — employers are required to meet Omanisation targets and need H&S professionals who can train and support Omani nationals in safety roles.",
+    "followUpQuestions": [
+      "What is Omanisation (Tanfeedh) and how does it affect H&S workforce planning?",
+      "What H&S challenges do you see in developing Oman's tourism sector safely?",
+      "How would you design an H&S programme for a new eco-tourism resort in Oman's mountains?"
+    ]
+  },
+  {
+    "id": "om-005",
+    "text": "Describe how you would manage the H&S risks of working in Oman's Dhofar region during the Khareef (monsoon season).",
+    "category": "risk-assessment",
+    "region": "oman",
+    "difficulty": "senior",
+    "modelAnswer": "The Dhofar region of southern Oman experiences the Khareef monsoon from approximately July to September — the only monsoon in the Arabian Peninsula. This creates unique H&S challenges not found elsewhere in the Gulf. Key risks and controls: limited visibility — continuous thick mist and low cloud reduces visibility to under 50 metres; drive only with low beam headlights, reduce speed limits further (20 km/h on roads), stop in fog; wet and slippery surfaces — outdoor walkways, stairs, and access roads become extremely slippery; apply anti-slip tape and grating, enhance housekeeping of leaf litter and mud; electrical hazard — increased moisture affects portable electrical equipment; double-check insulation condition, restrict outdoor use of non-IP65-rated equipment; lightning risk — electrical storms increase in Khareef; lightning protection for structures and suspension of outdoor work during storms; heat stress paradox — Khareef temperatures are cooler than summer norms but high humidity (RH >90%) makes WBGT remain elevated despite lower air temperature; fungal growth — dampness promotes mould and Legionella risk in water systems; and landslide/rock fall — mountainous Dhofar experiences rock falls from wet cliff faces.",
+    "keyPoints": [
+      "Khareef visibility: mist reduces to 50m — vehicle speed limits reduced, additional lighting",
+      "Slippery surfaces: anti-slip measures everywhere; enhanced housekeeping in fog season",
+      "Electrical: moisture + outdoor electrical equipment = increased shock risk; IP65 minimum outdoors",
+      "Lightning: storms increase; suspension of outdoor operations during electrical storms",
+      "WBGT: high humidity elevates effective heat stress despite lower air temperature",
+      "Legionella: dampness promotes growth in water systems — increase flush/testing frequency",
+      "Rock fall: mountain roads in Dhofar — rock fall risk assessment before using mountain routes"
+    ],
+    "tip": "The Khareef is unique to Oman — no other Gulf country has a monsoon. Showing that you know about it (and its specific H&S implications) immediately demonstrates Oman-specific knowledge that generic Gulf candidates cannot claim. The WBGT point is particularly sophisticated — high humidity can make effective heat stress comparable to a 45°C dry day, even in cool Khareef temperatures.",
+    "followUpQuestions": [
+      "In which months does the Khareef monsoon typically affect Dhofar?",
+      "Why can WBGT be elevated during Khareef despite cooler air temperatures?",
+      "What electrical equipment standards are required for outdoor use in wet Khareef conditions?"
+    ]
+  },
+  {
+    "id": "om-006",
+    "text": "What is OQEP and what role does it play in Oman's oil and gas H&S governance?",
+    "category": "legislation",
+    "region": "oman",
+    "difficulty": "mid",
+    "modelAnswer": "OQ (Oman Oil and OQ integrated energy company — formerly OQEP, Oman Oil Company Exploration and Production) is the second major state energy company in Oman after PDO. OQ owns and operates refining, petrochemicals, exploration and production, and marketing businesses. OQ's HSE framework is distinct from PDO's — while PDO follows Shell's methodology, OQ has developed its own HSSE management system aligned with ISO 45001 and its own Life Saving Principles. For contractors working on OQ projects, requirements are similar to PDO: pre-qualification, project HSE plan, PTW compliance, monthly KPI reporting, and NEBOSH IGC minimum for HSE staff. OQ's Salalah Methanol and Oman LNG are significant industrial facilities with process safety management requirements. The Ministry of Heritage and Energy provides overall oversight of all O&G operations in Oman, covering both PDO and OQ group companies.",
+    "keyPoints": [
+      "OQ (previously OQEP/Oman Oil): Oman's second major state energy company",
+      "OQ = refining, petrochemicals, E&P, LNG, marketing — diverse O&G portfolio",
+      "OQ HSSE: ISO 45001-aligned, own Life Saving Principles",
+      "Contractors: pre-qualification, project HSE plan, PTW compliance, monthly KPIs",
+      "Salalah Methanol, Oman LNG: major process safety management facilities",
+      "Ministry of Heritage and Energy: oversees both PDO and OQ group",
+      "NEBOSH IGC minimum for HSE staff on OQ projects"
+    ],
+    "tip": "The OQ rebrand from OQEP is recent — candidates using the old name 'OQEP' will signal outdated knowledge. Knowing that Oman has TWO major state energy companies (PDO and OQ) with different ownership structures and different HSE frameworks is a sophistication that separates Oman-specific candidates from generic Gulf ones.",
+    "followUpQuestions": [
+      "What is the difference between PDO and OQ in terms of ownership structure?",
+      "Name two OQ facilities that would require process safety management.",
+      "How do OQ's Life Saving Principles compare to PDO's Golden Rules?"
+    ]
+  },
+  {
+    "id": "om-007",
+    "text": "How would you manage H&S for a construction project in a Oman nature conservation area or near an ecologically sensitive site?",
+    "category": "risk-assessment",
+    "region": "oman",
+    "difficulty": "senior",
+    "modelAnswer": "Construction near ecologically sensitive areas in Oman (Dhofar turtle beaches, mangrove areas, Musandam coastal zones, protected wadis) requires an Environmental and Social Impact Assessment (ESIA) alongside the standard H&S risk assessment. Environmental H&S integration: prevent soil and sediment runoff into water bodies (silt barriers, confined concrete work, no cleaning of equipment near water); control fuel and chemical storage with bunded containment to prevent spill to ground or water; noise and vibration management to protect wildlife breeding activity and local communities; prevent light pollution at night if near sea turtle nesting beaches (turtles orient by moonlight — artificial light causes disorientation); waste management — no burning or uncontrolled disposal; dust suppression to prevent sediment drift; and daily environmental monitoring. Permits: Ministry of Environment and Climate Affairs (MECA) permit required for any work in protected zones. Community liaison: notify and consult local communities (villages) near the site. Worker safety in wilderness: wildlife protocols (snakes, scorpions) and medical evacuation planning. H&S and environment are integrated in such projects — separate teams create gaps.",
+    "keyPoints": [
+      "ESIA required: environmental assessment integrated with H&S risk assessment",
+      "MECA permit: Ministry of Environment and Climate Affairs permit for work in protected areas",
+      "Silt control: prevent soil/chemical runoff into sensitive water bodies",
+      "Sea turtle protocol: no artificial lighting at night near nesting beaches",
+      "Noise and vibration: minimise and schedule to avoid breeding seasons",
+      "Waste management: zero burn, controlled disposal, no littering in natural areas",
+      "Community liaison: consult fishing and farming communities before and during work"
+    ],
+    "tip": "Oman's environmental sensitivity is growing in importance as tourism and Vision 2040 projects expand into coastal and mountain areas. The sea turtle nesting protocol is a specific Oman detail — the Ras Al Hadd and Masirah Island areas host some of the world's largest loggerhead sea turtle populations, and construction activity near these areas is heavily regulated. Showing environmental integration in H&S demonstrates a modern, ESG-aware approach.",
+    "followUpQuestions": [
+      "What is an ESIA and when is it required for construction projects in Oman?",
+      "Which Oman authority issues permits for construction in environmentally protected areas?",
+      "What is the protocol for construction near a sea turtle nesting beach in Oman?"
+    ]
+  },
+  {
+    "id": "om-008",
+    "text": "What do you understand by 'barrier-based thinking' in process safety, and how does PDO apply it?",
+    "category": "general",
+    "region": "oman",
+    "difficulty": "senior",
+    "modelAnswer": "Barrier-based thinking — formalised as the bow-tie model in process safety — visualises hazards and their control using a structure that resembles a bow-tie: on the left are threats that can lead to a top event (loss of containment, fire, explosion); in the centre is the top event itself; on the right are consequences (harm, environmental damage, asset loss). Preventive barriers on the left prevent the threat from releasing the top event; mitigation barriers on the right reduce the consequences once the top event occurs. Examples of barriers: a pressure safety valve (PSV) is a preventive barrier preventing overpressure from causing loss of containment; an emergency shutdown (ESD) system is a mitigating barrier reducing the consequences of a gas release. PDO applies this thinking through their formal bow-tie risk assessment for major accident hazards (MAHs). The model helps visualise and manage barrier status: an 'escalation factor' can degrade a barrier (e.g., a PSV that has not been tested — the barrier exists but may not work). Knowing which critical barriers are in place, and verifying they are functional, is the essence of barrier-based management.",
+    "keyPoints": [
+      "Bow-tie model: threats → [preventive barriers] → top event → [mitigating barriers] → consequences",
+      "Preventive barriers: prevent the top event from occurring (e.g. PSV, LOTO, inspection regime)",
+      "Mitigating barriers: reduce consequences after the top event (e.g. ESD, deluge, medical response)",
+      "Escalation factors: things that weaken a barrier (e.g. bypassed ESD = no mitigating barrier)",
+      "Major Accident Hazard (MAH): the top events that can cause catastrophic harm",
+      "PDO: formal bow-tie analysis for all MAHs — barrier status monitored and reported",
+      "Swiss cheese model: multiple imperfect barriers — accident when holes align"
+    ],
+    "tip": "Bow-tie and barrier-based thinking is the hallmark of modern process safety management and is specifically associated with Shell/PDO. Being able to explain the bow-tie with a real example (e.g., gas release: threat = overpressure, top event = containment loss, preventive barrier = PSV, mitigating barrier = gas detection + ESD) demonstrates genuine process safety thinking that most O&G candidates lack.",
+    "followUpQuestions": [
+      "What is the difference between a preventive barrier and a mitigation barrier?",
+      "What is an 'escalation factor' in bow-tie risk management?",
+      "How does barrier-based thinking link to the Swiss cheese model of accident causation?"
+    ]
+  },
+  {
+    "id": "om-009",
+    "text": "How do you manage the occupational health risks of workers in Oman's extreme outdoor environment?",
+    "category": "risk-assessment",
+    "region": "oman",
+    "difficulty": "mid",
+    "modelAnswer": "Occupational health management in Oman's outdoor environment covers heat stress, UV exposure, dust (including silica), vector-borne disease risk in southern Oman, and remote fatigue. Heat stress: WBGT-based work/rest schedules; Oman's summer outdoor work ban (June 15–September 15, 12:30–3:30pm); acclimatisation for new workers; 250ml cool water every 20 minutes; shaded rest areas; buddy system; supervisor training. UV exposure: long-sleeve clothing, wide-brim hats, and sunscreen SPF50+ for all outdoor workers; UV index forecasts integrated into daily work planning; UV exposure can reach extreme levels (UV Index 11+) in Oman even in winter. Dust: silica-containing construction dust requires respiratory protection (minimum FFP3) during grinding, cutting, or drilling; dust suppression (water misting, enclosures) before RPE. Vector-borne disease: Dhofar has mosquito-borne disease risk (dengue, malaria in remote areas) — insect repellent, appropriate clothing, and malaria prophylaxis for workers in endemic areas. Remote fatigue: long-distance driving and camp isolation can cause fatigue and mental health issues — regular contact with families, recreation facilities, and peer support.",
+    "keyPoints": [
+      "Heat stress: Oman outdoor work ban June 15–Sept 15, 12:30–3:30pm; WBGT-based controls",
+      "UV: extreme UV Index in Oman — long-sleeve clothing, SPF50+ year-round for outdoor workers",
+      "Silica dust: RPE (FFP3) for grinding and cutting; water suppression first",
+      "Dhofar: vector-borne disease risk — dengue and malaria in remote areas",
+      "Fatigue: remote camp isolation increases mental health risk — support systems essential",
+      "Pre-employment medical: screen for heat intolerance, respiratory conditions",
+      "Hydration: 250ml cool water every 20 min — provide, don't just 'make available'"
+    ],
+    "tip": "The Dhofar vector-borne disease point (malaria risk in remote areas) is specific to Oman and demonstrates genuine country knowledge. Most Gulf H&S candidates have no concept of malaria risk because it doesn't exist in Saudi Arabia or the UAE. Showing awareness of the different climate zones within Oman (north vs Dhofar) signals real country-specific research.",
+    "followUpQuestions": [
+      "Which parts of Oman carry a risk of malaria or dengue fever?",
+      "What respiratory protective equipment is required for workers exposed to silica dust?",
+      "How do you address mental health and isolation risks for workers in remote Oman camps?"
+    ]
+  },
+  {
+    "id": "om-010",
+    "text": "How would you manage the risks of a major lifting operation for PDO in Oman?",
+    "category": "risk-assessment",
+    "region": "oman",
+    "difficulty": "mid",
+    "modelAnswer": "A major lifting operation for PDO requires a formal Lift Plan prepared by a competent Appointed Person. Pre-planning: establish the weight of the load (verified through engineering documents, weighing if necessary); determine the crane's rated capacity at the required radius and check against the load weight including rigging; assess ground conditions — in desert areas, soft sand and subsurface voids require ground investigation and crane mat specification; identify overhead obstructions (power lines, structures, other plant); define exclusion zones during the lift; identify the lift classification (routine, critical, or complex). For critical or complex lifts (over 75% capacity, tandem, over live plant, or people): require a formal engineered lift plan reviewed and approved by the Appointed Person and PDO's lifting authority; hold a pre-lift meeting with all personnel; conduct a test lift before the critical movement. Rigging: select and inspect all slings, shackles, and rigging accessories; verify SWL (Safe Working Load) is appropriate; use tag lines to control load movement; establish radio communication between crane operator, rigger, and slinger. In desert environments: sandstorms can increase during the day — weather monitoring required; wind speed limits (typically 12-15 mph maximum for most crane lifts) must be enforced.",
+    "keyPoints": [
+      "Lift Plan: Appointed Person prepares and signs off — mandatory for all crane lifts",
+      "Load weight: verified by engineering data, weighing, or certified supplier documentation",
+      "Ground conditions: desert sand is treacherous — geotechnical assessment, crane mats",
+      "Critical lift threshold: typically >75% rated capacity, tandem, over live equipment",
+      "Pre-lift meeting: all personnel briefed on their role before the lift starts",
+      "Rigging inspection: all accessories inspected and SWL verified before each lift",
+      "Wind speed: monitored and maximum limits enforced — sand storms can arrive quickly"
+    ],
+    "tip": "Desert ground conditions are the most commonly underestimated lifting hazard in Oman. Crane mats (large timber or steel mats to spread outrigger loads over soft ground) are essential in desert operations — without them, crane outriggers can punch through wind-blown sand into voids below. Mentioning geotechnical assessment and crane mats specifically shows oilfield lifting experience.",
+    "followUpQuestions": [
+      "What is the role of the Appointed Person in a lifting operation?",
+      "At what wind speed should a lifting operation be suspended?",
+      "How do you assess ground bearing capacity for a crane in a desert location?"
+    ]
+  }
+]

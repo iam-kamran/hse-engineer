@@ -1,0 +1,176 @@
+{
+  "id": "nebosh-igc/element-9-quiz",
+  "moduleId": "certifications/nebosh-igc/element-9",
+  "title": "Element 9 Quiz — Work Equipment, LOTO & Machine Guarding",
+  "passMark": 70,
+  "questions": [
+    {
+      "id": "e9-q1",
+      "text": "What is the purpose of a Lockout/Tagout (LOTO) procedure when maintaining or servicing machinery?",
+      "options": [
+        { "id": "a", "text": "To record who last used the machine for shift handover purposes" },
+        { "id": "b", "text": "To isolate all hazardous energy sources (electrical, mechanical, pneumatic, hydraulic, thermal, chemical) and prevent unexpected re-energisation during servicing" },
+        { "id": "c", "text": "To lock away the operating manual so untrained workers cannot use the machine" },
+        { "id": "d", "text": "To tag machinery that has failed a pre-use inspection so it cannot be moved" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "LOTO (Lockout/Tagout) — known in the Gulf as Isolation and Energy Control — ensures that all energy sources supplying a machine are isolated, de-energised, and physically locked before maintenance begins. Without LOTO, machinery can be accidentally started, or stored energy can be released, causing fatal injuries. It protects the maintenance worker from the actions of others.",
+      "difficulty": "easy",
+      "tags": ["LOTO", "isolation", "energy control"]
+    },
+    {
+      "id": "e9-q2",
+      "text": "In a Lockout/Tagout procedure, why must the 'Try for Zero Energy' step be performed after applying locks?",
+      "options": [
+        { "id": "a", "text": "To check that the lock's key is working correctly" },
+        { "id": "b", "text": "To verify that stored energy (pneumatic, hydraulic, spring tension) has been fully released and the isolation is genuinely effective before starting work" },
+        { "id": "c", "text": "To test that the machine starts normally after maintenance is completed" },
+        { "id": "d", "text": "To ensure that other trades have not added their own locks to the same point" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "After locking out, the worker must verify zero energy by attempting to operate the machine (pressing start, checking pressure gauges) and releasing any residual stored energy (bleed hydraulic lines, release spring tension). A machine can remain energised at isolated points due to capacitors, compressed air, or gravitational potential energy even after the main isolation is applied.",
+      "difficulty": "medium",
+      "tags": ["LOTO", "stored energy", "try for zero energy"]
+    },
+    {
+      "id": "e9-q3",
+      "text": "Which type of machine guard physically prevents access to dangerous parts while the machine is operating, and does not require operator action to function?",
+      "options": [
+        { "id": "a", "text": "An adjustable guard" },
+        { "id": "b", "text": "A fixed enclosed guard" },
+        { "id": "c", "text": "A trip device (pressure mat)" },
+        { "id": "d", "text": "A two-hand control device" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "A fixed enclosed guard physically prevents access to the dangerous zone without requiring operator action — it is secured in place and can only be removed with a tool. It is the most reliable guard type because it does not depend on operator behaviour or interlocking systems. Adjustable guards require operator adjustment; trip devices and two-hand controls require active operator engagement.",
+      "difficulty": "easy",
+      "tags": ["machine guarding", "fixed guard"]
+    },
+    {
+      "id": "e9-q4",
+      "text": "A worker is about to remove a guard from a running machine to clear a blockage. What is the CORRECT action?",
+      "options": [
+        { "id": "a", "text": "Quickly reach in with a gloved hand since the task will only take a few seconds" },
+        { "id": "b", "text": "Use a stick or non-conductive tool to clear the blockage without removing the guard" },
+        { "id": "c", "text": "Stop the machine, complete the LOTO procedure, verify zero energy, then clear the blockage safely" },
+        { "id": "d", "text": "Ask a colleague to watch and warn if the machine begins to move" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Any intervention near dangerous parts of a machine — even brief — requires a full LOTO procedure: stop, isolate, lock, tag, verify zero energy, then work. 'Quick reach' incidents account for a significant proportion of machinery amputations and crush injuries. Time pressure is never a valid reason to bypass LOTO. In Gulf petrochemical environments, bypassing isolation is a Major Process Safety Violation.",
+      "difficulty": "easy",
+      "tags": ["LOTO", "machine guarding", "safe behaviour"]
+    },
+    {
+      "id": "e9-q5",
+      "text": "Pre-use inspections of work equipment are important because they:",
+      "options": [
+        { "id": "a", "text": "Transfer legal responsibility for equipment safety from the employer to the operator" },
+        { "id": "b", "text": "Allow defects to be identified before use, preventing equipment failure during operation that could injure the operator or others" },
+        { "id": "c", "text": "Satisfy the requirement for formal annual testing of all equipment" },
+        { "id": "d", "text": "Demonstrate that equipment was purchased from an approved supplier" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Pre-use inspections (e.g., crane operator walking round checks, forklift daily inspection, power tool checks) identify defects — damaged cables, missing guards, low fluid levels, warning light activation — before the equipment is used. This prevents equipment failure mid-task. Legal responsibility remains with the employer regardless of whether a pre-use inspection was done.",
+      "difficulty": "easy",
+      "tags": ["inspection", "pre-use check", "work equipment"]
+    },
+    {
+      "id": "e9-q6",
+      "text": "An interlocked guard on a machine stops the machine automatically when the guard is opened. What is the risk if the interlock is overridden or bypassed?",
+      "options": [
+        { "id": "a", "text": "The machine's warranty will be voided" },
+        { "id": "b", "text": "The operator can access dangerous moving parts while the machine is running, with no automatic stop — increasing the risk of severe injury" },
+        { "id": "c", "text": "The machine will run at reduced speed only" },
+        { "id": "d", "text": "The machine will trigger a fire alarm" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "An interlock guard's purpose is to automatically stop the machine when the guard is opened. Bypassing or defeating the interlock — even temporarily — removes this safety function entirely and exposes the operator to the unguarded dangerous zone of a running machine. Interlock bypass is one of the most dangerous maintenance short-cuts and is specifically prohibited under machinery safety standards.",
+      "difficulty": "medium",
+      "tags": ["machine guarding", "interlock guard", "bypass"]
+    },
+    {
+      "id": "e9-q7",
+      "text": "Under most H&S frameworks, employers must ensure that work equipment is inspected and maintained by whom?",
+      "options": [
+        { "id": "a", "text": "Only the original equipment manufacturer" },
+        { "id": "b", "text": "The operator, before each use" },
+        { "id": "c", "text": "Competent persons — those with adequate training, knowledge, and experience to identify defects and assess risks" },
+        { "id": "d", "text": "A government inspector from the regulatory authority" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Equipment inspection and maintenance must be carried out by competent persons — individuals with the appropriate training, technical knowledge, and experience to recognise hazards and make sound judgments. This doesn't require a specific qualification in all cases, but the person must understand the equipment, the relevant hazards, and acceptable/defective conditions.",
+      "difficulty": "easy",
+      "tags": ["work equipment", "competence", "inspection"]
+    },
+    {
+      "id": "e9-q8",
+      "text": "A power press operator in a Gulf manufacturing plant wears a full-body harness as their primary protection against the press closing on their hands. What is wrong with this approach?",
+      "options": [
+        { "id": "a", "text": "Nothing — harnesses are always the most reliable form of protection" },
+        { "id": "b", "text": "A harness is irrelevant to hand entrapment by a press — the correct controls are proper guarding (fixed or interlocked guard) and/or two-hand controls, not PPE" },
+        { "id": "c", "text": "Harnesses are only suitable for working at height — they are uncomfortable to wear at a press" },
+        { "id": "d", "text": "The harness must be replaced with cut-resistant gloves" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "PPE must be matched to the specific hazard. A full-body harness protects against falls, not hand entrapment by a press. The correct primary controls for press safety are: fixed or interlocked guards that prevent hand entry while the press cycles, or two-hand controls requiring both hands to be on the controls during the closing stroke. This question tests understanding of PPE limitations and hierarchy of controls.",
+      "difficulty": "medium",
+      "tags": ["PPE", "hierarchy of controls", "machine guarding"]
+    },
+    {
+      "id": "e9-q9",
+      "text": "In the context of LOTO, what is the purpose of a 'group lockout hasp'?",
+      "options": [
+        { "id": "a", "text": "To allow a supervisor to remove locks placed by workers without their permission" },
+        { "id": "b", "text": "To allow multiple workers to each attach their own personal lock to a single isolation point, so no individual can remove the isolation until all team members have completed their work and removed their lock" },
+        { "id": "c", "text": "To secure multiple machines with a single key" },
+        { "id": "d", "text": "To lock out equipment during transport to another location" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "A group lockout hasp is a multi-hole device that allows multiple workers to each apply their own personal lock to a single isolation point. The energy source remains locked out until EVERY worker has removed their lock — ensuring nobody can re-energise the system while another worker is still in the danger zone. This is critical on complex maintenance jobs involving multiple trades.",
+      "difficulty": "medium",
+      "tags": ["LOTO", "group lockout", "isolation"]
+    },
+    {
+      "id": "e9-q10",
+      "text": "Which of the following is NOT a form of hazardous energy that must be controlled under a LOTO procedure?",
+      "options": [
+        { "id": "a", "text": "Pneumatic pressure in air lines" },
+        { "id": "b", "text": "Thermal energy in a heated process vessel" },
+        { "id": "c", "text": "Sound waves from a loudspeaker system in an office" },
+        { "id": "d", "text": "Chemical energy from reactive materials in a pipeline" }
+      ],
+      "correctOptionId": "c",
+      "explanation": "LOTO procedures must control all forms of hazardous energy: electrical, mechanical (kinetic, stored spring), hydraulic, pneumatic, thermal (steam, hot surfaces), chemical, and gravitational. Sound waves from an office speaker system are not a hazardous energy source requiring physical isolation — they pose no mechanical or process safety risk to maintenance personnel.",
+      "difficulty": "medium",
+      "tags": ["LOTO", "hazardous energy", "energy types"]
+    },
+    {
+      "id": "e9-q11",
+      "text": "A tagout-only procedure (tag without a physical lock) is acceptable when:",
+      "options": [
+        { "id": "a", "text": "The job is very short (under 5 minutes)" },
+        { "id": "b", "text": "The equipment cannot be physically locked due to its design, and the employer documents why and implements equivalent protection" },
+        { "id": "c", "text": "The supervisor verbally confirms the machine is isolated" },
+        { "id": "d", "text": "The equipment is older than 10 years and lacks lockable isolation points" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Physical locks are always preferred — a tag alone can be ignored, torn off, or overlooked. Tagout-only is only permissible when the equipment design genuinely cannot accommodate a lock, and only when documented with equivalent additional safeguards (e.g., removing a component to disable the equipment). This is a narrow exception, not a general convenience option.",
+      "difficulty": "hard",
+      "tags": ["LOTO", "tagout", "isolation"]
+    },
+    {
+      "id": "e9-q12",
+      "text": "In a Saudi Aramco facility, the Isolation and Energy Control procedure requires a 'try for zero energy' test. After locking out an electrical panel, the technician presses the START button on the equipment. The machine does not start. What should the technician do NEXT?",
+      "options": [
+        { "id": "a", "text": "Begin work immediately — the machine did not start, so it is safe" },
+        { "id": "b", "text": "Also check for and release residual stored energy (capacitors, compressed air, spring tension, hydraulic pressure) before beginning work" },
+        { "id": "c", "text": "Ask a second person to try starting the machine to confirm" },
+        { "id": "d", "text": "Remove the lock and test the machine under load to confirm it is de-energised" }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Not starting when the START button is pressed confirms the electrical isolation is effective — but it does NOT confirm that all stored energy has been released. Capacitors retain electrical charge; hydraulic systems retain pressure; springs can be loaded; pneumatic systems retain air pressure. Each form of stored energy must be independently identified and safely released before work begins.",
+      "difficulty": "hard",
+      "tags": ["LOTO", "stored energy", "Gulf context", "Aramco"]
+    }
+  ]
+}
